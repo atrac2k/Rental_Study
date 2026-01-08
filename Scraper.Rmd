@@ -1,0 +1,225 @@
+---
+title: "Rent Scraper"
+output: pdf_document
+date: "2025-12-21"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(RSelenium)
+library(XML)
+library(stringr)
+```
+
+Goes to apartments.com. Goes to specified Metro area
+
+```{r}
+prompt <- "Select City to Scrape: \n \n [1] Portland, OR \n [2] Oklahoma City, OK \n [3] Detroit, MI \n [4] Raleigh, NC \n [5] Washington DC"
+city <- as.numeric(readline(prompt))
+if(city == 1){
+  city <- 'Portland, OR'
+  file <- 'PDX'
+}
+if(city == 2){
+  city <- 'Oklahoma City, OK'
+  file <- 'OKC'
+}
+if(city == 3){
+  city <- 'Detroit, MI'
+  file <- 'DTW'
+}
+if(city == 4){
+  city <- 'Raleigh, NC'
+  file <- 'RDU'
+}
+if(city == 5){
+  city <- 'Washington, DC'
+  file <- 'DCA'
+}
+print(paste0('You have selected: ',city ))
+
+## This just loads the spoof firefox browser. This will open a new window which you can watch working.
+rD <- rsDriver(browser="firefox",verbose=F, phantomver = NULL,port = 4444L)
+remDr <- rD[["client"]]
+remDr$navigate("https://www.apartments.com/")
+
+## Click on the search bar to remove the suggested search
+remDr$findElement(using = "id", value = "quickSearchLookup")$clickElement()
+## Enter the Searched Metro
+remDr$findElement(using = "id", value = "quickSearchLookup")$sendKeysToElement(list(city))
+## Hit "Enter" key on the search bar to go to city
+webElem <- remDr$findElement(using = "id", value = "quickSearchLookup")
+webElem$sendKeysToElement(list(key = "enter"))
+```
+
+Make a data frame to keep info. For now going with Address, Date of scrape, rent, and type of apartment
+```{r}
+## Create empty data frame to store data
+rental_data <- data.frame(matrix(nrow=0,ncol=5))
+colnames(rental_data) <- c('Address','Date','Rent','Aprt_Type','Building_Type')
+
+
+## Find total number of pages listed for the loop
+pages <- as.numeric(remDr$findElement(using = "xpath", 
+                                      value = "/html/body/div[1]/main/section/div[1]/section[2]/div[2]/ul/li[42]/nav/ol/li[7]/a")$getElementText())
+
+
+for(p in 1:pages){
+  print(paste0('Reading Page ',p, ' of ', pages))
+  page_listings <- remDr$findElement(using = 'xpath','//*[@id="placardContainer"]/ul')
+  ## Finds the number of listed apartments on the page
+  page_listings <- length(remDr$findElements(using = "css selector", value = "#placardContainer > ul > li"))
+  if(page_listings > 41){
+    page_listings <- 41
+  }
+  ## Runs through all the listings
+  for(a in 1:(page_listings -1)){
+    ## points to the listing container
+    aprt <- remDr$findElement(using = 'xpath',paste0('//*[@id="placardContainer"]/ul/li[',a,']'))
+    ## This if statement just removes ads
+    if(aprt$getElementAttribute("class")=='mortar-wrapper'){
+      ## Collects address, strips the name they add to everything
+      ## there's three different ways they list the address which is annoying, so ping checks which one it is and uses that
+      ping <- remDr$findElements(using = 'xpath', 
+                               paste0('//*[@id="placardContainer"]/ul/li[', a, ']/article/header/div[1]/a'))
+      if (length(ping) > 0) {
+        address <- remDr$findElement(using = 'xpath',paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/header/div[1]/a'))$getElementText()
+        address <- str_split(address,'\n')[[1]][2]
+      }
+      
+      ping <- remDr$findElements(using = 'xpath', 
+                               paste0('//*[@id="placardContainer"]/ul/li[', a, ']/article/section/div/div[2]/div/div[2]/a/p[2]'))  
+      if (length(ping) > 0){
+        address <- remDr$findElement(using = 'xpath',
+                        paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/section/div/div[2]/div/div[2]/a/p[2]'))$getElementText()[[1]]
+      } 
+      
+      ping <- remDr$findElements(using = 'xpath', 
+                               paste0('//*[@id="placardContainer"]/ul/li[', a, ']/article/section/div/div[2]/div/div[3]/a/div/span'))       
+      if (length(ping) > 0){         
+        address <- remDr$findElement(using = 'xpath',
+                        paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/section/div/div[2]/div/div[3]/a/div/span'))$getElementText()[[1]]
+      }
+      
+      
+      
+      ## Apartments.com will list out rent my apartment type in each individual listing. We need to know how many types there are for a loop
+      child_divs <- length(remDr$findElements(using = "xpath", 
+          value = paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/section/div/div[2]/div/div[1]/div/a/div/*[contains(@class, "bedRentBox")]')))
+      if( child_divs > 1){
+        for(i in 1:child_divs){
+          ## Collects the listed rent
+          rent <- remDr$findElement(using='xpath',
+                                      paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/section/div/div[2]/div/div[1]/div/a/div/div[',i,
+                                             ']/div[2]'))$getElementText()
+          ## Cleans off characters and makes it a number, i.e: $1,349+ -> 1349
+          rent <- as.numeric(gsub("\\D", "", rent))
+            
+          ## Collects the apartment type
+          type <- remDr$findElement(using='xpath',
+                                      paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/section/div/div[2]/div/div[1]/div/a/div/div[',i,
+                                             ']/div[1]'))$getElementText()
+          
+
+          ## Finally save the data as a new row of our data frame
+            
+          scrape <- data.frame(c(address,str_replace_all(Sys.Date(), '-','/'),rent,type,'Apartment'))
+          colnames(scrape) <- c('Address','Date','Rent','Aprt_Type','Building_Type')
+          rental_data <- rbind(rental_data,scrape)
+        }}
+        
+        if( child_divs < 2){
+            
+          ## Collects the listed rent
+          rent <- NA
+          ping <- remDr$findElements(using = 'xpath', 
+                      paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/section/div/div[2]/div/div[1]/div/div/div/div/div/div/div[2]/span'))
+          if (length(ping) > 0) {
+            rent <- remDr$findElement(using='xpath',
+            paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/section/div/div[2]/div/div[1]/div/div/div/div/div/div/div[2]/span'))$getElementText()
+            ## Cleans off characters and makes it a number, i.e: $1,349+ -> 1349
+            rent <- as.numeric(gsub("\\D", "", rent)) 
+          } 
+          ping <- remDr$findElements(using = 'xpath', 
+                      paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/section/div/div[2]/div/div[1]/div/a/div/div/div[2]/span'))
+          if (length(ping) > 0) {  
+            rent <- remDr$findElement(using='xpath',
+            paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/section/div/div[2]/div/div[1]/div/a/div/div/div[2]/span'))$getElementText()
+            ## Cleans off characters and makes it a number, i.e: $1,349+ -> 1349
+            rent <- as.numeric(gsub("\\D", "", rent))             
+          } 
+          ping <- remDr$findElements(using = 'xpath', 
+                      paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/section/div/div[2]/div/div[1]/div/div'))
+          if (length(ping) > 0) {
+            test <- remDr$findElement(using='xpath',
+              paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/section/div/div[2]/div/div[1]/div/div'))$getElementText()  
+            if(!grepl('Bed',test))            
+            rent <- remDr$findElement(using='xpath',
+            paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/section/div/div[2]/div/div[1]/div/div'))$getElementText()
+            ## Cleans off characters and makes it a number, i.e: $1,349+ -> 1349
+            rent <- as.numeric(gsub("\\D", "", rent))          
+          } 
+          
+  
+            
+          ping <- remDr$findElements(using = 'xpath', 
+                      paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/section/div/div[2]/div/div[1]/div/div/div/div/div/div/div[1]'))
+          if (length(ping) > 0) {
+          type <- remDr$findElement(using='xpath',
+              paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/section/div/div[2]/div/div[1]/div/div/div/div/div/div/div[1]'))$getElementText()
+          } 
+          ping <- remDr$findElements(using = 'xpath', 
+                      paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/section/div/div[2]/div/div[2]/a/p'))
+          if (length(ping) > 0) {
+          type <- remDr$findElement(using='xpath',
+              paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/section/div/div[2]/div/div[2]/a/p'))$getElementText()     
+          }  
+          ping <- remDr$findElements(using = 'xpath', 
+                      paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/section/div/div[2]/div/div[4]'))
+          if (length(ping) > 0) {
+            test <- remDr$findElement(using='xpath',
+              paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/section/div/div[2]/div/div[4]'))$getElementText()  
+            if(!grepl('Email',test))
+              type <- remDr$findElement(using='xpath',
+                  paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/section/div/div[2]/div/div[4]'))$getElementText()     
+          }         
+            
+          ## Finds Building type. Either listed, (House, Apartment, Room, Condo) or guessed by number of listings
+          ping <- remDr$findElements(using = 'xpath', 
+                                 paste0('//*[@class="property-type-for-rent"]'))  
+          building_type <- NA
+          if (length(ping) > 0){ 
+            building_type <-  remDr$findElement(using = 'xpath',paste0('//*[@class="property-type-for-rent"]'))$getElementText()
+            building_type <- str_split(building_type,' ')[[1]][1]
+          }
+          if(length(ping)== 0 & child_divs > 2){
+             building_type <- 'Apartment'
+          }
+          
+          scrape <- data.frame(c(address,str_replace_all(Sys.Date(), '-','/'),rent,type,building_type))
+          colnames(scrape) <- c('Address','Date','Rent','Aprt_Type','Building_Type')
+          rental_data <- rbind(rental_data,scrape)
+          
+        }
+    }
+  }
+    ## It should have now looked through a whole page of listings, and will now stop for a few seconds and move onto the next page (So I look like normal web traffic).
+  if(p < pages){
+  webElem <- remDr$findElement("css", "body")
+  remDr$findElement(using = 'xpath','//*[@class="next"]')$clickElement()
+  Sys.sleep(15)}
+}
+
+rm(a, address, aprt, building_type, child_divs, i, p, page_listings, pages, rD, remDr, rent, webElem, type, test, scrape, ping)
+```
+
+Save the Data 
+```{r}
+## Take only unique data in case it did an oopsie
+rental_data <- unique(rental_data)
+## Sometimes it accidentally gets the phone number as a rent (there's usually only around 10), so its removed
+rental_data <- rental_data[rental_data$Rent < 100000,]
+## Save it under Year_Month_Metro.csv
+file <- paste0("D:/Rent_Data/",file,"/",substr(str_replace_all(Sys.Date(), '-','_'),1,7),'_',file,'.csv')
+write.csv(rental_data,paste0(file))
+```
