@@ -1,889 +1,889 @@
-"","Address","Date","Rent","Aprt_Type","Building_Type"
-"1","100-300 Riverfront Dr, Detroit, MI 48226","2026/01/01",1196,"1 Bed","Apartment"
-"2","100-300 Riverfront Dr, Detroit, MI 48226","2026/01/01",1587,"2 Beds","Apartment"
-"3","411 Piquette St, Detroit, MI 48202","2026/01/01",1195,"Studio","Apartment"
-"4","411 Piquette St, Detroit, MI 48202","2026/01/01",1395,"1 Bed","Apartment"
-"5","5777 Southfield Fwy, Detroit, MI 48228","2026/01/01",900,"Studio","Apartment"
-"6","5777 Southfield Fwy, Detroit, MI 48228","2026/01/01",1045,"1 Bed","Apartment"
-"7","5777 Southfield Fwy, Detroit, MI 48228","2026/01/01",1375,"2 Beds","Apartment"
-"8","3439 Woodward Ave, Detroit, MI 48201","2026/01/01",1350,"Studio","Apartment"
-"9","3439 Woodward Ave, Detroit, MI 48201","2026/01/01",1225,"1 Bed","Apartment"
-"10","3439 Woodward Ave, Detroit, MI 48201","2026/01/01",2345,"2 Beds","Apartment"
-"11","1600 Antietam Ave, Detroit, MI 48207","2026/01/01",900,"Studio","Apartment"
-"12","1600 Antietam Ave, Detroit, MI 48207","2026/01/01",1025,"1 Bed","Apartment"
-"13","8805 Kingswood St, Detroit, MI 48221","2026/01/01",1035,"1 Bed","Apartment"
-"14","8805 Kingswood St, Detroit, MI 48221","2026/01/01",1095,"2 Beds","Apartment"
-"15","114 W Adams Rd, Detroit, MI 48226","2026/01/01",999,"Studio","Apartment"
-"16","114 W Adams Rd, Detroit, MI 48226","2026/01/01",1350,"1 Bed","Apartment"
-"17","114 W Adams Rd, Detroit, MI 48226","2026/01/01",2000,"2 Beds","Apartment"
-"NA",NA,NA,NA,NA,NA
-"19","2911 W Grand Blvd, Detroit, MI 48202","2026/01/01",1395,"Studio","Apartment"
-"20","2911 W Grand Blvd, Detroit, MI 48202","2026/01/01",1615,"1 Bed","Apartment"
-"21","2911 W Grand Blvd, Detroit, MI 48202","2026/01/01",1860,"2 Beds","Apartment"
-"22","1265 Washington Blvd, Detroit, MI 48226","2026/01/01",1590,"Studio","Apartment"
-"23","1265 Washington Blvd, Detroit, MI 48226","2026/01/01",2135,"1 Bed","Apartment"
-"24","1265 Washington Blvd, Detroit, MI 48226","2026/01/01",3760,"2 Beds","Apartment"
-"25","440 Alfred St, Detroit, MI 48201","2026/01/01",1415,"Studio","Apartment"
-"26","440 Alfred St, Detroit, MI 48201","2026/01/01",1705,"1 Bed","Apartment"
-"27","440 Alfred St, Detroit, MI 48201","2026/01/01",2450,"2 Beds+","Apartment"
-"28","2701 Park Ave, Detroit, MI 48201","2026/01/01",1135,"Studio","Apartment"
-"29","2701 Park Ave, Detroit, MI 48201","2026/01/01",1789,"1 Bed","Apartment"
-"30","21516 Dequindre Rd, Warren, MI 48091","2026/01/01",990,"1 Bed","Apartment"
-"31","21516 Dequindre Rd, Warren, MI 48091","2026/01/01",1290,"2 Beds","Apartment"
-"32","16500 N Park Dr, Southfield, MI 48075","2026/01/01",959,"Studio","Apartment"
-"33","16500 N Park Dr, Southfield, MI 48075","2026/01/01",1399,"1 Bed","Apartment"
-"34","16500 N Park Dr, Southfield, MI 48075","2026/01/01",1639,"2 Beds+","Apartment"
-"35","4900 Heather Dr, Dearborn, MI 48126","2026/01/01",1225,"1 Bed","Apartment"
-"36","4900 Heather Dr, Dearborn, MI 48126","2026/01/01",1725,"2 Beds","Apartment"
-"37","1249 Griswold St, Detroit, MI 48226","2026/01/01",1250,"Studio","Apartment"
-"38","1249 Griswold St, Detroit, MI 48226","2026/01/01",1910,"1 Bed","Apartment"
-"39","1249 Griswold St, Detroit, MI 48226","2026/01/01",2100,"2 Beds","Apartment"
-"40","1212 Griswold St, Detroit, MI 48226","2026/01/01",1360,"Studio","Apartment"
-"41","1212 Griswold St, Detroit, MI 48226","2026/01/01",1920,"1 Bed","Apartment"
-"42","1145 Griswold St, Detroit, MI 48226","2026/01/01",1485,"Studio","Apartment"
-"43","1145 Griswold St, Detroit, MI 48226","2026/01/01",1620,"1 Bed","Apartment"
-"44","1145 Griswold St, Detroit, MI 48226","2026/01/01",2250,"2 Beds","Apartment"
-"45","150 Bagley St, Detroit, MI 48226","2026/01/01",1285,"1 Bed","Apartment"
-"46","150 Bagley St, Detroit, MI 48226","2026/01/01",3175,"2 Beds","Apartment"
-"47","1405 Rivard St, Detroit, MI 48207","2026/01/01",1115,"Studio","Apartment"
-"48","1405 Rivard St, Detroit, MI 48207","2026/01/01",1401,"1 Bed","Apartment"
-"49","1405 Rivard St, Detroit, MI 48207","2026/01/01",1686,"2 Beds","Apartment"
-"50","2420 Bagley Ave, Detroit, MI 48216","2026/01/01",1295,"Studio","Apartment"
-"51","2420 Bagley Ave, Detroit, MI 48216","2026/01/01",1440,"1 Bed","Apartment"
-"52","2420 Bagley Ave, Detroit, MI 48216","2026/01/01",2200,"2 Beds","Apartment"
-"53","450 Amsterdam St, Detroit, MI 48202","2026/01/01",1150,"Studio","Apartment"
-"54","450 Amsterdam St, Detroit, MI 48202","2026/01/01",1535,"1 Bed","Apartment"
-"55","450 Amsterdam St, Detroit, MI 48202","2026/01/01",1818,"2 Beds","Apartment"
-"56","3740 2nd Ave, Detroit, MI 48201","2026/01/01",1290,"Studio","Apartment"
-"57","3740 2nd Ave, Detroit, MI 48201","2026/01/01",1515,"1 Bed","Apartment"
-"58","240 Mack Ave, Detroit, MI 48201","2026/01/01",1100,"1 Bed",NA
-"59","1431 Washington Blvd, Detroit, MI 48226","2026/01/01",1275,"1 Bed","Apartment"
-"60","1431 Washington Blvd, Detroit, MI 48226","2026/01/01",1670,"2 Beds","Apartment"
-"61","555-575 Brush Ave, Detroit, MI 48226","2026/01/01",1330,"1 Bed","Apartment"
-"62","555-575 Brush Ave, Detroit, MI 48226","2026/01/01",1880,"2 Beds","Apartment"
-"63","1544 E Lafayette St, Detroit, MI 48207","2026/01/01",1450,"Studio","Apartment"
-"64","1544 E Lafayette St, Detroit, MI 48207","2026/01/01",1685,"1 Bed","Apartment"
-"65","1544 E Lafayette St, Detroit, MI 48207","2026/01/01",1795,"2 Beds","Apartment"
-"66","229 Orleans St, Detroit, MI 48207","2026/01/01",1325,"1 Bed","Apartment"
-"67","229 Orleans St, Detroit, MI 48207","2026/01/01",2225,"2 Beds","Apartment"
-"68","40 Davenport St, Detroit, MI 48201","2026/01/01",1000,"Studio","Apartment"
-"69","40 Davenport St, Detroit, MI 48201","2026/01/01",1300,"1 Bed","Apartment"
-"70","40 Davenport St, Detroit, MI 48201","2026/01/01",2000,"2 Beds","Apartment"
-"71","9000 E Jefferson Ave, Detroit, MI 48214","2026/01/01",948,"1 Bed","Apartment"
-"72","9000 E Jefferson Ave, Detroit, MI 48214","2026/01/01",1278,"2 Beds","Apartment"
-"73","9000 E Jefferson Ave, Detroit, MI 48214","2026/01/01",2725,"3 Beds+","Apartment"
-"74","1214-1230 Griswold St, Detroit, MI 48226","2026/01/01",1500,"3 Beds+",NA
-"75","76 W Adams Ave, Detroit, MI 48226","2026/01/01",1807,"1 Bed","Apartment"
-"76","76 W Adams Ave, Detroit, MI 48226","2026/01/01",2018,"2 Beds","Apartment"
-"77","1 Lafayette Plaisance St, Detroit, MI 48207","2026/01/01",1073,"Studio","Apartment"
-"78","1 Lafayette Plaisance St, Detroit, MI 48207","2026/01/01",1367,"1 Bed","Apartment"
-"79","1 Lafayette Plaisance St, Detroit, MI 48207","2026/01/01",1700,"2 Beds","Apartment"
-"80","500 River Place Dr, Detroit, MI 48207","2026/01/01",1200,"1 Bed","Apartment"
-"81","500 River Place Dr, Detroit, MI 48207","2026/01/01",1600,"2 Beds","Apartment"
-"82","500 River Place Dr, Detroit, MI 48207","2026/01/01",2100,"3 Beds","Apartment"
-"83","600 Woodward Ave, Detroit, MI 48226","2026/01/01",5000,"1 Bed","Apartment"
-"84","600 Woodward Ave, Detroit, MI 48226","2026/01/01",5400,"2 Beds","Apartment"
-"85","1117 Griswold St, Detroit, MI 48226","2026/01/01",1875,"1 Bed","Apartment"
-"86","1117 Griswold St, Detroit, MI 48226","2026/01/01",2375,"2 Beds","Apartment"
-"87","1511 1st St, Detroit, MI 48226","2026/01/01",800,"Studio","Apartment"
-"88","1511 1st St, Detroit, MI 48226","2026/01/01",1130,"1 Bed","Apartment"
-"89","313 Park Ave, Detroit, MI 48226","2026/01/01",1560,"1 Bed","Apartment"
-"90","313 Park Ave, Detroit, MI 48226","2026/01/01",2195,"2 Beds","Apartment"
-"91","4830 Cass Ave, Detroit, MI 48201","2026/01/01",1450,"Studio","Apartment"
-"92","4830 Cass Ave, Detroit, MI 48201","2026/01/01",1075,"1 Bed","Apartment"
-"93","4830 Cass Ave, Detroit, MI 48201","2026/01/01",2050,"2 Beds+","Apartment"
-"112","20875 Lahser Rd, Southfield, MI 48033","2026/01/01",975,"1 Bed","Apartment"
-"113","20875 Lahser Rd, Southfield, MI 48033","2026/01/01",1099,"2 Beds","Apartment"
-"114","15101 Ford Rd, Dearborn, MI 48126","2026/01/01",1500,"1 Bed","Apartment"
-"115","15101 Ford Rd, Dearborn, MI 48126","2026/01/01",2600,"2 Beds","Apartment"
-"116","4434-4444 Trumbull St, Detroit, MI 48208","2026/01/01",1695,"2 Beds","Apartment"
-"117","4434-4444 Trumbull St, Detroit, MI 48208","2026/01/01",2150,"3 Beds","Apartment"
-"118","7430 2nd Ave, Detroit, MI 48202","2026/01/01",1535,"Studio","Apartment"
-"119","7430 2nd Ave, Detroit, MI 48202","2026/01/01",1560,"1 Bed","Apartment"
-"120","7430 2nd Ave, Detroit, MI 48202","2026/01/01",2000,"2 Beds","Apartment"
-"121","7702 E Jefferson Ave, Detroit, MI 48214","2026/01/01",999,"Studio","Apartment"
-"122","7702 E Jefferson Ave, Detroit, MI 48214","2026/01/01",1250,"1 Bed","Apartment"
-"123","7702 E Jefferson Ave, Detroit, MI 48214","2026/01/01",1500,"2 Beds","Apartment"
-"124","1001 E Jefferson Ave, Detroit, MI 48207","2026/01/01",895,"Studio","Apartment"
-"125","1001 E Jefferson Ave, Detroit, MI 48207","2026/01/01",1260,"1 Bed","Apartment"
-"126","1001 E Jefferson Ave, Detroit, MI 48207","2026/01/01",1865,"2 Beds","Apartment"
-"127","25 E Palmer St, Detroit, MI 48202","2026/01/01",899,"Studio","Apartment"
-"128","25 E Palmer St, Detroit, MI 48202","2026/01/01",999,"1 Bed","Apartment"
-"129","484 Brainard St, Detroit, MI 48201","2026/01/01",895,"1 Bed",NA
-"130","1130 Holcomb St, Detroit, MI 48214","2026/01/01",730,"Studio","Apartment"
-"131","1130 Holcomb St, Detroit, MI 48214","2026/01/01",825,"1 Bed","Apartment"
-"132","1130 Holcomb St, Detroit, MI 48214","2026/01/01",995,"2 Beds","Apartment"
-"133","111 Cadillac Sq, Detroit, MI 48226","2026/01/01",795,"Studio","Apartment"
-"134","111 Cadillac Sq, Detroit, MI 48226","2026/01/01",935,"1 Bed","Apartment"
-"135","5965-6139 Evergreen Rd, Dearborn Heights, MI 48127","2026/01/01",1095,"1 Bed","Apartment"
-"136","5965-6139 Evergreen Rd, Dearborn Heights, MI 48127","2026/01/01",1250,"2 Beds","Apartment"
-"137","7100 Freda St, Dearborn, MI 48126","2026/01/01",745,"Studio","Apartment"
-"138","7100 Freda St, Dearborn, MI 48126","2026/01/01",745,"1 Bed","Apartment"
-"139","4707 Anthony Wayne Dr, Detroit, MI 48201","2026/01/01",1350,"1 Bed","Apartment"
-"140","4707 Anthony Wayne Dr, Detroit, MI 48201","2026/01/01",1470,"2 Beds","Apartment"
-"141","1150 Griswold St, Detroit, MI 48226","2026/01/01",1400,"Studio","Apartment"
-"142","1150 Griswold St, Detroit, MI 48226","2026/01/01",1760,"1 Bed","Apartment"
-"143","1150 Griswold St, Detroit, MI 48226","2026/01/01",2885,"2 Beds+","Apartment"
-"144","13010 Avondale St, Detroit, MI 48215","2026/01/01",1300,"1 Bed","Apartment"
-"145","13010 Avondale St, Detroit, MI 48215","2026/01/01",1500,"2 Beds","Apartment"
-"146","631 Orleans St, Detroit, MI 48207","2026/01/01",1125,"1 Bed","Apartment"
-"147","631 Orleans St, Detroit, MI 48207","2026/01/01",1450,"2 Beds","Apartment"
-"148","1387 E Larned St, Detroit, MI 48207","2026/01/01",1100,"Studio","Apartment"
-"149","1387 E Larned St, Detroit, MI 48207","2026/01/01",1250,"1 Bed","Apartment"
-"150","1387 E Larned St, Detroit, MI 48207","2026/01/01",1500,"2 Beds","Apartment"
-"151","1620 Michigan Ave, Detroit, MI 48216","2026/01/01",1160,"2 Beds",NA
-"152","3101-3111 Woodward Ave, Detroit, MI 48201","2026/01/01",1075,"1 Bed","Apartment"
-"153","3101-3111 Woodward Ave, Detroit, MI 48201","2026/01/01",1645,"2 Beds","Apartment"
-"154","1526 Centre St, Detroit, MI 48226","2026/01/01",1200,"2 Beds",NA
-"155","4240 Cass Ave, Detroit, MI 48201","2026/01/01",1350,"Studio","Apartment"
-"156","4240 Cass Ave, Detroit, MI 48201","2026/01/01",1450,"1 Bed","Apartment"
-"157","12635 Memorial St, Detroit, MI 48227","2026/01/01",995,"1 Bed","Apartment"
-"158","12635 Memorial St, Detroit, MI 48227","2026/01/01",1300,"2 Beds","Apartment"
-"159","4501 Woodward Ave, Detroit, MI 48201","2026/01/01",1685,"1 Bed","Apartment"
-"160","4501 Woodward Ave, Detroit, MI 48201","2026/01/01",1950,"2 Beds","Apartment"
-"161","5203 Chrysler Dr, Detroit, MI 48202","2026/01/01",1025,"1 Bed","Apartment"
-"162","5203 Chrysler Dr, Detroit, MI 48202","2026/01/01",1650,"3 Beds","Apartment"
-"163","415 Clifford St, Detroit, MI 48226","2026/01/01",1099,"Studio","Apartment"
-"164","415 Clifford St, Detroit, MI 48226","2026/01/01",1499,"1 Bed","Apartment"
-"165","415 Clifford St, Detroit, MI 48226","2026/01/01",1899,"2 Beds","Apartment"
-"166","1800 W Bethune St, Detroit, MI 48206","2026/01/01",1050,"1 Bed","Apartment"
-"167","1800 W Bethune St, Detroit, MI 48206","2026/01/01",1500,"2 Beds","Apartment"
-"168","2310 Cochrane St, Detroit, MI 48216","2026/01/01",1050,"Studio","Apartment"
-"169","2310 Cochrane St, Detroit, MI 48216","2026/01/01",1440,"1 Bed","Apartment"
-"170","750 Chene St, Detroit, MI 48207","2026/01/01",1045,"1 Bed",NA
-"171","1935 Chene Ct, Detroit, MI 48207","2026/01/01",800,"Studio","Apartment"
-"172","1935 Chene Ct, Detroit, MI 48207","2026/01/01",999,"1 Bed","Apartment"
-"173","1301 Orleans St, Detroit, MI 48207","2026/01/01",824,"Studio","Apartment"
-"174","1301 Orleans St, Detroit, MI 48207","2026/01/01",1092,"1 Bed","Apartment"
-"175","1301 Orleans St, Detroit, MI 48207","2026/01/01",1440,"2 Beds+","Apartment"
-"176","640 W Willis St, Detroit, MI 48201","2026/01/01",1000,"1 Bed","Apartment"
-"177","640 W Willis St, Detroit, MI 48201","2026/01/01",1200,"2 Beds","Apartment"
-"178","71 Garfield St, Detroit, MI 48201","2026/01/01",800,"Studio","Apartment"
-"179","71 Garfield St, Detroit, MI 48201","2026/01/01",1048,"1 Bed","Apartment"
-"180","71 Garfield St, Detroit, MI 48201","2026/01/01",1399,"2 Beds+","Apartment"
-"181","885 Covington Dr, Detroit, MI 48203","2026/01/01",885,"Studio","Apartment"
-"182","885 Covington Dr, Detroit, MI 48203","2026/01/01",900,"1 Bed","Apartment"
-"183","885 Covington Dr, Detroit, MI 48203","2026/01/01",1150,"2 Beds","Apartment"
-"184","320 E Grand Blvd, Detroit, MI 48207","2026/01/01",645,"Studio","Apartment"
-"185","320 E Grand Blvd, Detroit, MI 48207","2026/01/01",875,"1 Bed","Apartment"
-"186","320 E Grand Blvd, Detroit, MI 48207","2026/01/01",1095,"2 Beds","Apartment"
-"187","80 E Hancock St, Detroit, MI 48201","2026/01/01",720,"2 Beds",NA
-"188","780 Town Center Dr, Dearborn, MI 48126","2026/01/01",1250,"Studio","Apartment"
-"189","780 Town Center Dr, Dearborn, MI 48126","2026/01/01",1300,"1 Bed","Apartment"
-"190","780 Town Center Dr, Dearborn, MI 48126","2026/01/01",900,"2 Beds+","Apartment"
-"191","25010 W 8 Mile Rd, Southfield, MI 48033","2026/01/01",1000,"1 Bed","Apartment"
-"192","25010 W 8 Mile Rd, Southfield, MI 48033","2026/01/01",1365,"2 Beds","Apartment"
-"193","92 E Forest Ave, Detroit, MI 48201","2026/01/01",1100,"Studio","Apartment"
-"194","92 E Forest Ave, Detroit, MI 48201","2026/01/01",1600,"1 Bed","Apartment"
-"195","664 W Alexandrine St, Detroit, MI 48201","2026/01/01",1099,"Studio","Apartment"
-"196","664 W Alexandrine St, Detroit, MI 48201","2026/01/01",1415,"1 Bed","Apartment"
-"197","664 W Alexandrine St, Detroit, MI 48201","2026/01/01",1825,"2 Beds","Apartment"
-"198","36 Mount Vernon St, Detroit, MI 48202","2026/01/01",2100,"2 Beds",NA
-"NA.1",NA,NA,NA,NA,NA
-"200","624 Charlotte St, Detroit, MI 48201","2026/01/01",1000,"Studio","Apartment"
-"201","624 Charlotte St, Detroit, MI 48201","2026/01/01",1115,"1 Bed","Apartment"
-"202","2135 Hubbard St, Detroit, MI 48209","2026/01/01",975,"1 Bed",NA
-"203","1533 Ash St, Detroit, MI 48208","2026/01/01",1175,"1 Bed","Apartment"
-"204","1533 Ash St, Detroit, MI 48208","2026/01/01",1250,"2 Beds","Apartment"
-"205","12901-12935 Burt Rd, Detroit, MI 48223","2026/01/01",750,"2 Beds",NA
-"NA.2",NA,NA,NA,NA,NA
-"207","10201 Woodward Ave, Detroit, MI 48202","2026/01/01",607,"2 Beds",NA
-"208","7850 East Jefferson Ave, Detroit, MI 48214","2026/01/01",426,"Studio","Apartment"
-"209","7850 East Jefferson Ave, Detroit, MI 48214","2026/01/01",444,"1 Bed","Apartment"
-"210","7850 East Jefferson Ave, Detroit, MI 48214","2026/01/01",527,"2 Beds","Apartment"
-"211","1491 W 9 Mile Rd, Ferndale, MI 48220","2026/01/01",1450,"2 Beds",NA
-"212","22490 Saratoga St, Southfield, MI 48075","2026/01/01",1819,"2 Beds","Apartment"
-"213","22490 Saratoga St, Southfield, MI 48075","2026/01/01",1994,"3 Beds","Apartment"
-"214","22490 Saratoga St, Southfield, MI 48075","2026/01/01",2399,"4 Beds","Apartment"
-"215","8775 W 9 Mile Rd, Oak Park, MI 48237","2026/01/01",1100,"Studio","Apartment"
-"216","8775 W 9 Mile Rd, Oak Park, MI 48237","2026/01/01",1225,"1 Bed","Apartment"
-"217","800-820 Montie Rd, Lincoln Park, MI 48146","2026/01/01",950,"1 Bed","Apartment"
-"218","800-820 Montie Rd, Lincoln Park, MI 48146","2026/01/01",1050,"2 Beds","Apartment"
-"219","21314-21440 Macarthur Blvd, Warren, MI 48089","2026/01/01",945,"1 Bed","Apartment"
-"220","21314-21440 Macarthur Blvd, Warren, MI 48089","2026/01/01",1045,"2 Beds","Apartment"
-"221","14350 2nd Ave, Highland Park, MI 48203","2026/01/01",410,"1 Bed","Apartment"
-"222","14350 2nd Ave, Highland Park, MI 48203","2026/01/01",457,"2 Beds","Apartment"
-"223","14350 2nd Ave, Highland Park, MI 48203","2026/01/01",525,"3 Beds","Apartment"
-"224","17765 Manderson Rd, Detroit, MI 48203","2026/01/01",1095,"1 Bed","Apartment"
-"225","17765 Manderson Rd, Detroit, MI 48203","2026/01/01",1195,"2 Beds","Apartment"
-"226","1514 Washington Blvd, Detroit, MI 48226","2026/01/01",1400,"2 Beds",NA
-"227","81 Peterboro St, Detroit, MI 48201","2026/01/01",1250,"2 Beds",NA
-"228","1422 Michigan Ave, Detroit, MI 48216","2026/01/01",2049,"2 Beds",NA
-"229","35 W Grand River Ave, Detroit, MI 48226","2026/01/01",2240,"2 Beds",NA
-"230","8845 E Jefferson Ave, Detroit, MI 48214","2026/01/01",1100,"Studio","Apartment"
-"231","8845 E Jefferson Ave, Detroit, MI 48214","2026/01/01",1450,"2 Beds","Apartment"
-"232","457 E Kirby St, Detroit, MI 48202","2026/01/01",1300,"1 Bed","Apartment"
-"233","457 E Kirby St, Detroit, MI 48202","2026/01/01",1700,"2 Beds","Apartment"
-"234","1019-1065 Covington Dr, Detroit, MI 48203","2026/01/01",1295,"2 Beds",NA
-"235","825 Iroquois St, Detroit, MI 48214","2026/01/01",1075,"1 Bed","Apartment"
-"236","825 Iroquois St, Detroit, MI 48214","2026/01/01",1275,"2 Beds","Apartment"
-"237","1448 Woodward Ave, Detroit, MI 48226","2026/01/01",1770,"Studio","Apartment"
-"238","1448 Woodward Ave, Detroit, MI 48226","2026/01/01",1910,"1 Bed","Apartment"
-"239","677 Selden St, Detroit, MI 48201","2026/01/01",1400,"1 Bed",NA
-"240","651 W Hancock St, Detroit, MI 48201","2026/01/01",899,"Studio","Apartment"
-"241","651 W Hancock St, Detroit, MI 48201","2026/01/01",1100,"1 Bed","Apartment"
-"242","1700 W Fort St, Detroit, MI 48216","2026/01/01",1610,"1 Bed","Apartment"
-"243","1700 W Fort St, Detroit, MI 48216","2026/01/01",2310,"2 Beds","Apartment"
-"244","1700 W Fort St, Detroit, MI 48216","2026/01/01",2790,"3 Beds","Apartment"
-"245","66 Adelaide St, Detroit, MI 48201","2026/01/01",1050,"Studio","Apartment"
-"246","66 Adelaide St, Detroit, MI 48201","2026/01/01",1200,"1 Bed","Apartment"
-"247","66 Adelaide St, Detroit, MI 48201","2026/01/01",1900,"2 Beds","Apartment"
-"248","2021 Blaine St, Detroit, MI 48206","2026/01/01",1050,"1 Bed","Apartment"
-"249","2021 Blaine St, Detroit, MI 48206","2026/01/01",1250,"2 Beds","Apartment"
-"250","888 Pallister, Detroit, MI 48202","2026/01/01",950,"1 Bed","Apartment"
-"251","888 Pallister, Detroit, MI 48202","2026/01/01",1100,"2 Beds","Apartment"
-"252","1462 Van Dyke St, Detroit, MI 48214","2026/01/01",1420,"1 Bed","Apartment"
-"253","1462 Van Dyke St, Detroit, MI 48214","2026/01/01",2375,"2 Beds","Apartment"
-"254","1531 E Larned St, Detroit, MI 48207","2026/01/01",1200,"2 Beds",NA
-"NA.3",NA,NA,NA,NA,NA
-"256","3075 W Grand Blvd, Detroit, MI 48202","2026/01/01",1000,"Studio","Apartment"
-"257","3075 W Grand Blvd, Detroit, MI 48202","2026/01/01",1500,"1 Bed","Apartment"
-"258","3075 W Grand Blvd, Detroit, MI 48202","2026/01/01",1700,"2 Beds","Apartment"
-"259","479 W Willis St, Detroit, MI 48201","2026/01/01",849,"Studio","Apartment"
-"260","479 W Willis St, Detroit, MI 48201","2026/01/01",1149,"1 Bed","Apartment"
-"261","479 W Willis St, Detroit, MI 48201","2026/01/01",1399,"2 Beds","Apartment"
-"262","10 W Adams Ave, Detroit, MI 48226","2026/01/01",895,"Studio","Apartment"
-"263","10 W Adams Ave, Detroit, MI 48226","2026/01/01",1095,"1 Bed","Apartment"
-"264","10 W Adams Ave, Detroit, MI 48226","2026/01/01",1595,"2 Beds","Apartment"
-"265","930 E Lafayette St, Detroit, MI 48207","2026/01/01",1125,"1 Bed","Apartment"
-"266","930 E Lafayette St, Detroit, MI 48207","2026/01/01",1255,"2 Beds","Apartment"
-"267","641 Brainard St, Detroit, MI 48201","2026/01/01",991,"2 Beds","Apartment"
-"268","641 Brainard St, Detroit, MI 48201","2026/01/01",1401,"3 Beds","Apartment"
-"269","1775 Van Dyke St, Detroit, MI 48214","2026/01/01",1066,"3 Beds",NA
-"270","15111 Greenfield Rd, Detroit, MI 48227","2026/01/01",850,"3 Beds",NA
-"271","1440 Robert Bradby Dr, Detroit, MI 48207","2026/01/01",1271,"2 Beds","Apartment"
-"272","1440 Robert Bradby Dr, Detroit, MI 48207","2026/01/01",1471,"3 Beds","Apartment"
-"273","100 Glynn Ct, Detroit, MI 48202","2026/01/01",725,"3 Beds",NA
-"274","1516 Vinewood St, Detroit, MI 48216","2026/01/01",845,"1 Bed","Apartment"
-"275","1516 Vinewood St, Detroit, MI 48216","2026/01/01",1245,"2 Beds","Apartment"
-"276","1331 Holden St, Detroit, MI 48202","2026/01/01",1250,"1 Bed","Apartment"
-"277","1331 Holden St, Detroit, MI 48202","2026/01/01",2000,"2 Beds","Apartment"
-"278","15097-15101 Greenfield Rd, Detroit, MI 48227","2026/01/01",740,"2 Beds",NA
-"279","20479 Fleming St, Detroit, MI 48234","2026/01/01",945,"1 Bed","Apartment"
-"280","20479 Fleming St, Detroit, MI 48234","2026/01/01",1045,"2 Beds","Apartment"
-"281","2170 E Jefferson Ave, Detroit, MI 48207","2026/01/01",800,"Studio","Apartment"
-"282","2170 E Jefferson Ave, Detroit, MI 48207","2026/01/01",900,"1 Bed","Apartment"
-"283","2170 E Jefferson Ave, Detroit, MI 48207","2026/01/01",1075,"2 Beds","Apartment"
-"284","3001 14th St, Detroit, MI 48216","2026/01/01",1014,"1 Bed","Apartment"
-"285","3001 14th St, Detroit, MI 48216","2026/01/01",1209,"2 Beds","Apartment"
-"286","3001 14th St, Detroit, MI 48216","2026/01/01",1391,"3 Beds","Apartment"
-"287","329-381 Holbrook St, Detroit, MI 48202","2026/01/01",630,"Studio","Apartment"
-"288","329-381 Holbrook St, Detroit, MI 48202","2026/01/01",755,"1 Bed","Apartment"
-"289","22045-22065 W 8 Mile Rd, Detroit, MI 48219","2026/01/01",775,"1 Bed","Apartment"
-"290","22045-22065 W 8 Mile Rd, Detroit, MI 48219","2026/01/01",875,"2 Beds","Apartment"
-"291","120 Glynn Ct, Detroit, MI 48202","2026/01/01",595,"Studio","Apartment"
-"292","120 Glynn Ct, Detroit, MI 48202","2026/01/01",845,"1 Bed","Apartment"
-"293","120 Glynn Ct, Detroit, MI 48202","2026/01/01",995,"2 Beds+","Apartment"
-"294","709 Hazelwood St, Detroit, MI 48202","2026/01/01",600,"Studio","Apartment"
-"295","709 Hazelwood St, Detroit, MI 48202","2026/01/01",895,"1 Bed","Apartment"
-"296","80 Seward St, Detroit, MI 48202","2026/01/01",615,"Studio","Apartment"
-"297","80 Seward St, Detroit, MI 48202","2026/01/01",615,"1 Bed","Apartment"
-"298","2023 Tuxedo St, Detroit, MI 48206","2026/01/01",595,"1 Bed",NA
-"299","655 Hazelwood St, Detroit, MI 48202","2026/01/01",771,"1 Bed","Apartment"
-"300","655 Hazelwood St, Detroit, MI 48202","2026/01/01",829,"2 Beds","Apartment"
-"301","12870 W Outer Dr, Detroit, MI 48223","2026/01/01",655,"Studio","Apartment"
-"302","12870 W Outer Dr, Detroit, MI 48223","2026/01/01",800,"1 Bed","Apartment"
-"303","12870 W Outer Dr, Detroit, MI 48223","2026/01/01",900,"2 Beds","Apartment"
-"304","640 Delaware St, Detroit, MI 48202","2026/01/01",585,"2 Beds",NA
-"305","22325 W 8 Mile Rd, Detroit, MI 48219","2026/01/01",599,"Studio","Apartment"
-"306","22325 W 8 Mile Rd, Detroit, MI 48219","2026/01/01",740,"1 Bed","Apartment"
-"307","22325 W 8 Mile Rd, Detroit, MI 48219","2026/01/01",840,"2 Beds","Apartment"
-"308","19311 Votrobeck Dr, Detroit, MI 48219","2026/01/01",861,"2 Beds","Apartment"
-"309","19311 Votrobeck Dr, Detroit, MI 48219","2026/01/01",973,"3 Beds","Apartment"
-"310","5043 E Outer Dr, Detroit, MI 48234","2026/01/01",600,"1 Bed","Apartment"
-"311","5043 E Outer Dr, Detroit, MI 48234","2026/01/01",700,"2 Beds","Apartment"
-"312","1001 Leland St, Detroit, MI 48207","2026/01/01",445,"1 Bed","Apartment"
-"313","1001 Leland St, Detroit, MI 48207","2026/01/01",1100,"2 Beds","Apartment"
-"314","901 Saint Louis St, Ferndale, MI 48220","2026/01/01",1325,"2 Beds",NA
-"315","22111 Woodward Ave, Ferndale, MI 48220","2026/01/01",1899,"Studio","Apartment"
-"316","22111 Woodward Ave, Ferndale, MI 48220","2026/01/01",1999,"1 Bed","Apartment"
-"317","22111 Woodward Ave, Ferndale, MI 48220","2026/01/01",2599,"2 Beds","Apartment"
-"318","1270 Electric Ave, Lincoln Park, MI 48146","2026/01/01",1090,"2 Beds",NA
-"319","21629 Stratford Ct, Oak Park, MI 48237","2026/01/01",1250,"2 Beds","Apartment"
-"320","21629 Stratford Ct, Oak Park, MI 48237","2026/01/01",1649,"3 Beds","Apartment"
-"321","20600 Balfour Rd, Harper Woods, MI 48225","2026/01/01",1134,"1 Bed","Apartment"
-"322","20600 Balfour Rd, Harper Woods, MI 48225","2026/01/01",1446,"2 Beds","Apartment"
-"323","9731 Joseph Campau St, Hamtramck, MI 48212","2026/01/01",875,"2 Beds",NA
-"324","16300-16400 N Park Dr, Southfield, MI 48075","2026/01/01",1499,"2 Beds","Apartment"
-"325","16300-16400 N Park Dr, Southfield, MI 48075","2026/01/01",1679,"3 Beds","Apartment"
-"326","22316 La Seine St, Southfield, MI 48075","2026/01/01",1184,"1 Bed","Apartment"
-"327","22316 La Seine St, Southfield, MI 48075","2026/01/01",1349,"2 Beds","Apartment"
-"328","22316 La Seine St, Southfield, MI 48075","2026/01/01",2129,"3 Beds","Apartment"
-"329","1369 Fort St, Lincoln Park, MI 48146","2026/01/01",806,"Studio","Apartment"
-"330","1369 Fort St, Lincoln Park, MI 48146","2026/01/01",914,"1 Bed","Apartment"
-"331","1369 Fort St, Lincoln Park, MI 48146","2026/01/01",1050,"2 Beds","Apartment"
-"NA.4",NA,NA,NA,NA,NA
-"333","25588 Shiawassee Rd, Southfield, MI 48033","2026/01/01",1088,"1 Bed","Apartment"
-"334","25588 Shiawassee Rd, Southfield, MI 48033","2026/01/01",1244,"2 Beds","Apartment"
-"335","20800 Wyoming St, Ferndale, MI 48220","2026/01/01",850,"1 Bed","Apartment"
-"336","20800 Wyoming St, Ferndale, MI 48220","2026/01/01",900,"2 Beds","Apartment"
-"337","15421 James St, Oak Park, MI 48237","2026/01/01",925,"1 Bed","Apartment"
-"338","15421 James St, Oak Park, MI 48237","2026/01/01",1110,"2 Beds","Apartment"
-"339","743 Beaubien St Unit 303, Detroit, MI 48226","2026/01/01",1545,"1 Bed, 1 Bath, 1,100 sq ft","Apartment"
-"341","7377 Melrose St, Detroit, MI 48211","2026/01/01",2199,"3 Beds, 2 Baths, 1,600 sq ft","Apartment"
-"342","15829 Evanston St Unit 2, Detroit, MI 48224","2026/01/01",1100,"2 Beds, 1 Bath, 1,000 sq ft","Apartment"
-"343","260 Town Center Dr, Dearborn, MI 48126","2026/01/01",1499,"2 Beds, 1 Bath, 1,000 sq ft","Apartment"
-"344","100-300 Riverfront Dr, Detroit, MI 48226","2026/01/01",1362,"Unit 2025C at Riverfront Towers","Apartment"
-"345","2699 Guoin St, Detroit, MI 48207","2026/01/01",3150,"Guoin Street Lofts","Apartment"
-"346","741 Seward St, Detroit, MI 48202","2026/01/01",1095,"Studio","Apartment"
-"347","741 Seward St, Detroit, MI 48202","2026/01/01",1195,"1 Bed","Apartment"
-"348","675 W Willis St, Detroit, MI 48201","2026/01/01",1395,"The Willis","Apartment"
-"349","51 W Palmer, Detroit, MI 48202","2026/01/01",995,"Studio","Apartment"
-"350","51 W Palmer, Detroit, MI 48202","2026/01/01",1395,"1 Bed","Apartment"
-"351","4052 W Vernor Hwy, Detroit, MI 48209","2026/01/01",1172,"1 Bed","Apartment"
-"352","4052 W Vernor Hwy, Detroit, MI 48209","2026/01/01",1495,"2 Beds","Apartment"
-"353","8805 Kingswood St, Detroit, MI 48221","2026/01/01",1430,"Unit 11110 at Sherwood Heights","Apartment"
-"354","18027 Hoover St, Detroit, MI 48205","2026/01/01",879,"Hoover Street Apartments","Apartment"
-"355","4004-4030 Porter St, Detroit, MI 48209","2026/01/01",1495,"1 Bed","Apartment"
-"356","4004-4030 Porter St, Detroit, MI 48209","2026/01/01",2800,"3 Beds","Apartment"
-"NA.5",NA,NA,NA,NA,NA
-"358","2072 Wabash St, Detroit, MI 48216","2026/01/01",1125,"Wabash Flats","Apartment"
-"359","16895 Lahser Rd, Detroit, MI 48219","2026/01/01",950,"Tuskegee Air Apartments","Apartment"
-"360","22330 W Warren Ave, Detroit, MI 48239","2026/01/01",975,"Redford Square Apartments","Apartment"
-"361","1160 Seward St, Detroit, MI 48202","2026/01/01",950,"Bedford Apartments","Apartment"
-"362","321 W Lafayette Blvd, Detroit, MI 48226","2026/01/01",995,"Studio","Apartment"
-"363","321 W Lafayette Blvd, Detroit, MI 48226","2026/01/01",1610,"1 Bed","Apartment"
-"364","321 W Lafayette Blvd, Detroit, MI 48226","2026/01/01",2500,"2 Beds+","Apartment"
-"NA.6",NA,NA,NA,NA,NA
-"366","17161 Denver St, Detroit, MI 48224","2026/01/01",900,"17161 Denver St","Apartment"
-"367","3901 Grand River Ave, Detroit, MI 48208","2026/01/01",941,"1 Bed","Apartment"
-"368","3901 Grand River Ave, Detroit, MI 48208","2026/01/01",1057,"2 Beds","Apartment"
-"369","19143 Berg Rd, Detroit, MI 48219","2026/01/01",899,"1 Bed","Apartment"
-"370","19143 Berg Rd, Detroit, MI 48219","2026/01/01",1199,"2 Beds","Apartment"
-"371","40 Hague St, Detroit, MI 48202","2026/01/01",1050,"Studio","Apartment"
-"372","40 Hague St, Detroit, MI 48202","2026/01/01",1500,"1 Bed","Apartment"
-"373","40 Hague St, Detroit, MI 48202","2026/01/01",1875,"2 Beds","Apartment"
-"374","4401-4417 2nd Ave, Detroit, MI 48201","2026/01/01",990,"Studio","Apartment"
-"375","4401-4417 2nd Ave, Detroit, MI 48201","2026/01/01",1100,"1 Bed","Apartment"
-"376","2199 Prince Hall Dr, Detroit, MI 48207","2026/01/01",1115,"Prince Hall","Apartment"
-"377","5721 Saint Antoine St, Detroit, MI 48202","2026/01/01",1527,"2 Beds","Apartment"
-"378","5721 Saint Antoine St, Detroit, MI 48202","2026/01/01",1632,"3 Beds","Apartment"
-"379","1401 Chene St, Detroit, MI 48207","2026/01/01",919,"Studio","Apartment"
-"380","1401 Chene St, Detroit, MI 48207","2026/01/01",1029,"1 Bed","Apartment"
-"381","225 Covington Dr, Detroit, MI 48203","2026/01/01",1016,"1 Bed","Apartment"
-"382","225 Covington Dr, Detroit, MI 48203","2026/01/01",1073,"2 Beds","Apartment"
-"383","225 Covington Dr, Detroit, MI 48203","2026/01/01",1095,"3 Beds","Apartment"
-"384","828 W Willis St, Detroit, MI 48201","2026/01/01",950,"The Rochelle aka Fourth Willis","Apartment"
-"385","20551-20555 Lahser Rd, Detroit, MI 48219","2026/01/01",865,"1 Bed","Apartment"
-"386","20551-20555 Lahser Rd, Detroit, MI 48219","2026/01/01",1000,"2 Beds","Apartment"
-"387","1265 Washington Blvd, Detroit, MI 48226","2026/01/01",1795,"Unit 1901 at Book Tower","Apartment"
-"388","5440 Cass Ave, Detroit, MI 48202","2026/01/01",850,"Studio","Apartment"
-"389","5440 Cass Ave, Detroit, MI 48202","2026/01/01",999,"1 Bed","Apartment"
-"390","5440 Cass Ave, Detroit, MI 48202","2026/01/01",1707,"2 Beds+","Apartment"
-"391","1291 W State Fair, Detroit, MI 48203","2026/01/01",865,"1 Bed","Apartment"
-"392","1291 W State Fair, Detroit, MI 48203","2026/01/01",950,"2 Beds","Apartment"
-"393","12880 Dolson St, Detroit, MI 48223","2026/01/01",825,"1 Bed","Apartment"
-"394","12880 Dolson St, Detroit, MI 48223","2026/01/01",1100,"2 Beds","Apartment"
-"NA.7",NA,NA,NA,NA,NA
-"396","4470-4480 E Outer Dr, Detroit, MI 48234","2026/01/01",1095,"E Outer Drive Apartments","Apartment"
-"397","14027 Montrose St, Detroit, MI 48227","2026/01/01",800,"14027 Montrose St","Apartment"
-"398","10343 Crocuslawn Ave, Detroit, MI 48204","2026/01/01",950,"Grant & Main - 10343 Crocuslawn St","Apartment"
-"399","2701 Park Ave, Detroit, MI 48201","2026/01/01",1135,"Unit 211 at Eddystone","Apartment"
-"400","12200 Cheyenne St, Detroit, MI 48227","2026/01/01",1100,"12200 Cheyenne St","Apartment"
-"401","14881 Schaefer Hwy, Detroit, MI 48227","2026/01/01",765,"Stacey Ann Apartments","Apartment"
-"402","1190 Seward St, Detroit, MI 48206","2026/01/01",695,"Studio","Apartment"
-"403","1190 Seward St, Detroit, MI 48206","2026/01/01",850,"1 Bed","Apartment"
-"404","7815 E Jefferson Ave, Detroit, MI 48214","2026/01/01",720,"1 Bed","Apartment"
-"405","7815 E Jefferson Ave, Detroit, MI 48214","2026/01/01",864,"2 Beds","Apartment"
-"406","9200 W Vernor Hwy, Detroit, MI 48209","2026/01/01",835,"1 Bed","Apartment"
-"407","9200 W Vernor Hwy, Detroit, MI 48209","2026/01/01",1093,"2 Beds","Apartment"
-"408","411 Piquette St, Detroit, MI 48202","2026/01/01",1340,"Unit 201 at Piquette Flats","Apartment"
-"409","2001 Chene St, Detroit, MI 48207","2026/01/01",878,"1 Bed","Apartment"
-"410","2001 Chene St, Detroit, MI 48207","2026/01/01",1040,"2 Beds","Apartment"
-"411","15041 Greenfield Rd, Detroit, MI 48227","2026/01/01",750,"15041 Greenfield Rd","Apartment"
-"412","15818 Puritan St, Detroit, MI 48227","2026/01/01",795,"Puritan Apartments","Apartment"
-"413","1085 Van Dyke St, Detroit, MI 48214","2026/01/01",810,"Village Park Apartments","Apartment"
-"414","13160 W Outer Dr, Detroit, MI 48223","2026/01/01",745,"1 Bed","Apartment"
-"415","13160 W Outer Dr, Detroit, MI 48223","2026/01/01",895,"2 Beds","Apartment"
-"416","5777 Southfield Fwy, Detroit, MI 48228","2026/01/01",1440,"Unit 0124 at GoodHomes Detroit","Apartment"
-"417","2601 W McNichols Rd, Detroit, MI 48221","2026/01/01",995,"1 Bed","Apartment"
-"418","2601 W McNichols Rd, Detroit, MI 48221","2026/01/01",1200,"2 Beds","Apartment"
-"419","3843 Puritan St, Detroit, MI 48238","2026/01/01",841,"1 Bed","Apartment"
-"420","3843 Puritan St, Detroit, MI 48238","2026/01/01",1004,"2 Beds","Apartment"
-"421","18637-18717 James Couzens Fwy, Detroit, MI 48235","2026/01/01",800,"1 Bed","Apartment"
-"422","18637-18717 James Couzens Fwy, Detroit, MI 48235","2026/01/01",975,"2 Beds","Apartment"
-"423","691 Seward St, Detroit, MI 48202","2026/01/01",786,"1 Bed","Apartment"
-"424","691 Seward St, Detroit, MI 48202","2026/01/01",954,"2 Beds","Apartment"
-"425","19800 Telegraph Rd, Detroit, MI 48219","2026/01/01",834,"1 Bed","Apartment"
-"426","19800 Telegraph Rd, Detroit, MI 48219","2026/01/01",972,"2 Beds","Apartment"
-"427","3439 Woodward Ave, Detroit, MI 48201","2026/01/01",1475,"Unit 350 at Woodward West","Apartment"
-"428","9303 E Jefferson Ave, Detroit, MI 48214","2026/01/01",682,"Studio","Apartment"
-"429","9303 E Jefferson Ave, Detroit, MI 48214","2026/01/01",1004,"2 Beds","Apartment"
-"430","23740 Fenkell St, Detroit, MI 48223","2026/01/01",645,"Studio","Apartment"
-"431","23740 Fenkell St, Detroit, MI 48223","2026/01/01",795,"1 Bed","Apartment"
-"432","23740 Fenkell St, Detroit, MI 48223","2026/01/01",895,"2 Beds","Apartment"
-"433","20485 Goddard St, Detroit, MI 48234","2026/01/01",720,"Studio","Apartment"
-"434","20485 Goddard St, Detroit, MI 48234","2026/01/01",895,"1 Bed","Apartment"
-"435","20485 Goddard St, Detroit, MI 48234","2026/01/01",995,"2 Beds","Apartment"
-"436","18450 W Chicago St, Detroit, MI 48228","2026/01/01",646,"1 Bed","Apartment"
-"437","18450 W Chicago St, Detroit, MI 48228","2026/01/01",743,"2 Beds","Apartment"
-"438","91 Harper Ave, Detroit, MI 48202","2026/01/01",971,"2 Beds","Apartment"
-"439","91 Harper Ave, Detroit, MI 48202","2026/01/01",1171,"3 Beds","Apartment"
-"440","455 W Marshall St, Ferndale, MI 48220","2026/01/01",1450,"The Marshall Place","Apartment"
-"441","90 Catherine St, River Rouge, MI 48218","2026/01/01",825,"90 Catherine St","Apartment"
-"NA.8",NA,NA,NA,NA,NA
-"443","10 Ferris St, Highland Park, MI 48203","2026/01/01",625,"Studio","Apartment"
-"444","10 Ferris St, Highland Park, MI 48203","2026/01/01",725,"1 Bed","Apartment"
-"445","24106-24276 Ann Arbor Trl, Dearborn Heights, MI 48127","2026/01/01",1145,"24106-24276 Ann Arbor Trl","Apartment"
-"446","757 Covington Dr, Highland Park, MI 48203","2026/01/01",800,"1 Bed","Apartment"
-"447","757 Covington Dr, Highland Park, MI 48203","2026/01/01",900,"2 Beds","Apartment"
-"448","19204-19296 Rockcastle St, Harper Woods, MI 48225","2026/01/01",950,"Pointe Garden Apartments","Apartment"
-"449","20 Sears St, Highland Park, MI 48203","2026/01/01",957,"2 Beds","Apartment"
-"450","20 Sears St, Highland Park, MI 48203","2026/01/01",1161,"3 Beds","Apartment"
-"451","14374 E 9 Mile Rd, Warren, MI 48089","2026/01/01",800,"1 Bed","Apartment"
-"452","14374 E 9 Mile Rd, Warren, MI 48089","2026/01/01",1000,"2 Beds","Apartment"
-"453","1201 Fort St, Lincoln Park, MI 48146","2026/01/01",675,"1 Bed","Apartment"
-"454","1201 Fort St, Lincoln Park, MI 48146","2026/01/01",805,"2 Beds","Apartment"
-"455","4900 Heather Dr, Dearborn, MI 48126","2026/01/01",1750,"Unit V211 at Fairlane Meadow Apartments and Townhomes","Apartment"
-"456","111 State St, Detroit, MI 48226","2026/01/01",5135,"2 Beds","Apartment"
-"457","111 State St, Detroit, MI 48226","2026/01/01",5590,"2 Beds","Apartment"
-"458","1220 Griswold St, Detroit, MI 48226","2026/01/01",3865,"2 Beds","Apartment"
-"459","702 E Ferry St Unit ID1228684P, Detroit, MI 48202","2026/01/01",1596,"1 Bed | 1 Bath | 710 sq ft","House"
-"460","457 E Kirby St Unit ID1228594P, Detroit, MI 48202","2026/01/01",1921,"1 Bed | 1 Bath | 645 sq ft","House"
-"461","13914 Outer Dr W, Detroit, MI 48239","2026/01/01",1500,"4 Beds","House"
-"462","14975 Hubbell Ave, Detroit, MI 48227","2026/01/01",1150,"3 Beds","House"
-"463","4878 Tarnow St, Detroit, MI 48210","2026/01/01",3083,"3 Beds","House"
-"464","2009 Sharon St, Detroit, MI 48209","2026/01/01",4856,"3 Beds","House"
-"465","1125 Lansing St, Detroit, MI 48209","2026/01/01",2716,"3 Beds","House"
-"466","1145 Griswold St, Detroit, MI 48226","2026/01/01",2250,"2 Beds, 2 Baths, 1,179 sq ft","House"
-"467","280 Hague St, Detroit, MI 48202","2026/01/01",4879,"6 Beds","House"
-"468","5357 Burns Ave, Detroit, MI 48213","2026/01/01",975,"2 Beds","House"
-"469","15395 Linwood St, Detroit, MI 48238","2026/01/01",950,"1 Bed","House"
-"470","3170 Woods Cir Dr, Detroit, MI 48207","2026/01/01",2000,"4 Beds","House"
-"471","19188 Pelkey St, Detroit, MI 48205","2026/01/01",1200,"3 Beds","House"
-"472","9555 Montrose St, Detroit, MI 48227","2026/01/01",1275,"3 Beds | 1 Bath | 1,000 sq ft","House"
-"473","6474 St Marys St, Detroit, MI 48228","2026/01/01",1350,"3 Beds","House"
-"474","20263 Caldwell St, Detroit, MI 48234","2026/01/01",1350,"3 Beds","House"
-"475","1xxxx Baylis St Unit 16605, Detroit, MI 48221","2026/01/01",1275,"3 Beds | 1 Bath","House"
-"476","1xxxx Baylis St Unit 16603, Detroit, MI 48221","2026/01/01",1275,"3 Beds | 1 Bath","House"
-"477","9000 E Jefferson Ave, Detroit, MI 48214","2026/01/01",3019,"3 Beds | 3 Baths | 1,950 sq ft","House"
-"478","18025 Teppert St, Detroit, MI 48234","2026/01/01",1200,"3 Beds","House"
-"479","310 Gratiot Ave, Detroit, MI 48226","2026/01/01",2274,"1 Bed","House"
-"480","310 Gratiot Ave, Detroit, MI 48226","2026/01/01",1734,"Studio","House"
-"481","310 Gratiot Ave, Detroit, MI 48226","2026/01/01",1742,"Studio","House"
-"482","310 Gratiot Ave, Detroit, MI 48226","2026/01/01",1893,"Studio","House"
-"483","1214-1230 Griswold St, Detroit, MI 48226","2026/01/01",1680,"1 Bed, 1 Bath, 623 sq ft","House"
-"484","310 Gratiot Ave, Detroit, MI 48226","2026/01/01",1885,"Studio","House"
-"486","19510 Stratford Rd, Detroit, MI 48221","2026/01/01",2950,"3 Beds","House"
-"487","330 Westminster St, Detroit, MI 48202","2026/01/01",2000,"3 Beds","House"
-"488","4811 Cadieux Rd, Detroit, MI 48224","2026/01/01",1200,"2 Beds","House"
-"489","76 W Adams Ave, Detroit, MI 48226","2026/01/01",1807,"1 Bed, 1 Bath, 600 sq ft","House"
-"490","2509 Gladstone St, Detroit, MI 48206","2026/01/01",2950,"6 Beds","House"
-"491","8951 La Salle Blvd, Detroit, MI 48206","2026/01/01",2500,"5 Beds","House"
-"492","7635 Evergreen Rd, Detroit, MI 48228","2026/01/01",1350,"3 Beds","House"
-"493","17314 Hoover St, Detroit, MI 48205","2026/01/01",1200,"2 Beds","House"
-"494","11171 Charlemagne Ave, Detroit, MI 48213","2026/01/01",1200,"3 Beds","House"
-"495","1 Lafayette Plaisance St, Detroit, MI 48207","2026/01/01",1507,"1 Bed, 1 Bath, 705 sq ft","House"
-"496","3960 3 Mile Dr, Detroit, MI 48224","2026/01/01",900,"1 Bed","House"
-"498","1400 Seward Ave, Detroit, MI 48206","2026/01/01",1398,"3 Beds","House"
-"499","18411 Meyers Rd, Detroit, MI 48235","2026/01/01",995,"1 Bed | 1 Bath | 1,706 sq ft","Apartment"
-"500","9429 Brush St, Detroit, MI 48202","2026/01/01",1095,"2 Beds","Apartment"
-"501","9353 Kentucky St, Detroit, MI 48204","2026/01/01",1099,"2 Beds","Apartment"
-"502","4400 Buckingham Unit Upper, Detroit, MI 48224","2026/01/01",1050,"2 Beds | 1 Bath","Apartment"
-"503","11350 Stockwell St, Detroit, MI 48224","2026/01/01",1350,"3 Beds | 1.5 Baths","Apartment"
-"504","14732 Woodmont Ave, Detroit, MI 48227","2026/01/01",1400,"3 Beds | 1 Bath","Apartment"
-"505","1920 Atkinson St, Detroit, MI 48206","2026/01/01",1195,"1 Bed","Apartment"
-"506","1117 Griswold St, Detroit, MI 48226","2026/01/01",2770,"2 Beds, 2 Baths, 1,100 sq ft","Apartment"
-"507","63 E Palmer St, Detroit, MI 48202","2026/01/01",1733,"4 Beds","Apartment"
-"508","18667 Algonac St, Detroit, MI 48234","2026/01/01",1999,"1 Bed","Apartment"
-"509","18667 Algonac St, Detroit, MI 48234","2026/01/01",1100,"19309 Avon Ave, Detroit, MI 48219","Apartment"
-"510","5054 Linsdale St, Detroit, MI 48204","2026/01/01",825,"1 Bed","Apartment"
-"511","3734 Atkinson St, Detroit, MI 48206","2026/01/01",1150,"2 Beds","Apartment"
-"512","17150 Santa Rosa Dr, Detroit, MI 48221","2026/01/01",1150,"1 Bed","Apartment"
-"513","2484 Woodmere St, Detroit, MI 48209","2026/01/01",1300,"3 Beds","Apartment"
-"514","2710 Wreford St, Detroit, MI 48208","2026/01/01",1650,"2 Beds | 1 Bath | 1,225 sq ft","Apartment"
-"515","275 E Palmer St, Detroit, MI 48202","2026/01/01",2950,"3 Beds | 3 Baths | 1,458 sq ft","Apartment"
-"516","4316 Lakewood St, Detroit, MI 48215","2026/01/01",1650,"3 Beds | 1 Bath | 2,409 sq ft","Apartment"
-"517","313 Park Ave, Detroit, MI 48226","2026/01/01",2195,"2 Beds | 2 Baths | 960 sq ft","Apartment"
-"518","298 Josephine St, Detroit, MI 48202","2026/01/01",3400,"4 Beds","Apartment"
-"519","15872 Fairmount Dr, Detroit, MI 48205","2026/01/01",1100,"3 Beds","Apartment"
-"520","16582 Santa Rosa Dr, Detroit, MI 48221","2026/01/01",1519,"3 Beds","Apartment"
-"521","6130 Beniteau St, Detroit, MI 48213","2026/01/01",1344,"3 Beds","Apartment"
-"522","13514 Stahelin Rd, Detroit, MI 48223","2026/01/01",1374,"3 Beds","Apartment"
-"523","4830 Cass Ave, Detroit, MI 48201","2026/01/01",950,"3 Beds, 3 Baths, 1,275 sq ft","Apartment"
-"524","15355 Plainview Ave, Detroit, MI 48223","2026/01/01",1399,"3 Beds","Apartment"
-"525","18437 Trinity St, Detroit, MI 48219","2026/01/01",1364,"3 Beds","Apartment"
-"526","15909 Maddelein St, Detroit, MI 48205","2026/01/01",1266,"3 Beds","Apartment"
-"527","13538 Rosemont Ave, Detroit, MI 48223","2026/01/01",1446,"3 Beds","Apartment"
-"528","17144 Heyden St, Detroit, MI 48219","2026/01/01",1244,"3 Beds","Apartment"
-"529","8100-8106 E Jefferson Ave, Detroit, MI 48214","2026/01/01",1340,"2 Beds, 2 Baths, 1,030 sq ft","Apartment"
-"530","15532 Baylis St, Detroit, MI 48238","2026/01/01",1237,"3 Beds","Apartment"
-"531","15519 Plainview Ave, Detroit, MI 48223","2026/01/01",1396,"3 Beds","Apartment"
-"532","9142 Isham Ave, Detroit, MI 48213","2026/01/01",1344,"3 Beds","Apartment"
-"533","8193 Traverse St, Detroit, MI 48213","2026/01/01",1382,"3 Beds","Apartment"
-"534","3475 Crane St, Detroit, MI 48214","2026/01/01",1484,"3 Beds","Apartment"
-"535","3500 E Jefferson Ave, Detroit, MI 48207","2026/01/01",2545,"2 Beds, 2 Baths, 1,175 sq ft","Apartment"
-"536","18525 McCormick St, Detroit, MI 48224","2026/01/01",1374,"3 Beds","Apartment"
-"537","9354 Bessemore St, Detroit, MI 48213","2026/01/01",1294,"3 Beds","Apartment"
-"538","14919 Lesure St, Detroit, MI 48227","2026/01/01",1337,"3 Beds","Apartment"
-"539","21440 Bennett St, Detroit, MI 48219","2026/01/01",1394,"3 Beds","House"
-"540","15811 Trinity St, Detroit, MI 48223","2026/01/01",1268,"2 Beds","House"
-"541","3150 Woodward Ave, Detroit, MI 48201","2026/01/01",2565,"1 Bed, 2 Baths, 927 sq ft","House"
-"542","8606 Cloverlawn Ave, Detroit, MI 48204","2026/01/01",1275,"3 Beds","House"
-"543","9376 Otsego St, Detroit, MI 48204","2026/01/01",1396,"3 Beds","House"
-"544","16720 Rockdale St, Detroit, MI 48219","2026/01/01",1015,"3 Beds","House"
-"545","17125 Greenlawn St, Detroit, MI 48221","2026/01/01",1000,"2 Beds","House"
-"546","15812 Kentucky St, Detroit, MI 48238","2026/01/01",925,"2 Beds","House"
-"548","3498 Haverhill St, Detroit, MI 48224","2026/01/01",945,"3 Beds","House"
-"549","4837 Cadieux Rd, Detroit, MI 48224","2026/01/01",1200,"2 Beds","House"
-"550","4014 Somerset Ave, Detroit, MI 48224","2026/01/01",1225,"3 Beds","House"
-"551","4014 Somerset Ave, Detroit, MI 48224","2026/01/01",1400,"7419 Asbury Park, Detroit, MI 48228","House"
-"552","200 Mt Elliott St, Detroit, MI 48207","2026/01/01",2000,"1 Bed","House"
-"553","6073 Linwood St, Detroit, MI 48208","2026/01/01",1145,"2 Beds","House"
-"554","16145 Baylis St, Detroit, MI 48221","2026/01/01",1300,"2 Beds | 1 Bath | 946 sq ft","House"
-"555","7010 Thatcher St, Detroit, MI 48221","2026/01/01",1200,"2 Beds | 1 Bath | 2,125 sq ft","House"
-"556","8900 E Jefferson Ave Unit 624, Detroit, MI 48214","2026/01/01",1000,"Studio | 1 Bath | 425 sq ft","House"
-"557","3716 Lincoln St Unit 5, Detroit, MI 48208","2026/01/01",1600,"1 Bed | 1 Bath | 5,954 sq ft","House"
-"558","310 Gratiot Ave, Detroit, MI 48226","2026/01/01",1815,"2 Beds | 2 Baths | 1,059 sq ft","House"
-"559","4488 Maryland St, Detroit, MI 48224","2026/01/01",1095,"3 Beds","House"
-"560","15914 Dacosta St, Detroit, MI 48223","2026/01/01",1300,"3 Beds | 1 Bath | 874 sq ft","House"
-"561","2028 Pine St, Detroit, MI 48216","2026/01/01",2400,"3 Beds","House"
-"562","2506 W Euclid St, Detroit, MI 48206","2026/01/01",1675,"3 Beds","House"
-"563","5766 3 Mile Dr, Detroit, MI 48224","2026/01/01",1447,"4 Beds","House"
-"565","5535 Devonshire Rd, Detroit, MI 48224","2026/01/01",1754,"4 Beds","House"
-"566","12400 Duchess St, Detroit, MI 48224","2026/01/01",1122,"3 Beds","House"
-"567","76 W Bethune St, Detroit, MI 48202","2026/01/01",2200,"3 Beds | 2 Baths | 1,254 sq ft","House"
-"568","15906 Alden St, Detroit, MI 48238","2026/01/01",1300,"3 Beds | 1 Bath | 1,030 sq ft","House"
-"569","4840 St Clair St, Detroit, MI 48214","2026/01/01",994,"2 Beds","House"
-"570","12078 N Martindale St, Detroit, MI 48204","2026/01/01",1100,"3 Beds","House"
-"571","14118 Evergreen Rd, Detroit, MI 48223","2026/01/01",994,"2 Beds","House"
-"572","18499 Vaughan St, Detroit, MI 48219","2026/01/01",1299,"3 Beds","House"
-"573","15910 Saratoga Ave, Detroit, MI 48205","2026/01/01",1394,"3 Beds","House"
-"574","19373 St Marys St, Detroit, MI 48235","2026/01/01",1374,"3 Beds","House"
-"575","13500 Penrod St, Detroit, MI 48223","2026/01/01",1400,"2 Beds","House"
-"576","6177 Hereford St, Detroit, MI 48224","2026/01/01",1100,"3 Beds","House"
-"577","14613 Coyle St, Detroit, MI 48227","2026/01/01",1300,"3 Beds","House"
-"578","9264 Ward Ave, Detroit, MI 48228","2026/01/01",1200,"2 Beds","House"
-"579","4837 Cadieux Rd, Detroit, MI 48224","2026/01/01",1200,"2 Beds","Apartment"
-"580","1535 Sixth St Unit 5, Detroit, MI 48226","2026/01/01",6000,"3 Beds | 3 Baths | 5,600 sq ft","Apartment"
-"581","4055 Puritan Ave, Detroit, MI 48238","2026/01/01",1250,"2 Beds","Apartment"
-"582","6015 Garland St, Detroit, MI 48213","2026/01/01",1400,"3 Beds","Apartment"
-"583","4865 Cadieux Rd, Detroit, MI 48224","2026/01/01",1200,"2 Beds","Apartment"
-"584","3353 Fullerton Ave, Detroit, MI 48238","2026/01/01",1300,"3 Beds","Apartment"
-"585","18935 Indiana St, Detroit, MI 48221","2026/01/01",1399,"3 Beds","Apartment"
-"586","450 Amsterdam St, Detroit, MI 48202","2026/01/01",1750,"1 Bed, 1 Bath, 600 sq ft","Apartment"
-"587","15625 Bringard Dr, Detroit, MI 48205","2026/01/01",1325,"3 Beds","Apartment"
-"588","11466 Somerset Ave, Detroit, MI 48224","2026/01/01",1150,"2 Beds","Apartment"
-"589","1731 Parker St, Detroit, MI 48214","2026/01/01",2995,"3 Beds","Apartment"
-"590","1731 Parker St, Detroit, MI 48214","2026/01/01",1150,"11466 Somerset Ave, Detroit, MI 48224","Apartment"
-"591","1731 Parker St, Detroit, MI 48214","2026/01/01",1325,"15625 Bringard Dr, Detroit, MI 48205","Apartment"
-"592","3740 2nd Ave, Detroit, MI 48201","2026/01/01",1315,"Studio | 1 Bath | 370 sq ft","Apartment"
-"593","20144 Stoepel St, Detroit, MI 48221","2026/01/01",1300,"2 Beds","Apartment"
-"594","20185 Indiana St, Detroit, MI 48221","2026/01/01",1250,"2 Beds | 1 Bath | 996 sq ft","Apartment"
-"595","19657 Caldwell St, Detroit, MI 48234","2026/01/01",1095,"3 Beds | 1 Bath | 1,117 sq ft","Apartment"
-"596","18401 Joy Rd, Detroit, MI 48228","2026/01/01",875,"1 Bed","Apartment"
-"597","10925 Nottingham Rd, Detroit, MI 48224","2026/01/01",1000,"2 Beds | 1 Bath | 1,100 sq ft","Apartment"
-"598","2032 Kendall St, Detroit, MI 48238","2026/01/01",1225,"3 Beds | 1 Bath | 1,300 sq ft","Apartment"
-"599","15518 Snowden St, Detroit, MI 48227","2026/01/01",1750,"5 Beds","Apartment"
-"600","10860 Duprey St, Detroit, MI 48224","2026/01/01",1400,"4 Beds","Apartment"
-"601","19795 Patton St, Detroit, MI 48219","2026/01/01",1250,"3 Beds","Apartment"
-"602","9355 Ward Ave, Detroit, MI 48228","2026/01/01",1400,"3 Beds","Apartment"
-"603","1431 Washington Blvd, Detroit, MI 48226","2026/01/01",2035,"2 Beds, 2 Baths, 1,000 sq ft","Apartment"
-"604","19449 W Chicago, Detroit, MI 48228","2026/01/01",1195,"3 Beds | 1.5 Baths | 950 sq ft","Apartment"
-"605","487 Chalmers St, Detroit, MI 48215","2026/01/01",1650,"3 Beds","Apartment"
-"606","12635 Outer Dr W, Detroit, MI 48223","2026/01/01",800,"1 Bed","Apartment"
-"607","5500 Chalmers St, Detroit, MI 48213","2026/01/01",1300,"2 Beds","Apartment"
-"608","15840 Ardmore St, Detroit, MI 48227","2026/01/01",1400,"3 Beds | 2 Baths | 900 sq ft","Apartment"
-"609","16021 Liberal St, Detroit, MI 48205","2026/01/01",1350,"3 Beds","Apartment"
-"610","5513 Somerset Ave, Detroit, MI 48224","2026/01/01",1000,"2 Beds | 1 Bath | 2,303 sq ft","Apartment"
-"611","16177 Turner St, Detroit, MI 48221","2026/01/01",1475,"5 Beds","Apartment"
-"612","8181 House St, Detroit, MI 48234","2026/01/01",1294,"3 Beds","Apartment"
-"613","16246 Fairfield St, Detroit, MI 48221","2026/01/01",1425,"3 Beds","Apartment"
-"614","1544 E Lafayette St, Detroit, MI 48207","2026/01/01",2145,"2 Beds, 2 Baths, 1,017 sq ft","Apartment"
-"615","7794 Abington Ave, Detroit, MI 48228","2026/01/01",1300,"3 Beds","Apartment"
-"616","2900 E Jefferson Ave, Detroit, MI 48207","2026/01/01",1600,"1 Bed | 2 Baths | 1,000 sq ft","Apartment"
-"617","1458 Virginia Park St, Detroit, MI 48206","2026/01/01",2500,"2 Beds | 1 Bath | 1,184 sq ft","Apartment"
-"618","15608 Wabash St, Detroit, MI 48238","2026/01/01",1000,"2 Beds | 1 Bath | 1,357 sq ft","Apartment"
-"619","4218 Buena Vista St, Detroit, MI 48238","2026/01/01",1500,"3 Beds","Apartment"
-"621","40 Davenport St, Detroit, MI 48201","2026/01/01",1650,"1 Bed, 1 Bath, 483 sq ft","Apartment"
-"622","20144 Stoepel St, Detroit, MI 48221","2026/01/01",1300,"3 Beds","Apartment"
-"624","4000 Berkshire St, Detroit, MI 48224","2026/01/01",1400,"3 Beds | 2 Baths | 1,512 sq ft","Apartment"
-"625","6306 Farmbrook St, Detroit, MI 48224","2026/01/01",1150,"3 Beds","Apartment"
-"626","14211 Plainview Ave, Detroit, MI 48223","2026/01/01",1150,"3 Beds","Apartment"
-"627","8939 Dexter Ave, Detroit, MI 48206","2026/01/01",1000,"3 Beds | 1 Bath | 4,790 sq ft","Apartment"
-"629","1575 Cherboneau Pl, Detroit, MI 48207","2026/01/01",1200,"1 Bed","Apartment"
-"630","16175 Fairfield St, Detroit, MI 48221","2026/01/01",900,"1 Bed","Apartment"
-"631","15601 Schoolcraft Rd Unit 1, Detroit, MI 48227","2026/01/01",700,"1 Bed | 1 Bath | 700 sq ft","Apartment"
-"632","15601 Schoolcraft Rd Unit 2, Detroit, MI 48227","2026/01/01",850,"2 Beds | 1 Bath | 700 sq ft","Apartment"
-"633","17421 Quincy St, Detroit, MI 48221","2026/01/01",1700,"3 Beds | 2 Baths | 1,474 sq ft","Apartment"
-"634","17421 Quincy St, Detroit, MI 48221","2026/01/01",866,"11611 Morang Ave, Detroit, MI 48224","Apartment"
-"635","17421 Quincy St, Detroit, MI 48221","2026/01/01",950,"3548 St Clair St, Detroit, MI 48214","Apartment"
-"636","16146 W Parkway St, Detroit, MI 48219","2026/01/01",1400,"3 Beds","Apartment"
-"637","15601 Schoolcraft Rd Unit 6, Detroit, MI 48227","2026/01/01",850,"2 Beds | 1 Bath | 700 sq ft","Apartment"
-"638","3224 Monterey St, Detroit, MI 48206","2026/01/01",1350,"2 Beds","Apartment"
-"639","17390 Albion Ave, Detroit, MI 48234","2026/01/01",1350,"3 Beds","Apartment"
-"640","16723 Asbury Park, Detroit, MI 48235","2026/01/01",1200,"2 Beds | 1 Bath | 944 sq ft","Apartment"
-"641","15236 Tireman Ave, Detroit, MI 48228","2026/01/01",775,"1 Bed","Apartment"
-"642","4066 Tyler St, Detroit, MI 48238","2026/01/01",850,"1 Bed | 1 Bath | 800 sq ft","Apartment"
-"643","15601 Schoolcraft Rd Unit 3, Detroit, MI 48227","2026/01/01",700,"1 Bed | 1 Bath | 700 sq ft","Apartment"
-"644","19339 Fenelon St, Detroit, MI 48234","2026/01/01",1000,"2 Beds","Apartment"
-"645","866 Pingree St, Detroit, MI 48202","2026/01/01",250,"1 Bed","Apartment"
-"646","14552 Southfield Fwy, Detroit, MI 48223","2026/01/01",1375,"3 Beds","Apartment"
-"647","4066 Tyler St, Detroit, MI 48238","2026/01/01",800,"1 Bed | 1 Bath | 800 sq ft","Apartment"
-"648","18559 Mackay St, Detroit, MI 48234","2026/01/01",950,"2 Beds | 1 Bath | 800 sq ft","Apartment"
-"649","20515 Moross Rd, Detroit, MI 48224","2026/01/01",1150,"2 Beds","Apartment"
-"650","16188 Lawton St Unit 2 Upper, Detroit, MI 48221","2026/01/01",1300,"3 Beds | 2 Baths","Apartment"
-"651","16188 Lawton St Unit 1 Lower, Detroit, MI 48221","2026/01/01",1300,"3 Beds | 1 Bath","Apartment"
-"652","3638 Bedford St, Detroit, MI 48224","2026/01/01",600,"1 Bed","Apartment"
-"653","11324 Beaverland St, Detroit, MI 48239","2026/01/01",1150,"3 Beds","Apartment"
-"654","15003 Ardmore St, Detroit, MI 48227","2026/01/01",1200,"3 Beds","Apartment"
-"655","7822 Forrer St, Detroit, MI 48228","2026/01/01",1100,"2 Beds","Apartment"
-"656","1326 E Evelyn Ave, Hazel Park, MI 48030","2026/01/01",6813,"3 Beds","Apartment"
-"657","221 Ardmore Dr, Ferndale, MI 48220","2026/01/01",4467,"2 Beds","Apartment"
-"658","1019 E Hayes Ave, Hazel Park, MI 48030","2026/01/01",5894,"3 Beds","Apartment"
-"659","9443 McDougall, Hamtramck, MI 48212","2026/01/01",980,"2 Beds","Apartment"
-"660","18604 Marx St, Highland Park, MI 48203","2026/01/01",1350,"3 Beds","Apartment"
-"661","150 W Harry Ave, Hazel Park, MI 48030","2026/01/01",1350,"2 Beds","Apartment"
-"662","3748 15th St, Ecorse, MI 48229","2026/01/01",1199,"2 Beds","Apartment"
-"663","101 Colorado St, Highland Park, MI 48203","2026/01/01",2188,"4 Beds","Apartment"
-"664","428 Beechwood St, River Rouge, MI 48218","2026/01/01",1400,"3 Beds","Apartment"
-"665","22148 Dante St, Oak Park, MI 48237","2026/01/01",1475,"2 Beds","Apartment"
-"667","22148 Dante St, Oak Park, MI 48237","2026/01/01",1300,"8242 Maxwell Ave, Warren, MI 48089","Apartment"
-"668","18941 Elkhart St, Harper Woods, MI 48225","2026/01/01",1300,"3 Beds | 1 Bath | 1,101 sq ft","Apartment"
-"669","18941 Elkhart St, Harper Woods, MI 48225","2026/01/01",1200,"22641 Van Dyke Ave, Warren, MI 48089","Apartment"
-"670","12411 Georgiana Ave, Warren, MI 48089","2026/01/01",1275,"3 Beds","Apartment"
-"671","12411 Georgiana Ave, Warren, MI 48089","2026/01/01",1000,"59 W Margaret St, Highland Park, MI 48203","Apartment"
-"672","20269 Elkhart St, Harper Woods, MI 48225","2026/01/01",1250,"3 Beds","Apartment"
-"673","13337 W Nine Mile Rd Unit 102, Oak Park, MI 48237","2026/01/01",1200,"2 Beds | 1 Bath | 813 sq ft","Apartment"
-"674","13337 W Nine Mile Rd Unit 102, Oak Park, MI 48237","2026/01/01",1900,"242 W Webster St, Ferndale, MI 48220","Apartment"
-"675","13337 W Nine Mile Rd Unit 102, Oak Park, MI 48237","2026/01/01",2200,"645 Neff Rd, Grosse Pointe, MI 48230","Apartment"
-"676","13337 W Nine Mile Rd Unit 102, Oak Park, MI 48237","2026/01/01",1650,"310 E Harry Ave, Hazel Park, MI 48030","Apartment"
-"677","18251 Brady St, Redford Township, MI 48240","2026/01/01",1295,"3 Beds","Apartment"
-"678","8651 Hazelton St, Dearborn Heights, MI 48127","2026/01/01",1950,"3 Beds","Apartment"
-"679","26309 Seven Mile W, Redford, MI 48240","2026/01/01",1050,"2 Beds | 1 Bath | 860 sq ft","Apartment"
-"680","565 W Saratoga St, Ferndale, MI 48220","2026/01/01",2300,"3 Beds | 1 Bath | 1,410 sq ft","Apartment"
-"681","565 W Saratoga St, Ferndale, MI 48220","2026/01/01",1850,"1261 E Chesterfield St, Ferndale, MI 48220","Apartment"
-"682","565 W Saratoga St, Ferndale, MI 48220","2026/01/01",2250,"292 W Marshall St, Ferndale, MI 48220","Apartment"
-"683","565 W Saratoga St, Ferndale, MI 48220","2026/01/01",1300,"29 E Harry Ave, Hazel Park, MI 48030","Apartment"
-"684","22174 Cushing Ave, Eastpointe, MI 48021","2026/01/01",1200,"3 Beds","Apartment"
-"685","22174 Cushing Ave, Eastpointe, MI 48021","2026/01/01",1700,"3581 Reeves Dr, Melvindale, MI 48122","Apartment"
-"686","1403 E Maxlow Ave, Hazel Park, MI 48030","2026/01/01",1400,"2 Beds","Apartment"
-"687","25337 Ivanhoe Ave, Redford Township, MI 48239","2026/01/01",1245,"3 Beds","Apartment"
-"688","21901 Sloman St, Oak Park, MI 48237","2026/01/01",1350,"2 Beds","Apartment"
-"689","3588 Toepfer Rd, Warren, MI 48091","2026/01/01",1500,"3 Beds","Apartment"
-"690","19444 Lennane St, Redford Township, MI 48240","2026/01/01",1600,"3 Beds","Apartment"
-"691","19 E James St, River Rouge, MI 48218","2026/01/01",900,"1 Bed","Apartment"
-"692","21781 Stratford St, Oak Park, MI 48237","2026/01/01",1600,"3 Beds | 3 Baths | 1,407 sq ft","Apartment"
-"693","4248 8th St, Ecorse, MI 48229","2026/01/01",1200,"2 Beds","Apartment"
-"694","4331 6th St, Ecorse, MI 48229","2026/01/01",1500,"3 Beds","Apartment"
-"695","805 E Milton Ave, Hazel Park, MI 48030","2026/01/01",1450,"2 Beds | 1 Bath | 1,000 sq ft","Apartment"
-"696","805 E Milton Ave, Hazel Park, MI 48030","2026/01/01",1250,"20940 Wellington Ave, Warren, MI 48089","Apartment"
-"697","1753 E Milton Ave, Hazel Park, MI 48030","2026/01/01",2000,"3 Beds | 1 Bath | 1,096 sq ft","Apartment"
-"698","864 Nottingham Rd, Grosse Pointe Park, MI 48230","2026/01/01",1100,"2 Beds | 1 Bath | 825 sq ft","Apartment"
-"699","864 Nottingham Rd, Grosse Pointe Park, MI 48230","2026/01/01",2100,"1261 Pearson St, Ferndale, MI 48220","House"
-"700","21315 Prestwick Ave, Harper Woods, MI 48225","2026/01/01",1300,"3 Beds","House"
-"701","15161 Sprenger Ave, Eastpointe, MI 48021","2026/01/01",1800,"3 Beds | 2 Baths | 1,352 sq ft","House"
-"702","20019 Lexington, Redford Township, MI 48240","2026/01/01",1550,"3 Beds","House"
-"703","2557 John R St Unit 2557, Detroit, MI 48201","2026/01/01",2100,"3 Beds | 1.5 Baths | 1,400 sq ft","House"
-"704","11917 Laing St, Detroit, MI 48224","2026/01/01",1629,"4 Beds | 2 Baths | 1,800 sq ft","House"
-"705","8351 Bliss St, Detroit, MI 48234","2026/01/01",1499,"3 Beds | 2 Baths | 1,650 sq ft","House"
-"706","12705 Kelly Rd, Detroit, MI 48224","2026/01/01",1000,"2 Beds | 1 Bath | 1,200 sq ft","House"
-"707","12709 Kelly Rd, Detroit, MI 48224","2026/01/01",1000,"2 Beds | 1 Bath | 1,200 sq ft","House"
-"708","18617 Kelly Rd, Detroit, MI 48224","2026/01/01",1000,"2 Beds | 1 Bath | 1,500 sq ft","House"
-"710","18615 Kelly Rd, Detroit, MI 48224","2026/01/01",1000,"2 Beds | 1 Bath | 1,000 sq ft","House"
-"711","12017 College St, Detroit, MI 48205","2026/01/01",1529,"3 Beds | 1.5 Baths | 1,850 sq ft","House"
-"712","5300 Mitchell St Unit Lower front west, Detroit, MI 48211","2026/01/01",700,"2 Beds | 1 Bath | 500 sq ft","House"
-"713","5304 Mitchell St Unit Upper Front West, Detroit, MI 48211","2026/01/01",900,"2 Beds | 1 Bath | 900 sq ft","House"
-"714","15366 Stout St, Detroit, MI 48223","2026/01/01",1500,"4 Beds | 2 Baths | 1,800 sq ft","House"
-"715","11801 Riad St, Detroit, MI 48224","2026/01/01",1400,"3 Beds | 1 Bath | 1,500 sq ft","House"
-"716","11651 Hubbell St, Detroit, MI 48227","2026/01/01",1295,"3 Beds | 1 Bath | 1,000 sq ft","House"
-"717","18821 Kelly Rd, Detroit, MI 48224","2026/01/01",1050,"2 Beds | 1 Bath | 1,000 sq ft","House"
-"718","18516 Runyon St, Detroit, MI 48234","2026/01/01",1400,"3 Beds | 2 Baths | 1,800 sq ft","House"
-"719","18612 Blackmoor St, Detroit, MI 48234","2026/01/01",1400,"3 Beds | 1 Bath | 1,500 sq ft","House"
-"720","11813 Engleside St, Detroit, MI 48205","2026/01/01",1529,"3 Beds | 2 Baths | 1,850 sq ft","House"
-"721","13550 Faust Ave, Detroit, MI 48223","2026/01/01",1375,"3 Beds | 1 Bath | 1,500 sq ft","House"
-"722","18451 Kelly Rd, Detroit, MI 48224","2026/01/01",1000,"2 Beds | 1 Bath | 1,000 sq ft","House"
-"723","19309 Westbrook St, Detroit, MI 48219","2026/01/01",1050,"2 Beds | 1 Bath | 731 sq ft","House"
-"724","7464 Southfield Fwy Unit 7460, Detroit, MI 48228","2026/01/01",950,"2 Beds | 1 Bath | 750 sq ft","House"
-"725","15081 Young St, Detroit, MI 48205","2026/01/01",1400,"3 Beds | 1.5 Baths | 1,700 sq ft","House"
-"726","330 Westminster St, Detroit, MI 48202","2026/01/01",2000,"3 Beds | 1 Bath | 1,995 sq ft","House"
-"727","3200 Glynn Ct Unit 1 Bedroom, Detroit, MI 48206","2026/01/01",750,"1 Bed | 1 Bath | 800 sq ft","House"
-"728","19510 Stratford Rd, Detroit, MI 48221","2026/01/01",2950,"4 Beds | 3.5 Baths | 4,057 sq ft","House"
-"730","13580 Ohio St Unit 2, Detroit, MI 48238","2026/01/01",900,"2 Beds | 1 Bath | 800 sq ft","House"
-"731","2509 Gladstone St, Detroit, MI 48206","2026/01/01",2950,"6 Beds | 3 Baths | 3,008 sq ft","House"
-"732","4820 Haverhill St Unit #2, Detroit, MI 48224","2026/01/01",950,"2 Beds | 1 Bath | 900 sq ft","House"
-"733","4431 Commonwealth St, Detroit, MI 48208","2026/01/01",1700,"4 Beds | 2 Baths | 2,000 sq ft","House"
-"734","16224 Kentucky St Unit Top 2, Detroit, MI 48221","2026/01/01",1000,"2 Beds | 1 Bath | 1,200 sq ft","House"
-"735","2980 Tyler St Unit 2980, Detroit, MI 48238","2026/01/01",1200,"3 Beds | 1 Bath | 1,250 sq ft","House"
-"736","2928 Prince Hall Dr, Detroit, MI 48207","2026/01/01",2200,"2 Beds | 2 Baths | 1,425 sq ft","House"
-"737","8200 E Jefferson Ave Unit 1703, Detroit, MI 48214","2026/01/01",2000,"2 Beds | 2 Baths | 1,142 sq ft","House"
-"738","16260 Fairfield St, Detroit, MI 48221","2026/01/01",1500,"3 Beds | 1 Bath | 1,520 sq ft","House"
-"739","2310 Pasadena St Unit 1, Detroit, MI 48238","2026/01/01",850,"2 Beds | 1 Bath | 900 sq ft",NA
-"740","15 E Kirby St Unit 324, Detroit, MI 48202","2026/01/01",1400,"Studio | 1 Bath | 650 sq ft",NA
-"741","2732 Harrison St Unit #0, Detroit, MI 48216","2026/01/01",2750,"2 Beds | 2.5 Baths | 1,320 sq ft",NA
-"742","16175 Fairfield St, Detroit, MI 48221","2026/01/01",900,"1 Bed | 1 Bath | 1,300 sq ft",NA
-"743","14557 Strathmoor St Unit Bottom, Detroit, MI 48227","2026/01/01",1150,"2 Beds | 1 Bath | 1,033 sq ft",NA
-"744","17580 Northrop St, Detroit, MI 48219","2026/01/01",1400,"4 Beds | 1.5 Baths | 1,294 sq ft",NA
-"745","11716 Coyle St, Detroit, MI 48227","2026/01/01",1450,"3 Beds | 1 Bath | 1,006 sq ft",NA
-"746","15114 Holmur St, Detroit, MI 48238","2026/01/01",1350,"3 Beds | 1 Bath | 1,116 sq ft",NA
-"747","19934 Manor St, Detroit, MI 48221","2026/01/01",2000,"5 Beds | 1.5 Baths | 1,557 sq ft",NA
-"748","3402 Brush St Unit 1, Detroit, MI 48201","2026/01/01",2000,"2 Beds | 1 Bath | 1,300 sq ft",NA
-"749","2976 Hogarth St, Detroit, MI 48206","2026/01/01",1300,"3 Beds | 1 Bath | 1,345 sq ft",NA
-"750","260 Spencer St Unit B, Ferndale, MI 48220","2026/01/01",1495,"2 Beds | 1 Bath | 1,000 sq ft",NA
-"751","12819 Lenore, Redford, MI 48239","2026/01/01",1700,"3 Beds | 2 Baths | 1,001 sq ft",NA
-"752","18768 Roscommon St, Harper Woods, MI 48225","2026/01/01",1200,"2 Beds | 1 Bath | 800 sq ft",NA
-"753","19348 Washtenaw St, Harper Woods, MI 48225","2026/01/01",1600,"3 Beds | 1.5 Baths | 900 sq ft",NA
-"754","9412 Joseph Campau St Unit 9412, Hamtramck, MI 48212","2026/01/01",2700,"1 Bed | 1 Bath | 3,274 sq ft",NA
-"755","9421 Joseph Campau St Unit 9421-2, Hamtramck, MI 48212","2026/01/01",2750,"1 Bed | 1 Bath | 3,383 sq ft",NA
-"756","2022 E Saratoga St, Ferndale, MI 48220","2026/01/01",1800,"2 Beds | 1 Bath | 800 sq ft",NA
-"757","557 E Saratoga St, Ferndale, MI 48220","2026/01/01",2950,"3 Beds | 1 Bath | 1,100 sq ft",NA
-"758","17650 Palmer St Unit One story building, Melvindale, MI 48122","2026/01/01",950,"1 Bed | 1 Bath | 700 sq ft",NA
-"759","11603 Mitchell St Unit 1F, Hamtramck, MI 48212","2026/01/01",1000,"2 Beds | 1 Bath | 900 sq ft",NA
-"760","9618 Joseph Campau St Unit 9618 2S, Hamtramck, MI 48212","2026/01/01",2700,"2 Beds | 2 Baths | 2,357 sq ft",NA
-"761","9438 Joseph Campau Ave Unit 9438, Hamtramck, MI 48212","2026/01/01",2650,"1 Bed | 1 Bath | 1,750 sq ft",NA
-"762","9440 Joseph Campau Ave Unit 9440, Hamtramck, MI 48212","2026/01/01",2650,"1 Bed | 1 Bath | 1,750 sq ft",NA
-"763","1506 Chandler Ave Unit Chandler, Lincoln Park, MI 48146","2026/01/01",875,"2 Beds | 1 Bath | 800 sq ft",NA
-"764","2900 E Jefferson Ave Unit D601, Detroit, MI 48207","2026/01/01",1550,"1 Bed | 1 Bath | 928 sq ft",NA
-"765","525 W Lafayette Blvd Unit 18D, Detroit, MI 48226","2026/01/01",2650,"2 Beds | 2 Baths | 1,443 sq ft",NA
-"767","18725 Kelly Rd, Detroit, MI 48224","2026/01/01",1000,"2 Beds | 1 Bath | 1,000 sq ft",NA
-"768","15081 Young St, Detroit, MI 48205","2026/01/01",1400,"3 Beds | 2 Baths | 1,400 sq ft",NA
-"769","1151 Morrell St Unit 2F, Detroit, MI 48209","2026/01/01",695,"2 Beds | 1 Bath | 700 sq ft",NA
-"770","5503 Radnor St, Detroit, MI 48224","2026/01/01",1195,"3 Beds | 1 Bath | 1,008 sq ft",NA
-"771","15351 Stout St, Detroit, MI 48223","2026/01/01",1400,"3 Beds | 1 Bath | 1,400 sq ft",NA
-"772","9272 Fielding St, Detroit, MI 48228","2026/01/01",1250,"3 Beds | 1 Bath | 1,250 sq ft",NA
-"773","676 E Ferry St Unit 2 Bedroom, Detroit, MI 48202","2026/01/01",2000,"2 Beds | 1.5 Baths | 940 sq ft",NA
-"774","702 E Ferry St, Detroit, MI 48202","2026/01/01",1550,"1 Bed | 1.5 Baths | 750 sq ft",NA
-"775","9910 Vaughan St, Detroit, MI 48228","2026/01/01",1500,"3 Beds | 1 Bath | 1,050 sq ft",NA
-"776","3244 Clairmount St, Detroit, MI 48206","2026/01/01",1250,"2 Beds | 1 Bath | 1,107 sq ft",NA
-"777","4844 Commonwealth St Unit UB, Detroit, MI 48208","2026/01/01",1400,"2 Beds | 1 Bath | 750 sq ft",NA
-"778","1450 6th St Unit A, Detroit, MI 48226","2026/01/01",1650,"2 Beds | 1 Bath | 900 sq ft",NA
-"779","7042 Thatcher St Unit 1, Detroit, MI 48221","2026/01/01",1395,"3 Beds | 1 Bath | 1,200 sq ft",NA
-"780","86 Englewood St Unit 92, Detroit, MI 48202","2026/01/01",1650,"4 Beds | 1 Bath | 2,908 sq ft",NA
-"781","2506 W Euclid St Unit 2504, Detroit, MI 48206","2026/01/01",1650,"3 Beds | 1 Bath | 1,475 sq ft",NA
-"782","310 Hendrie St, Detroit, MI 48202","2026/01/01",2200,"4 Beds | 2 Baths | 1,500 sq ft",NA
-"783","1926 Seward St Unit 1, Detroit, MI 48206","2026/01/01",1400,"2 Beds | 1 Bath | 900 sq ft",NA
-"784","14810 Rossini Dr, Detroit, MI 48205","2026/01/01",1250,"4 Beds | 1 Bath | 1,300 sq ft",NA
-"785","12210 Longview St, Detroit, MI 48213","2026/01/01",1100,"3 Beds | 1 Bath | 1,020 sq ft",NA
-"786","14904 Appoline St, Detroit, MI 48227","2026/01/01",1000,"3 Beds | 1 Bath | 1,020 sq ft",NA
-"787","3239 Tyler St Unit Upper, Detroit, MI 48238","2026/01/01",895,"3 Beds | 1 Bath | 1,000 sq ft",NA
-"788","2020 24th St, Detroit, MI 48216","2026/01/01",1200,"2 Beds | 1 Bath | 750 sq ft",NA
-"789","6734 Clifton St, Detroit, MI 48210","2026/01/01",1000,"3 Beds | 1 Bath | 1,100 sq ft",NA
-"790","298 Josephine St, Detroit, MI 48202","2026/01/01",3295,"4 Beds | 2 Baths | 2,233 sq ft",NA
-"791","1945 W Bethune St Unit 2, Detroit, MI 48206","2026/01/01",1050,"1 Bed | 1 Bath | 700 sq ft",NA
-"792","1943 W Bethune St Unit 4, Detroit, MI 48206","2026/01/01",1050,"1 Bed | 1 Bath | 700 sq ft",NA
-"793","5766 Trumbull St Unit 204, Detroit, MI 48208","2026/01/01",2100,"2 Beds | 1.5 Baths | 1,083 sq ft",NA
-"794","250 E Harbortown Dr Unit 1011, Detroit, MI 48207","2026/01/01",1795,"1 Bed | 1 Bath | 1,023 sq ft",NA
-"795","14234 Curtis St, Detroit, MI 48235","2026/01/01",1000,"2 Beds | 1 Bath | 950 sq ft",NA
-"796","19668 Hanna St, Detroit, MI 48203","2026/01/01",750,"1 Bed | 1 Bath | 900 sq ft",NA
-"797","14903 Tracey St, Detroit, MI 48227","2026/01/01",1200,"3 Beds | 1 Bath | 1,004 sq ft",NA
-"798","9525 Robson St, Detroit, MI 48227","2026/01/01",1125,"3 Beds | 1 Bath | 961 sq ft",NA
-"799","17355 McIntyre St, Detroit, MI 48219","2026/01/01",1250,"3 Beds | 1 Bath | 1,550 sq ft",NA
-"800","16701 Tuller St, Detroit, MI 48221","2026/01/01",1335,"2 Beds | 1 Bath | 1,028 sq ft",NA
-"801","913 Alter Rd, Detroit, MI 48215","2026/01/01",1095,"2 Beds | 1 Bath | 1,050 sq ft",NA
-"802","438 Selden St Unit 403, Detroit, MI 48201","2026/01/01",3300,"2 Beds | 2 Baths | 1,130 sq ft",NA
-"803","701 W Canfield St Unit B2, Detroit, MI 48201","2026/01/01",1500,"1 Bed | 2 Baths | 1,100 sq ft",NA
-"804","16221 Santa Rosa Dr, Detroit, MI 48221","2026/01/01",800,"1 Bed | 1 Bath | 1,100 sq ft",NA
-"805","18011 Northlawn St Unit Lower, Detroit, MI 48221","2026/01/01",1100,"3 Beds | 1 Bath | 800 sq ft",NA
-"806","18497 Sussex St, Detroit, MI 48235","2026/01/01",1150,"3 Beds | 1 Bath | 1,050 sq ft",NA
-"807","17270 Bentler St Unit #40, Detroit, MI 48219","2026/01/01",995,"2 Beds | 1 Bath | 650 sq ft",NA
-"808","12211 Stoepel St Unit #1- Lower, Detroit, MI 48204","2026/01/01",995,"3 Beds | 1 Bath | 1,000 sq ft",NA
-"809","16081 Rossini Dr, Detroit, MI 48205","2026/01/01",1050,"3 Beds | 1 Bath | 856 sq ft",NA
-"810","12735 Lawton St, Detroit, MI 48238","2026/01/01",1050,"2 Beds | 1 Bath | 1,106 sq ft",NA
-"811","997 Nottingham Rd Unit 997 Nottingham -1 South, Grosse Pointe Park, MI 48230","2026/01/01",975,"2 Beds | 1 Bath | 1,000 sq ft",NA
-"812","182 Monterey St, Highland Park, MI 48203","2026/01/01",1495,"5 Beds | 2 Baths | 2,000 sq ft",NA
-"813","811 White Ave, Lincoln Park, MI 48146","2026/01/01",1499,"3 Beds | 1 Bath | 1,784 sq ft",NA
-"814","2647 Edwin St Unit #2, Hamtramck, MI 48212","2026/01/01",850,"2 Beds | 1 Bath | 800 sq ft",NA
-"815","1069 Wayburn St Unit 2, Grosse Pointe, MI 48230","2026/01/01",1300,"3 Beds | 1 Bath | 1,000 sq ft",NA
-"816","1096 Beaconsfield Ave Unit 1S, Grosse Pointe Park, MI 48230","2026/01/01",1400,"2 Beds | 1 Bath | 825 sq ft",NA
-"817","101 Colorado St, Highland Park, MI 48203","2026/01/01",2188,"4 Beds | 1.5 Baths | 1,695 sq ft",NA
-"818","26309 W 7 Mile Rd Unit 224, Redford, MI 48240","2026/01/01",1050,"2 Beds | 1 Bath | 900 sq ft",NA
-"819","1026 Lakepointe St Unit 1, Grosse Pointe Park, MI 48230","2026/01/01",1350,"2 Beds | 1 Bath | 900 sq ft",NA
-"820","186 Monterey St, Highland Park, MI 48203","2026/01/01",1395,"3 Beds | 1.5 Baths | 1,452 sq ft",NA
-"821","1465 Maryland St Unit 2, Grosse Pointe Park, MI 48230","2026/01/01",1200,"1 Bed | 1 Bath | 700 sq ft",NA
-"822","21536 Panama St, Warren, MI 48091","2026/01/01",1600,"3 Beds | 2 Baths | 1,410 sq ft",NA
-"823","825 Beaconsfield Ave Unit 2N, Grosse Pointe Park, MI 48230","2026/01/01",1100,"2 Beds | 1 Bath | 825 sq ft",NA
-"824","598 Notre Dame St, Grosse Pointe, MI 48230","2026/01/01",1095,"1 Bed | 1 Bath | 900 sq ft",NA
-"825","895 Harcourt Rd, Grosse Pointe Park, MI 48230","2026/01/01",2695,"3 Beds | 2 Baths | 1,660 sq ft",NA
-"826","15 Forest St, River Rouge, MI 48218","2026/01/01",1400,"3 Beds | 2 Baths | 1,556 sq ft",NA
-"827","3700 Pasadena St Unit 3, Detroit, MI 48238","2026/01/01",630,"1 Bed | 1 Bath | 500 sq ft",NA
-"828","20209 Revere St, Detroit, MI 48234","2026/01/01",1083,"3 Beds | 1 Bath | 1,085 sq ft",NA
-"829","1565 W Grand Blvd Unit 4, Detroit, MI 48208","2026/01/01",700,"2 Beds | 1 Bath | 910 sq ft",NA
-"830","1510 Virginia Park St, Detroit, MI 48206","2026/01/01",1500,"2 Beds | 1 Bath | 1,227 sq ft",NA
-"831","15893 Lauder St, Detroit, MI 48227","2026/01/01",1400,"4 Beds | 2 Baths | 1,450 sq ft",NA
-"832","512-514 Westminster St Unit #514, Detroit, MI 48202","2026/01/01",1400,"3 Beds | 1 Bath | 3,978 sq ft",NA
-"833","7410 Kercheval Ave Unit 212, Detroit, MI 48214","2026/01/01",1950,"2 Beds | 2 Baths | 1,017 sq ft",NA
-"834","4017 Blaine St, Detroit, MI 48204","2026/01/01",975,"3 Beds | 1 Bath | 2,682 sq ft",NA
-"835","12710 Kelly Rd, Detroit, MI 48224","2026/01/01",1250,"3 Beds | 1 Bath | 950 sq ft",NA
-"836","2928 Prince Hall Dr, Detroit, MI 48207","2026/01/01",2000,"2 Beds | 2 Baths | 1,425 sq ft",NA
-"837","1454 Townsend St Unit 205, Detroit, MI 48214","2026/01/01",2500,"2 Beds | 2 Baths | 1,194 sq ft",NA
-"838","15491 Seymour St, Detroit, MI 48205","2026/01/01",1020,"3 Beds | 1 Bath | 1,427 sq ft",NA
-"839","19620 Lyndon St, Detroit, MI 48223","2026/01/01",1250,"3 Beds | 1 Bath | 950 sq ft",NA
-"840","555 Brush St Unit 1615, Detroit, MI 48226","2026/01/01",1715,"2 Beds | 1 Bath | 1,020 sq ft",NA
-"841","555 Brush St Unit 2912, Detroit, MI 48226","2026/01/01",1860,"2 Beds | 2 Baths | 1,265 sq ft",NA
-"842","3020 E Grand Blvd, Detroit, MI 48202","2026/01/01",3150,"2 Beds | 1 Bath | 2,100 sq ft",NA
-"843","14623 Hubbell Ave, Detroit, MI 48227","2026/01/01",1550,"3 Beds | 1 Bath | 1,393 sq ft",NA
-"844","8426 Asbury Park, Detroit, MI 48228","2026/01/01",900,"2 Beds | 1 Bath | 692 sq ft",NA
-"845","19716 Fenmore St, Detroit, MI 48235","2026/01/01",975,"3 Beds | 1 Bath | 833 sq ft",NA
-"846","3957 Lenox St, Detroit, MI 48215","2026/01/01",1300,"3 Beds | 2 Baths | 1,174 sq ft",NA
-"847","15863 Kentucky St, Detroit, MI 48238","2026/01/01",1100,"3 Beds | 2 Baths | 2,431 sq ft",NA
-"848","78 Watson St Unit 8, Detroit, MI 48201","2026/01/01",2100,"1 Bed | 1 Bath | 1,200 sq ft",NA
-"849","19404 Saint Aubin St, Detroit, MI 48234","2026/01/01",1500,"4 Beds | 2 Baths | 1,272 sq ft",NA
-"850","13411 Tacoma St, Detroit, MI 48205","2026/01/01",1400,"3 Beds | 1.5 Baths | 1,044 sq ft",NA
-"851","19974 Ferguson St, Detroit, MI 48235","2026/01/01",1675,"3 Beds | 1 Bath | 913 sq ft",NA
-"852","17843 Strasburg St, Detroit, MI 48205","2026/01/01",1274,"3 Beds | 1 Bath | 1,070 sq ft",NA
-"853","2704 Webb St, Detroit, MI 48206","2026/01/01",935,"3 Beds | 1 Bath | 1,300 sq ft",NA
-"854","1623 Gladstone St, Detroit, MI 48206","2026/01/01",1900,"4 Beds | 2.5 Baths | 1,800 sq ft",NA
-"855","16906 Monica St, Detroit, MI 48221","2026/01/01",1100,"2 Beds | 1 Bath | 1,800 sq ft",NA
-"856","16581 Baylis St, Detroit, MI 48221","2026/01/01",1500,"3 Beds | 1 Bath | 2,912 sq ft",NA
-"857","19511 Greenfield Rd Unit #1, Detroit, MI 48235","2026/01/01",1000,"2 Beds | 1 Bath | 900 sq ft",NA
-"858","4654 Dickerson Ave, Detroit, MI 48215","2026/01/01",1500,"4 Beds | 2 Baths | 1,500 sq ft",NA
-"859","8931 Mt Elliott St, Detroit, MI 48211","2026/01/01",928,"1 Bed | 1 Bath",NA
-"860","8751 Elmira St Unit 9, Detroit, MI 48204","2026/01/01",700,"1 Bed | 1 Bath | 500 sq ft",NA
-"861","10071 Joy Rd Unit 3, Detroit, MI 48204","2026/01/01",720,"1 Bed | 1 Bath | 725 sq ft",NA
-"862","19501 Woodingham Dr, Detroit, MI 48221","2026/01/01",1300,"2 Beds | 2 Baths | 1,000 sq ft",NA
-"863","6010 Oldtown St, Detroit, MI 48224","2026/01/01",1150,"3 Beds | 1 Bath | 961 sq ft",NA
-"864","9255 Heyden, Detroit, MI 48228","2026/01/01",1200,"2 Beds | 1 Bath | 743 sq ft",NA
-"865","3524 Cadillac Blvd, Detroit, MI 48214","2026/01/01",1300,"3 Beds | 1 Bath | 2,218 sq ft",NA
-"866","701 W Canfield St Unit 5, Detroit, MI 48201","2026/01/01",3250,"2 Beds | 1.5 Baths | 1,094 sq ft",NA
-"867","4735 Rohns St Unit 206, Detroit, MI 48214","2026/01/01",1400,"2 Beds | 1 Bath | 850 sq ft",NA
-"868","593 Hague St, Detroit, MI 48202","2026/01/01",1195,"3 Beds | 1 Bath | 1,297 sq ft",NA
-"869","3224 Webb St, Detroit, MI 48206","2026/01/01",1300,"3 Beds | 2 Baths | 1,700 sq ft",NA
-"870","3008 Cortland St, Detroit, MI 48206","2026/01/01",1400,"4 Beds | 1 Bath | 1,700 sq ft",NA
-"871","14289 Linnhurst St, Detroit, MI 48205","2026/01/01",1549,"4 Beds | 1 Bath | 1,344 sq ft",NA
-"872","8955 Otsego St, Detroit, MI 48204","2026/01/01",1000,"1 Bed | 1 Bath | 3,500 sq ft",NA
-"873","14828 Sussex St, Detroit, MI 48227","2026/01/01",1195,"3 Beds | 1 Bath | 2,674 sq ft",NA
-"874","7312 American St, Detroit, MI 48210","2026/01/01",900,"2 Beds | 1 Bath | 2,132 sq ft",NA
-"875","73 Woodland St, Detroit, MI 48202","2026/01/01",1999,"5 Beds | 2 Baths | 2,465 sq ft",NA
-"876","2915 John R St, Detroit, MI 48201","2026/01/01",3500,"2 Beds | 2 Baths | 1,318 sq ft",NA
-"877","3520 Cadillac Blvd, Detroit, MI 48214","2026/01/01",1300,"3 Beds | 1 Bath | 2,218 sq ft",NA
-"878","18614 Griggs St, Detroit, MI 48221","2026/01/01",2000,"4 Beds | 2 Baths | 1,650 sq ft",NA
-"879","18697 Sunderland Rd, Detroit, MI 48219","2026/01/01",1300,"2 Beds | 1 Bath | 780 sq ft",NA
-"880","20532 Lesure St, Detroit, MI 48235","2026/01/01",1800,"3 Beds | 1 Bath | 945 sq ft",NA
-"881","6175 Guilford St, Detroit, MI 48224","2026/01/01",1400,"4 Beds | 1.5 Baths | 1,300 sq ft",NA
-"882","1300 E Lafayette St Unit 1209, Detroit, MI 48207","2026/01/01",1450,"1 Bed | 1 Bath | 739 sq ft",NA
-"883","3273 Cortland St, Detroit, MI 48206","2026/01/01",1500,"3 Beds | 1 Bath | 2,700 sq ft",NA
-"884","15714 Novara St, Detroit, MI 48205","2026/01/01",1599,"3 Beds | 1 Bath | 889 sq ft",NA
-"885","16157 Linwood St, Detroit, MI 48221","2026/01/01",1550,"3 Beds | 1.5 Baths | 1,346 sq ft",NA
-"886","8272 Outer Dr E, Detroit, MI 48213","2026/01/01",1500,"3 Beds | 2 Baths | 1,271 sq ft",NA
-"887","16199 Monica St, Detroit, MI 48221","2026/01/01",1600,"3 Beds | 1 Bath | 1,440 sq ft",NA
-"888","18290 Prairie St, Detroit, MI 48221","2026/01/01",1600,"3 Beds | 1 Bath | 1,587 sq ft",NA
-"889","2197 Springle St, Detroit, MI 48215","2026/01/01",900,"3 Beds | 1 Bath | 2,100 sq ft",NA
-"890","16540 Marlowe St, Detroit, MI 48235","2026/01/01",1800,"3 Beds | 2 Baths | 1,231 sq ft",NA
-"891","3788 Burns Ave, Detroit, MI 48214","2026/01/01",1500,"4 Beds | 1.5 Baths | 1,524 sq ft",NA
-"892","9336 Sussex St, Detroit, MI 48228","2026/01/01",1300,"3 Beds | 2 Baths | 1,100 sq ft",NA
-"893","20558 Oakfield Ave, Detroit, MI 48235","2026/01/01",1550,"3 Beds | 1 Bath | 977 sq ft",NA
-"894","5772 Guilford St, Detroit, MI 48224","2026/01/01",1225,"3 Beds | 1.5 Baths | 1,100 sq ft",NA
-"895","16073 Tacoma St, Detroit, MI 48205","2026/01/01",1050,"3 Beds | 1 Bath | 847 sq ft",NA
-"896","18488 Fairport St, Detroit, MI 48205","2026/01/01",1450,"4 Beds | 2 Baths | 1,066 sq ft",NA
-"897","19450 Heyden St, Detroit, MI 48219","2026/01/01",1150,"3 Beds | 1 Bath | 925 sq ft",NA
-"898","13946 Braile St, Detroit, MI 48223","2026/01/01",1550,"3 Beds | 1.5 Baths | 1,144 sq ft",NA
-"899","8900 Artesian St, Detroit, MI 48228","2026/01/01",1250,"2 Beds | 1 Bath | 746 sq ft",NA
-"900","11101 Kennebec St, Detroit, MI 48205","2026/01/01",1200,"2 Beds | 1 Bath | 900 sq ft",NA
-"901","11222 Wayburn St, Detroit, MI 48224","2026/01/01",1300,"3 Beds | 1 Bath | 1,080 sq ft",NA
-"902","19344 Bradford Ave, Detroit, MI 48205","2026/01/01",1200,"3 Beds | 1 Bath | 1,039 sq ft",NA
-"903","14024 Grandville Ave, Detroit, MI 48223","2026/01/01",1300,"2 Beds | 1 Bath | 915 sq ft",NA
-"904","10 Witherell St Unit 2803, Detroit, MI 48226","2026/01/01",2225,"2 Beds | 1 Bath | 922 sq ft",NA
-"905","411 Piquette Ave Unit C1, Detroit, MI 48202","2026/01/01",1305,"Studio | 1 Bath | 450 sq ft",NA
-"906","411 Piquette Ave Unit P, Detroit, MI 48202","2026/01/01",1210,"Studio | 1 Bath | 400 sq ft",NA
-"907","22510 Frisbee St, Detroit, MI 48219","2026/01/01",1300,"3 Beds | 1 Bath | 929 sq ft",NA
-"908","1285 16th St Unit 22, Detroit, MI 48216","2026/01/01",2500,"2 Beds | 2.5 Baths | 1,800 sq ft",NA
-"909","11160 Charlemagne Ave, Detroit, MI 48213","2026/01/01",1500,"3 Beds | 1 Bath | 914 sq ft",NA
-"910","799 E Grand Blvd Unit 7, Detroit, MI 48207","2026/01/01",1100,"1 Bed | 1 Bath | 425 sq ft",NA
-"911","6761 Mettetal St, Detroit, MI 48228","2026/01/01",1350,"3 Beds | 1 Bath | 1,034 sq ft",NA
-"912","7784 Mettetal St, Detroit, MI 48228","2026/01/01",1400,"3 Beds | 1 Bath | 914 sq ft",NA
-"913","6324 Montrose St, Detroit, MI 48228","2026/01/01",1400,"3 Beds | 1 Bath | 1,042 sq ft",NA
-"914","7785 Mettetal St, Detroit, MI 48228","2026/01/01",1400,"3 Beds | 1 Bath | 910 sq ft",NA
-"915","12648 Mettetal St, Detroit, MI 48227","2026/01/01",1275,"3 Beds | 1.5 Baths | 1,000 sq ft",NA
-"916","16169 Kentucky St, Detroit, MI 48221","2026/01/01",1350,"3 Beds | 1 Bath | 2,796 sq ft",NA
-"917","9319 Morang Ave, Detroit, MI 48224","2026/01/01",1300,"3 Beds | 1.5 Baths | 1,100 sq ft",NA
-"918","11733 Minden Ave, Detroit, MI 48205","2026/01/01",1375,"3 Beds | 1 Bath | 1,028 sq ft",NA
+"Address","Date","Rent","Aprt_Type","Building_Type"
+"100-300 Riverfront Dr, Detroit, MI 48226","2026/01/01",1196,"1 Bed","Apartment"
+"100-300 Riverfront Dr, Detroit, MI 48226","2026/01/01",1587,"2 Beds","Apartment"
+"411 Piquette St, Detroit, MI 48202","2026/01/01",1195,"Studio","Apartment"
+"411 Piquette St, Detroit, MI 48202","2026/01/01",1395,"1 Bed","Apartment"
+"5777 Southfield Fwy, Detroit, MI 48228","2026/01/01",900,"Studio","Apartment"
+"5777 Southfield Fwy, Detroit, MI 48228","2026/01/01",1045,"1 Bed","Apartment"
+"5777 Southfield Fwy, Detroit, MI 48228","2026/01/01",1375,"2 Beds","Apartment"
+"3439 Woodward Ave, Detroit, MI 48201","2026/01/01",1350,"Studio","Apartment"
+"3439 Woodward Ave, Detroit, MI 48201","2026/01/01",1225,"1 Bed","Apartment"
+"3439 Woodward Ave, Detroit, MI 48201","2026/01/01",2345,"2 Beds","Apartment"
+"1600 Antietam Ave, Detroit, MI 48207","2026/01/01",900,"Studio","Apartment"
+"1600 Antietam Ave, Detroit, MI 48207","2026/01/01",1025,"1 Bed","Apartment"
+"8805 Kingswood St, Detroit, MI 48221","2026/01/01",1035,"1 Bed","Apartment"
+"8805 Kingswood St, Detroit, MI 48221","2026/01/01",1095,"2 Beds","Apartment"
+"114 W Adams Rd, Detroit, MI 48226","2026/01/01",999,"Studio","Apartment"
+"114 W Adams Rd, Detroit, MI 48226","2026/01/01",1350,"1 Bed","Apartment"
+"114 W Adams Rd, Detroit, MI 48226","2026/01/01",2000,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"2911 W Grand Blvd, Detroit, MI 48202","2026/01/01",1395,"Studio","Apartment"
+"2911 W Grand Blvd, Detroit, MI 48202","2026/01/01",1615,"1 Bed","Apartment"
+"2911 W Grand Blvd, Detroit, MI 48202","2026/01/01",1860,"2 Beds","Apartment"
+"1265 Washington Blvd, Detroit, MI 48226","2026/01/01",1590,"Studio","Apartment"
+"1265 Washington Blvd, Detroit, MI 48226","2026/01/01",2135,"1 Bed","Apartment"
+"1265 Washington Blvd, Detroit, MI 48226","2026/01/01",3760,"2 Beds","Apartment"
+"440 Alfred St, Detroit, MI 48201","2026/01/01",1415,"Studio","Apartment"
+"440 Alfred St, Detroit, MI 48201","2026/01/01",1705,"1 Bed","Apartment"
+"440 Alfred St, Detroit, MI 48201","2026/01/01",2450,"2 Beds+","Apartment"
+"2701 Park Ave, Detroit, MI 48201","2026/01/01",1135,"Studio","Apartment"
+"2701 Park Ave, Detroit, MI 48201","2026/01/01",1789,"1 Bed","Apartment"
+"21516 Dequindre Rd, Warren, MI 48091","2026/01/01",990,"1 Bed","Apartment"
+"21516 Dequindre Rd, Warren, MI 48091","2026/01/01",1290,"2 Beds","Apartment"
+"16500 N Park Dr, Southfield, MI 48075","2026/01/01",959,"Studio","Apartment"
+"16500 N Park Dr, Southfield, MI 48075","2026/01/01",1399,"1 Bed","Apartment"
+"16500 N Park Dr, Southfield, MI 48075","2026/01/01",1639,"2 Beds+","Apartment"
+"4900 Heather Dr, Dearborn, MI 48126","2026/01/01",1225,"1 Bed","Apartment"
+"4900 Heather Dr, Dearborn, MI 48126","2026/01/01",1725,"2 Beds","Apartment"
+"1249 Griswold St, Detroit, MI 48226","2026/01/01",1250,"Studio","Apartment"
+"1249 Griswold St, Detroit, MI 48226","2026/01/01",1910,"1 Bed","Apartment"
+"1249 Griswold St, Detroit, MI 48226","2026/01/01",2100,"2 Beds","Apartment"
+"1212 Griswold St, Detroit, MI 48226","2026/01/01",1360,"Studio","Apartment"
+"1212 Griswold St, Detroit, MI 48226","2026/01/01",1920,"1 Bed","Apartment"
+"1145 Griswold St, Detroit, MI 48226","2026/01/01",1485,"Studio","Apartment"
+"1145 Griswold St, Detroit, MI 48226","2026/01/01",1620,"1 Bed","Apartment"
+"1145 Griswold St, Detroit, MI 48226","2026/01/01",2250,"2 Beds","Apartment"
+"150 Bagley St, Detroit, MI 48226","2026/01/01",1285,"1 Bed","Apartment"
+"150 Bagley St, Detroit, MI 48226","2026/01/01",3175,"2 Beds","Apartment"
+"1405 Rivard St, Detroit, MI 48207","2026/01/01",1115,"Studio","Apartment"
+"1405 Rivard St, Detroit, MI 48207","2026/01/01",1401,"1 Bed","Apartment"
+"1405 Rivard St, Detroit, MI 48207","2026/01/01",1686,"2 Beds","Apartment"
+"2420 Bagley Ave, Detroit, MI 48216","2026/01/01",1295,"Studio","Apartment"
+"2420 Bagley Ave, Detroit, MI 48216","2026/01/01",1440,"1 Bed","Apartment"
+"2420 Bagley Ave, Detroit, MI 48216","2026/01/01",2200,"2 Beds","Apartment"
+"450 Amsterdam St, Detroit, MI 48202","2026/01/01",1150,"Studio","Apartment"
+"450 Amsterdam St, Detroit, MI 48202","2026/01/01",1535,"1 Bed","Apartment"
+"450 Amsterdam St, Detroit, MI 48202","2026/01/01",1818,"2 Beds","Apartment"
+"3740 2nd Ave, Detroit, MI 48201","2026/01/01",1290,"Studio","Apartment"
+"3740 2nd Ave, Detroit, MI 48201","2026/01/01",1515,"1 Bed","Apartment"
+"240 Mack Ave, Detroit, MI 48201","2026/01/01",1100,"1 Bed",NA
+"1431 Washington Blvd, Detroit, MI 48226","2026/01/01",1275,"1 Bed","Apartment"
+"1431 Washington Blvd, Detroit, MI 48226","2026/01/01",1670,"2 Beds","Apartment"
+"555-575 Brush Ave, Detroit, MI 48226","2026/01/01",1330,"1 Bed","Apartment"
+"555-575 Brush Ave, Detroit, MI 48226","2026/01/01",1880,"2 Beds","Apartment"
+"1544 E Lafayette St, Detroit, MI 48207","2026/01/01",1450,"Studio","Apartment"
+"1544 E Lafayette St, Detroit, MI 48207","2026/01/01",1685,"1 Bed","Apartment"
+"1544 E Lafayette St, Detroit, MI 48207","2026/01/01",1795,"2 Beds","Apartment"
+"229 Orleans St, Detroit, MI 48207","2026/01/01",1325,"1 Bed","Apartment"
+"229 Orleans St, Detroit, MI 48207","2026/01/01",2225,"2 Beds","Apartment"
+"40 Davenport St, Detroit, MI 48201","2026/01/01",1000,"Studio","Apartment"
+"40 Davenport St, Detroit, MI 48201","2026/01/01",1300,"1 Bed","Apartment"
+"40 Davenport St, Detroit, MI 48201","2026/01/01",2000,"2 Beds","Apartment"
+"9000 E Jefferson Ave, Detroit, MI 48214","2026/01/01",948,"1 Bed","Apartment"
+"9000 E Jefferson Ave, Detroit, MI 48214","2026/01/01",1278,"2 Beds","Apartment"
+"9000 E Jefferson Ave, Detroit, MI 48214","2026/01/01",2725,"3 Beds+","Apartment"
+"1214-1230 Griswold St, Detroit, MI 48226","2026/01/01",1500,"3 Beds+",NA
+"76 W Adams Ave, Detroit, MI 48226","2026/01/01",1807,"1 Bed","Apartment"
+"76 W Adams Ave, Detroit, MI 48226","2026/01/01",2018,"2 Beds","Apartment"
+"1 Lafayette Plaisance St, Detroit, MI 48207","2026/01/01",1073,"Studio","Apartment"
+"1 Lafayette Plaisance St, Detroit, MI 48207","2026/01/01",1367,"1 Bed","Apartment"
+"1 Lafayette Plaisance St, Detroit, MI 48207","2026/01/01",1700,"2 Beds","Apartment"
+"500 River Place Dr, Detroit, MI 48207","2026/01/01",1200,"1 Bed","Apartment"
+"500 River Place Dr, Detroit, MI 48207","2026/01/01",1600,"2 Beds","Apartment"
+"500 River Place Dr, Detroit, MI 48207","2026/01/01",2100,"3 Beds","Apartment"
+"600 Woodward Ave, Detroit, MI 48226","2026/01/01",5000,"1 Bed","Apartment"
+"600 Woodward Ave, Detroit, MI 48226","2026/01/01",5400,"2 Beds","Apartment"
+"1117 Griswold St, Detroit, MI 48226","2026/01/01",1875,"1 Bed","Apartment"
+"1117 Griswold St, Detroit, MI 48226","2026/01/01",2375,"2 Beds","Apartment"
+"1511 1st St, Detroit, MI 48226","2026/01/01",800,"Studio","Apartment"
+"1511 1st St, Detroit, MI 48226","2026/01/01",1130,"1 Bed","Apartment"
+"313 Park Ave, Detroit, MI 48226","2026/01/01",1560,"1 Bed","Apartment"
+"313 Park Ave, Detroit, MI 48226","2026/01/01",2195,"2 Beds","Apartment"
+"4830 Cass Ave, Detroit, MI 48201","2026/01/01",1450,"Studio","Apartment"
+"4830 Cass Ave, Detroit, MI 48201","2026/01/01",1075,"1 Bed","Apartment"
+"4830 Cass Ave, Detroit, MI 48201","2026/01/01",2050,"2 Beds+","Apartment"
+"20875 Lahser Rd, Southfield, MI 48033","2026/01/01",975,"1 Bed","Apartment"
+"20875 Lahser Rd, Southfield, MI 48033","2026/01/01",1099,"2 Beds","Apartment"
+"15101 Ford Rd, Dearborn, MI 48126","2026/01/01",1500,"1 Bed","Apartment"
+"15101 Ford Rd, Dearborn, MI 48126","2026/01/01",2600,"2 Beds","Apartment"
+"4434-4444 Trumbull St, Detroit, MI 48208","2026/01/01",1695,"2 Beds","Apartment"
+"4434-4444 Trumbull St, Detroit, MI 48208","2026/01/01",2150,"3 Beds","Apartment"
+"7430 2nd Ave, Detroit, MI 48202","2026/01/01",1535,"Studio","Apartment"
+"7430 2nd Ave, Detroit, MI 48202","2026/01/01",1560,"1 Bed","Apartment"
+"7430 2nd Ave, Detroit, MI 48202","2026/01/01",2000,"2 Beds","Apartment"
+"7702 E Jefferson Ave, Detroit, MI 48214","2026/01/01",999,"Studio","Apartment"
+"7702 E Jefferson Ave, Detroit, MI 48214","2026/01/01",1250,"1 Bed","Apartment"
+"7702 E Jefferson Ave, Detroit, MI 48214","2026/01/01",1500,"2 Beds","Apartment"
+"1001 E Jefferson Ave, Detroit, MI 48207","2026/01/01",895,"Studio","Apartment"
+"1001 E Jefferson Ave, Detroit, MI 48207","2026/01/01",1260,"1 Bed","Apartment"
+"1001 E Jefferson Ave, Detroit, MI 48207","2026/01/01",1865,"2 Beds","Apartment"
+"25 E Palmer St, Detroit, MI 48202","2026/01/01",899,"Studio","Apartment"
+"25 E Palmer St, Detroit, MI 48202","2026/01/01",999,"1 Bed","Apartment"
+"484 Brainard St, Detroit, MI 48201","2026/01/01",895,"1 Bed",NA
+"1130 Holcomb St, Detroit, MI 48214","2026/01/01",730,"Studio","Apartment"
+"1130 Holcomb St, Detroit, MI 48214","2026/01/01",825,"1 Bed","Apartment"
+"1130 Holcomb St, Detroit, MI 48214","2026/01/01",995,"2 Beds","Apartment"
+"111 Cadillac Sq, Detroit, MI 48226","2026/01/01",795,"Studio","Apartment"
+"111 Cadillac Sq, Detroit, MI 48226","2026/01/01",935,"1 Bed","Apartment"
+"5965-6139 Evergreen Rd, Dearborn Heights, MI 48127","2026/01/01",1095,"1 Bed","Apartment"
+"5965-6139 Evergreen Rd, Dearborn Heights, MI 48127","2026/01/01",1250,"2 Beds","Apartment"
+"7100 Freda St, Dearborn, MI 48126","2026/01/01",745,"Studio","Apartment"
+"7100 Freda St, Dearborn, MI 48126","2026/01/01",745,"1 Bed","Apartment"
+"4707 Anthony Wayne Dr, Detroit, MI 48201","2026/01/01",1350,"1 Bed","Apartment"
+"4707 Anthony Wayne Dr, Detroit, MI 48201","2026/01/01",1470,"2 Beds","Apartment"
+"1150 Griswold St, Detroit, MI 48226","2026/01/01",1400,"Studio","Apartment"
+"1150 Griswold St, Detroit, MI 48226","2026/01/01",1760,"1 Bed","Apartment"
+"1150 Griswold St, Detroit, MI 48226","2026/01/01",2885,"2 Beds+","Apartment"
+"13010 Avondale St, Detroit, MI 48215","2026/01/01",1300,"1 Bed","Apartment"
+"13010 Avondale St, Detroit, MI 48215","2026/01/01",1500,"2 Beds","Apartment"
+"631 Orleans St, Detroit, MI 48207","2026/01/01",1125,"1 Bed","Apartment"
+"631 Orleans St, Detroit, MI 48207","2026/01/01",1450,"2 Beds","Apartment"
+"1387 E Larned St, Detroit, MI 48207","2026/01/01",1100,"Studio","Apartment"
+"1387 E Larned St, Detroit, MI 48207","2026/01/01",1250,"1 Bed","Apartment"
+"1387 E Larned St, Detroit, MI 48207","2026/01/01",1500,"2 Beds","Apartment"
+"1620 Michigan Ave, Detroit, MI 48216","2026/01/01",1160,"2 Beds",NA
+"3101-3111 Woodward Ave, Detroit, MI 48201","2026/01/01",1075,"1 Bed","Apartment"
+"3101-3111 Woodward Ave, Detroit, MI 48201","2026/01/01",1645,"2 Beds","Apartment"
+"1526 Centre St, Detroit, MI 48226","2026/01/01",1200,"2 Beds",NA
+"4240 Cass Ave, Detroit, MI 48201","2026/01/01",1350,"Studio","Apartment"
+"4240 Cass Ave, Detroit, MI 48201","2026/01/01",1450,"1 Bed","Apartment"
+"12635 Memorial St, Detroit, MI 48227","2026/01/01",995,"1 Bed","Apartment"
+"12635 Memorial St, Detroit, MI 48227","2026/01/01",1300,"2 Beds","Apartment"
+"4501 Woodward Ave, Detroit, MI 48201","2026/01/01",1685,"1 Bed","Apartment"
+"4501 Woodward Ave, Detroit, MI 48201","2026/01/01",1950,"2 Beds","Apartment"
+"5203 Chrysler Dr, Detroit, MI 48202","2026/01/01",1025,"1 Bed","Apartment"
+"5203 Chrysler Dr, Detroit, MI 48202","2026/01/01",1650,"3 Beds","Apartment"
+"415 Clifford St, Detroit, MI 48226","2026/01/01",1099,"Studio","Apartment"
+"415 Clifford St, Detroit, MI 48226","2026/01/01",1499,"1 Bed","Apartment"
+"415 Clifford St, Detroit, MI 48226","2026/01/01",1899,"2 Beds","Apartment"
+"1800 W Bethune St, Detroit, MI 48206","2026/01/01",1050,"1 Bed","Apartment"
+"1800 W Bethune St, Detroit, MI 48206","2026/01/01",1500,"2 Beds","Apartment"
+"2310 Cochrane St, Detroit, MI 48216","2026/01/01",1050,"Studio","Apartment"
+"2310 Cochrane St, Detroit, MI 48216","2026/01/01",1440,"1 Bed","Apartment"
+"750 Chene St, Detroit, MI 48207","2026/01/01",1045,"1 Bed",NA
+"1935 Chene Ct, Detroit, MI 48207","2026/01/01",800,"Studio","Apartment"
+"1935 Chene Ct, Detroit, MI 48207","2026/01/01",999,"1 Bed","Apartment"
+"1301 Orleans St, Detroit, MI 48207","2026/01/01",824,"Studio","Apartment"
+"1301 Orleans St, Detroit, MI 48207","2026/01/01",1092,"1 Bed","Apartment"
+"1301 Orleans St, Detroit, MI 48207","2026/01/01",1440,"2 Beds+","Apartment"
+"640 W Willis St, Detroit, MI 48201","2026/01/01",1000,"1 Bed","Apartment"
+"640 W Willis St, Detroit, MI 48201","2026/01/01",1200,"2 Beds","Apartment"
+"71 Garfield St, Detroit, MI 48201","2026/01/01",800,"Studio","Apartment"
+"71 Garfield St, Detroit, MI 48201","2026/01/01",1048,"1 Bed","Apartment"
+"71 Garfield St, Detroit, MI 48201","2026/01/01",1399,"2 Beds+","Apartment"
+"885 Covington Dr, Detroit, MI 48203","2026/01/01",885,"Studio","Apartment"
+"885 Covington Dr, Detroit, MI 48203","2026/01/01",900,"1 Bed","Apartment"
+"885 Covington Dr, Detroit, MI 48203","2026/01/01",1150,"2 Beds","Apartment"
+"320 E Grand Blvd, Detroit, MI 48207","2026/01/01",645,"Studio","Apartment"
+"320 E Grand Blvd, Detroit, MI 48207","2026/01/01",875,"1 Bed","Apartment"
+"320 E Grand Blvd, Detroit, MI 48207","2026/01/01",1095,"2 Beds","Apartment"
+"80 E Hancock St, Detroit, MI 48201","2026/01/01",720,"2 Beds",NA
+"780 Town Center Dr, Dearborn, MI 48126","2026/01/01",1250,"Studio","Apartment"
+"780 Town Center Dr, Dearborn, MI 48126","2026/01/01",1300,"1 Bed","Apartment"
+"780 Town Center Dr, Dearborn, MI 48126","2026/01/01",900,"2 Beds+","Apartment"
+"25010 W 8 Mile Rd, Southfield, MI 48033","2026/01/01",1000,"1 Bed","Apartment"
+"25010 W 8 Mile Rd, Southfield, MI 48033","2026/01/01",1365,"2 Beds","Apartment"
+"92 E Forest Ave, Detroit, MI 48201","2026/01/01",1100,"Studio","Apartment"
+"92 E Forest Ave, Detroit, MI 48201","2026/01/01",1600,"1 Bed","Apartment"
+"664 W Alexandrine St, Detroit, MI 48201","2026/01/01",1099,"Studio","Apartment"
+"664 W Alexandrine St, Detroit, MI 48201","2026/01/01",1415,"1 Bed","Apartment"
+"664 W Alexandrine St, Detroit, MI 48201","2026/01/01",1825,"2 Beds","Apartment"
+"36 Mount Vernon St, Detroit, MI 48202","2026/01/01",2100,"2 Beds",NA
+NA,NA,NA,NA,NA
+"624 Charlotte St, Detroit, MI 48201","2026/01/01",1000,"Studio","Apartment"
+"624 Charlotte St, Detroit, MI 48201","2026/01/01",1115,"1 Bed","Apartment"
+"2135 Hubbard St, Detroit, MI 48209","2026/01/01",975,"1 Bed",NA
+"1533 Ash St, Detroit, MI 48208","2026/01/01",1175,"1 Bed","Apartment"
+"1533 Ash St, Detroit, MI 48208","2026/01/01",1250,"2 Beds","Apartment"
+"12901-12935 Burt Rd, Detroit, MI 48223","2026/01/01",750,"2 Beds",NA
+NA,NA,NA,NA,NA
+"10201 Woodward Ave, Detroit, MI 48202","2026/01/01",607,"2 Beds",NA
+"7850 East Jefferson Ave, Detroit, MI 48214","2026/01/01",426,"Studio","Apartment"
+"7850 East Jefferson Ave, Detroit, MI 48214","2026/01/01",444,"1 Bed","Apartment"
+"7850 East Jefferson Ave, Detroit, MI 48214","2026/01/01",527,"2 Beds","Apartment"
+"1491 W 9 Mile Rd, Ferndale, MI 48220","2026/01/01",1450,"2 Beds",NA
+"22490 Saratoga St, Southfield, MI 48075","2026/01/01",1819,"2 Beds","Apartment"
+"22490 Saratoga St, Southfield, MI 48075","2026/01/01",1994,"3 Beds","Apartment"
+"22490 Saratoga St, Southfield, MI 48075","2026/01/01",2399,"4 Beds","Apartment"
+"8775 W 9 Mile Rd, Oak Park, MI 48237","2026/01/01",1100,"Studio","Apartment"
+"8775 W 9 Mile Rd, Oak Park, MI 48237","2026/01/01",1225,"1 Bed","Apartment"
+"800-820 Montie Rd, Lincoln Park, MI 48146","2026/01/01",950,"1 Bed","Apartment"
+"800-820 Montie Rd, Lincoln Park, MI 48146","2026/01/01",1050,"2 Beds","Apartment"
+"21314-21440 Macarthur Blvd, Warren, MI 48089","2026/01/01",945,"1 Bed","Apartment"
+"21314-21440 Macarthur Blvd, Warren, MI 48089","2026/01/01",1045,"2 Beds","Apartment"
+"14350 2nd Ave, Highland Park, MI 48203","2026/01/01",410,"1 Bed","Apartment"
+"14350 2nd Ave, Highland Park, MI 48203","2026/01/01",457,"2 Beds","Apartment"
+"14350 2nd Ave, Highland Park, MI 48203","2026/01/01",525,"3 Beds","Apartment"
+"17765 Manderson Rd, Detroit, MI 48203","2026/01/01",1095,"1 Bed","Apartment"
+"17765 Manderson Rd, Detroit, MI 48203","2026/01/01",1195,"2 Beds","Apartment"
+"1514 Washington Blvd, Detroit, MI 48226","2026/01/01",1400,"2 Beds",NA
+"81 Peterboro St, Detroit, MI 48201","2026/01/01",1250,"2 Beds",NA
+"1422 Michigan Ave, Detroit, MI 48216","2026/01/01",2049,"2 Beds",NA
+"35 W Grand River Ave, Detroit, MI 48226","2026/01/01",2240,"2 Beds",NA
+"8845 E Jefferson Ave, Detroit, MI 48214","2026/01/01",1100,"Studio","Apartment"
+"8845 E Jefferson Ave, Detroit, MI 48214","2026/01/01",1450,"2 Beds","Apartment"
+"457 E Kirby St, Detroit, MI 48202","2026/01/01",1300,"1 Bed","Apartment"
+"457 E Kirby St, Detroit, MI 48202","2026/01/01",1700,"2 Beds","Apartment"
+"1019-1065 Covington Dr, Detroit, MI 48203","2026/01/01",1295,"2 Beds",NA
+"825 Iroquois St, Detroit, MI 48214","2026/01/01",1075,"1 Bed","Apartment"
+"825 Iroquois St, Detroit, MI 48214","2026/01/01",1275,"2 Beds","Apartment"
+"1448 Woodward Ave, Detroit, MI 48226","2026/01/01",1770,"Studio","Apartment"
+"1448 Woodward Ave, Detroit, MI 48226","2026/01/01",1910,"1 Bed","Apartment"
+"677 Selden St, Detroit, MI 48201","2026/01/01",1400,"1 Bed",NA
+"651 W Hancock St, Detroit, MI 48201","2026/01/01",899,"Studio","Apartment"
+"651 W Hancock St, Detroit, MI 48201","2026/01/01",1100,"1 Bed","Apartment"
+"1700 W Fort St, Detroit, MI 48216","2026/01/01",1610,"1 Bed","Apartment"
+"1700 W Fort St, Detroit, MI 48216","2026/01/01",2310,"2 Beds","Apartment"
+"1700 W Fort St, Detroit, MI 48216","2026/01/01",2790,"3 Beds","Apartment"
+"66 Adelaide St, Detroit, MI 48201","2026/01/01",1050,"Studio","Apartment"
+"66 Adelaide St, Detroit, MI 48201","2026/01/01",1200,"1 Bed","Apartment"
+"66 Adelaide St, Detroit, MI 48201","2026/01/01",1900,"2 Beds","Apartment"
+"2021 Blaine St, Detroit, MI 48206","2026/01/01",1050,"1 Bed","Apartment"
+"2021 Blaine St, Detroit, MI 48206","2026/01/01",1250,"2 Beds","Apartment"
+"888 Pallister, Detroit, MI 48202","2026/01/01",950,"1 Bed","Apartment"
+"888 Pallister, Detroit, MI 48202","2026/01/01",1100,"2 Beds","Apartment"
+"1462 Van Dyke St, Detroit, MI 48214","2026/01/01",1420,"1 Bed","Apartment"
+"1462 Van Dyke St, Detroit, MI 48214","2026/01/01",2375,"2 Beds","Apartment"
+"1531 E Larned St, Detroit, MI 48207","2026/01/01",1200,"2 Beds",NA
+NA,NA,NA,NA,NA
+"3075 W Grand Blvd, Detroit, MI 48202","2026/01/01",1000,"Studio","Apartment"
+"3075 W Grand Blvd, Detroit, MI 48202","2026/01/01",1500,"1 Bed","Apartment"
+"3075 W Grand Blvd, Detroit, MI 48202","2026/01/01",1700,"2 Beds","Apartment"
+"479 W Willis St, Detroit, MI 48201","2026/01/01",849,"Studio","Apartment"
+"479 W Willis St, Detroit, MI 48201","2026/01/01",1149,"1 Bed","Apartment"
+"479 W Willis St, Detroit, MI 48201","2026/01/01",1399,"2 Beds","Apartment"
+"10 W Adams Ave, Detroit, MI 48226","2026/01/01",895,"Studio","Apartment"
+"10 W Adams Ave, Detroit, MI 48226","2026/01/01",1095,"1 Bed","Apartment"
+"10 W Adams Ave, Detroit, MI 48226","2026/01/01",1595,"2 Beds","Apartment"
+"930 E Lafayette St, Detroit, MI 48207","2026/01/01",1125,"1 Bed","Apartment"
+"930 E Lafayette St, Detroit, MI 48207","2026/01/01",1255,"2 Beds","Apartment"
+"641 Brainard St, Detroit, MI 48201","2026/01/01",991,"2 Beds","Apartment"
+"641 Brainard St, Detroit, MI 48201","2026/01/01",1401,"3 Beds","Apartment"
+"1775 Van Dyke St, Detroit, MI 48214","2026/01/01",1066,"3 Beds",NA
+"15111 Greenfield Rd, Detroit, MI 48227","2026/01/01",850,"3 Beds",NA
+"1440 Robert Bradby Dr, Detroit, MI 48207","2026/01/01",1271,"2 Beds","Apartment"
+"1440 Robert Bradby Dr, Detroit, MI 48207","2026/01/01",1471,"3 Beds","Apartment"
+"100 Glynn Ct, Detroit, MI 48202","2026/01/01",725,"3 Beds",NA
+"1516 Vinewood St, Detroit, MI 48216","2026/01/01",845,"1 Bed","Apartment"
+"1516 Vinewood St, Detroit, MI 48216","2026/01/01",1245,"2 Beds","Apartment"
+"1331 Holden St, Detroit, MI 48202","2026/01/01",1250,"1 Bed","Apartment"
+"1331 Holden St, Detroit, MI 48202","2026/01/01",2000,"2 Beds","Apartment"
+"15097-15101 Greenfield Rd, Detroit, MI 48227","2026/01/01",740,"2 Beds",NA
+"20479 Fleming St, Detroit, MI 48234","2026/01/01",945,"1 Bed","Apartment"
+"20479 Fleming St, Detroit, MI 48234","2026/01/01",1045,"2 Beds","Apartment"
+"2170 E Jefferson Ave, Detroit, MI 48207","2026/01/01",800,"Studio","Apartment"
+"2170 E Jefferson Ave, Detroit, MI 48207","2026/01/01",900,"1 Bed","Apartment"
+"2170 E Jefferson Ave, Detroit, MI 48207","2026/01/01",1075,"2 Beds","Apartment"
+"3001 14th St, Detroit, MI 48216","2026/01/01",1014,"1 Bed","Apartment"
+"3001 14th St, Detroit, MI 48216","2026/01/01",1209,"2 Beds","Apartment"
+"3001 14th St, Detroit, MI 48216","2026/01/01",1391,"3 Beds","Apartment"
+"329-381 Holbrook St, Detroit, MI 48202","2026/01/01",630,"Studio","Apartment"
+"329-381 Holbrook St, Detroit, MI 48202","2026/01/01",755,"1 Bed","Apartment"
+"22045-22065 W 8 Mile Rd, Detroit, MI 48219","2026/01/01",775,"1 Bed","Apartment"
+"22045-22065 W 8 Mile Rd, Detroit, MI 48219","2026/01/01",875,"2 Beds","Apartment"
+"120 Glynn Ct, Detroit, MI 48202","2026/01/01",595,"Studio","Apartment"
+"120 Glynn Ct, Detroit, MI 48202","2026/01/01",845,"1 Bed","Apartment"
+"120 Glynn Ct, Detroit, MI 48202","2026/01/01",995,"2 Beds+","Apartment"
+"709 Hazelwood St, Detroit, MI 48202","2026/01/01",600,"Studio","Apartment"
+"709 Hazelwood St, Detroit, MI 48202","2026/01/01",895,"1 Bed","Apartment"
+"80 Seward St, Detroit, MI 48202","2026/01/01",615,"Studio","Apartment"
+"80 Seward St, Detroit, MI 48202","2026/01/01",615,"1 Bed","Apartment"
+"2023 Tuxedo St, Detroit, MI 48206","2026/01/01",595,"1 Bed",NA
+"655 Hazelwood St, Detroit, MI 48202","2026/01/01",771,"1 Bed","Apartment"
+"655 Hazelwood St, Detroit, MI 48202","2026/01/01",829,"2 Beds","Apartment"
+"12870 W Outer Dr, Detroit, MI 48223","2026/01/01",655,"Studio","Apartment"
+"12870 W Outer Dr, Detroit, MI 48223","2026/01/01",800,"1 Bed","Apartment"
+"12870 W Outer Dr, Detroit, MI 48223","2026/01/01",900,"2 Beds","Apartment"
+"640 Delaware St, Detroit, MI 48202","2026/01/01",585,"2 Beds",NA
+"22325 W 8 Mile Rd, Detroit, MI 48219","2026/01/01",599,"Studio","Apartment"
+"22325 W 8 Mile Rd, Detroit, MI 48219","2026/01/01",740,"1 Bed","Apartment"
+"22325 W 8 Mile Rd, Detroit, MI 48219","2026/01/01",840,"2 Beds","Apartment"
+"19311 Votrobeck Dr, Detroit, MI 48219","2026/01/01",861,"2 Beds","Apartment"
+"19311 Votrobeck Dr, Detroit, MI 48219","2026/01/01",973,"3 Beds","Apartment"
+"5043 E Outer Dr, Detroit, MI 48234","2026/01/01",600,"1 Bed","Apartment"
+"5043 E Outer Dr, Detroit, MI 48234","2026/01/01",700,"2 Beds","Apartment"
+"1001 Leland St, Detroit, MI 48207","2026/01/01",445,"1 Bed","Apartment"
+"1001 Leland St, Detroit, MI 48207","2026/01/01",1100,"2 Beds","Apartment"
+"901 Saint Louis St, Ferndale, MI 48220","2026/01/01",1325,"2 Beds",NA
+"22111 Woodward Ave, Ferndale, MI 48220","2026/01/01",1899,"Studio","Apartment"
+"22111 Woodward Ave, Ferndale, MI 48220","2026/01/01",1999,"1 Bed","Apartment"
+"22111 Woodward Ave, Ferndale, MI 48220","2026/01/01",2599,"2 Beds","Apartment"
+"1270 Electric Ave, Lincoln Park, MI 48146","2026/01/01",1090,"2 Beds",NA
+"21629 Stratford Ct, Oak Park, MI 48237","2026/01/01",1250,"2 Beds","Apartment"
+"21629 Stratford Ct, Oak Park, MI 48237","2026/01/01",1649,"3 Beds","Apartment"
+"20600 Balfour Rd, Harper Woods, MI 48225","2026/01/01",1134,"1 Bed","Apartment"
+"20600 Balfour Rd, Harper Woods, MI 48225","2026/01/01",1446,"2 Beds","Apartment"
+"9731 Joseph Campau St, Hamtramck, MI 48212","2026/01/01",875,"2 Beds",NA
+"16300-16400 N Park Dr, Southfield, MI 48075","2026/01/01",1499,"2 Beds","Apartment"
+"16300-16400 N Park Dr, Southfield, MI 48075","2026/01/01",1679,"3 Beds","Apartment"
+"22316 La Seine St, Southfield, MI 48075","2026/01/01",1184,"1 Bed","Apartment"
+"22316 La Seine St, Southfield, MI 48075","2026/01/01",1349,"2 Beds","Apartment"
+"22316 La Seine St, Southfield, MI 48075","2026/01/01",2129,"3 Beds","Apartment"
+"1369 Fort St, Lincoln Park, MI 48146","2026/01/01",806,"Studio","Apartment"
+"1369 Fort St, Lincoln Park, MI 48146","2026/01/01",914,"1 Bed","Apartment"
+"1369 Fort St, Lincoln Park, MI 48146","2026/01/01",1050,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"25588 Shiawassee Rd, Southfield, MI 48033","2026/01/01",1088,"1 Bed","Apartment"
+"25588 Shiawassee Rd, Southfield, MI 48033","2026/01/01",1244,"2 Beds","Apartment"
+"20800 Wyoming St, Ferndale, MI 48220","2026/01/01",850,"1 Bed","Apartment"
+"20800 Wyoming St, Ferndale, MI 48220","2026/01/01",900,"2 Beds","Apartment"
+"15421 James St, Oak Park, MI 48237","2026/01/01",925,"1 Bed","Apartment"
+"15421 James St, Oak Park, MI 48237","2026/01/01",1110,"2 Beds","Apartment"
+"743 Beaubien St Unit 303, Detroit, MI 48226","2026/01/01",1545,"1 Bed, 1 Bath, 1,100 sq ft","Apartment"
+"7377 Melrose St, Detroit, MI 48211","2026/01/01",2199,"3 Beds, 2 Baths, 1,600 sq ft","Apartment"
+"15829 Evanston St Unit 2, Detroit, MI 48224","2026/01/01",1100,"2 Beds, 1 Bath, 1,000 sq ft","Apartment"
+"260 Town Center Dr, Dearborn, MI 48126","2026/01/01",1499,"2 Beds, 1 Bath, 1,000 sq ft","Apartment"
+"100-300 Riverfront Dr, Detroit, MI 48226","2026/01/01",1362,"Unit 2025C at Riverfront Towers","Apartment"
+"2699 Guoin St, Detroit, MI 48207","2026/01/01",3150,"Guoin Street Lofts","Apartment"
+"741 Seward St, Detroit, MI 48202","2026/01/01",1095,"Studio","Apartment"
+"741 Seward St, Detroit, MI 48202","2026/01/01",1195,"1 Bed","Apartment"
+"675 W Willis St, Detroit, MI 48201","2026/01/01",1395,"The Willis","Apartment"
+"51 W Palmer, Detroit, MI 48202","2026/01/01",995,"Studio","Apartment"
+"51 W Palmer, Detroit, MI 48202","2026/01/01",1395,"1 Bed","Apartment"
+"4052 W Vernor Hwy, Detroit, MI 48209","2026/01/01",1172,"1 Bed","Apartment"
+"4052 W Vernor Hwy, Detroit, MI 48209","2026/01/01",1495,"2 Beds","Apartment"
+"8805 Kingswood St, Detroit, MI 48221","2026/01/01",1430,"Unit 11110 at Sherwood Heights","Apartment"
+"18027 Hoover St, Detroit, MI 48205","2026/01/01",879,"Hoover Street Apartments","Apartment"
+"4004-4030 Porter St, Detroit, MI 48209","2026/01/01",1495,"1 Bed","Apartment"
+"4004-4030 Porter St, Detroit, MI 48209","2026/01/01",2800,"3 Beds","Apartment"
+NA,NA,NA,NA,NA
+"2072 Wabash St, Detroit, MI 48216","2026/01/01",1125,"Wabash Flats","Apartment"
+"16895 Lahser Rd, Detroit, MI 48219","2026/01/01",950,"Tuskegee Air Apartments","Apartment"
+"22330 W Warren Ave, Detroit, MI 48239","2026/01/01",975,"Redford Square Apartments","Apartment"
+"1160 Seward St, Detroit, MI 48202","2026/01/01",950,"Bedford Apartments","Apartment"
+"321 W Lafayette Blvd, Detroit, MI 48226","2026/01/01",995,"Studio","Apartment"
+"321 W Lafayette Blvd, Detroit, MI 48226","2026/01/01",1610,"1 Bed","Apartment"
+"321 W Lafayette Blvd, Detroit, MI 48226","2026/01/01",2500,"2 Beds+","Apartment"
+NA,NA,NA,NA,NA
+"17161 Denver St, Detroit, MI 48224","2026/01/01",900,"17161 Denver St","Apartment"
+"3901 Grand River Ave, Detroit, MI 48208","2026/01/01",941,"1 Bed","Apartment"
+"3901 Grand River Ave, Detroit, MI 48208","2026/01/01",1057,"2 Beds","Apartment"
+"19143 Berg Rd, Detroit, MI 48219","2026/01/01",899,"1 Bed","Apartment"
+"19143 Berg Rd, Detroit, MI 48219","2026/01/01",1199,"2 Beds","Apartment"
+"40 Hague St, Detroit, MI 48202","2026/01/01",1050,"Studio","Apartment"
+"40 Hague St, Detroit, MI 48202","2026/01/01",1500,"1 Bed","Apartment"
+"40 Hague St, Detroit, MI 48202","2026/01/01",1875,"2 Beds","Apartment"
+"4401-4417 2nd Ave, Detroit, MI 48201","2026/01/01",990,"Studio","Apartment"
+"4401-4417 2nd Ave, Detroit, MI 48201","2026/01/01",1100,"1 Bed","Apartment"
+"2199 Prince Hall Dr, Detroit, MI 48207","2026/01/01",1115,"Prince Hall","Apartment"
+"5721 Saint Antoine St, Detroit, MI 48202","2026/01/01",1527,"2 Beds","Apartment"
+"5721 Saint Antoine St, Detroit, MI 48202","2026/01/01",1632,"3 Beds","Apartment"
+"1401 Chene St, Detroit, MI 48207","2026/01/01",919,"Studio","Apartment"
+"1401 Chene St, Detroit, MI 48207","2026/01/01",1029,"1 Bed","Apartment"
+"225 Covington Dr, Detroit, MI 48203","2026/01/01",1016,"1 Bed","Apartment"
+"225 Covington Dr, Detroit, MI 48203","2026/01/01",1073,"2 Beds","Apartment"
+"225 Covington Dr, Detroit, MI 48203","2026/01/01",1095,"3 Beds","Apartment"
+"828 W Willis St, Detroit, MI 48201","2026/01/01",950,"The Rochelle aka Fourth Willis","Apartment"
+"20551-20555 Lahser Rd, Detroit, MI 48219","2026/01/01",865,"1 Bed","Apartment"
+"20551-20555 Lahser Rd, Detroit, MI 48219","2026/01/01",1000,"2 Beds","Apartment"
+"1265 Washington Blvd, Detroit, MI 48226","2026/01/01",1795,"Unit 1901 at Book Tower","Apartment"
+"5440 Cass Ave, Detroit, MI 48202","2026/01/01",850,"Studio","Apartment"
+"5440 Cass Ave, Detroit, MI 48202","2026/01/01",999,"1 Bed","Apartment"
+"5440 Cass Ave, Detroit, MI 48202","2026/01/01",1707,"2 Beds+","Apartment"
+"1291 W State Fair, Detroit, MI 48203","2026/01/01",865,"1 Bed","Apartment"
+"1291 W State Fair, Detroit, MI 48203","2026/01/01",950,"2 Beds","Apartment"
+"12880 Dolson St, Detroit, MI 48223","2026/01/01",825,"1 Bed","Apartment"
+"12880 Dolson St, Detroit, MI 48223","2026/01/01",1100,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"4470-4480 E Outer Dr, Detroit, MI 48234","2026/01/01",1095,"E Outer Drive Apartments","Apartment"
+"14027 Montrose St, Detroit, MI 48227","2026/01/01",800,"14027 Montrose St","Apartment"
+"10343 Crocuslawn Ave, Detroit, MI 48204","2026/01/01",950,"Grant & Main - 10343 Crocuslawn St","Apartment"
+"2701 Park Ave, Detroit, MI 48201","2026/01/01",1135,"Unit 211 at Eddystone","Apartment"
+"12200 Cheyenne St, Detroit, MI 48227","2026/01/01",1100,"12200 Cheyenne St","Apartment"
+"14881 Schaefer Hwy, Detroit, MI 48227","2026/01/01",765,"Stacey Ann Apartments","Apartment"
+"1190 Seward St, Detroit, MI 48206","2026/01/01",695,"Studio","Apartment"
+"1190 Seward St, Detroit, MI 48206","2026/01/01",850,"1 Bed","Apartment"
+"7815 E Jefferson Ave, Detroit, MI 48214","2026/01/01",720,"1 Bed","Apartment"
+"7815 E Jefferson Ave, Detroit, MI 48214","2026/01/01",864,"2 Beds","Apartment"
+"9200 W Vernor Hwy, Detroit, MI 48209","2026/01/01",835,"1 Bed","Apartment"
+"9200 W Vernor Hwy, Detroit, MI 48209","2026/01/01",1093,"2 Beds","Apartment"
+"411 Piquette St, Detroit, MI 48202","2026/01/01",1340,"Unit 201 at Piquette Flats","Apartment"
+"2001 Chene St, Detroit, MI 48207","2026/01/01",878,"1 Bed","Apartment"
+"2001 Chene St, Detroit, MI 48207","2026/01/01",1040,"2 Beds","Apartment"
+"15041 Greenfield Rd, Detroit, MI 48227","2026/01/01",750,"15041 Greenfield Rd","Apartment"
+"15818 Puritan St, Detroit, MI 48227","2026/01/01",795,"Puritan Apartments","Apartment"
+"1085 Van Dyke St, Detroit, MI 48214","2026/01/01",810,"Village Park Apartments","Apartment"
+"13160 W Outer Dr, Detroit, MI 48223","2026/01/01",745,"1 Bed","Apartment"
+"13160 W Outer Dr, Detroit, MI 48223","2026/01/01",895,"2 Beds","Apartment"
+"5777 Southfield Fwy, Detroit, MI 48228","2026/01/01",1440,"Unit 0124 at GoodHomes Detroit","Apartment"
+"2601 W McNichols Rd, Detroit, MI 48221","2026/01/01",995,"1 Bed","Apartment"
+"2601 W McNichols Rd, Detroit, MI 48221","2026/01/01",1200,"2 Beds","Apartment"
+"3843 Puritan St, Detroit, MI 48238","2026/01/01",841,"1 Bed","Apartment"
+"3843 Puritan St, Detroit, MI 48238","2026/01/01",1004,"2 Beds","Apartment"
+"18637-18717 James Couzens Fwy, Detroit, MI 48235","2026/01/01",800,"1 Bed","Apartment"
+"18637-18717 James Couzens Fwy, Detroit, MI 48235","2026/01/01",975,"2 Beds","Apartment"
+"691 Seward St, Detroit, MI 48202","2026/01/01",786,"1 Bed","Apartment"
+"691 Seward St, Detroit, MI 48202","2026/01/01",954,"2 Beds","Apartment"
+"19800 Telegraph Rd, Detroit, MI 48219","2026/01/01",834,"1 Bed","Apartment"
+"19800 Telegraph Rd, Detroit, MI 48219","2026/01/01",972,"2 Beds","Apartment"
+"3439 Woodward Ave, Detroit, MI 48201","2026/01/01",1475,"Unit 350 at Woodward West","Apartment"
+"9303 E Jefferson Ave, Detroit, MI 48214","2026/01/01",682,"Studio","Apartment"
+"9303 E Jefferson Ave, Detroit, MI 48214","2026/01/01",1004,"2 Beds","Apartment"
+"23740 Fenkell St, Detroit, MI 48223","2026/01/01",645,"Studio","Apartment"
+"23740 Fenkell St, Detroit, MI 48223","2026/01/01",795,"1 Bed","Apartment"
+"23740 Fenkell St, Detroit, MI 48223","2026/01/01",895,"2 Beds","Apartment"
+"20485 Goddard St, Detroit, MI 48234","2026/01/01",720,"Studio","Apartment"
+"20485 Goddard St, Detroit, MI 48234","2026/01/01",895,"1 Bed","Apartment"
+"20485 Goddard St, Detroit, MI 48234","2026/01/01",995,"2 Beds","Apartment"
+"18450 W Chicago St, Detroit, MI 48228","2026/01/01",646,"1 Bed","Apartment"
+"18450 W Chicago St, Detroit, MI 48228","2026/01/01",743,"2 Beds","Apartment"
+"91 Harper Ave, Detroit, MI 48202","2026/01/01",971,"2 Beds","Apartment"
+"91 Harper Ave, Detroit, MI 48202","2026/01/01",1171,"3 Beds","Apartment"
+"455 W Marshall St, Ferndale, MI 48220","2026/01/01",1450,"The Marshall Place","Apartment"
+"90 Catherine St, River Rouge, MI 48218","2026/01/01",825,"90 Catherine St","Apartment"
+NA,NA,NA,NA,NA
+"10 Ferris St, Highland Park, MI 48203","2026/01/01",625,"Studio","Apartment"
+"10 Ferris St, Highland Park, MI 48203","2026/01/01",725,"1 Bed","Apartment"
+"24106-24276 Ann Arbor Trl, Dearborn Heights, MI 48127","2026/01/01",1145,"24106-24276 Ann Arbor Trl","Apartment"
+"757 Covington Dr, Highland Park, MI 48203","2026/01/01",800,"1 Bed","Apartment"
+"757 Covington Dr, Highland Park, MI 48203","2026/01/01",900,"2 Beds","Apartment"
+"19204-19296 Rockcastle St, Harper Woods, MI 48225","2026/01/01",950,"Pointe Garden Apartments","Apartment"
+"20 Sears St, Highland Park, MI 48203","2026/01/01",957,"2 Beds","Apartment"
+"20 Sears St, Highland Park, MI 48203","2026/01/01",1161,"3 Beds","Apartment"
+"14374 E 9 Mile Rd, Warren, MI 48089","2026/01/01",800,"1 Bed","Apartment"
+"14374 E 9 Mile Rd, Warren, MI 48089","2026/01/01",1000,"2 Beds","Apartment"
+"1201 Fort St, Lincoln Park, MI 48146","2026/01/01",675,"1 Bed","Apartment"
+"1201 Fort St, Lincoln Park, MI 48146","2026/01/01",805,"2 Beds","Apartment"
+"4900 Heather Dr, Dearborn, MI 48126","2026/01/01",1750,"Unit V211 at Fairlane Meadow Apartments and Townhomes","Apartment"
+"111 State St, Detroit, MI 48226","2026/01/01",5135,"2 Beds","Apartment"
+"111 State St, Detroit, MI 48226","2026/01/01",5590,"2 Beds","Apartment"
+"1220 Griswold St, Detroit, MI 48226","2026/01/01",3865,"2 Beds","Apartment"
+"702 E Ferry St Unit ID1228684P, Detroit, MI 48202","2026/01/01",1596,"1 Bed | 1 Bath | 710 sq ft","House"
+"457 E Kirby St Unit ID1228594P, Detroit, MI 48202","2026/01/01",1921,"1 Bed | 1 Bath | 645 sq ft","House"
+"13914 Outer Dr W, Detroit, MI 48239","2026/01/01",1500,"4 Beds","House"
+"14975 Hubbell Ave, Detroit, MI 48227","2026/01/01",1150,"3 Beds","House"
+"4878 Tarnow St, Detroit, MI 48210","2026/01/01",3083,"3 Beds","House"
+"2009 Sharon St, Detroit, MI 48209","2026/01/01",4856,"3 Beds","House"
+"1125 Lansing St, Detroit, MI 48209","2026/01/01",2716,"3 Beds","House"
+"1145 Griswold St, Detroit, MI 48226","2026/01/01",2250,"2 Beds, 2 Baths, 1,179 sq ft","House"
+"280 Hague St, Detroit, MI 48202","2026/01/01",4879,"6 Beds","House"
+"5357 Burns Ave, Detroit, MI 48213","2026/01/01",975,"2 Beds","House"
+"15395 Linwood St, Detroit, MI 48238","2026/01/01",950,"1 Bed","House"
+"3170 Woods Cir Dr, Detroit, MI 48207","2026/01/01",2000,"4 Beds","House"
+"19188 Pelkey St, Detroit, MI 48205","2026/01/01",1200,"3 Beds","House"
+"9555 Montrose St, Detroit, MI 48227","2026/01/01",1275,"3 Beds | 1 Bath | 1,000 sq ft","House"
+"6474 St Marys St, Detroit, MI 48228","2026/01/01",1350,"3 Beds","House"
+"20263 Caldwell St, Detroit, MI 48234","2026/01/01",1350,"3 Beds","House"
+"1xxxx Baylis St Unit 16605, Detroit, MI 48221","2026/01/01",1275,"3 Beds | 1 Bath","House"
+"1xxxx Baylis St Unit 16603, Detroit, MI 48221","2026/01/01",1275,"3 Beds | 1 Bath","House"
+"9000 E Jefferson Ave, Detroit, MI 48214","2026/01/01",3019,"3 Beds | 3 Baths | 1,950 sq ft","House"
+"18025 Teppert St, Detroit, MI 48234","2026/01/01",1200,"3 Beds","House"
+"310 Gratiot Ave, Detroit, MI 48226","2026/01/01",2274,"1 Bed","House"
+"310 Gratiot Ave, Detroit, MI 48226","2026/01/01",1734,"Studio","House"
+"310 Gratiot Ave, Detroit, MI 48226","2026/01/01",1742,"Studio","House"
+"310 Gratiot Ave, Detroit, MI 48226","2026/01/01",1893,"Studio","House"
+"1214-1230 Griswold St, Detroit, MI 48226","2026/01/01",1680,"1 Bed, 1 Bath, 623 sq ft","House"
+"310 Gratiot Ave, Detroit, MI 48226","2026/01/01",1885,"Studio","House"
+"19510 Stratford Rd, Detroit, MI 48221","2026/01/01",2950,"3 Beds","House"
+"330 Westminster St, Detroit, MI 48202","2026/01/01",2000,"3 Beds","House"
+"4811 Cadieux Rd, Detroit, MI 48224","2026/01/01",1200,"2 Beds","House"
+"76 W Adams Ave, Detroit, MI 48226","2026/01/01",1807,"1 Bed, 1 Bath, 600 sq ft","House"
+"2509 Gladstone St, Detroit, MI 48206","2026/01/01",2950,"6 Beds","House"
+"8951 La Salle Blvd, Detroit, MI 48206","2026/01/01",2500,"5 Beds","House"
+"7635 Evergreen Rd, Detroit, MI 48228","2026/01/01",1350,"3 Beds","House"
+"17314 Hoover St, Detroit, MI 48205","2026/01/01",1200,"2 Beds","House"
+"11171 Charlemagne Ave, Detroit, MI 48213","2026/01/01",1200,"3 Beds","House"
+"1 Lafayette Plaisance St, Detroit, MI 48207","2026/01/01",1507,"1 Bed, 1 Bath, 705 sq ft","House"
+"3960 3 Mile Dr, Detroit, MI 48224","2026/01/01",900,"1 Bed","House"
+"1400 Seward Ave, Detroit, MI 48206","2026/01/01",1398,"3 Beds","House"
+"18411 Meyers Rd, Detroit, MI 48235","2026/01/01",995,"1 Bed | 1 Bath | 1,706 sq ft","Apartment"
+"9429 Brush St, Detroit, MI 48202","2026/01/01",1095,"2 Beds","Apartment"
+"9353 Kentucky St, Detroit, MI 48204","2026/01/01",1099,"2 Beds","Apartment"
+"4400 Buckingham Unit Upper, Detroit, MI 48224","2026/01/01",1050,"2 Beds | 1 Bath","Apartment"
+"11350 Stockwell St, Detroit, MI 48224","2026/01/01",1350,"3 Beds | 1.5 Baths","Apartment"
+"14732 Woodmont Ave, Detroit, MI 48227","2026/01/01",1400,"3 Beds | 1 Bath","Apartment"
+"1920 Atkinson St, Detroit, MI 48206","2026/01/01",1195,"1 Bed","Apartment"
+"1117 Griswold St, Detroit, MI 48226","2026/01/01",2770,"2 Beds, 2 Baths, 1,100 sq ft","Apartment"
+"63 E Palmer St, Detroit, MI 48202","2026/01/01",1733,"4 Beds","Apartment"
+"18667 Algonac St, Detroit, MI 48234","2026/01/01",1999,"1 Bed","Apartment"
+"18667 Algonac St, Detroit, MI 48234","2026/01/01",1100,"19309 Avon Ave, Detroit, MI 48219","Apartment"
+"5054 Linsdale St, Detroit, MI 48204","2026/01/01",825,"1 Bed","Apartment"
+"3734 Atkinson St, Detroit, MI 48206","2026/01/01",1150,"2 Beds","Apartment"
+"17150 Santa Rosa Dr, Detroit, MI 48221","2026/01/01",1150,"1 Bed","Apartment"
+"2484 Woodmere St, Detroit, MI 48209","2026/01/01",1300,"3 Beds","Apartment"
+"2710 Wreford St, Detroit, MI 48208","2026/01/01",1650,"2 Beds | 1 Bath | 1,225 sq ft","Apartment"
+"275 E Palmer St, Detroit, MI 48202","2026/01/01",2950,"3 Beds | 3 Baths | 1,458 sq ft","Apartment"
+"4316 Lakewood St, Detroit, MI 48215","2026/01/01",1650,"3 Beds | 1 Bath | 2,409 sq ft","Apartment"
+"313 Park Ave, Detroit, MI 48226","2026/01/01",2195,"2 Beds | 2 Baths | 960 sq ft","Apartment"
+"298 Josephine St, Detroit, MI 48202","2026/01/01",3400,"4 Beds","Apartment"
+"15872 Fairmount Dr, Detroit, MI 48205","2026/01/01",1100,"3 Beds","Apartment"
+"16582 Santa Rosa Dr, Detroit, MI 48221","2026/01/01",1519,"3 Beds","Apartment"
+"6130 Beniteau St, Detroit, MI 48213","2026/01/01",1344,"3 Beds","Apartment"
+"13514 Stahelin Rd, Detroit, MI 48223","2026/01/01",1374,"3 Beds","Apartment"
+"4830 Cass Ave, Detroit, MI 48201","2026/01/01",950,"3 Beds, 3 Baths, 1,275 sq ft","Apartment"
+"15355 Plainview Ave, Detroit, MI 48223","2026/01/01",1399,"3 Beds","Apartment"
+"18437 Trinity St, Detroit, MI 48219","2026/01/01",1364,"3 Beds","Apartment"
+"15909 Maddelein St, Detroit, MI 48205","2026/01/01",1266,"3 Beds","Apartment"
+"13538 Rosemont Ave, Detroit, MI 48223","2026/01/01",1446,"3 Beds","Apartment"
+"17144 Heyden St, Detroit, MI 48219","2026/01/01",1244,"3 Beds","Apartment"
+"8100-8106 E Jefferson Ave, Detroit, MI 48214","2026/01/01",1340,"2 Beds, 2 Baths, 1,030 sq ft","Apartment"
+"15532 Baylis St, Detroit, MI 48238","2026/01/01",1237,"3 Beds","Apartment"
+"15519 Plainview Ave, Detroit, MI 48223","2026/01/01",1396,"3 Beds","Apartment"
+"9142 Isham Ave, Detroit, MI 48213","2026/01/01",1344,"3 Beds","Apartment"
+"8193 Traverse St, Detroit, MI 48213","2026/01/01",1382,"3 Beds","Apartment"
+"3475 Crane St, Detroit, MI 48214","2026/01/01",1484,"3 Beds","Apartment"
+"3500 E Jefferson Ave, Detroit, MI 48207","2026/01/01",2545,"2 Beds, 2 Baths, 1,175 sq ft","Apartment"
+"18525 McCormick St, Detroit, MI 48224","2026/01/01",1374,"3 Beds","Apartment"
+"9354 Bessemore St, Detroit, MI 48213","2026/01/01",1294,"3 Beds","Apartment"
+"14919 Lesure St, Detroit, MI 48227","2026/01/01",1337,"3 Beds","Apartment"
+"21440 Bennett St, Detroit, MI 48219","2026/01/01",1394,"3 Beds","House"
+"15811 Trinity St, Detroit, MI 48223","2026/01/01",1268,"2 Beds","House"
+"3150 Woodward Ave, Detroit, MI 48201","2026/01/01",2565,"1 Bed, 2 Baths, 927 sq ft","House"
+"8606 Cloverlawn Ave, Detroit, MI 48204","2026/01/01",1275,"3 Beds","House"
+"9376 Otsego St, Detroit, MI 48204","2026/01/01",1396,"3 Beds","House"
+"16720 Rockdale St, Detroit, MI 48219","2026/01/01",1015,"3 Beds","House"
+"17125 Greenlawn St, Detroit, MI 48221","2026/01/01",1000,"2 Beds","House"
+"15812 Kentucky St, Detroit, MI 48238","2026/01/01",925,"2 Beds","House"
+"3498 Haverhill St, Detroit, MI 48224","2026/01/01",945,"3 Beds","House"
+"4837 Cadieux Rd, Detroit, MI 48224","2026/01/01",1200,"2 Beds","House"
+"4014 Somerset Ave, Detroit, MI 48224","2026/01/01",1225,"3 Beds","House"
+"4014 Somerset Ave, Detroit, MI 48224","2026/01/01",1400,"7419 Asbury Park, Detroit, MI 48228","House"
+"200 Mt Elliott St, Detroit, MI 48207","2026/01/01",2000,"1 Bed","House"
+"6073 Linwood St, Detroit, MI 48208","2026/01/01",1145,"2 Beds","House"
+"16145 Baylis St, Detroit, MI 48221","2026/01/01",1300,"2 Beds | 1 Bath | 946 sq ft","House"
+"7010 Thatcher St, Detroit, MI 48221","2026/01/01",1200,"2 Beds | 1 Bath | 2,125 sq ft","House"
+"8900 E Jefferson Ave Unit 624, Detroit, MI 48214","2026/01/01",1000,"Studio | 1 Bath | 425 sq ft","House"
+"3716 Lincoln St Unit 5, Detroit, MI 48208","2026/01/01",1600,"1 Bed | 1 Bath | 5,954 sq ft","House"
+"310 Gratiot Ave, Detroit, MI 48226","2026/01/01",1815,"2 Beds | 2 Baths | 1,059 sq ft","House"
+"4488 Maryland St, Detroit, MI 48224","2026/01/01",1095,"3 Beds","House"
+"15914 Dacosta St, Detroit, MI 48223","2026/01/01",1300,"3 Beds | 1 Bath | 874 sq ft","House"
+"2028 Pine St, Detroit, MI 48216","2026/01/01",2400,"3 Beds","House"
+"2506 W Euclid St, Detroit, MI 48206","2026/01/01",1675,"3 Beds","House"
+"5766 3 Mile Dr, Detroit, MI 48224","2026/01/01",1447,"4 Beds","House"
+"5535 Devonshire Rd, Detroit, MI 48224","2026/01/01",1754,"4 Beds","House"
+"12400 Duchess St, Detroit, MI 48224","2026/01/01",1122,"3 Beds","House"
+"76 W Bethune St, Detroit, MI 48202","2026/01/01",2200,"3 Beds | 2 Baths | 1,254 sq ft","House"
+"15906 Alden St, Detroit, MI 48238","2026/01/01",1300,"3 Beds | 1 Bath | 1,030 sq ft","House"
+"4840 St Clair St, Detroit, MI 48214","2026/01/01",994,"2 Beds","House"
+"12078 N Martindale St, Detroit, MI 48204","2026/01/01",1100,"3 Beds","House"
+"14118 Evergreen Rd, Detroit, MI 48223","2026/01/01",994,"2 Beds","House"
+"18499 Vaughan St, Detroit, MI 48219","2026/01/01",1299,"3 Beds","House"
+"15910 Saratoga Ave, Detroit, MI 48205","2026/01/01",1394,"3 Beds","House"
+"19373 St Marys St, Detroit, MI 48235","2026/01/01",1374,"3 Beds","House"
+"13500 Penrod St, Detroit, MI 48223","2026/01/01",1400,"2 Beds","House"
+"6177 Hereford St, Detroit, MI 48224","2026/01/01",1100,"3 Beds","House"
+"14613 Coyle St, Detroit, MI 48227","2026/01/01",1300,"3 Beds","House"
+"9264 Ward Ave, Detroit, MI 48228","2026/01/01",1200,"2 Beds","House"
+"4837 Cadieux Rd, Detroit, MI 48224","2026/01/01",1200,"2 Beds","Apartment"
+"1535 Sixth St Unit 5, Detroit, MI 48226","2026/01/01",6000,"3 Beds | 3 Baths | 5,600 sq ft","Apartment"
+"4055 Puritan Ave, Detroit, MI 48238","2026/01/01",1250,"2 Beds","Apartment"
+"6015 Garland St, Detroit, MI 48213","2026/01/01",1400,"3 Beds","Apartment"
+"4865 Cadieux Rd, Detroit, MI 48224","2026/01/01",1200,"2 Beds","Apartment"
+"3353 Fullerton Ave, Detroit, MI 48238","2026/01/01",1300,"3 Beds","Apartment"
+"18935 Indiana St, Detroit, MI 48221","2026/01/01",1399,"3 Beds","Apartment"
+"450 Amsterdam St, Detroit, MI 48202","2026/01/01",1750,"1 Bed, 1 Bath, 600 sq ft","Apartment"
+"15625 Bringard Dr, Detroit, MI 48205","2026/01/01",1325,"3 Beds","Apartment"
+"11466 Somerset Ave, Detroit, MI 48224","2026/01/01",1150,"2 Beds","Apartment"
+"1731 Parker St, Detroit, MI 48214","2026/01/01",2995,"3 Beds","Apartment"
+"1731 Parker St, Detroit, MI 48214","2026/01/01",1150,"11466 Somerset Ave, Detroit, MI 48224","Apartment"
+"1731 Parker St, Detroit, MI 48214","2026/01/01",1325,"15625 Bringard Dr, Detroit, MI 48205","Apartment"
+"3740 2nd Ave, Detroit, MI 48201","2026/01/01",1315,"Studio | 1 Bath | 370 sq ft","Apartment"
+"20144 Stoepel St, Detroit, MI 48221","2026/01/01",1300,"2 Beds","Apartment"
+"20185 Indiana St, Detroit, MI 48221","2026/01/01",1250,"2 Beds | 1 Bath | 996 sq ft","Apartment"
+"19657 Caldwell St, Detroit, MI 48234","2026/01/01",1095,"3 Beds | 1 Bath | 1,117 sq ft","Apartment"
+"18401 Joy Rd, Detroit, MI 48228","2026/01/01",875,"1 Bed","Apartment"
+"10925 Nottingham Rd, Detroit, MI 48224","2026/01/01",1000,"2 Beds | 1 Bath | 1,100 sq ft","Apartment"
+"2032 Kendall St, Detroit, MI 48238","2026/01/01",1225,"3 Beds | 1 Bath | 1,300 sq ft","Apartment"
+"15518 Snowden St, Detroit, MI 48227","2026/01/01",1750,"5 Beds","Apartment"
+"10860 Duprey St, Detroit, MI 48224","2026/01/01",1400,"4 Beds","Apartment"
+"19795 Patton St, Detroit, MI 48219","2026/01/01",1250,"3 Beds","Apartment"
+"9355 Ward Ave, Detroit, MI 48228","2026/01/01",1400,"3 Beds","Apartment"
+"1431 Washington Blvd, Detroit, MI 48226","2026/01/01",2035,"2 Beds, 2 Baths, 1,000 sq ft","Apartment"
+"19449 W Chicago, Detroit, MI 48228","2026/01/01",1195,"3 Beds | 1.5 Baths | 950 sq ft","Apartment"
+"487 Chalmers St, Detroit, MI 48215","2026/01/01",1650,"3 Beds","Apartment"
+"12635 Outer Dr W, Detroit, MI 48223","2026/01/01",800,"1 Bed","Apartment"
+"5500 Chalmers St, Detroit, MI 48213","2026/01/01",1300,"2 Beds","Apartment"
+"15840 Ardmore St, Detroit, MI 48227","2026/01/01",1400,"3 Beds | 2 Baths | 900 sq ft","Apartment"
+"16021 Liberal St, Detroit, MI 48205","2026/01/01",1350,"3 Beds","Apartment"
+"5513 Somerset Ave, Detroit, MI 48224","2026/01/01",1000,"2 Beds | 1 Bath | 2,303 sq ft","Apartment"
+"16177 Turner St, Detroit, MI 48221","2026/01/01",1475,"5 Beds","Apartment"
+"8181 House St, Detroit, MI 48234","2026/01/01",1294,"3 Beds","Apartment"
+"16246 Fairfield St, Detroit, MI 48221","2026/01/01",1425,"3 Beds","Apartment"
+"1544 E Lafayette St, Detroit, MI 48207","2026/01/01",2145,"2 Beds, 2 Baths, 1,017 sq ft","Apartment"
+"7794 Abington Ave, Detroit, MI 48228","2026/01/01",1300,"3 Beds","Apartment"
+"2900 E Jefferson Ave, Detroit, MI 48207","2026/01/01",1600,"1 Bed | 2 Baths | 1,000 sq ft","Apartment"
+"1458 Virginia Park St, Detroit, MI 48206","2026/01/01",2500,"2 Beds | 1 Bath | 1,184 sq ft","Apartment"
+"15608 Wabash St, Detroit, MI 48238","2026/01/01",1000,"2 Beds | 1 Bath | 1,357 sq ft","Apartment"
+"4218 Buena Vista St, Detroit, MI 48238","2026/01/01",1500,"3 Beds","Apartment"
+"40 Davenport St, Detroit, MI 48201","2026/01/01",1650,"1 Bed, 1 Bath, 483 sq ft","Apartment"
+"20144 Stoepel St, Detroit, MI 48221","2026/01/01",1300,"3 Beds","Apartment"
+"4000 Berkshire St, Detroit, MI 48224","2026/01/01",1400,"3 Beds | 2 Baths | 1,512 sq ft","Apartment"
+"6306 Farmbrook St, Detroit, MI 48224","2026/01/01",1150,"3 Beds","Apartment"
+"14211 Plainview Ave, Detroit, MI 48223","2026/01/01",1150,"3 Beds","Apartment"
+"8939 Dexter Ave, Detroit, MI 48206","2026/01/01",1000,"3 Beds | 1 Bath | 4,790 sq ft","Apartment"
+"1575 Cherboneau Pl, Detroit, MI 48207","2026/01/01",1200,"1 Bed","Apartment"
+"16175 Fairfield St, Detroit, MI 48221","2026/01/01",900,"1 Bed","Apartment"
+"15601 Schoolcraft Rd Unit 1, Detroit, MI 48227","2026/01/01",700,"1 Bed | 1 Bath | 700 sq ft","Apartment"
+"15601 Schoolcraft Rd Unit 2, Detroit, MI 48227","2026/01/01",850,"2 Beds | 1 Bath | 700 sq ft","Apartment"
+"17421 Quincy St, Detroit, MI 48221","2026/01/01",1700,"3 Beds | 2 Baths | 1,474 sq ft","Apartment"
+"17421 Quincy St, Detroit, MI 48221","2026/01/01",866,"11611 Morang Ave, Detroit, MI 48224","Apartment"
+"17421 Quincy St, Detroit, MI 48221","2026/01/01",950,"3548 St Clair St, Detroit, MI 48214","Apartment"
+"16146 W Parkway St, Detroit, MI 48219","2026/01/01",1400,"3 Beds","Apartment"
+"15601 Schoolcraft Rd Unit 6, Detroit, MI 48227","2026/01/01",850,"2 Beds | 1 Bath | 700 sq ft","Apartment"
+"3224 Monterey St, Detroit, MI 48206","2026/01/01",1350,"2 Beds","Apartment"
+"17390 Albion Ave, Detroit, MI 48234","2026/01/01",1350,"3 Beds","Apartment"
+"16723 Asbury Park, Detroit, MI 48235","2026/01/01",1200,"2 Beds | 1 Bath | 944 sq ft","Apartment"
+"15236 Tireman Ave, Detroit, MI 48228","2026/01/01",775,"1 Bed","Apartment"
+"4066 Tyler St, Detroit, MI 48238","2026/01/01",850,"1 Bed | 1 Bath | 800 sq ft","Apartment"
+"15601 Schoolcraft Rd Unit 3, Detroit, MI 48227","2026/01/01",700,"1 Bed | 1 Bath | 700 sq ft","Apartment"
+"19339 Fenelon St, Detroit, MI 48234","2026/01/01",1000,"2 Beds","Apartment"
+"866 Pingree St, Detroit, MI 48202","2026/01/01",250,"1 Bed","Apartment"
+"14552 Southfield Fwy, Detroit, MI 48223","2026/01/01",1375,"3 Beds","Apartment"
+"4066 Tyler St, Detroit, MI 48238","2026/01/01",800,"1 Bed | 1 Bath | 800 sq ft","Apartment"
+"18559 Mackay St, Detroit, MI 48234","2026/01/01",950,"2 Beds | 1 Bath | 800 sq ft","Apartment"
+"20515 Moross Rd, Detroit, MI 48224","2026/01/01",1150,"2 Beds","Apartment"
+"16188 Lawton St Unit 2 Upper, Detroit, MI 48221","2026/01/01",1300,"3 Beds | 2 Baths","Apartment"
+"16188 Lawton St Unit 1 Lower, Detroit, MI 48221","2026/01/01",1300,"3 Beds | 1 Bath","Apartment"
+"3638 Bedford St, Detroit, MI 48224","2026/01/01",600,"1 Bed","Apartment"
+"11324 Beaverland St, Detroit, MI 48239","2026/01/01",1150,"3 Beds","Apartment"
+"15003 Ardmore St, Detroit, MI 48227","2026/01/01",1200,"3 Beds","Apartment"
+"7822 Forrer St, Detroit, MI 48228","2026/01/01",1100,"2 Beds","Apartment"
+"1326 E Evelyn Ave, Hazel Park, MI 48030","2026/01/01",6813,"3 Beds","Apartment"
+"221 Ardmore Dr, Ferndale, MI 48220","2026/01/01",4467,"2 Beds","Apartment"
+"1019 E Hayes Ave, Hazel Park, MI 48030","2026/01/01",5894,"3 Beds","Apartment"
+"9443 McDougall, Hamtramck, MI 48212","2026/01/01",980,"2 Beds","Apartment"
+"18604 Marx St, Highland Park, MI 48203","2026/01/01",1350,"3 Beds","Apartment"
+"150 W Harry Ave, Hazel Park, MI 48030","2026/01/01",1350,"2 Beds","Apartment"
+"3748 15th St, Ecorse, MI 48229","2026/01/01",1199,"2 Beds","Apartment"
+"101 Colorado St, Highland Park, MI 48203","2026/01/01",2188,"4 Beds","Apartment"
+"428 Beechwood St, River Rouge, MI 48218","2026/01/01",1400,"3 Beds","Apartment"
+"22148 Dante St, Oak Park, MI 48237","2026/01/01",1475,"2 Beds","Apartment"
+"22148 Dante St, Oak Park, MI 48237","2026/01/01",1300,"8242 Maxwell Ave, Warren, MI 48089","Apartment"
+"18941 Elkhart St, Harper Woods, MI 48225","2026/01/01",1300,"3 Beds | 1 Bath | 1,101 sq ft","Apartment"
+"18941 Elkhart St, Harper Woods, MI 48225","2026/01/01",1200,"22641 Van Dyke Ave, Warren, MI 48089","Apartment"
+"12411 Georgiana Ave, Warren, MI 48089","2026/01/01",1275,"3 Beds","Apartment"
+"12411 Georgiana Ave, Warren, MI 48089","2026/01/01",1000,"59 W Margaret St, Highland Park, MI 48203","Apartment"
+"20269 Elkhart St, Harper Woods, MI 48225","2026/01/01",1250,"3 Beds","Apartment"
+"13337 W Nine Mile Rd Unit 102, Oak Park, MI 48237","2026/01/01",1200,"2 Beds | 1 Bath | 813 sq ft","Apartment"
+"13337 W Nine Mile Rd Unit 102, Oak Park, MI 48237","2026/01/01",1900,"242 W Webster St, Ferndale, MI 48220","Apartment"
+"13337 W Nine Mile Rd Unit 102, Oak Park, MI 48237","2026/01/01",2200,"645 Neff Rd, Grosse Pointe, MI 48230","Apartment"
+"13337 W Nine Mile Rd Unit 102, Oak Park, MI 48237","2026/01/01",1650,"310 E Harry Ave, Hazel Park, MI 48030","Apartment"
+"18251 Brady St, Redford Township, MI 48240","2026/01/01",1295,"3 Beds","Apartment"
+"8651 Hazelton St, Dearborn Heights, MI 48127","2026/01/01",1950,"3 Beds","Apartment"
+"26309 Seven Mile W, Redford, MI 48240","2026/01/01",1050,"2 Beds | 1 Bath | 860 sq ft","Apartment"
+"565 W Saratoga St, Ferndale, MI 48220","2026/01/01",2300,"3 Beds | 1 Bath | 1,410 sq ft","Apartment"
+"565 W Saratoga St, Ferndale, MI 48220","2026/01/01",1850,"1261 E Chesterfield St, Ferndale, MI 48220","Apartment"
+"565 W Saratoga St, Ferndale, MI 48220","2026/01/01",2250,"292 W Marshall St, Ferndale, MI 48220","Apartment"
+"565 W Saratoga St, Ferndale, MI 48220","2026/01/01",1300,"29 E Harry Ave, Hazel Park, MI 48030","Apartment"
+"22174 Cushing Ave, Eastpointe, MI 48021","2026/01/01",1200,"3 Beds","Apartment"
+"22174 Cushing Ave, Eastpointe, MI 48021","2026/01/01",1700,"3581 Reeves Dr, Melvindale, MI 48122","Apartment"
+"1403 E Maxlow Ave, Hazel Park, MI 48030","2026/01/01",1400,"2 Beds","Apartment"
+"25337 Ivanhoe Ave, Redford Township, MI 48239","2026/01/01",1245,"3 Beds","Apartment"
+"21901 Sloman St, Oak Park, MI 48237","2026/01/01",1350,"2 Beds","Apartment"
+"3588 Toepfer Rd, Warren, MI 48091","2026/01/01",1500,"3 Beds","Apartment"
+"19444 Lennane St, Redford Township, MI 48240","2026/01/01",1600,"3 Beds","Apartment"
+"19 E James St, River Rouge, MI 48218","2026/01/01",900,"1 Bed","Apartment"
+"21781 Stratford St, Oak Park, MI 48237","2026/01/01",1600,"3 Beds | 3 Baths | 1,407 sq ft","Apartment"
+"4248 8th St, Ecorse, MI 48229","2026/01/01",1200,"2 Beds","Apartment"
+"4331 6th St, Ecorse, MI 48229","2026/01/01",1500,"3 Beds","Apartment"
+"805 E Milton Ave, Hazel Park, MI 48030","2026/01/01",1450,"2 Beds | 1 Bath | 1,000 sq ft","Apartment"
+"805 E Milton Ave, Hazel Park, MI 48030","2026/01/01",1250,"20940 Wellington Ave, Warren, MI 48089","Apartment"
+"1753 E Milton Ave, Hazel Park, MI 48030","2026/01/01",2000,"3 Beds | 1 Bath | 1,096 sq ft","Apartment"
+"864 Nottingham Rd, Grosse Pointe Park, MI 48230","2026/01/01",1100,"2 Beds | 1 Bath | 825 sq ft","Apartment"
+"864 Nottingham Rd, Grosse Pointe Park, MI 48230","2026/01/01",2100,"1261 Pearson St, Ferndale, MI 48220","House"
+"21315 Prestwick Ave, Harper Woods, MI 48225","2026/01/01",1300,"3 Beds","House"
+"15161 Sprenger Ave, Eastpointe, MI 48021","2026/01/01",1800,"3 Beds | 2 Baths | 1,352 sq ft","House"
+"20019 Lexington, Redford Township, MI 48240","2026/01/01",1550,"3 Beds","House"
+"2557 John R St Unit 2557, Detroit, MI 48201","2026/01/01",2100,"3 Beds | 1.5 Baths | 1,400 sq ft","House"
+"11917 Laing St, Detroit, MI 48224","2026/01/01",1629,"4 Beds | 2 Baths | 1,800 sq ft","House"
+"8351 Bliss St, Detroit, MI 48234","2026/01/01",1499,"3 Beds | 2 Baths | 1,650 sq ft","House"
+"12705 Kelly Rd, Detroit, MI 48224","2026/01/01",1000,"2 Beds | 1 Bath | 1,200 sq ft","House"
+"12709 Kelly Rd, Detroit, MI 48224","2026/01/01",1000,"2 Beds | 1 Bath | 1,200 sq ft","House"
+"18617 Kelly Rd, Detroit, MI 48224","2026/01/01",1000,"2 Beds | 1 Bath | 1,500 sq ft","House"
+"18615 Kelly Rd, Detroit, MI 48224","2026/01/01",1000,"2 Beds | 1 Bath | 1,000 sq ft","House"
+"12017 College St, Detroit, MI 48205","2026/01/01",1529,"3 Beds | 1.5 Baths | 1,850 sq ft","House"
+"5300 Mitchell St Unit Lower front west, Detroit, MI 48211","2026/01/01",700,"2 Beds | 1 Bath | 500 sq ft","House"
+"5304 Mitchell St Unit Upper Front West, Detroit, MI 48211","2026/01/01",900,"2 Beds | 1 Bath | 900 sq ft","House"
+"15366 Stout St, Detroit, MI 48223","2026/01/01",1500,"4 Beds | 2 Baths | 1,800 sq ft","House"
+"11801 Riad St, Detroit, MI 48224","2026/01/01",1400,"3 Beds | 1 Bath | 1,500 sq ft","House"
+"11651 Hubbell St, Detroit, MI 48227","2026/01/01",1295,"3 Beds | 1 Bath | 1,000 sq ft","House"
+"18821 Kelly Rd, Detroit, MI 48224","2026/01/01",1050,"2 Beds | 1 Bath | 1,000 sq ft","House"
+"18516 Runyon St, Detroit, MI 48234","2026/01/01",1400,"3 Beds | 2 Baths | 1,800 sq ft","House"
+"18612 Blackmoor St, Detroit, MI 48234","2026/01/01",1400,"3 Beds | 1 Bath | 1,500 sq ft","House"
+"11813 Engleside St, Detroit, MI 48205","2026/01/01",1529,"3 Beds | 2 Baths | 1,850 sq ft","House"
+"13550 Faust Ave, Detroit, MI 48223","2026/01/01",1375,"3 Beds | 1 Bath | 1,500 sq ft","House"
+"18451 Kelly Rd, Detroit, MI 48224","2026/01/01",1000,"2 Beds | 1 Bath | 1,000 sq ft","House"
+"19309 Westbrook St, Detroit, MI 48219","2026/01/01",1050,"2 Beds | 1 Bath | 731 sq ft","House"
+"7464 Southfield Fwy Unit 7460, Detroit, MI 48228","2026/01/01",950,"2 Beds | 1 Bath | 750 sq ft","House"
+"15081 Young St, Detroit, MI 48205","2026/01/01",1400,"3 Beds | 1.5 Baths | 1,700 sq ft","House"
+"330 Westminster St, Detroit, MI 48202","2026/01/01",2000,"3 Beds | 1 Bath | 1,995 sq ft","House"
+"3200 Glynn Ct Unit 1 Bedroom, Detroit, MI 48206","2026/01/01",750,"1 Bed | 1 Bath | 800 sq ft","House"
+"19510 Stratford Rd, Detroit, MI 48221","2026/01/01",2950,"4 Beds | 3.5 Baths | 4,057 sq ft","House"
+"13580 Ohio St Unit 2, Detroit, MI 48238","2026/01/01",900,"2 Beds | 1 Bath | 800 sq ft","House"
+"2509 Gladstone St, Detroit, MI 48206","2026/01/01",2950,"6 Beds | 3 Baths | 3,008 sq ft","House"
+"4820 Haverhill St Unit #2, Detroit, MI 48224","2026/01/01",950,"2 Beds | 1 Bath | 900 sq ft","House"
+"4431 Commonwealth St, Detroit, MI 48208","2026/01/01",1700,"4 Beds | 2 Baths | 2,000 sq ft","House"
+"16224 Kentucky St Unit Top 2, Detroit, MI 48221","2026/01/01",1000,"2 Beds | 1 Bath | 1,200 sq ft","House"
+"2980 Tyler St Unit 2980, Detroit, MI 48238","2026/01/01",1200,"3 Beds | 1 Bath | 1,250 sq ft","House"
+"2928 Prince Hall Dr, Detroit, MI 48207","2026/01/01",2200,"2 Beds | 2 Baths | 1,425 sq ft","House"
+"8200 E Jefferson Ave Unit 1703, Detroit, MI 48214","2026/01/01",2000,"2 Beds | 2 Baths | 1,142 sq ft","House"
+"16260 Fairfield St, Detroit, MI 48221","2026/01/01",1500,"3 Beds | 1 Bath | 1,520 sq ft","House"
+"2310 Pasadena St Unit 1, Detroit, MI 48238","2026/01/01",850,"2 Beds | 1 Bath | 900 sq ft",NA
+"15 E Kirby St Unit 324, Detroit, MI 48202","2026/01/01",1400,"Studio | 1 Bath | 650 sq ft",NA
+"2732 Harrison St Unit #0, Detroit, MI 48216","2026/01/01",2750,"2 Beds | 2.5 Baths | 1,320 sq ft",NA
+"16175 Fairfield St, Detroit, MI 48221","2026/01/01",900,"1 Bed | 1 Bath | 1,300 sq ft",NA
+"14557 Strathmoor St Unit Bottom, Detroit, MI 48227","2026/01/01",1150,"2 Beds | 1 Bath | 1,033 sq ft",NA
+"17580 Northrop St, Detroit, MI 48219","2026/01/01",1400,"4 Beds | 1.5 Baths | 1,294 sq ft",NA
+"11716 Coyle St, Detroit, MI 48227","2026/01/01",1450,"3 Beds | 1 Bath | 1,006 sq ft",NA
+"15114 Holmur St, Detroit, MI 48238","2026/01/01",1350,"3 Beds | 1 Bath | 1,116 sq ft",NA
+"19934 Manor St, Detroit, MI 48221","2026/01/01",2000,"5 Beds | 1.5 Baths | 1,557 sq ft",NA
+"3402 Brush St Unit 1, Detroit, MI 48201","2026/01/01",2000,"2 Beds | 1 Bath | 1,300 sq ft",NA
+"2976 Hogarth St, Detroit, MI 48206","2026/01/01",1300,"3 Beds | 1 Bath | 1,345 sq ft",NA
+"260 Spencer St Unit B, Ferndale, MI 48220","2026/01/01",1495,"2 Beds | 1 Bath | 1,000 sq ft",NA
+"12819 Lenore, Redford, MI 48239","2026/01/01",1700,"3 Beds | 2 Baths | 1,001 sq ft",NA
+"18768 Roscommon St, Harper Woods, MI 48225","2026/01/01",1200,"2 Beds | 1 Bath | 800 sq ft",NA
+"19348 Washtenaw St, Harper Woods, MI 48225","2026/01/01",1600,"3 Beds | 1.5 Baths | 900 sq ft",NA
+"9412 Joseph Campau St Unit 9412, Hamtramck, MI 48212","2026/01/01",2700,"1 Bed | 1 Bath | 3,274 sq ft",NA
+"9421 Joseph Campau St Unit 9421-2, Hamtramck, MI 48212","2026/01/01",2750,"1 Bed | 1 Bath | 3,383 sq ft",NA
+"2022 E Saratoga St, Ferndale, MI 48220","2026/01/01",1800,"2 Beds | 1 Bath | 800 sq ft",NA
+"557 E Saratoga St, Ferndale, MI 48220","2026/01/01",2950,"3 Beds | 1 Bath | 1,100 sq ft",NA
+"17650 Palmer St Unit One story building, Melvindale, MI 48122","2026/01/01",950,"1 Bed | 1 Bath | 700 sq ft",NA
+"11603 Mitchell St Unit 1F, Hamtramck, MI 48212","2026/01/01",1000,"2 Beds | 1 Bath | 900 sq ft",NA
+"9618 Joseph Campau St Unit 9618 2S, Hamtramck, MI 48212","2026/01/01",2700,"2 Beds | 2 Baths | 2,357 sq ft",NA
+"9438 Joseph Campau Ave Unit 9438, Hamtramck, MI 48212","2026/01/01",2650,"1 Bed | 1 Bath | 1,750 sq ft",NA
+"9440 Joseph Campau Ave Unit 9440, Hamtramck, MI 48212","2026/01/01",2650,"1 Bed | 1 Bath | 1,750 sq ft",NA
+"1506 Chandler Ave Unit Chandler, Lincoln Park, MI 48146","2026/01/01",875,"2 Beds | 1 Bath | 800 sq ft",NA
+"2900 E Jefferson Ave Unit D601, Detroit, MI 48207","2026/01/01",1550,"1 Bed | 1 Bath | 928 sq ft",NA
+"525 W Lafayette Blvd Unit 18D, Detroit, MI 48226","2026/01/01",2650,"2 Beds | 2 Baths | 1,443 sq ft",NA
+"18725 Kelly Rd, Detroit, MI 48224","2026/01/01",1000,"2 Beds | 1 Bath | 1,000 sq ft",NA
+"15081 Young St, Detroit, MI 48205","2026/01/01",1400,"3 Beds | 2 Baths | 1,400 sq ft",NA
+"1151 Morrell St Unit 2F, Detroit, MI 48209","2026/01/01",695,"2 Beds | 1 Bath | 700 sq ft",NA
+"5503 Radnor St, Detroit, MI 48224","2026/01/01",1195,"3 Beds | 1 Bath | 1,008 sq ft",NA
+"15351 Stout St, Detroit, MI 48223","2026/01/01",1400,"3 Beds | 1 Bath | 1,400 sq ft",NA
+"9272 Fielding St, Detroit, MI 48228","2026/01/01",1250,"3 Beds | 1 Bath | 1,250 sq ft",NA
+"676 E Ferry St Unit 2 Bedroom, Detroit, MI 48202","2026/01/01",2000,"2 Beds | 1.5 Baths | 940 sq ft",NA
+"702 E Ferry St, Detroit, MI 48202","2026/01/01",1550,"1 Bed | 1.5 Baths | 750 sq ft",NA
+"9910 Vaughan St, Detroit, MI 48228","2026/01/01",1500,"3 Beds | 1 Bath | 1,050 sq ft",NA
+"3244 Clairmount St, Detroit, MI 48206","2026/01/01",1250,"2 Beds | 1 Bath | 1,107 sq ft",NA
+"4844 Commonwealth St Unit UB, Detroit, MI 48208","2026/01/01",1400,"2 Beds | 1 Bath | 750 sq ft",NA
+"1450 6th St Unit A, Detroit, MI 48226","2026/01/01",1650,"2 Beds | 1 Bath | 900 sq ft",NA
+"7042 Thatcher St Unit 1, Detroit, MI 48221","2026/01/01",1395,"3 Beds | 1 Bath | 1,200 sq ft",NA
+"86 Englewood St Unit 92, Detroit, MI 48202","2026/01/01",1650,"4 Beds | 1 Bath | 2,908 sq ft",NA
+"2506 W Euclid St Unit 2504, Detroit, MI 48206","2026/01/01",1650,"3 Beds | 1 Bath | 1,475 sq ft",NA
+"310 Hendrie St, Detroit, MI 48202","2026/01/01",2200,"4 Beds | 2 Baths | 1,500 sq ft",NA
+"1926 Seward St Unit 1, Detroit, MI 48206","2026/01/01",1400,"2 Beds | 1 Bath | 900 sq ft",NA
+"14810 Rossini Dr, Detroit, MI 48205","2026/01/01",1250,"4 Beds | 1 Bath | 1,300 sq ft",NA
+"12210 Longview St, Detroit, MI 48213","2026/01/01",1100,"3 Beds | 1 Bath | 1,020 sq ft",NA
+"14904 Appoline St, Detroit, MI 48227","2026/01/01",1000,"3 Beds | 1 Bath | 1,020 sq ft",NA
+"3239 Tyler St Unit Upper, Detroit, MI 48238","2026/01/01",895,"3 Beds | 1 Bath | 1,000 sq ft",NA
+"2020 24th St, Detroit, MI 48216","2026/01/01",1200,"2 Beds | 1 Bath | 750 sq ft",NA
+"6734 Clifton St, Detroit, MI 48210","2026/01/01",1000,"3 Beds | 1 Bath | 1,100 sq ft",NA
+"298 Josephine St, Detroit, MI 48202","2026/01/01",3295,"4 Beds | 2 Baths | 2,233 sq ft",NA
+"1945 W Bethune St Unit 2, Detroit, MI 48206","2026/01/01",1050,"1 Bed | 1 Bath | 700 sq ft",NA
+"1943 W Bethune St Unit 4, Detroit, MI 48206","2026/01/01",1050,"1 Bed | 1 Bath | 700 sq ft",NA
+"5766 Trumbull St Unit 204, Detroit, MI 48208","2026/01/01",2100,"2 Beds | 1.5 Baths | 1,083 sq ft",NA
+"250 E Harbortown Dr Unit 1011, Detroit, MI 48207","2026/01/01",1795,"1 Bed | 1 Bath | 1,023 sq ft",NA
+"14234 Curtis St, Detroit, MI 48235","2026/01/01",1000,"2 Beds | 1 Bath | 950 sq ft",NA
+"19668 Hanna St, Detroit, MI 48203","2026/01/01",750,"1 Bed | 1 Bath | 900 sq ft",NA
+"14903 Tracey St, Detroit, MI 48227","2026/01/01",1200,"3 Beds | 1 Bath | 1,004 sq ft",NA
+"9525 Robson St, Detroit, MI 48227","2026/01/01",1125,"3 Beds | 1 Bath | 961 sq ft",NA
+"17355 McIntyre St, Detroit, MI 48219","2026/01/01",1250,"3 Beds | 1 Bath | 1,550 sq ft",NA
+"16701 Tuller St, Detroit, MI 48221","2026/01/01",1335,"2 Beds | 1 Bath | 1,028 sq ft",NA
+"913 Alter Rd, Detroit, MI 48215","2026/01/01",1095,"2 Beds | 1 Bath | 1,050 sq ft",NA
+"438 Selden St Unit 403, Detroit, MI 48201","2026/01/01",3300,"2 Beds | 2 Baths | 1,130 sq ft",NA
+"701 W Canfield St Unit B2, Detroit, MI 48201","2026/01/01",1500,"1 Bed | 2 Baths | 1,100 sq ft",NA
+"16221 Santa Rosa Dr, Detroit, MI 48221","2026/01/01",800,"1 Bed | 1 Bath | 1,100 sq ft",NA
+"18011 Northlawn St Unit Lower, Detroit, MI 48221","2026/01/01",1100,"3 Beds | 1 Bath | 800 sq ft",NA
+"18497 Sussex St, Detroit, MI 48235","2026/01/01",1150,"3 Beds | 1 Bath | 1,050 sq ft",NA
+"17270 Bentler St Unit #40, Detroit, MI 48219","2026/01/01",995,"2 Beds | 1 Bath | 650 sq ft",NA
+"12211 Stoepel St Unit #1- Lower, Detroit, MI 48204","2026/01/01",995,"3 Beds | 1 Bath | 1,000 sq ft",NA
+"16081 Rossini Dr, Detroit, MI 48205","2026/01/01",1050,"3 Beds | 1 Bath | 856 sq ft",NA
+"12735 Lawton St, Detroit, MI 48238","2026/01/01",1050,"2 Beds | 1 Bath | 1,106 sq ft",NA
+"997 Nottingham Rd Unit 997 Nottingham -1 South, Grosse Pointe Park, MI 48230","2026/01/01",975,"2 Beds | 1 Bath | 1,000 sq ft",NA
+"182 Monterey St, Highland Park, MI 48203","2026/01/01",1495,"5 Beds | 2 Baths | 2,000 sq ft",NA
+"811 White Ave, Lincoln Park, MI 48146","2026/01/01",1499,"3 Beds | 1 Bath | 1,784 sq ft",NA
+"2647 Edwin St Unit #2, Hamtramck, MI 48212","2026/01/01",850,"2 Beds | 1 Bath | 800 sq ft",NA
+"1069 Wayburn St Unit 2, Grosse Pointe, MI 48230","2026/01/01",1300,"3 Beds | 1 Bath | 1,000 sq ft",NA
+"1096 Beaconsfield Ave Unit 1S, Grosse Pointe Park, MI 48230","2026/01/01",1400,"2 Beds | 1 Bath | 825 sq ft",NA
+"101 Colorado St, Highland Park, MI 48203","2026/01/01",2188,"4 Beds | 1.5 Baths | 1,695 sq ft",NA
+"26309 W 7 Mile Rd Unit 224, Redford, MI 48240","2026/01/01",1050,"2 Beds | 1 Bath | 900 sq ft",NA
+"1026 Lakepointe St Unit 1, Grosse Pointe Park, MI 48230","2026/01/01",1350,"2 Beds | 1 Bath | 900 sq ft",NA
+"186 Monterey St, Highland Park, MI 48203","2026/01/01",1395,"3 Beds | 1.5 Baths | 1,452 sq ft",NA
+"1465 Maryland St Unit 2, Grosse Pointe Park, MI 48230","2026/01/01",1200,"1 Bed | 1 Bath | 700 sq ft",NA
+"21536 Panama St, Warren, MI 48091","2026/01/01",1600,"3 Beds | 2 Baths | 1,410 sq ft",NA
+"825 Beaconsfield Ave Unit 2N, Grosse Pointe Park, MI 48230","2026/01/01",1100,"2 Beds | 1 Bath | 825 sq ft",NA
+"598 Notre Dame St, Grosse Pointe, MI 48230","2026/01/01",1095,"1 Bed | 1 Bath | 900 sq ft",NA
+"895 Harcourt Rd, Grosse Pointe Park, MI 48230","2026/01/01",2695,"3 Beds | 2 Baths | 1,660 sq ft",NA
+"15 Forest St, River Rouge, MI 48218","2026/01/01",1400,"3 Beds | 2 Baths | 1,556 sq ft",NA
+"3700 Pasadena St Unit 3, Detroit, MI 48238","2026/01/01",630,"1 Bed | 1 Bath | 500 sq ft",NA
+"20209 Revere St, Detroit, MI 48234","2026/01/01",1083,"3 Beds | 1 Bath | 1,085 sq ft",NA
+"1565 W Grand Blvd Unit 4, Detroit, MI 48208","2026/01/01",700,"2 Beds | 1 Bath | 910 sq ft",NA
+"1510 Virginia Park St, Detroit, MI 48206","2026/01/01",1500,"2 Beds | 1 Bath | 1,227 sq ft",NA
+"15893 Lauder St, Detroit, MI 48227","2026/01/01",1400,"4 Beds | 2 Baths | 1,450 sq ft",NA
+"512-514 Westminster St Unit #514, Detroit, MI 48202","2026/01/01",1400,"3 Beds | 1 Bath | 3,978 sq ft",NA
+"7410 Kercheval Ave Unit 212, Detroit, MI 48214","2026/01/01",1950,"2 Beds | 2 Baths | 1,017 sq ft",NA
+"4017 Blaine St, Detroit, MI 48204","2026/01/01",975,"3 Beds | 1 Bath | 2,682 sq ft",NA
+"12710 Kelly Rd, Detroit, MI 48224","2026/01/01",1250,"3 Beds | 1 Bath | 950 sq ft",NA
+"2928 Prince Hall Dr, Detroit, MI 48207","2026/01/01",2000,"2 Beds | 2 Baths | 1,425 sq ft",NA
+"1454 Townsend St Unit 205, Detroit, MI 48214","2026/01/01",2500,"2 Beds | 2 Baths | 1,194 sq ft",NA
+"15491 Seymour St, Detroit, MI 48205","2026/01/01",1020,"3 Beds | 1 Bath | 1,427 sq ft",NA
+"19620 Lyndon St, Detroit, MI 48223","2026/01/01",1250,"3 Beds | 1 Bath | 950 sq ft",NA
+"555 Brush St Unit 1615, Detroit, MI 48226","2026/01/01",1715,"2 Beds | 1 Bath | 1,020 sq ft",NA
+"555 Brush St Unit 2912, Detroit, MI 48226","2026/01/01",1860,"2 Beds | 2 Baths | 1,265 sq ft",NA
+"3020 E Grand Blvd, Detroit, MI 48202","2026/01/01",3150,"2 Beds | 1 Bath | 2,100 sq ft",NA
+"14623 Hubbell Ave, Detroit, MI 48227","2026/01/01",1550,"3 Beds | 1 Bath | 1,393 sq ft",NA
+"8426 Asbury Park, Detroit, MI 48228","2026/01/01",900,"2 Beds | 1 Bath | 692 sq ft",NA
+"19716 Fenmore St, Detroit, MI 48235","2026/01/01",975,"3 Beds | 1 Bath | 833 sq ft",NA
+"3957 Lenox St, Detroit, MI 48215","2026/01/01",1300,"3 Beds | 2 Baths | 1,174 sq ft",NA
+"15863 Kentucky St, Detroit, MI 48238","2026/01/01",1100,"3 Beds | 2 Baths | 2,431 sq ft",NA
+"78 Watson St Unit 8, Detroit, MI 48201","2026/01/01",2100,"1 Bed | 1 Bath | 1,200 sq ft",NA
+"19404 Saint Aubin St, Detroit, MI 48234","2026/01/01",1500,"4 Beds | 2 Baths | 1,272 sq ft",NA
+"13411 Tacoma St, Detroit, MI 48205","2026/01/01",1400,"3 Beds | 1.5 Baths | 1,044 sq ft",NA
+"19974 Ferguson St, Detroit, MI 48235","2026/01/01",1675,"3 Beds | 1 Bath | 913 sq ft",NA
+"17843 Strasburg St, Detroit, MI 48205","2026/01/01",1274,"3 Beds | 1 Bath | 1,070 sq ft",NA
+"2704 Webb St, Detroit, MI 48206","2026/01/01",935,"3 Beds | 1 Bath | 1,300 sq ft",NA
+"1623 Gladstone St, Detroit, MI 48206","2026/01/01",1900,"4 Beds | 2.5 Baths | 1,800 sq ft",NA
+"16906 Monica St, Detroit, MI 48221","2026/01/01",1100,"2 Beds | 1 Bath | 1,800 sq ft",NA
+"16581 Baylis St, Detroit, MI 48221","2026/01/01",1500,"3 Beds | 1 Bath | 2,912 sq ft",NA
+"19511 Greenfield Rd Unit #1, Detroit, MI 48235","2026/01/01",1000,"2 Beds | 1 Bath | 900 sq ft",NA
+"4654 Dickerson Ave, Detroit, MI 48215","2026/01/01",1500,"4 Beds | 2 Baths | 1,500 sq ft",NA
+"8931 Mt Elliott St, Detroit, MI 48211","2026/01/01",928,"1 Bed | 1 Bath",NA
+"8751 Elmira St Unit 9, Detroit, MI 48204","2026/01/01",700,"1 Bed | 1 Bath | 500 sq ft",NA
+"10071 Joy Rd Unit 3, Detroit, MI 48204","2026/01/01",720,"1 Bed | 1 Bath | 725 sq ft",NA
+"19501 Woodingham Dr, Detroit, MI 48221","2026/01/01",1300,"2 Beds | 2 Baths | 1,000 sq ft",NA
+"6010 Oldtown St, Detroit, MI 48224","2026/01/01",1150,"3 Beds | 1 Bath | 961 sq ft",NA
+"9255 Heyden, Detroit, MI 48228","2026/01/01",1200,"2 Beds | 1 Bath | 743 sq ft",NA
+"3524 Cadillac Blvd, Detroit, MI 48214","2026/01/01",1300,"3 Beds | 1 Bath | 2,218 sq ft",NA
+"701 W Canfield St Unit 5, Detroit, MI 48201","2026/01/01",3250,"2 Beds | 1.5 Baths | 1,094 sq ft",NA
+"4735 Rohns St Unit 206, Detroit, MI 48214","2026/01/01",1400,"2 Beds | 1 Bath | 850 sq ft",NA
+"593 Hague St, Detroit, MI 48202","2026/01/01",1195,"3 Beds | 1 Bath | 1,297 sq ft",NA
+"3224 Webb St, Detroit, MI 48206","2026/01/01",1300,"3 Beds | 2 Baths | 1,700 sq ft",NA
+"3008 Cortland St, Detroit, MI 48206","2026/01/01",1400,"4 Beds | 1 Bath | 1,700 sq ft",NA
+"14289 Linnhurst St, Detroit, MI 48205","2026/01/01",1549,"4 Beds | 1 Bath | 1,344 sq ft",NA
+"8955 Otsego St, Detroit, MI 48204","2026/01/01",1000,"1 Bed | 1 Bath | 3,500 sq ft",NA
+"14828 Sussex St, Detroit, MI 48227","2026/01/01",1195,"3 Beds | 1 Bath | 2,674 sq ft",NA
+"7312 American St, Detroit, MI 48210","2026/01/01",900,"2 Beds | 1 Bath | 2,132 sq ft",NA
+"73 Woodland St, Detroit, MI 48202","2026/01/01",1999,"5 Beds | 2 Baths | 2,465 sq ft",NA
+"2915 John R St, Detroit, MI 48201","2026/01/01",3500,"2 Beds | 2 Baths | 1,318 sq ft",NA
+"3520 Cadillac Blvd, Detroit, MI 48214","2026/01/01",1300,"3 Beds | 1 Bath | 2,218 sq ft",NA
+"18614 Griggs St, Detroit, MI 48221","2026/01/01",2000,"4 Beds | 2 Baths | 1,650 sq ft",NA
+"18697 Sunderland Rd, Detroit, MI 48219","2026/01/01",1300,"2 Beds | 1 Bath | 780 sq ft",NA
+"20532 Lesure St, Detroit, MI 48235","2026/01/01",1800,"3 Beds | 1 Bath | 945 sq ft",NA
+"6175 Guilford St, Detroit, MI 48224","2026/01/01",1400,"4 Beds | 1.5 Baths | 1,300 sq ft",NA
+"1300 E Lafayette St Unit 1209, Detroit, MI 48207","2026/01/01",1450,"1 Bed | 1 Bath | 739 sq ft",NA
+"3273 Cortland St, Detroit, MI 48206","2026/01/01",1500,"3 Beds | 1 Bath | 2,700 sq ft",NA
+"15714 Novara St, Detroit, MI 48205","2026/01/01",1599,"3 Beds | 1 Bath | 889 sq ft",NA
+"16157 Linwood St, Detroit, MI 48221","2026/01/01",1550,"3 Beds | 1.5 Baths | 1,346 sq ft",NA
+"8272 Outer Dr E, Detroit, MI 48213","2026/01/01",1500,"3 Beds | 2 Baths | 1,271 sq ft",NA
+"16199 Monica St, Detroit, MI 48221","2026/01/01",1600,"3 Beds | 1 Bath | 1,440 sq ft",NA
+"18290 Prairie St, Detroit, MI 48221","2026/01/01",1600,"3 Beds | 1 Bath | 1,587 sq ft",NA
+"2197 Springle St, Detroit, MI 48215","2026/01/01",900,"3 Beds | 1 Bath | 2,100 sq ft",NA
+"16540 Marlowe St, Detroit, MI 48235","2026/01/01",1800,"3 Beds | 2 Baths | 1,231 sq ft",NA
+"3788 Burns Ave, Detroit, MI 48214","2026/01/01",1500,"4 Beds | 1.5 Baths | 1,524 sq ft",NA
+"9336 Sussex St, Detroit, MI 48228","2026/01/01",1300,"3 Beds | 2 Baths | 1,100 sq ft",NA
+"20558 Oakfield Ave, Detroit, MI 48235","2026/01/01",1550,"3 Beds | 1 Bath | 977 sq ft",NA
+"5772 Guilford St, Detroit, MI 48224","2026/01/01",1225,"3 Beds | 1.5 Baths | 1,100 sq ft",NA
+"16073 Tacoma St, Detroit, MI 48205","2026/01/01",1050,"3 Beds | 1 Bath | 847 sq ft",NA
+"18488 Fairport St, Detroit, MI 48205","2026/01/01",1450,"4 Beds | 2 Baths | 1,066 sq ft",NA
+"19450 Heyden St, Detroit, MI 48219","2026/01/01",1150,"3 Beds | 1 Bath | 925 sq ft",NA
+"13946 Braile St, Detroit, MI 48223","2026/01/01",1550,"3 Beds | 1.5 Baths | 1,144 sq ft",NA
+"8900 Artesian St, Detroit, MI 48228","2026/01/01",1250,"2 Beds | 1 Bath | 746 sq ft",NA
+"11101 Kennebec St, Detroit, MI 48205","2026/01/01",1200,"2 Beds | 1 Bath | 900 sq ft",NA
+"11222 Wayburn St, Detroit, MI 48224","2026/01/01",1300,"3 Beds | 1 Bath | 1,080 sq ft",NA
+"19344 Bradford Ave, Detroit, MI 48205","2026/01/01",1200,"3 Beds | 1 Bath | 1,039 sq ft",NA
+"14024 Grandville Ave, Detroit, MI 48223","2026/01/01",1300,"2 Beds | 1 Bath | 915 sq ft",NA
+"10 Witherell St Unit 2803, Detroit, MI 48226","2026/01/01",2225,"2 Beds | 1 Bath | 922 sq ft",NA
+"411 Piquette Ave Unit C1, Detroit, MI 48202","2026/01/01",1305,"Studio | 1 Bath | 450 sq ft",NA
+"411 Piquette Ave Unit P, Detroit, MI 48202","2026/01/01",1210,"Studio | 1 Bath | 400 sq ft",NA
+"22510 Frisbee St, Detroit, MI 48219","2026/01/01",1300,"3 Beds | 1 Bath | 929 sq ft",NA
+"1285 16th St Unit 22, Detroit, MI 48216","2026/01/01",2500,"2 Beds | 2.5 Baths | 1,800 sq ft",NA
+"11160 Charlemagne Ave, Detroit, MI 48213","2026/01/01",1500,"3 Beds | 1 Bath | 914 sq ft",NA
+"799 E Grand Blvd Unit 7, Detroit, MI 48207","2026/01/01",1100,"1 Bed | 1 Bath | 425 sq ft",NA
+"6761 Mettetal St, Detroit, MI 48228","2026/01/01",1350,"3 Beds | 1 Bath | 1,034 sq ft",NA
+"7784 Mettetal St, Detroit, MI 48228","2026/01/01",1400,"3 Beds | 1 Bath | 914 sq ft",NA
+"6324 Montrose St, Detroit, MI 48228","2026/01/01",1400,"3 Beds | 1 Bath | 1,042 sq ft",NA
+"7785 Mettetal St, Detroit, MI 48228","2026/01/01",1400,"3 Beds | 1 Bath | 910 sq ft",NA
+"12648 Mettetal St, Detroit, MI 48227","2026/01/01",1275,"3 Beds | 1.5 Baths | 1,000 sq ft",NA
+"16169 Kentucky St, Detroit, MI 48221","2026/01/01",1350,"3 Beds | 1 Bath | 2,796 sq ft",NA
+"9319 Morang Ave, Detroit, MI 48224","2026/01/01",1300,"3 Beds | 1.5 Baths | 1,100 sq ft",NA
+"11733 Minden Ave, Detroit, MI 48205","2026/01/01",1375,"3 Beds | 1 Bath | 1,028 sq ft",NA

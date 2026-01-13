@@ -11,53 +11,119 @@ library(XML)
 library(stringr)
 ```
 
-Goes to apartments.com. Goes to specified Metro area
+Lets Selenium load through firefox. Goes to apartments.com just to be sure.
 
 ```{r}
-prompt <- "Select City to Scrape: \n \n [1] Portland, OR \n [2] Oklahoma City, OK \n [3] Detroit, MI \n [4] Raleigh, NC \n [5] Washington DC"
-city <- as.numeric(readline(prompt))
-if(city == 1){
-  city <- 'Portland, OR'
-  file <- 'PDX'
-}
-if(city == 2){
-  city <- 'Oklahoma City, OK'
-  file <- 'OKC'
-}
-if(city == 3){
-  city <- 'Detroit, MI'
-  file <- 'DTW'
-}
-if(city == 4){
-  city <- 'Raleigh, NC'
-  file <- 'RDU'
-}
-if(city == 5){
-  city <- 'Washington, DC'
-  file <- 'DCA'
-}
-print(paste0('You have selected: ',city ))
-
 ## This just loads the spoof firefox browser. This will open a new window which you can watch working.
 rD <- rsDriver(browser="firefox",verbose=F, phantomver = NULL,port = 4444L)
 remDr <- rD[["client"]]
 remDr$navigate("https://www.apartments.com/")
 
+```
+
+Make a data frame to keep info. For now going with Address, Date of scrape, rent, and type of apartment. Will automatically loop through the 15 cities, saving the data in individual folders.
+```{r}
+## Create empty data frame to store data
+
+city_n <- 1
+
+while (city_n <= 15){
+
+####################################
+###
+### Sets the city for the apartments.com searchbar, and its folder/file name
+###
+####################################  
+
+if(city_n == 1){
+  city <- 'Portland, OR'
+  file <- 'PDX'
+}
+if(city_n == 2){
+  city <- 'Oklahoma City, OK'
+  file <- 'OKC'
+}
+if(city_n == 3){
+  city <- 'Detroit, MI'
+  file <- 'DTW'
+}
+if(city_n == 4){
+  city <- 'Raleigh, NC'
+  file <- 'RDU'
+}
+if(city_n == 5){
+  city <- 'Washington, DC'
+  file <- 'DCA'
+}
+if(city_n == 6){
+  city <- 'Salt Lake City, UT'
+  file <- 'SLC'
+}
+if(city_n == 7){
+  city <- 'Boston, MA'
+  file <- 'BOS'
+}
+if(city_n == 8){
+  city <- 'Austin, TX'
+  file <- 'AUS'
+}
+if(city_n == 9){
+  city <- 'Minneapolis, MN'
+  file <- 'MSP'
+}
+if(city_n == 10){
+  city <- 'Miami, FL'
+  file <- 'MIA'
+}
+if(city_n == 11){
+  city <- 'Las Vegas, NV'
+  file <- 'LAS'
+}
+if(city_n == 12){
+  city <- 'Denver, CO'
+  file <- 'DEN'
+}
+if(city_n == 13){
+  city <- 'Memphis, TN'
+  file <- 'MEM'
+}
+if(city_n == 14){
+  city <- 'San Jose, CA'
+  file <- 'SJC'
+}
+if(city_n == 15){
+  city <- 'Indianapolis, IN'
+  file <- 'IND'
+}
+print(paste0('You are currently scraping: ',city ))
+
+
+####################################
+###
+### Navigates to apartments.com, and uses the searchbar to find the selected city
+###
+####################################
+
+remDr$navigate("https://www.apartments.com/")
+Sys.sleep(2)
 ## Click on the search bar to remove the suggested search
 remDr$findElement(using = "id", value = "quickSearchLookup")$clickElement()
 ## Enter the Searched Metro
 remDr$findElement(using = "id", value = "quickSearchLookup")$sendKeysToElement(list(city))
 ## Hit "Enter" key on the search bar to go to city
 webElem <- remDr$findElement(using = "id", value = "quickSearchLookup")
+Sys.sleep(2)
 webElem$sendKeysToElement(list(key = "enter"))
-```
+Sys.sleep(2)
 
-Make a data frame to keep info. For now going with Address, Date of scrape, rent, and type of apartment
-```{r}
-## Create empty data frame to store data
+####################################
+###
+### Creates Empty Dataframe, and checks for number of pages in search (this was useless, its' always 18)
+###
+#################################### 
+
 rental_data <- data.frame(matrix(nrow=0,ncol=5))
 colnames(rental_data) <- c('Address','Date','Rent','Aprt_Type','Building_Type')
-
 
 ## Find total number of pages listed for the loop
 pages <- as.numeric(remDr$findElement(using = "xpath", 
@@ -65,6 +131,13 @@ pages <- as.numeric(remDr$findElement(using = "xpath",
 
 
 for(p in 1:pages){
+  
+  ####################################
+  ###
+  ### Finds the number of listings on the page
+  ###
+  #################################### 
+  
   print(paste0('Reading Page ',p, ' of ', pages))
   page_listings <- remDr$findElement(using = 'xpath','//*[@id="placardContainer"]/ul')
   ## Finds the number of listed apartments on the page
@@ -72,7 +145,13 @@ for(p in 1:pages){
   if(page_listings > 41){
     page_listings <- 41
   }
-  ## Runs through all the listings
+  
+  ####################################
+  ###
+  ### Runs through all the listings
+  ###
+  #################################### 
+  
   for(a in 1:(page_listings -1)){
     ## points to the listing container
     aprt <- remDr$findElement(using = 'xpath',paste0('//*[@id="placardContainer"]/ul/li[',a,']'))
@@ -103,10 +182,27 @@ for(p in 1:pages){
       
       
       
-      ## Apartments.com will list out rent my apartment type in each individual listing. We need to know how many types there are for a loop
+      ## Apartments.com will list out rent by apartment type in each individual listing. We need to know how many types there are for a loop
+      
+      ### Later on I found that specific things like the listing being verified or having a deal will 
+      ### slightly change where the rental data I want it stored, ping and ping2 check if any of these cases exist
+      
       child_divs <- length(remDr$findElements(using = "xpath", 
-          value = paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/section/div/div[2]/div/div[1]/div/a/div/*[contains(@class, "bedRentBox")]')))
-      if( child_divs > 1){
+          value = paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/section/div/div[2]/div/div[1]/div/*[contains(@class, "bedRentBox")]')))
+      ping <- remDr$findElements(using = 'xpath', 
+                paste0('/html/body/div[1]/main/section/div[1]/section[2]/div[2]/ul/li[', a,']/article/section/div/div[2]/div/div[1]/div/div[1]/a/div/*'))
+      ping2 <- remDr$findElements(using = 'xpath', 
+                paste0('/html/body/div[1]/main/section/div[1]/section[2]/div[2]/ul/li[', a,']/article/section/div/div[2]/div/div[1]/div/a/div/*'))      
+      if (length(ping) > 0){
+      child_divs <- length(remDr$findElements(using = "xpath", 
+          value = paste0('/html/body/div[1]/main/section/div[1]/section[2]/div[2]/ul/li[',a,']/article/section/div/div[2]/div/div[1]/div/div[1]/a/div/*')))
+      } 
+      if (length(ping2) > 0){
+      child_divs <- length(remDr$findElements(using = "xpath", 
+          value = paste0('/html/body/div[1]/main/section/div[1]/section[2]/div[2]/ul/li[', a,']/article/section/div/div[2]/div/div[1]/div/a/div/*')))
+      }       
+       
+      if( child_divs > 1 & (length(ping) == 0)){
         for(i in 1:child_divs){
           ## Collects the listed rent
           rent <- remDr$findElement(using='xpath',
@@ -127,8 +223,29 @@ for(p in 1:pages){
           colnames(scrape) <- c('Address','Date','Rent','Aprt_Type','Building_Type')
           rental_data <- rbind(rental_data,scrape)
         }}
+      if( child_divs > 1 & (length(ping) > 0)){
+        for(i in 1:child_divs){
+          ## Collects the listed rent
+          rent <- remDr$findElement(using='xpath',
+                                      paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/section/div/div[2]/div/div[1]/div/div[1]/a/div/div[',i,
+                                             ']/div[2]'))$getElementText()
+          ## Cleans off characters and makes it a number, i.e: $1,349+ -> 1349
+          rent <- as.numeric(gsub("\\D", "", rent))
+            
+          ## Collects the apartment type
+          type <- remDr$findElement(using='xpath',
+                                      paste0('//*[@id="placardContainer"]/ul/li[',a,']/article/section/div/div[2]/div/div[1]/div/div[1]/a/div/div[',i,
+                                             ']/div[1]'))$getElementText()
+          
+
+          ## Finally save the data as a new row of our data frame
+            
+          scrape <- data.frame(c(address,str_replace_all(Sys.Date(), '-','/'),rent,type,'Apartment'))
+          colnames(scrape) <- c('Address','Date','Rent','Aprt_Type','Building_Type')
+          rental_data <- rbind(rental_data,scrape)
+        }}
         
-        if( child_divs < 2){
+        if( as.numeric(child_divs) < 2){
             
           ## Collects the listed rent
           rent <- NA
@@ -210,16 +327,25 @@ for(p in 1:pages){
   Sys.sleep(15)}
 }
 
-rm(a, address, aprt, building_type, child_divs, i, p, page_listings, pages, rD, remDr, rent, webElem, type, test, scrape, ping)
-```
+####################################
+###
+### Clean off the few errors, take only unique entries and save
+###
+#################################### 
 
-Save the Data 
-```{r}
 ## Take only unique data in case it did an oopsie
 rental_data <- unique(rental_data)
 ## Sometimes it accidentally gets the phone number as a rent (there's usually only around 10), so its removed
 rental_data <- rental_data[rental_data$Rent < 100000,]
 ## Save it under Year_Month_Metro.csv
 file <- paste0("D:/Rent_Data/",file,"/",substr(str_replace_all(Sys.Date(), '-','_'),1,7),'_',file,'.csv')
-write.csv(rental_data,paste0(file))
+print(paste0('Saving file at: ', file))
+write.csv(rental_data,paste0(file), row.names = F)
+
+city_n <- city_n + 1
+}
+rm(a, address, aprt, building_type, child_divs, i, p, page_listings, pages, rD, remDr, rent, webElem, type, test, scrape, ping, ping2)
+
 ```
+
+
