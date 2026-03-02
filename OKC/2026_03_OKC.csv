@@ -1,0 +1,1052 @@
+"Address","Date","Rent","Aprt_Type","Building_Type"
+"700 NW 4th St, Oklahoma City, OK 73102","2026/03/02",1069,"Studio","Apartment"
+"700 NW 4th St, Oklahoma City, OK 73102","2026/03/02",1195,"1 Bed","Apartment"
+"700 NW 4th St, Oklahoma City, OK 73102","2026/03/02",1625,"2 Beds","Apartment"
+"9516 S Shields Blvd, Moore, OK 73160","2026/03/02",890,"1 Bed","Apartment"
+"9516 S Shields Blvd, Moore, OK 73160","2026/03/02",1000,"2 Beds","Apartment"
+"4300 Caravel Dr, Yukon, OK 73099","2026/03/02",1109,"1 Bed","Apartment"
+"4300 Caravel Dr, Yukon, OK 73099","2026/03/02",1309,"2 Beds","Apartment"
+"4300 Caravel Dr, Yukon, OK 73099","2026/03/02",1689,"3 Beds","Apartment"
+"1125 W Edmond Rd, Edmond, OK 73003","2026/03/02",1320,"1 Bed","Apartment"
+"1125 W Edmond Rd, Edmond, OK 73003","2026/03/02",1445,"2 Beds","Apartment"
+"1125 W Edmond Rd, Edmond, OK 73003","2026/03/02",2215,"3 Beds","Apartment"
+"2904 Treight Creek Ln, Midwest City, OK 73110","2026/03/02",1495,"3 Beds",NA
+"5200 Oak St, Oklahoma City, OK 73112","2026/03/02",1578,"Studio","Apartment"
+"5200 Oak St, Oklahoma City, OK 73112","2026/03/02",1732,"1 Bed","Apartment"
+"5200 Oak St, Oklahoma City, OK 73112","2026/03/02",2361,"2 Beds+","Apartment"
+"14600 N Rockwell Ave, Oklahoma City, OK 73142","2026/03/02",865,"1 Bed","Apartment"
+"14600 N Rockwell Ave, Oklahoma City, OK 73142","2026/03/02",1130,"2 Beds","Apartment"
+"5314 Willow Cliff Rd, Oklahoma City, OK 73122","2026/03/02",847,"1 Bed","Apartment"
+"5314 Willow Cliff Rd, Oklahoma City, OK 73122","2026/03/02",954,"2 Beds","Apartment"
+"5314 Willow Cliff Rd, Oklahoma City, OK 73122","2026/03/02",1154,"3 Beds","Apartment"
+"8557 Candlewood Dr, Oklahoma City, OK 73132","2026/03/02",815,"1 Bed","Apartment"
+"8557 Candlewood Dr, Oklahoma City, OK 73132","2026/03/02",1025,"2 Beds","Apartment"
+"8557 Candlewood Dr, Oklahoma City, OK 73132","2026/03/02",1275,"3 Beds+","Apartment"
+"11141 Springhollow Rd, Oklahoma City, OK 73120","2026/03/02",1024,"1 Bed","Apartment"
+"11141 Springhollow Rd, Oklahoma City, OK 73120","2026/03/02",1099,"2 Beds","Apartment"
+"605 SW 119th St, Oklahoma City, OK 73170","2026/03/02",995,"1 Bed","Apartment"
+"605 SW 119th St, Oklahoma City, OK 73170","2026/03/02",1199,"2 Beds","Apartment"
+"605 SW 119th St, Oklahoma City, OK 73170","2026/03/02",1775,"3 Beds","Apartment"
+"700 NE 122nd St, Oklahoma City, OK 73114","2026/03/02",875,"1 Bed","Apartment"
+"700 NE 122nd St, Oklahoma City, OK 73114","2026/03/02",995,"2 Beds","Apartment"
+"900 NE 122nd St, Oklahoma City, OK 73114","2026/03/02",915,"1 Bed","Apartment"
+"900 NE 122nd St, Oklahoma City, OK 73114","2026/03/02",1085,"2 Beds","Apartment"
+"140 N Park Ave, Oklahoma City, OK 73102","2026/03/02",1755,"Studio","Apartment"
+"140 N Park Ave, Oklahoma City, OK 73102","2026/03/02",1996,"1 Bed","Apartment"
+"140 N Park Ave, Oklahoma City, OK 73102","2026/03/02",3635,"2 Beds+","Apartment"
+"6929 S Sooner Rd, Oklahoma City, OK 73135","2026/03/02",1190,"1 Bed","Apartment"
+"6929 S Sooner Rd, Oklahoma City, OK 73135","2026/03/02",1335,"2 Beds","Apartment"
+"6929 S Sooner Rd, Oklahoma City, OK 73135","2026/03/02",1750,"3 Beds","Apartment"
+"4545 N Lincoln Blvd, Oklahoma City, OK 73105","2026/03/02",840,"Studio","Apartment"
+"4545 N Lincoln Blvd, Oklahoma City, OK 73105","2026/03/02",1120,"1 Bed","Apartment"
+"4545 N Lincoln Blvd, Oklahoma City, OK 73105","2026/03/02",1350,"2 Beds","Apartment"
+"10333 W Reno Ave, Oklahoma City, OK 73127","2026/03/02",975,"Studio","Apartment"
+"10333 W Reno Ave, Oklahoma City, OK 73127","2026/03/02",1100,"1 Bed","Apartment"
+"10333 W Reno Ave, Oklahoma City, OK 73127","2026/03/02",1395,"2 Beds","Apartment"
+"8500 N Oklahoma Ave, Oklahoma City, OK 73114","2026/03/02",1160,"Studio","Apartment"
+"8500 N Oklahoma Ave, Oklahoma City, OK 73114","2026/03/02",1430,"1 Bed","Apartment"
+"8500 N Oklahoma Ave, Oklahoma City, OK 73114","2026/03/02",2000,"2 Beds+","Apartment"
+"101 N Broadway Ave, Oklahoma City, OK 73102","2026/03/02",1075,"2 Beds+",NA
+"901 Hangar Dr, Oklahoma City, OK 73108","2026/03/02",1200,"Studio","Apartment"
+"901 Hangar Dr, Oklahoma City, OK 73108","2026/03/02",1380,"1 Bed","Apartment"
+"901 Hangar Dr, Oklahoma City, OK 73108","2026/03/02",1720,"2 Beds","Apartment"
+"14712 Mezzaluna Blvd, Oklahoma City, OK 73134","2026/03/02",1440,"1 Bed","Apartment"
+"14712 Mezzaluna Blvd, Oklahoma City, OK 73134","2026/03/02",1650,"2 Beds","Apartment"
+"11239 N Pennsylvania Ave, Oklahoma City, OK 73120","2026/03/02",930,"1 Bed","Apartment"
+"11239 N Pennsylvania Ave, Oklahoma City, OK 73120","2026/03/02",1055,"2 Beds","Apartment"
+"1201 Covell Village Dr, Edmond, OK 73003","2026/03/02",1231,"1 Bed","Apartment"
+"1201 Covell Village Dr, Edmond, OK 73003","2026/03/02",1221,"2 Beds","Apartment"
+"1201 Covell Village Dr, Edmond, OK 73003","2026/03/02",2126,"3 Beds","Apartment"
+"12600 NW 10th St, Yukon, OK 73099","2026/03/02",1150,"1 Bed","Apartment"
+"12600 NW 10th St, Yukon, OK 73099","2026/03/02",1425,"2 Beds","Apartment"
+"12401-12401 N MacArthur Blvd, Oklahoma City, OK 73142","2026/03/02",836,"Studio","Apartment"
+"12401-12401 N MacArthur Blvd, Oklahoma City, OK 73142","2026/03/02",826,"1 Bed","Apartment"
+"12401-12401 N MacArthur Blvd, Oklahoma City, OK 73142","2026/03/02",1150,"2 Beds+","Apartment"
+"835 W Sheridan Ave, Oklahoma City, OK 73106","2026/03/02",936,"Studio","Apartment"
+"835 W Sheridan Ave, Oklahoma City, OK 73106","2026/03/02",1230,"1 Bed","Apartment"
+"835 W Sheridan Ave, Oklahoma City, OK 73106","2026/03/02",1906,"2 Beds+","Apartment"
+"12500 S Western Ave, Oklahoma City, OK 73170","2026/03/02",955,"1 Bed","Apartment"
+"12500 S Western Ave, Oklahoma City, OK 73170","2026/03/02",1025,"2 Beds","Apartment"
+"200 N Harvey Ave, Oklahoma City, OK 73102","2026/03/02",970,"Studio","Apartment"
+"200 N Harvey Ave, Oklahoma City, OK 73102","2026/03/02",1250,"1 Bed","Apartment"
+"200 N Harvey Ave, Oklahoma City, OK 73102","2026/03/02",1400,"2 Beds","Apartment"
+"314 NE 2nd St, Oklahoma City, OK 73104","2026/03/02",1217,"1 Bed","Apartment"
+"314 NE 2nd St, Oklahoma City, OK 73104","2026/03/02",1465,"2 Beds","Apartment"
+"314 NE 2nd St, Oklahoma City, OK 73104","2026/03/02",2155,"3 Beds","Apartment"
+"425 N Oklahoma Ave, Oklahoma City, OK 73104","2026/03/02",1042,"1 Bed","Apartment"
+"425 N Oklahoma Ave, Oklahoma City, OK 73104","2026/03/02",1308,"2 Beds","Apartment"
+"1209 W Hefner Rd, Oklahoma City, OK 73114","2026/03/02",849,"1 Bed","Apartment"
+"1209 W Hefner Rd, Oklahoma City, OK 73114","2026/03/02",999,"2 Beds","Apartment"
+"8201 N Rockwell Ave, Oklahoma City, OK 73132","2026/03/02",725,"Studio","Apartment"
+"8201 N Rockwell Ave, Oklahoma City, OK 73132","2026/03/02",785,"1 Bed","Apartment"
+"8201 N Rockwell Ave, Oklahoma City, OK 73132","2026/03/02",949,"2 Beds","Apartment"
+"13331 N Macarthur Blvd, Oklahoma City, OK 73142","2026/03/02",877,"Studio","Apartment"
+"13331 N Macarthur Blvd, Oklahoma City, OK 73142","2026/03/02",1003,"1 Bed","Apartment"
+"13331 N Macarthur Blvd, Oklahoma City, OK 73142","2026/03/02",1355,"2 Beds+","Apartment"
+"12831 Stratford Dr, Oklahoma City, OK 73120","2026/03/02",789,"1 Bed","Apartment"
+"12831 Stratford Dr, Oklahoma City, OK 73120","2026/03/02",867,"2 Beds","Apartment"
+"12831 Stratford Dr, Oklahoma City, OK 73120","2026/03/02",1344,"3 Beds","Apartment"
+"505 E Sheridan Ave, Oklahoma City, OK 73104","2026/03/02",1294,"1 Bed","Apartment"
+"505 E Sheridan Ave, Oklahoma City, OK 73104","2026/03/02",1514,"2 Beds","Apartment"
+"505 E Sheridan Ave, Oklahoma City, OK 73104","2026/03/02",2204,"3 Beds","Apartment"
+"5924 SW 12th St, Oklahoma City, OK 73128","2026/03/02",995,"1 Bed","Apartment"
+"5924 SW 12th St, Oklahoma City, OK 73128","2026/03/02",1175,"2 Beds","Apartment"
+"2600 Watermark Blvd, Oklahoma City, OK 73134","2026/03/02",1038,"1 Bed","Apartment"
+"2600 Watermark Blvd, Oklahoma City, OK 73134","2026/03/02",1365,"2 Beds","Apartment"
+"2600 Watermark Blvd, Oklahoma City, OK 73134","2026/03/02",1729,"3 Beds","Apartment"
+"2301 NW 122nd St, Oklahoma City, OK 73120","2026/03/02",819,"1 Bed","Apartment"
+"2301 NW 122nd St, Oklahoma City, OK 73120","2026/03/02",1125,"2 Beds","Apartment"
+"9200 N Macarthur Blvd, Oklahoma City, OK 73132","2026/03/02",799,"1 Bed","Apartment"
+"9200 N Macarthur Blvd, Oklahoma City, OK 73132","2026/03/02",975,"2 Beds","Apartment"
+"2700 Indian Creek Blvd, Oklahoma City, OK 73120","2026/03/02",839,"2 Beds","Apartment"
+"2700 Indian Creek Blvd, Oklahoma City, OK 73120","2026/03/02",1249,"3 Beds","Apartment"
+"13600 N Blackwelder Ave, Oklahoma City, OK 73120","2026/03/02",1052,"Studio","Apartment"
+"13600 N Blackwelder Ave, Oklahoma City, OK 73120","2026/03/02",1050,"1 Bed","Apartment"
+"13600 N Blackwelder Ave, Oklahoma City, OK 73120","2026/03/02",1446,"2 Beds+","Apartment"
+"1305 N Classen Dr, Oklahoma City, OK 73103","2026/03/02",2000,"1 Bed","Apartment"
+"1305 N Classen Dr, Oklahoma City, OK 73103","2026/03/02",2995,"2 Beds","Apartment"
+"1305 N Classen Dr, Oklahoma City, OK 73103","2026/03/02",4995,"3 Beds","Apartment"
+"1701 N Classen Blvd, Oklahoma City, OK 73106","2026/03/02",1249,"1 Bed","Apartment"
+"1701 N Classen Blvd, Oklahoma City, OK 73106","2026/03/02",2195,"2 Beds","Apartment"
+"2400 Watermark Blvd, Oklahoma City, OK 73134","2026/03/02",1199,"1 Bed","Apartment"
+"2400 Watermark Blvd, Oklahoma City, OK 73134","2026/03/02",1409,"2 Beds","Apartment"
+"2400 Watermark Blvd, Oklahoma City, OK 73134","2026/03/02",1869,"3 Beds","Apartment"
+"2145 Watermark Blvd, Oklahoma City, OK 73134","2026/03/02",1495,"1 Bed","Apartment"
+"2145 Watermark Blvd, Oklahoma City, OK 73134","2026/03/02",1846,"2 Beds","Apartment"
+"2145 Watermark Blvd, Oklahoma City, OK 73134","2026/03/02",1899,"3 Beds","Apartment"
+"1721 NW 115th Ter, Oklahoma City, OK 73120","2026/03/02",1340,"1 Bed","Apartment"
+"1721 NW 115th Ter, Oklahoma City, OK 73120","2026/03/02",1440,"2 Beds","Apartment"
+"1721 NW 115th Ter, Oklahoma City, OK 73120","2026/03/02",2030,"3 Beds","Apartment"
+"520 W Main St, Oklahoma City, OK 73102","2026/03/02",800,"3 Beds",NA
+"130 Trail Ridge Rd, Oklahoma City, OK 73120","2026/03/02",1395,"3 Beds",NA
+"8114 W Britton Rd, Oklahoma City, OK 73132","2026/03/02",750,"1 Bed","Apartment"
+"8114 W Britton Rd, Oklahoma City, OK 73132","2026/03/02",835,"2 Beds","Apartment"
+"6401 N Warren Ave, Oklahoma City, OK 73116","2026/03/02",775,"1 Bed","Apartment"
+"6401 N Warren Ave, Oklahoma City, OK 73116","2026/03/02",875,"2 Beds","Apartment"
+"3131 SW 89th St, Oklahoma City, OK 73159","2026/03/02",1025,"1 Bed","Apartment"
+"3131 SW 89th St, Oklahoma City, OK 73159","2026/03/02",1250,"2 Beds","Apartment"
+"3131 SW 89th St, Oklahoma City, OK 73159","2026/03/02",1499,"3 Beds","Apartment"
+"7920 NW 21st St, Bethany, OK 73008","2026/03/02",825,"1 Bed","Apartment"
+"7920 NW 21st St, Bethany, OK 73008","2026/03/02",890,"2 Beds","Apartment"
+"800 SW 19th St, Moore, OK 73160","2026/03/02",910,"1 Bed","Apartment"
+"800 SW 19th St, Moore, OK 73160","2026/03/02",1035,"2 Beds","Apartment"
+"769 SW 19th St, Moore, OK 73160","2026/03/02",1250,"1 Bed","Apartment"
+"769 SW 19th St, Moore, OK 73160","2026/03/02",1450,"2 Beds","Apartment"
+"19501 N Pennsylvania Ave, Edmond, OK 73012","2026/03/02",1100,"2 Beds","Apartment"
+"19501 N Pennsylvania Ave, Edmond, OK 73012","2026/03/02",1475,"3 Beds","Apartment"
+"18001 Highland Park Ave, Edmond, OK 73012","2026/03/02",920,"2 Beds","Apartment"
+"18001 Highland Park Ave, Edmond, OK 73012","2026/03/02",1240,"3 Beds","Apartment"
+"2717 NW 178th St, Edmond, OK 73012","2026/03/02",1499,"1 Bed","Apartment"
+"2717 NW 178th St, Edmond, OK 73012","2026/03/02",1244,"2 Beds","Apartment"
+"2717 NW 178th St, Edmond, OK 73012","2026/03/02",1715,"3 Beds","Apartment"
+"1301 NW 178th St, Edmond, OK 73012","2026/03/02",2400,"1 Bed","Apartment"
+"1301 NW 178th St, Edmond, OK 73012","2026/03/02",3025,"2 Beds","Apartment"
+"3916 NW 164th St, Edmond, OK 73013","2026/03/02",1195,"1 Bed","Apartment"
+"3916 NW 164th St, Edmond, OK 73013","2026/03/02",1460,"2 Beds","Apartment"
+"301-501 Pointe Parkway Blvd, Yukon, OK 73099","2026/03/02",1059,"1 Bed","Apartment"
+"301-501 Pointe Parkway Blvd, Yukon, OK 73099","2026/03/02",1229,"2 Beds","Apartment"
+"630 N Kelley Ave, Oklahoma City, OK 73117","2026/03/02",1132,"1 Bed","Apartment"
+"630 N Kelley Ave, Oklahoma City, OK 73117","2026/03/02",1209,"2 Beds","Apartment"
+"12600 N Macarthur Blvd, Oklahoma City, OK 73142","2026/03/02",899,"1 Bed","Apartment"
+"12600 N Macarthur Blvd, Oklahoma City, OK 73142","2026/03/02",1059,"2 Beds","Apartment"
+"9017 N University Ave, Oklahoma City, OK 73114","2026/03/02",1295,"1 Bed","Apartment"
+"9017 N University Ave, Oklahoma City, OK 73114","2026/03/02",1575,"2 Beds","Apartment"
+"625 NW 4th St, Oklahoma City, OK 73102","2026/03/02",1600,"1 Bed","Apartment"
+"625 NW 4th St, Oklahoma City, OK 73102","2026/03/02",2300,"2 Beds","Apartment"
+"625 NW 4th St, Oklahoma City, OK 73102","2026/03/02",3700,"3 Beds+","Apartment"
+"2701 Watermark Blvd, Oklahoma City, OK 73134","2026/03/02",1017,"1 Bed","Apartment"
+"2701 Watermark Blvd, Oklahoma City, OK 73134","2026/03/02",1315,"2 Beds","Apartment"
+"2701 Watermark Blvd, Oklahoma City, OK 73134","2026/03/02",1795,"3 Beds","Apartment"
+"14117 N Rockwell Ave, Oklahoma City, OK 73142","2026/03/02",1115,"1 Bed","Apartment"
+"14117 N Rockwell Ave, Oklahoma City, OK 73142","2026/03/02",1378,"2 Beds","Apartment"
+"14117 N Rockwell Ave, Oklahoma City, OK 73142","2026/03/02",1806,"3 Beds","Apartment"
+"10900 S Pennsylvania Ave, Oklahoma City, OK 73170","2026/03/02",1013,"1 Bed","Apartment"
+"10900 S Pennsylvania Ave, Oklahoma City, OK 73170","2026/03/02",1265,"2 Beds","Apartment"
+"1325 N Walker Ave, Oklahoma City, OK 73103","2026/03/02",1315,"1 Bed","Apartment"
+"1325 N Walker Ave, Oklahoma City, OK 73103","2026/03/02",1705,"2 Beds","Apartment"
+"1325 N Walker Ave, Oklahoma City, OK 73103","2026/03/02",2745,"3 Beds","Apartment"
+"2737 NW 140th St, Oklahoma City, OK 73134","2026/03/02",1069,"1 Bed","Apartment"
+"2737 NW 140th St, Oklahoma City, OK 73134","2026/03/02",1219,"2 Beds","Apartment"
+"800 N Oklahoma Ave, Oklahoma City, OK 73104","2026/03/02",1240,"Studio","Apartment"
+"800 N Oklahoma Ave, Oklahoma City, OK 73104","2026/03/02",1335,"1 Bed","Apartment"
+"800 N Oklahoma Ave, Oklahoma City, OK 73104","2026/03/02",1380,"2 Beds+","Apartment"
+"1029 NE 6th St, Oklahoma City, OK 73117","2026/03/02",920,"1 Bed","Apartment"
+"1029 NE 6th St, Oklahoma City, OK 73117","2026/03/02",1102,"2 Beds","Apartment"
+"1029 NE 6th St, Oklahoma City, OK 73117","2026/03/02",2092,"4 Beds","Apartment"
+"3959 NW 122nd St, Oklahoma City, OK 73120","2026/03/02",889,"1 Bed","Apartment"
+"3959 NW 122nd St, Oklahoma City, OK 73120","2026/03/02",1036,"2 Beds","Apartment"
+"9777 N Council Rd, Oklahoma City, OK 73162","2026/03/02",899,"1 Bed","Apartment"
+"9777 N Council Rd, Oklahoma City, OK 73162","2026/03/02",1099,"2 Beds","Apartment"
+"9777 N Council Rd, Oklahoma City, OK 73162","2026/03/02",1499,"3 Beds","Apartment"
+"4317 SW 22nd St, Oklahoma City, OK 73108","2026/03/02",759,"Studio","Apartment"
+"4317 SW 22nd St, Oklahoma City, OK 73108","2026/03/02",759,"1 Bed","Apartment"
+"4317 SW 22nd St, Oklahoma City, OK 73108","2026/03/02",979,"2 Beds","Apartment"
+"1125 NW 26th St, Oklahoma City, OK 73106","2026/03/02",850,"Studio","Apartment"
+"1125 NW 26th St, Oklahoma City, OK 73106","2026/03/02",945,"1 Bed","Apartment"
+"1332 SW 74th St, Oklahoma City, OK 73159","2026/03/02",756,"1 Bed","Apartment"
+"1332 SW 74th St, Oklahoma City, OK 73159","2026/03/02",963,"2 Beds","Apartment"
+"1332 SW 74th St, Oklahoma City, OK 73159","2026/03/02",1350,"3 Beds","Apartment"
+"2820 General Pershing Blvd, Oklahoma City, OK 73107","2026/03/02",1003,"1 Bed","Apartment"
+"2820 General Pershing Blvd, Oklahoma City, OK 73107","2026/03/02",1202,"2 Beds","Apartment"
+"2820 General Pershing Blvd, Oklahoma City, OK 73107","2026/03/02",1380,"3 Beds","Apartment"
+"777 N Air Depot Blvd, Oklahoma City, OK 73110","2026/03/02",1100,"1 Bed","Apartment"
+"777 N Air Depot Blvd, Oklahoma City, OK 73110","2026/03/02",1300,"2 Beds","Apartment"
+"777 N Air Depot Blvd, Oklahoma City, OK 73110","2026/03/02",1300,"3 Beds","Apartment"
+"8032 E Reno Ave, Oklahoma City, OK 73110","2026/03/02",750,"1 Bed","Apartment"
+"8032 E Reno Ave, Oklahoma City, OK 73110","2026/03/02",850,"2 Beds","Apartment"
+"5660 N May Ave, Oklahoma City, OK 73112","2026/03/02",850,"1 Bed","Apartment"
+"5660 N May Ave, Oklahoma City, OK 73112","2026/03/02",1024,"2 Beds","Apartment"
+"4625 Tinker Diagonal St, Oklahoma City, OK 73115","2026/03/02",765,"1 Bed","Apartment"
+"4625 Tinker Diagonal St, Oklahoma City, OK 73115","2026/03/02",950,"2 Beds","Apartment"
+"4625 Tinker Diagonal St, Oklahoma City, OK 73115","2026/03/02",1300,"3 Beds","Apartment"
+"4500 Cherry Hill Ln, Oklahoma City, OK 73135","2026/03/02",725,"1 Bed","Apartment"
+"4500 Cherry Hill Ln, Oklahoma City, OK 73135","2026/03/02",820,"2 Beds","Apartment"
+"6345 E Reno Ave, Oklahoma City, OK 73110","2026/03/02",695,"Studio","Apartment"
+"6345 E Reno Ave, Oklahoma City, OK 73110","2026/03/02",745,"1 Bed","Apartment"
+"6345 E Reno Ave, Oklahoma City, OK 73110","2026/03/02",915,"2 Beds+","Apartment"
+"2201 NW 122nd St, Oklahoma City, OK 73120","2026/03/02",659,"Studio","Apartment"
+"2201 NW 122nd St, Oklahoma City, OK 73120","2026/03/02",699,"1 Bed","Apartment"
+"2201 NW 122nd St, Oklahoma City, OK 73120","2026/03/02",737,"2 Beds","Apartment"
+"1920 Heritage Park Dr, Oklahoma City, OK 73120","2026/03/02",420,"1 Bed","Apartment"
+"1920 Heritage Park Dr, Oklahoma City, OK 73120","2026/03/02",537,"2 Beds","Apartment"
+"1920 Heritage Park Dr, Oklahoma City, OK 73120","2026/03/02",1003,"3 Beds","Apartment"
+"2941 N Lottie Ave, Oklahoma City, OK 73111","2026/03/02",1351,"3 Beds","Apartment"
+"2941 N Lottie Ave, Oklahoma City, OK 73111","2026/03/02",1506,"4 Beds","Apartment"
+"3300 S Mustang Rd, Yukon, OK 73099","2026/03/02",1187,"1 Bed","Apartment"
+"3300 S Mustang Rd, Yukon, OK 73099","2026/03/02",1377,"2 Beds","Apartment"
+"801 N Kelly Ave, Edmond, OK 73003","2026/03/02",999,"2 Beds",NA
+"14025 N Eastern Ave, Edmond, OK 73013","2026/03/02",1079,"1 Bed","Apartment"
+"14025 N Eastern Ave, Edmond, OK 73013","2026/03/02",1219,"2 Beds","Apartment"
+"6475 36th Ave NW, Norman, OK 73072","2026/03/02",1109,"1 Bed","Apartment"
+"6475 36th Ave NW, Norman, OK 73072","2026/03/02",1299,"2 Beds","Apartment"
+"11308 SW 5th St, Yukon, OK 73099","2026/03/02",1049,"1 Bed","Apartment"
+"11308 SW 5th St, Yukon, OK 73099","2026/03/02",1375,"2 Beds","Apartment"
+"157 Stonebridge Blvd, Edmond, OK 73013","2026/03/02",1029,"1 Bed","Apartment"
+"157 Stonebridge Blvd, Edmond, OK 73013","2026/03/02",1199,"2 Beds","Apartment"
+"157 Stonebridge Blvd, Edmond, OK 73013","2026/03/02",1599,"3 Beds","Apartment"
+"2900 S Service Rd, Moore, OK 73160","2026/03/02",1059,"1 Bed","Apartment"
+"2900 S Service Rd, Moore, OK 73160","2026/03/02",1269,"2 Beds","Apartment"
+"515 N Czech Hall Rd, Yukon, OK 73099","2026/03/02",969,"1 Bed","Apartment"
+"515 N Czech Hall Rd, Yukon, OK 73099","2026/03/02",1225,"3 Beds","Apartment"
+"813 City Ave, Moore, OK 73160","2026/03/02",604,"2 Beds","Apartment"
+"813 City Ave, Moore, OK 73160","2026/03/02",789,"3 Beds","Apartment"
+"14201 N Kentucky Ave, Oklahoma City, OK 73134","2026/03/02",1389,"1 Bed","Apartment"
+"14201 N Kentucky Ave, Oklahoma City, OK 73134","2026/03/02",1489,"2 Beds","Apartment"
+"601 Robert S Kerr Ave, Oklahoma City, OK 73102","2026/03/02",1214,"1 Bed","Apartment"
+"601 Robert S Kerr Ave, Oklahoma City, OK 73102","2026/03/02",1540,"2 Beds","Apartment"
+"601 Robert S Kerr Ave, Oklahoma City, OK 73102","2026/03/02",2065,"3 Beds","Apartment"
+"5707 SE 48th St, Oklahoma City, OK 73135","2026/03/02",1167,"1 Bed","Apartment"
+"5707 SE 48th St, Oklahoma City, OK 73135","2026/03/02",1167,"2 Beds","Apartment"
+"5707 SE 48th St, Oklahoma City, OK 73135","2026/03/02",1271,"3 Beds+","Apartment"
+"12117 Heritage Park Rd, Oklahoma City, OK 73120","2026/03/02",899,"1 Bed","Apartment"
+"12117 Heritage Park Rd, Oklahoma City, OK 73120","2026/03/02",1239,"2 Beds","Apartment"
+"1540 Northwest 30th Street, Oklahoma City, OK 73118","2026/03/02",1150,"1 Bed","Apartment"
+"1540 Northwest 30th Street, Oklahoma City, OK 73118","2026/03/02",1550,"2 Beds","Apartment"
+"600 N High Ave, Oklahoma City, OK 73117","2026/03/02",924,"2 Beds",NA
+"630 N Kelley Ave, Oklahoma City, OK 73117","2026/03/02",920,"1 Bed","Apartment"
+"630 N Kelley Ave, Oklahoma City, OK 73117","2026/03/02",1250,"2 Beds","Apartment"
+"4201 W Memorial Rd, Oklahoma City, OK 73134","2026/03/02",1190,"1 Bed","Apartment"
+"4201 W Memorial Rd, Oklahoma City, OK 73134","2026/03/02",1250,"2 Beds","Apartment"
+"4201 W Memorial Rd, Oklahoma City, OK 73134","2026/03/02",1740,"3 Beds","Apartment"
+"15400 Lone Oak Rd, Oklahoma City, OK 73013","2026/03/02",1115,"1 Bed","Apartment"
+"15400 Lone Oak Rd, Oklahoma City, OK 73013","2026/03/02",1265,"2 Beds","Apartment"
+"4001 NW 122nd St, Oklahoma City, OK 73120","2026/03/02",897,"1 Bed","Apartment"
+"4001 NW 122nd St, Oklahoma City, OK 73120","2026/03/02",1224,"2 Beds","Apartment"
+"123 NE 2nd St, Oklahoma City, OK 73104","2026/03/02",1150,"1 Bed","Apartment"
+"123 NE 2nd St, Oklahoma City, OK 73104","2026/03/02",1550,"2 Beds","Apartment"
+"321 N Oklahoma Ave, Oklahoma City, OK 73104","2026/03/02",1250,"1 Bed","Apartment"
+"321 N Oklahoma Ave, Oklahoma City, OK 73104","2026/03/02",1550,"2 Beds","Apartment"
+"12601-12701 N Pennsylvania Ave, Oklahoma City, OK 73120","2026/03/02",970,"Studio","Apartment"
+"12601-12701 N Pennsylvania Ave, Oklahoma City, OK 73120","2026/03/02",920,"1 Bed","Apartment"
+"12601-12701 N Pennsylvania Ave, Oklahoma City, OK 73120","2026/03/02",1060,"2 Beds+","Apartment"
+"6700 W Memorial Rd, Oklahoma City, OK 73142","2026/03/02",1043,"1 Bed","Apartment"
+"6700 W Memorial Rd, Oklahoma City, OK 73142","2026/03/02",1296,"2 Beds","Apartment"
+"6700 W Memorial Rd, Oklahoma City, OK 73142","2026/03/02",1675,"3 Beds","Apartment"
+"5560 N Portland Ave, Oklahoma City, OK 73112","2026/03/02",875,"1 Bed","Apartment"
+"5560 N Portland Ave, Oklahoma City, OK 73112","2026/03/02",975,"2 Beds","Apartment"
+"1126 N Shartel Ave, Oklahoma City, OK 73103","2026/03/02",950,"Studio","Apartment"
+"1126 N Shartel Ave, Oklahoma City, OK 73103","2026/03/02",995,"1 Bed","Apartment"
+"10700 S May Ave, Oklahoma City, OK 73170","2026/03/02",1199,"2 Beds","Apartment"
+"10700 S May Ave, Oklahoma City, OK 73170","2026/03/02",1579,"3 Beds","Apartment"
+"212 NW 54th St, Oklahoma City, OK 73118","2026/03/02",820,"1 Bed","Apartment"
+"212 NW 54th St, Oklahoma City, OK 73118","2026/03/02",905,"2 Beds","Apartment"
+"5101 Hales Dr, Oklahoma City, OK 73112","2026/03/02",929,"1 Bed","Apartment"
+"5101 Hales Dr, Oklahoma City, OK 73112","2026/03/02",1039,"2 Beds","Apartment"
+"5101 Hales Dr, Oklahoma City, OK 73112","2026/03/02",1299,"3 Beds","Apartment"
+"12901 S Western Ave, Oklahoma City, OK 73170","2026/03/02",835,"1 Bed","Apartment"
+"12901 S Western Ave, Oklahoma City, OK 73170","2026/03/02",940,"2 Beds","Apartment"
+"3016 SW 89th St, Oklahoma City, OK 73159","2026/03/02",725,"1 Bed","Apartment"
+"3016 SW 89th St, Oklahoma City, OK 73159","2026/03/02",1105,"2 Beds","Apartment"
+"2100-2408 S Santa Fe Ave, Oklahoma City, OK 73160","2026/03/02",900,"1 Bed","Apartment"
+"2100-2408 S Santa Fe Ave, Oklahoma City, OK 73160","2026/03/02",1025,"2 Beds","Apartment"
+"1000 NW 105th St, Oklahoma City, OK 73114","2026/03/02",750,"1 Bed","Apartment"
+"1000 NW 105th St, Oklahoma City, OK 73114","2026/03/02",849,"2 Beds","Apartment"
+"1000 NW 105th St, Oklahoma City, OK 73114","2026/03/02",1050,"3 Beds","Apartment"
+"9401 S Shartel Ave, Oklahoma City, OK 73139","2026/03/02",795,"Studio","Apartment"
+"9401 S Shartel Ave, Oklahoma City, OK 73139","2026/03/02",785,"1 Bed","Apartment"
+"9401 S Shartel Ave, Oklahoma City, OK 73139","2026/03/02",875,"2 Beds+","Apartment"
+"5300 W Memorial Rd, Oklahoma City, OK 73142","2026/03/02",1055,"1 Bed","Apartment"
+"5300 W Memorial Rd, Oklahoma City, OK 73142","2026/03/02",1125,"2 Beds","Apartment"
+"333 NW 5th St, Oklahoma City, OK 73102","2026/03/02",799,"Studio","Apartment"
+"333 NW 5th St, Oklahoma City, OK 73102","2026/03/02",995,"1 Bed","Apartment"
+"333 NW 5th St, Oklahoma City, OK 73102","2026/03/02",1365,"2 Beds","Apartment"
+"125 NW 15th St, Oklahoma City, OK 73103","2026/03/02",760,"Studio","Apartment"
+"125 NW 15th St, Oklahoma City, OK 73103","2026/03/02",765,"1 Bed","Apartment"
+"125 NW 15th St, Oklahoma City, OK 73103","2026/03/02",965,"2 Beds","Apartment"
+"2609 Featherstone Rd, Oklahoma City, OK 73120","2026/03/02",710,"1 Bed","Apartment"
+"2609 Featherstone Rd, Oklahoma City, OK 73120","2026/03/02",850,"2 Beds","Apartment"
+"9301 N Macarthur Blvd, Oklahoma City, OK 73132","2026/03/02",725,"1 Bed","Apartment"
+"9301 N Macarthur Blvd, Oklahoma City, OK 73132","2026/03/02",899,"2 Beds","Apartment"
+"5757 W Hefner Rd, Oklahoma City, OK 73162","2026/03/02",735,"Studio","Apartment"
+"5757 W Hefner Rd, Oklahoma City, OK 73162","2026/03/02",700,"1 Bed","Apartment"
+"5757 W Hefner Rd, Oklahoma City, OK 73162","2026/03/02",980,"2 Beds","Apartment"
+"3264 W Memorial Rd, Oklahoma City, OK 73120","2026/03/02",650,"1 Bed","Apartment"
+"3264 W Memorial Rd, Oklahoma City, OK 73120","2026/03/02",950,"2 Beds","Apartment"
+"1200 S Meridian Ave, Oklahoma City, OK 73108","2026/03/02",507,"Studio","Apartment"
+"1200 S Meridian Ave, Oklahoma City, OK 73108","2026/03/02",660,"1 Bed","Apartment"
+"1200 S Meridian Ave, Oklahoma City, OK 73108","2026/03/02",811,"2 Beds","Apartment"
+"4328 SE 46th St, Oklahoma City, OK 73135","2026/03/02",700,"1 Bed","Apartment"
+"4328 SE 46th St, Oklahoma City, OK 73135","2026/03/02",830,"2 Beds","Apartment"
+"4328 SE 46th St, Oklahoma City, OK 73135","2026/03/02",925,"3 Beds","Apartment"
+"777 E 15th St, Edmond, OK 73013","2026/03/02",1179,"1 Bed","Apartment"
+"777 E 15th St, Edmond, OK 73013","2026/03/02",1345,"2 Beds","Apartment"
+"777 E 15th St, Edmond, OK 73013","2026/03/02",1636,"3 Beds","Apartment"
+"200 W 15th St, Edmond, OK 73013","2026/03/02",1018,"1 Bed","Apartment"
+"200 W 15th St, Edmond, OK 73013","2026/03/02",1113,"2 Beds","Apartment"
+"200 W 15th St, Edmond, OK 73013","2026/03/02",1384,"3 Beds","Apartment"
+"9300 Orchard Blvd, Midwest City, OK 73130","2026/03/02",859,"1 Bed","Apartment"
+"9300 Orchard Blvd, Midwest City, OK 73130","2026/03/02",959,"2 Beds","Apartment"
+"2004 S Mustang Rd, Yukon, OK 73099","2026/03/02",950,"1 Bed","Apartment"
+"2004 S Mustang Rd, Yukon, OK 73099","2026/03/02",1090,"2 Beds","Apartment"
+"7408 NW 23rd St, Bethany, OK 73008","2026/03/02",620,"1 Bed","Apartment"
+"7408 NW 23rd St, Bethany, OK 73008","2026/03/02",710,"2 Beds","Apartment"
+"13504 Bluejacket Dr, Oklahoma City, OK 73142","2026/03/02",1695,"2 Beds",NA
+"131 Dean A McGee Ave, Oklahoma City, OK 73102","2026/03/02",1860,"2 Beds",NA
+"1100-1130 SW 77th Ter, Oklahoma City, OK 73139","2026/03/02",1100,"2 Beds",NA
+"7908 Hemingford Ct, Oklahoma City, OK 73120","2026/03/02",950,"1 Bed","Apartment"
+"7908 Hemingford Ct, Oklahoma City, OK 73120","2026/03/02",1150,"2 Beds","Apartment"
+"801 NW 10th St, Oklahoma City, OK 73106","2026/03/02",1037,"Studio","Apartment"
+"801 NW 10th St, Oklahoma City, OK 73106","2026/03/02",1251,"1 Bed","Apartment"
+"801 NW 10th St, Oklahoma City, OK 73106","2026/03/02",1760,"2 Beds+","Apartment"
+"14320 Mezzaluna Blvd, Oklahoma City, OK 73134","2026/03/02",1199,"1 Bed","Apartment"
+"14320 Mezzaluna Blvd, Oklahoma City, OK 73134","2026/03/02",1379,"2 Beds","Apartment"
+"1016 NW 67th St, Oklahoma City, OK 73116","2026/03/02",975,"Studio","Apartment"
+"1016 NW 67th St, Oklahoma City, OK 73116","2026/03/02",1375,"1 Bed","Apartment"
+"1016 NW 67th St, Oklahoma City, OK 73116","2026/03/02",1975,"2 Beds","Apartment"
+"7700 Westhall Pl, Oklahoma City, OK 73132","2026/03/02",1513,"2 Beds","Apartment"
+"7700 Westhall Pl, Oklahoma City, OK 73132","2026/03/02",1650,"3 Beds","Apartment"
+"2720 W I 240 Service Rd, Oklahoma City, OK 73159","2026/03/02",1100,"3 Beds",NA
+"201 SE 89th St, Oklahoma City, OK 73149","2026/03/02",845,"1 Bed","Apartment"
+"201 SE 89th St, Oklahoma City, OK 73149","2026/03/02",1055,"2 Beds","Apartment"
+"3915 N Pennsylvania Ave, Oklahoma City, OK 73112","2026/03/02",950,"Studio","Apartment"
+"3915 N Pennsylvania Ave, Oklahoma City, OK 73112","2026/03/02",1295,"1 Bed","Apartment"
+"3915 N Pennsylvania Ave, Oklahoma City, OK 73112","2026/03/02",1495,"2 Beds","Apartment"
+"9211 N Council Rd, Oklahoma City, OK 73132","2026/03/02",769,"1 Bed","Apartment"
+"9211 N Council Rd, Oklahoma City, OK 73132","2026/03/02",1089,"2 Beds","Apartment"
+"12001-12027 Jadesdale Cir, Oklahoma City, OK 73170","2026/03/02",1495,"2 Beds","Apartment"
+"12001-12027 Jadesdale Cir, Oklahoma City, OK 73170","2026/03/02",1595,"3 Beds","Apartment"
+"12001-12027 Jadesdale Cir, Oklahoma City, OK 73170","2026/03/02",1995,"4 Beds","Apartment"
+"11100 Roxboro Ave, Oklahoma City, OK 73162","2026/03/02",679,"Studio","Apartment"
+"11100 Roxboro Ave, Oklahoma City, OK 73162","2026/03/02",679,"1 Bed","Apartment"
+"11100 Roxboro Ave, Oklahoma City, OK 73162","2026/03/02",879,"2 Beds","Apartment"
+"613 N Davis Ave, Oklahoma City, OK 73127","2026/03/02",750,"1 Bed","Apartment"
+"613 N Davis Ave, Oklahoma City, OK 73127","2026/03/02",900,"2 Beds","Apartment"
+"613 N Davis Ave, Oklahoma City, OK 73127","2026/03/02",950,"3 Beds","Apartment"
+"500 Pointe Pkwy Blvd, Yukon, OK 73099","2026/03/02",1020,"1 Bed","Apartment"
+"500 Pointe Pkwy Blvd, Yukon, OK 73099","2026/03/02",1130,"2 Beds","Apartment"
+"500 Pointe Pkwy Blvd, Yukon, OK 73099","2026/03/02",1230,"3 Beds","Apartment"
+"5107 N Hammond Ave, Warr Acres, OK 73122","2026/03/02",799,"1 Bed","Apartment"
+"5107 N Hammond Ave, Warr Acres, OK 73122","2026/03/02",999,"2 Beds","Apartment"
+"5107 N Hammond Ave, Warr Acres, OK 73122","2026/03/02",1237,"3 Beds","Apartment"
+"1677 Midtown Pl, Midwest City, OK 73130","2026/03/02",1125,"3 Beds",NA
+"360 N Pebble Creek Ter, Mustang, OK 73064","2026/03/02",1100,"2 Beds","Apartment"
+"360 N Pebble Creek Ter, Mustang, OK 73064","2026/03/02",1402,"3 Beds","Apartment"
+"101 Fieldstone Way, Mustang, OK 73064","2026/03/02",864,"Studio","Apartment"
+"101 Fieldstone Way, Mustang, OK 73064","2026/03/02",974,"1 Bed","Apartment"
+"101 Fieldstone Way, Mustang, OK 73064","2026/03/02",1045,"2 Beds","Apartment"
+"25 Creek View Dr, Edmond, OK 73003","2026/03/02",1113,"1 Bed","Apartment"
+"25 Creek View Dr, Edmond, OK 73003","2026/03/02",1336,"2 Beds","Apartment"
+"701 SW 17th St, Moore, OK 73160","2026/03/02",1100,"Studio","Apartment"
+"701 SW 17th St, Moore, OK 73160","2026/03/02",927,"1 Bed","Apartment"
+"701 SW 17th St, Moore, OK 73160","2026/03/02",1133,"2 Beds+","Apartment"
+"1441 NW 92nd St, Oklahoma City, OK 73114","2026/03/02",745,"1 Bed","Apartment"
+"1441 NW 92nd St, Oklahoma City, OK 73114","2026/03/02",900,"2 Beds","Apartment"
+"6300 W Memorial Rd, Oklahoma City, OK 73142","2026/03/02",1469,"1 Bed","Apartment"
+"6300 W Memorial Rd, Oklahoma City, OK 73142","2026/03/02",1869,"2 Beds","Apartment"
+"6300 W Memorial Rd, Oklahoma City, OK 73142","2026/03/02",2610,"3 Beds","Apartment"
+"3509 N Nesbitt Ave, Oklahoma City, OK 73112","2026/03/02",745,"1 Bed","Apartment"
+"3509 N Nesbitt Ave, Oklahoma City, OK 73112","2026/03/02",845,"2 Beds","Apartment"
+"2321 N Meridian Ave, Oklahoma City, OK 73107","2026/03/02",800,"2 Beds","Apartment"
+"2321 N Meridian Ave, Oklahoma City, OK 73107","2026/03/02",1050,"3 Beds","Apartment"
+"5825 NW 34th St, Oklahoma City, OK 73122","2026/03/02",700,"1 Bed","Apartment"
+"5825 NW 34th St, Oklahoma City, OK 73122","2026/03/02",750,"2 Beds","Apartment"
+"2037 NW 26th St, Oklahoma City, OK 73106","2026/03/02",650,"1 Bed","Apartment"
+"2037 NW 26th St, Oklahoma City, OK 73106","2026/03/02",750,"2 Beds","Apartment"
+"1701 NW 12th St, Oklahoma City, OK 73106","2026/03/02",1375,"2 Beds",NA
+"8720 S Santa Fe Ave, Oklahoma City, OK 73139","2026/03/02",1494,"2 Beds",NA
+"6305 N Villa Ave, Oklahoma City, OK 73112","2026/03/02",994,"1 Bed","Apartment"
+"6305 N Villa Ave, Oklahoma City, OK 73112","2026/03/02",1116,"2 Beds","Apartment"
+"6305 N Villa Ave, Oklahoma City, OK 73112","2026/03/02",1390,"3 Beds","Apartment"
+"10400 N Council Rd, Oklahoma City, OK 73162","2026/03/02",845,"1 Bed","Apartment"
+"10400 N Council Rd, Oklahoma City, OK 73162","2026/03/02",1025,"2 Beds","Apartment"
+"627 NW 5th St, Oklahoma City, OK 73102","2026/03/02",1275,"Studio","Apartment"
+"627 NW 5th St, Oklahoma City, OK 73102","2026/03/02",1125,"1 Bed","Apartment"
+"627 NW 5th St, Oklahoma City, OK 73102","2026/03/02",1425,"2 Beds","Apartment"
+"1844 NW 23rd, Oklahoma City, OK 73106","2026/03/02",825,"1 Bed","Apartment"
+"1844 NW 23rd, Oklahoma City, OK 73106","2026/03/02",975,"2 Beds","Apartment"
+"12700 N Macarthur Blvd, Oklahoma City, OK 73142","2026/03/02",959,"1 Bed","Apartment"
+"12700 N Macarthur Blvd, Oklahoma City, OK 73142","2026/03/02",1119,"2 Beds","Apartment"
+"3235 NW 50th St, Oklahoma City, OK 73112","2026/03/02",855,"1 Bed","Apartment"
+"3235 NW 50th St, Oklahoma City, OK 73112","2026/03/02",1025,"2 Beds","Apartment"
+"600 NW 29th St, Oklahoma City, OK 73103","2026/03/02",1250,"1 Bed","Apartment"
+"600 NW 29th St, Oklahoma City, OK 73103","2026/03/02",1450,"2 Beds","Apartment"
+"4361 W Reno Ave, Oklahoma City, OK 73107","2026/03/02",1770,"Studio","Apartment"
+"4361 W Reno Ave, Oklahoma City, OK 73107","2026/03/02",2137,"2 Beds","Apartment"
+"9701 SW 29th St, Oklahoma City, OK 73128","2026/03/02",1699,"2 Beds",NA
+"4601 W Nicklas Ave, Oklahoma City, OK 73132","2026/03/02",899,"1 Bed","Apartment"
+"4601 W Nicklas Ave, Oklahoma City, OK 73132","2026/03/02",999,"2 Beds","Apartment"
+"4601 W Nicklas Ave, Oklahoma City, OK 73132","2026/03/02",1399,"3 Beds","Apartment"
+"8301 N Council Rd, Oklahoma City, OK 73132","2026/03/02",789,"1 Bed","Apartment"
+"8301 N Council Rd, Oklahoma City, OK 73132","2026/03/02",1069,"2 Beds","Apartment"
+"8301 N Council Rd, Oklahoma City, OK 73132","2026/03/02",1269,"3 Beds","Apartment"
+"7201 Melrose Ln, Oklahoma City, OK 73127","2026/03/02",850,"3 Beds",NA
+"4800 E Interstate 240 Service Rd, Oklahoma City, OK 73135","2026/03/02",920,"1 Bed","Apartment"
+"4800 E Interstate 240 Service Rd, Oklahoma City, OK 73135","2026/03/02",1102,"2 Beds","Apartment"
+"4800 E Interstate 240 Service Rd, Oklahoma City, OK 73135","2026/03/02",1410,"3 Beds","Apartment"
+"1424 Highland Park Blvd, Oklahoma City, OK 73114","2026/03/02",1195,"Studio","Apartment"
+"1424 Highland Park Blvd, Oklahoma City, OK 73114","2026/03/02",1295,"1 Bed","Apartment"
+"1424 Highland Park Blvd, Oklahoma City, OK 73114","2026/03/02",1685,"2 Beds","Apartment"
+"1919 NW 142nd St, Oklahoma City, OK 73134","2026/03/02",916,"1 Bed","Apartment"
+"1919 NW 142nd St, Oklahoma City, OK 73134","2026/03/02",1100,"2 Beds","Apartment"
+"4020 Versailles Blvd, Oklahoma City, OK 73116","2026/03/02",1335,"2 Beds","Apartment"
+"4020 Versailles Blvd, Oklahoma City, OK 73116","2026/03/02",1540,"3 Beds","Apartment"
+"3624 NW 42nd St, Oklahoma City, OK 73112","2026/03/02",725,"1 Bed","Apartment"
+"3624 NW 42nd St, Oklahoma City, OK 73112","2026/03/02",899,"2 Beds","Apartment"
+"516 NW 8th St, Oklahoma City, OK 73102","2026/03/02",1000,"Studio","Apartment"
+"516 NW 8th St, Oklahoma City, OK 73102","2026/03/02",1300,"1 Bed","Apartment"
+"3407 NW 39th St, Oklahoma City, OK 73112","2026/03/02",730,"1 Bed",NA
+"215 W Macarthur Dr, Oklahoma City, OK 73110","2026/03/02",950,"1 Bed","Apartment"
+"215 W Macarthur Dr, Oklahoma City, OK 73110","2026/03/02",1000,"2 Beds","Apartment"
+"2112 NW 47th St, Oklahoma City, OK 73112","2026/03/02",750,"1 Bed","Apartment"
+"2112 NW 47th St, Oklahoma City, OK 73112","2026/03/02",940,"2 Beds","Apartment"
+"413 W Britton Rd, Oklahoma City, OK 73114","2026/03/02",760,"1 Bed","Apartment"
+"413 W Britton Rd, Oklahoma City, OK 73114","2026/03/02",840,"2 Beds","Apartment"
+"425 NW 12th St, Oklahoma City, OK 73103","2026/03/02",964,"Studio","Apartment"
+"425 NW 12th St, Oklahoma City, OK 73103","2026/03/02",1134,"1 Bed","Apartment"
+"4025 N Meridian Ave, Oklahoma City, OK 73112","2026/03/02",694,"Studio","Apartment"
+"4025 N Meridian Ave, Oklahoma City, OK 73112","2026/03/02",800,"1 Bed","Apartment"
+"11777 N Meridian Pl, Oklahoma City, OK 73162","2026/03/02",799,"Studio","Apartment"
+"11777 N Meridian Pl, Oklahoma City, OK 73162","2026/03/02",799,"1 Bed","Apartment"
+"11777 N Meridian Pl, Oklahoma City, OK 73162","2026/03/02",1079,"2 Beds","Apartment"
+"6000 Will Rogers Rd, Oklahoma City, OK 73110","2026/03/02",699,"1 Bed","Apartment"
+"6000 Will Rogers Rd, Oklahoma City, OK 73110","2026/03/02",1099,"2 Beds","Apartment"
+"9990 S May Ave, Oklahoma City, OK 73159","2026/03/02",823,"Studio","Apartment"
+"9990 S May Ave, Oklahoma City, OK 73159","2026/03/02",1172,"1 Bed","Apartment"
+"9990 S May Ave, Oklahoma City, OK 73159","2026/03/02",1249,"2 Beds+","Apartment"
+"6708 W Wilshire Blvd, Oklahoma City, OK 73132","2026/03/02",1000,"2 Beds","Apartment"
+"6708 W Wilshire Blvd, Oklahoma City, OK 73132","2026/03/02",1100,"3 Beds","Apartment"
+"6708 W Wilshire Blvd, Oklahoma City, OK 73132","2026/03/02",1450,"4 Beds","Apartment"
+"4215 SE 53rd St, Oklahoma City, OK 73135","2026/03/02",815,"1 Bed","Apartment"
+"4215 SE 53rd St, Oklahoma City, OK 73135","2026/03/02",915,"2 Beds","Apartment"
+"6100 N Meridian Ave, Oklahoma City, OK 73112","2026/03/02",775,"1 Bed","Apartment"
+"6100 N Meridian Ave, Oklahoma City, OK 73112","2026/03/02",900,"2 Beds","Apartment"
+"5901 NW 34th St, Oklahoma City, OK 73122","2026/03/02",699,"1 Bed","Apartment"
+"5901 NW 34th St, Oklahoma City, OK 73122","2026/03/02",675,"2 Beds","Apartment"
+"12205 S Western Ave, Oklahoma City, OK 73170","2026/03/02",969,"1 Bed","Apartment"
+"12205 S Western Ave, Oklahoma City, OK 73170","2026/03/02",1248,"2 Beds","Apartment"
+"12205 S Western Ave, Oklahoma City, OK 73170","2026/03/02",1373,"3 Beds","Apartment"
+"4020 S Douglas Ave, Oklahoma City, OK 73109","2026/03/02",835,"3 Beds",NA
+"6810 NW 16th St, Oklahoma City, OK 73127","2026/03/02",713,"1 Bed","Apartment"
+"6810 NW 16th St, Oklahoma City, OK 73127","2026/03/02",955,"2 Beds","Apartment"
+"6810 NW 16th St, Oklahoma City, OK 73127","2026/03/02",1173,"3 Beds","Apartment"
+"747 Village South Dr, Oklahoma City, OK 73139","2026/03/02",900,"3 Beds",NA
+"5113 N Brookline Ave, Oklahoma City, OK 73112","2026/03/02",800,"1 Bed","Apartment"
+"5113 N Brookline Ave, Oklahoma City, OK 73112","2026/03/02",1000,"2 Beds","Apartment"
+"2404 N Reeves Ave, Oklahoma City, OK 73127","2026/03/02",680,"1 Bed","Apartment"
+"2404 N Reeves Ave, Oklahoma City, OK 73127","2026/03/02",900,"2 Beds","Apartment"
+"4101 NW Expressway, Oklahoma City, OK 73116","2026/03/02",879,"1 Bed","Apartment"
+"4101 NW Expressway, Oklahoma City, OK 73116","2026/03/02",980,"2 Beds","Apartment"
+"4101 NW Expressway, Oklahoma City, OK 73116","2026/03/02",1299,"3 Beds+","Apartment"
+"5505 N Brookline Ave, Oklahoma City, OK 73112","2026/03/02",1089,"1 Bed","Apartment"
+"5505 N Brookline Ave, Oklahoma City, OK 73112","2026/03/02",1259,"2 Beds","Apartment"
+"1301 W Hefner Rd, Oklahoma City, OK 73114","2026/03/02",1032,"2 Beds",NA
+"2119 SW 39th St, Oklahoma City, OK 73119","2026/03/02",660,"1 Bed","Apartment"
+"2119 SW 39th St, Oklahoma City, OK 73119","2026/03/02",909,"2 Beds","Apartment"
+"1601 NW 30th St, Oklahoma City, OK 73118","2026/03/02",699,"Studio","Apartment"
+"1601 NW 30th St, Oklahoma City, OK 73118","2026/03/02",759,"1 Bed","Apartment"
+"1601 NW 30th St, Oklahoma City, OK 73118","2026/03/02",849,"2 Beds","Apartment"
+"2600 W I 240 Service Rd, Oklahoma City, OK 73159","2026/03/02",750,"Studio","Apartment"
+"2600 W I 240 Service Rd, Oklahoma City, OK 73159","2026/03/02",950,"1 Bed","Apartment"
+"2600 W I 240 Service Rd, Oklahoma City, OK 73159","2026/03/02",999,"2 Beds+","Apartment"
+"10735 N Western Ave, Oklahoma City, OK 73114","2026/03/02",799,"1 Bed","Apartment"
+"10735 N Western Ave, Oklahoma City, OK 73114","2026/03/02",949,"2 Beds","Apartment"
+"10735 N Western Ave, Oklahoma City, OK 73114","2026/03/02",1149,"3 Beds","Apartment"
+"3708 S Douglas Ave, Oklahoma City, OK 73109","2026/03/02",726,"1 Bed","Apartment"
+"3708 S Douglas Ave, Oklahoma City, OK 73109","2026/03/02",833,"2 Beds","Apartment"
+"521 N Council Rd, Oklahoma City, OK 73127","2026/03/02",649,"Studio","Apartment"
+"521 N Council Rd, Oklahoma City, OK 73127","2026/03/02",779,"1 Bed","Apartment"
+"521 N Council Rd, Oklahoma City, OK 73127","2026/03/02",949,"2 Beds","Apartment"
+"7524 NW 10th St, Oklahoma City, OK 73127","2026/03/02",695,"1 Bed","Apartment"
+"7524 NW 10th St, Oklahoma City, OK 73127","2026/03/02",895,"2 Beds","Apartment"
+"7524 NW 10th St, Oklahoma City, OK 73127","2026/03/02",1050,"3 Beds","Apartment"
+"7125 S Santa Fe Ave, Oklahoma City, OK 73139","2026/03/02",765,"1 Bed","Apartment"
+"7125 S Santa Fe Ave, Oklahoma City, OK 73139","2026/03/02",875,"2 Beds","Apartment"
+"7125 S Santa Fe Ave, Oklahoma City, OK 73139","2026/03/02",1200,"3 Beds","Apartment"
+"2300 W I 240 Service Rd, Oklahoma City, OK 73159","2026/03/02",828,"1 Bed","Apartment"
+"2300 W I 240 Service Rd, Oklahoma City, OK 73159","2026/03/02",928,"2 Beds","Apartment"
+"10800 N Council Rd, Oklahoma City, OK 73162","2026/03/02",839,"1 Bed","Apartment"
+"10800 N Council Rd, Oklahoma City, OK 73162","2026/03/02",859,"2 Beds","Apartment"
+"10800 N Council Rd, Oklahoma City, OK 73162","2026/03/02",1159,"3 Beds","Apartment"
+"717 Santa Rosa Dr, Oklahoma City, OK 73139","2026/03/02",849,"1 Bed","Apartment"
+"717 Santa Rosa Dr, Oklahoma City, OK 73139","2026/03/02",849,"2 Beds","Apartment"
+"717 Santa Rosa Dr, Oklahoma City, OK 73139","2026/03/02",1300,"3 Beds","Apartment"
+"6100 Masons Dr, Oklahoma City, OK 73142","2026/03/02",1350,"3 Beds",NA
+"404 SW 26th St, Oklahoma City, OK 73109","2026/03/02",645,"3 Beds",NA
+"2814 SW 59th St, Oklahoma City, OK 73119","2026/03/02",690,"Studio","Apartment"
+"2814 SW 59th St, Oklahoma City, OK 73119","2026/03/02",725,"1 Bed","Apartment"
+"2814 SW 59th St, Oklahoma City, OK 73119","2026/03/02",825,"2 Beds","Apartment"
+"1505 N Midwest Blvd, Oklahoma City, OK 73110","2026/03/02",850,"1 Bed","Apartment"
+"1505 N Midwest Blvd, Oklahoma City, OK 73110","2026/03/02",980,"2 Beds","Apartment"
+"1505 N Midwest Blvd, Oklahoma City, OK 73110","2026/03/02",1035,"3 Beds","Apartment"
+"3339 SW 74th St, Oklahoma City, OK 73159","2026/03/02",817,"3 Beds",NA
+"6624 S May Ave, Oklahoma City, OK 73159","2026/03/02",680,"1 Bed","Apartment"
+"6624 S May Ave, Oklahoma City, OK 73159","2026/03/02",765,"2 Beds","Apartment"
+"1292 SW 74th St, Oklahoma City, OK 73139","2026/03/02",625,"Studio","Apartment"
+"1292 SW 74th St, Oklahoma City, OK 73139","2026/03/02",670,"1 Bed","Apartment"
+"1292 SW 74th St, Oklahoma City, OK 73139","2026/03/02",775,"2 Beds","Apartment"
+"2759 W I-240 Service Rd, Oklahoma City, OK 73159","2026/03/02",587,"1 Bed","Apartment"
+"2759 W I-240 Service Rd, Oklahoma City, OK 73159","2026/03/02",749,"2 Beds","Apartment"
+"4746 NW 23rd St, Oklahoma City, OK 73127","2026/03/02",645,"1 Bed","Apartment"
+"4746 NW 23rd St, Oklahoma City, OK 73127","2026/03/02",745,"2 Beds","Apartment"
+"600 N Council Rd, Oklahoma City, OK 73127","2026/03/02",659,"1 Bed","Apartment"
+"600 N Council Rd, Oklahoma City, OK 73127","2026/03/02",779,"2 Beds","Apartment"
+"3017 Delview Dr, Oklahoma City, OK 73115","2026/03/02",725,"1 Bed","Apartment"
+"3017 Delview Dr, Oklahoma City, OK 73115","2026/03/02",835,"2 Beds","Apartment"
+"3017 Delview Dr, Oklahoma City, OK 73115","2026/03/02",965,"3 Beds","Apartment"
+"616 SW 59th St, Oklahoma City, OK 73109","2026/03/02",685,"Studio","Apartment"
+"616 SW 59th St, Oklahoma City, OK 73109","2026/03/02",745,"1 Bed","Apartment"
+"616 SW 59th St, Oklahoma City, OK 73109","2026/03/02",900,"2 Beds","Apartment"
+"6219 S Independence Ave, Oklahoma City, OK 73159","2026/03/02",600,"1 Bed","Apartment"
+"6219 S Independence Ave, Oklahoma City, OK 73159","2026/03/02",700,"2 Beds","Apartment"
+"6219 S Independence Ave, Oklahoma City, OK 73159","2026/03/02",900,"3 Beds","Apartment"
+"403 Tinker Diagonal St, Oklahoma City, OK 73129","2026/03/02",815,"1 Bed","Apartment"
+"403 Tinker Diagonal St, Oklahoma City, OK 73129","2026/03/02",750,"2 Beds","Apartment"
+"403 Tinker Diagonal St, Oklahoma City, OK 73129","2026/03/02",1050,"3 Beds","Apartment"
+"3100 NW Expressway, Oklahoma City, OK 73112","2026/03/02",666,"1 Bed","Apartment"
+"3100 NW Expressway, Oklahoma City, OK 73112","2026/03/02",892,"2 Beds","Apartment"
+"3100 NW Expressway, Oklahoma City, OK 73112","2026/03/02",1237,"3 Beds","Apartment"
+"1112 SE 14th St, Moore, OK 73160","2026/03/02",1360,"3 Beds",NA
+"240 E 15th St, Edmond, OK 73013","2026/03/02",805,"Studio","Apartment"
+"240 E 15th St, Edmond, OK 73013","2026/03/02",950,"1 Bed","Apartment"
+"240 E 15th St, Edmond, OK 73013","2026/03/02",1075,"2 Beds","Apartment"
+"4108 Cove Dr, Yukon, OK 73099","2026/03/02",1375,"2 Beds","Apartment"
+"4108 Cove Dr, Yukon, OK 73099","2026/03/02",1650,"3 Beds","Apartment"
+"11300 SE 15th St, Midwest City, OK 73130","2026/03/02",1058,"1 Bed","Apartment"
+"11300 SE 15th St, Midwest City, OK 73130","2026/03/02",1396,"2 Beds","Apartment"
+"11300 SE 15th St, Midwest City, OK 73130","2026/03/02",1756,"3 Beds","Apartment"
+"2004 S Mustang Rd, Yukon, OK 73099","2026/03/02",975,"1 Bed","Apartment"
+"2004 S Mustang Rd, Yukon, OK 73099","2026/03/02",1135,"2 Beds","Apartment"
+"1800 N Rockwell Ave, Bethany, OK 73008","2026/03/02",750,"1 Bed","Apartment"
+"1800 N Rockwell Ave, Bethany, OK 73008","2026/03/02",850,"2 Beds","Apartment"
+"1800 N Rockwell Ave, Bethany, OK 73008","2026/03/02",1100,"3 Beds","Apartment"
+"11501 Lochwood Dr, Yukon, OK 73099","2026/03/02",954,"1 Bed","Apartment"
+"11501 Lochwood Dr, Yukon, OK 73099","2026/03/02",900,"2 Beds","Apartment"
+"120 NE 21st St, Moore, OK 73160","2026/03/02",845,"1 Bed","Apartment"
+"120 NE 21st St, Moore, OK 73160","2026/03/02",895,"2 Beds","Apartment"
+"14140 N Broadway Ext, Edmond, OK 73013","2026/03/02",1165,"2 Beds","Apartment"
+"14140 N Broadway Ext, Edmond, OK 73013","2026/03/02",1311,"3 Beds","Apartment"
+"14140 N Broadway Ext, Edmond, OK 73013","2026/03/02",1858,"4 Beds","Apartment"
+"11501 SW 15th St, Yukon, OK 73099","2026/03/02",950,"1 Bed","Apartment"
+"11501 SW 15th St, Yukon, OK 73099","2026/03/02",1065,"2 Beds","Apartment"
+"11501 SW 15th St, Yukon, OK 73099","2026/03/02",1265,"3 Beds+","Apartment"
+"9900 Hwy 66 W, Yukon, OK 73099","2026/03/02",980,"1 Bed","Apartment"
+"9900 Hwy 66 W, Yukon, OK 73099","2026/03/02",1185,"2 Beds","Apartment"
+"55 N Ranchwood Blvd, Yukon, OK 73099","2026/03/02",785,"1 Bed","Apartment"
+"55 N Ranchwood Blvd, Yukon, OK 73099","2026/03/02",1075,"2 Beds","Apartment"
+"10801 W Ok-66 Hwy, Yukon, OK 73099","2026/03/02",930,"1 Bed","Apartment"
+"10801 W Ok-66 Hwy, Yukon, OK 73099","2026/03/02",1090,"2 Beds","Apartment"
+"1401 N Midwest City Blvd, Midwest City, OK 73110","2026/03/02",700,"1 Bed","Apartment"
+"1401 N Midwest City Blvd, Midwest City, OK 73110","2026/03/02",940,"2 Beds","Apartment"
+"1401 N Midwest City Blvd, Midwest City, OK 73110","2026/03/02",1000,"3 Beds","Apartment"
+"1312 N Midwest Blvd, Midwest City, OK 73110","2026/03/02",735,"1 Bed","Apartment"
+"1312 N Midwest Blvd, Midwest City, OK 73110","2026/03/02",835,"2 Beds","Apartment"
+"1312 N Midwest Blvd, Midwest City, OK 73110","2026/03/02",935,"3 Beds","Apartment"
+"9124 SW 32nd St, Oklahoma City, OK 73179","2026/03/02",2970,"3 Beds","House"
+"3009 N Vermont Ave, Oklahoma City, OK 73107","2026/03/02",1300,"3 Beds, 1 Bath, 1,275 sq ft","House"
+"700 NW 4th St, Oklahoma City, OK 73102","2026/03/02",1275,"Unit 442 at Muse","House"
+"138 NE 14th St, Oklahoma City, OK 73104","2026/03/02",3500,"Highland Row","House"
+"1700 Spoke St, Oklahoma City, OK 73108","2026/03/02",1300,"1 Bed","Apartment"
+"1700 Spoke St, Oklahoma City, OK 73108","2026/03/02",1475,"2 Beds","Apartment"
+"831-835 East Dr, Oklahoma City, OK 73105","2026/03/02",825,"Studio","Apartment"
+"831-835 East Dr, Oklahoma City, OK 73105","2026/03/02",840,"1 Bed","Apartment"
+"1700 NW 17th, Oklahoma City, OK 73106","2026/03/02",1100,"1 Bed","Apartment"
+"1700 NW 17th, Oklahoma City, OK 73106","2026/03/02",1250,"2 Beds","Apartment"
+"2000-2017 N Blackwelder Ave, Oklahoma City, OK 73106","2026/03/02",775,"Studio","Apartment"
+"2000-2017 N Blackwelder Ave, Oklahoma City, OK 73106","2026/03/02",895,"1 Bed","Apartment"
+"2000-2017 N Blackwelder Ave, Oklahoma City, OK 73106","2026/03/02",995,"2 Beds","Apartment"
+"311 SE 66th St, Oklahoma City, OK 73149","2026/03/02",700,"1 Bed","Apartment"
+"311 SE 66th St, Oklahoma City, OK 73149","2026/03/02",800,"2 Beds","Apartment"
+"2208 Felix Pl, Oklahoma City, OK 73110","2026/03/02",645,"1 Bed","Apartment"
+"2208 Felix Pl, Oklahoma City, OK 73110","2026/03/02",725,"2 Beds","Apartment"
+"5901 S May Ave, Oklahoma City, OK 73119","2026/03/02",749,"1 Bed","Apartment"
+"5901 S May Ave, Oklahoma City, OK 73119","2026/03/02",945,"2 Beds","Apartment"
+"930 S Boulevard, Edmond, OK 73034","2026/03/02",890,"1 Bed","Apartment"
+"930 S Boulevard, Edmond, OK 73034","2026/03/02",965,"2 Beds","Apartment"
+"501 SW 15th St, Edmond, OK 73013","2026/03/02",735,"Studio","Apartment"
+"501 SW 15th St, Edmond, OK 73013","2026/03/02",935,"1 Bed","Apartment"
+"501 SW 15th St, Edmond, OK 73013","2026/03/02",895,"2 Beds+","Apartment"
+"4300 Caravel Dr, Yukon, OK 73099","2026/03/02",1339,"Unit 1923 at The Ridge @ 66","House"
+"1600 NW 16th St, Oklahoma City, OK 73106","2026/03/02",1350,"1 Bed","Apartment"
+"1600 NW 16th St, Oklahoma City, OK 73106","2026/03/02",1675,"2 Beds","Apartment"
+"1616 NW 17th St, Oklahoma City, OK 73106","2026/03/02",1305,"The Plaza Village","House"
+"1428 NW 27th St, Oklahoma City, OK 73106","2026/03/02",800,"Sienna Ridge","House"
+"4614 N MacArthur Blvd, Oklahoma City, OK 73122","2026/03/02",1350,"Josephine's Plaza","House"
+"727 N Macarthur Blvd, Oklahoma City, OK 73127","2026/03/02",750,"1 Bed","Apartment"
+"727 N Macarthur Blvd, Oklahoma City, OK 73127","2026/03/02",825,"2 Beds","Apartment"
+"727 N Macarthur Blvd, Oklahoma City, OK 73127","2026/03/02",1000,"3 Beds","Apartment"
+"1125 W Edmond Rd, Edmond, OK 73003","2026/03/02",1714,"Unit 1106 at Kelly Hollow","House"
+"900 NW 24th St, Oklahoma City, OK 73106","2026/03/02",875,"Paseo24 Apartments","House"
+"1433 NW 24th St, Oklahoma City, OK 73106","2026/03/02",700,"1 Bed","Apartment"
+"1433 NW 24th St, Oklahoma City, OK 73106","2026/03/02",900,"2 Beds","Apartment"
+"8113 S Western Ave, Oklahoma City, OK 73139","2026/03/02",688,"1 Bed","Apartment"
+"8113 S Western Ave, Oklahoma City, OK 73139","2026/03/02",943,"2 Beds","Apartment"
+"5617 S May Ave, Oklahoma City, OK 73119","2026/03/02",802,"Carmel Terrace","House"
+"6801 NW 122nd St, Oklahoma City, OK 73142","2026/03/02",850,"1 Bed","Apartment"
+"6801 NW 122nd St, Oklahoma City, OK 73142","2026/03/02",1178,"2 Beds","Apartment"
+"6801 NW 122nd St, Oklahoma City, OK 73142","2026/03/02",1475,"3 Beds","Apartment"
+"2904 Treight Creek Ln, Midwest City, OK 73110","2026/03/02",1495,"Unit 2907 Treight Creek Ln at Glenhaven","House"
+"1105-1/2 W I 240 Service Rd, Oklahoma City, OK 73139","2026/03/02",745,"1 Bed","Apartment"
+"1105-1/2 W I 240 Service Rd, Oklahoma City, OK 73139","2026/03/02",845,"2 Beds","Apartment"
+"7550 NW 10th St, Oklahoma City, OK 73127","2026/03/02",700,"1 Bed","Apartment"
+"7550 NW 10th St, Oklahoma City, OK 73127","2026/03/02",800,"2 Beds","Apartment"
+"701 Culbertson Dr, Oklahoma City, OK 73105","2026/03/02",795,"The Albert","House"
+"6300 N Meridian Ave, Oklahoma City, OK 73112","2026/03/02",700,"1 Bed","Apartment"
+"6300 N Meridian Ave, Oklahoma City, OK 73112","2026/03/02",800,"2 Beds","Apartment"
+"414 NW 24th St, Oklahoma City, OK 73103","2026/03/02",995,"414 NW 24th St","House"
+NA,NA,NA,NA,NA
+"4301 N Pennsylvania Ave, Oklahoma City, OK 73112","2026/03/02",750,"Studio","Apartment"
+"4301 N Pennsylvania Ave, Oklahoma City, OK 73112","2026/03/02",800,"1 Bed","Apartment"
+"4301 N Pennsylvania Ave, Oklahoma City, OK 73112","2026/03/02",1045,"2 Beds","Apartment"
+"3451 SE 44th St, Oklahoma City, OK 73135","2026/03/02",675,"1 Bed","Apartment"
+"3451 SE 44th St, Oklahoma City, OK 73135","2026/03/02",850,"2 Beds","Apartment"
+"7652 NW 10th St, Oklahoma City, OK 73127","2026/03/02",605,"1 Bed","Apartment"
+"7652 NW 10th St, Oklahoma City, OK 73127","2026/03/02",645,"2 Beds","Apartment"
+"7652 NW 10th St, Oklahoma City, OK 73127","2026/03/02",925,"3 Beds","Apartment"
+"5340 NW 42nd St, Warr Acres, OK 73122","2026/03/02",550,"1 Bed","Apartment"
+"5340 NW 42nd St, Warr Acres, OK 73122","2026/03/02",700,"2 Beds","Apartment"
+"827 NW 8th St, Oklahoma City, OK 73106","2026/03/02",3200,"2 Beds, 3 Baths, 1,968 sq ft","House"
+NA,NA,NA,NA,NA
+"8409 NW 133rd St, Oklahoma City, OK 73142","2026/03/02",2395,"3 Beds, 2 Baths, 1,888 sq ft","House"
+"8409 NW 133rd St, Oklahoma City, OK 73142","2026/03/02",1350,"1701 N Barnes Ave, Oklahoma City, OK 73107","House"
+NA,NA,NA,NA,NA
+"7601 SW 119th St, Oklahoma City, OK 73173","2026/03/02",2950,"3 Beds, 2 Baths, 2,150 sq ft","House"
+"11319 Paradise Out Ln, Oklahoma City, OK 73131","2026/03/02",1890,"3 Beds","House"
+"11319 Paradise Out Ln, Oklahoma City, OK 73131","2026/03/02",1025,"2 Beds, 2 Baths, 1,025 sq ft","House"
+"1703 Riviera Ln, Oklahoma City, OK 73128","2026/03/02",1320,"3 Beds","House"
+"3004 SW 124th St, Oklahoma City, OK 73170","2026/03/02",1895,"3 Beds","House"
+"2112 NE 23rd St, Oklahoma City, OK 73111","2026/03/02",1300,"3 Beds","House"
+"4325 SE 48th Terrace, Oklahoma City, OK 73135","2026/03/02",1450,"3 Beds","House"
+"11224 Paradise In Dr, Oklahoma City, OK 73131","2026/03/02",1850,"4 Beds","House"
+"11224 Paradise In Dr, Oklahoma City, OK 73131","2026/03/02",1099,"2 Beds, 2 Baths, 1,088 sq ft","House"
+"12701 N Pennsylvania Ave, Oklahoma City, OK 73120","2026/03/02",3159,"1 Bed","House"
+"11316 Paradise In Dr, Oklahoma City, OK 73131","2026/03/02",1770,"3 Beds","House"
+"301 S Ranchwood Manor Dr, Oklahoma City, OK 73139","2026/03/02",1800,"3 Beds","House"
+"11431 Springhollow Rd, Oklahoma City, OK 73120","2026/03/02",949,"1 Bed","House"
+"11431 Springhollow Rd, Oklahoma City, OK 73120","2026/03/02",995,"1 Bed, 1 Bath, 766 sq ft","House"
+"14810 Razorbill Dr, Oklahoma City, OK 73134","2026/03/02",1595,"4 Beds","House"
+"11238 Paradise In Dr, Oklahoma City, OK 73131","2026/03/02",1850,"4 Beds","House"
+"11213 Paradise Out Ln, Oklahoma City, OK 73131","2026/03/02",1790,"4 Beds","House"
+"3439 NW 53rd St, Oklahoma City, OK 73112","2026/03/02",1705,"3 Beds","House"
+"11357 Paradise Out Ln, Oklahoma City, OK 73131","2026/03/02",1710,"3 Beds","House"
+"9117 Checkerbloom Dr, Oklahoma City, OK 73165","2026/03/02",1590,"3 Beds","House"
+"11916 Silver Sun Dr, Oklahoma City, OK 73162","2026/03/02",1645,"3 Beds","House"
+"11233 Paradise Out Ln, Oklahoma City, OK 73131","2026/03/02",1735,"3 Beds","House"
+"8716 Tracy Dr, Oklahoma City, OK 73132","2026/03/02",1485,"3 Beds","House"
+"8000 Woodhue Dr, Oklahoma City, OK 73135","2026/03/02",1525,"3 Beds","House"
+"3935 NW 27th St, Oklahoma City, OK 73107","2026/03/02",1375,"3 Beds","House"
+"6003 Gaelic Glen Dr, Oklahoma City, OK 73142","2026/03/02",1500,"3 Beds","House"
+"8820 NW 120th St, Oklahoma City, OK 73162","2026/03/02",2655,"5 Beds","House"
+"6800 Bayberry Dr, Oklahoma City, OK 73162","2026/03/02",1945,"4 Beds","House"
+"7604 Lipizzan Rd, Oklahoma City, OK 73132","2026/03/02",1655,"3 Beds","House"
+"7604 Lipizzan Rd, Oklahoma City, OK 73132","2026/03/02",1996,"1 Bed, 1 Bath, 674 sq ft","House"
+"11347 Paradise Out Ln, Oklahoma City, OK 73131","2026/03/02",1810,"3 Beds","House"
+"704 SW 161st St, Oklahoma City, OK 73170","2026/03/02",1655,"3 Beds","House"
+"13109 Bright Prairie Cir, Oklahoma City, OK 73142","2026/03/02",1880,"4 Beds","House"
+"14415 N Pennsylvania Ave, Oklahoma City, OK 73134","2026/03/02",785,"1 Bed","House"
+"11336 Paradise In Dr, Oklahoma City, OK 73131","2026/03/02",1930,"3 Beds","House"
+"5009 S Briarwood Dr, Oklahoma City, OK 73135","2026/03/02",1360,"3 Beds","House"
+"11303 Paradise Out Ln, Oklahoma City, OK 73131","2026/03/02",1785,"3 Beds","House"
+"2809 SE 96th St, Oklahoma City, OK 73160","2026/03/02",1845,"4 Beds","House"
+"3301 S St Clair Ave, Oklahoma City, OK 73119","2026/03/02",850,"2 Beds","House"
+"1303 NW 83rd St, Oklahoma City, OK 73114","2026/03/02",1155,"3 Beds","House"
+"11219 Paradise Out Ln, Oklahoma City, OK 73131","2026/03/02",2150,"4 Beds","House"
+"8220 NW 112th Terrace, Oklahoma City, OK 73162","2026/03/02",1755,"3 Beds","House"
+"14311 N Pennsylvania Ave, Oklahoma City, OK 73134","2026/03/02",785,"1 Bed","House"
+"1817 Tim Dr, Oklahoma City, OK 73141","2026/03/02",1399,"3 Beds","House"
+"5524 Del Creek Rd, Oklahoma City, OK 73117","2026/03/02",1450,"3 Beds","House"
+"514 NW 30th St, Oklahoma City, OK 73103","2026/03/02",1200,"2 Beds","House"
+"514 NW 30th St, Oklahoma City, OK 73103","2026/03/02",2000,"2 Beds, 2 Baths, 1,141 sq ft","House"
+"10404 Regent St, Oklahoma City, OK 73162","2026/03/02",2020,"3 Beds","House"
+"11217 Paradise Out Ln, Oklahoma City, OK 73131","2026/03/02",1835,"3 Beds","House"
+"6413 Ashby Terrace, Oklahoma City, OK 73149","2026/03/02",1400,"3 Beds","House"
+"5104 SE 46th St, Oklahoma City, OK 73135","2026/03/02",1835,"4 Beds","House"
+"5929 SE 68th St, Oklahoma City, OK 73135","2026/03/02",1655,"3 Beds","House"
+"6004 SE 85th St, Oklahoma City, OK 73135","2026/03/02",1725,"3 Beds","House"
+"13524 Gramercy Park Pl, Oklahoma City, OK 73142","2026/03/02",2195,"3 Beds","House"
+"11351 Paradise Out Ln, Oklahoma City, OK 73131","2026/03/02",1965,"4 Beds","House"
+"8817 NW 82nd St, Oklahoma City, OK 73132","2026/03/02",1690,"4 Beds","House"
+"1933 Creekridge Dr, Oklahoma City, OK 73141","2026/03/02",1390,"3 Beds","House"
+"1933 Creekridge Dr, Oklahoma City, OK 73141","2026/03/02",1670,"1 Bed, 1 Bath, 705 sq ft","House"
+"2209 SW 135th Pl, Oklahoma City, OK 73170","2026/03/02",1690,"3 Beds","House"
+"13312 Mayberry Pl, Oklahoma City, OK 73142","2026/03/02",1715,"3 Beds","House"
+"701 NE 24th St, Oklahoma City, OK 73105","2026/03/02",1600,"2 Beds","House"
+"5541 Crooked Creek Rd, Oklahoma City, OK 73117","2026/03/02",1705,"3 Beds","House"
+"12112 Sylvester Dr, Oklahoma City, OK 73162","2026/03/02",1775,"3 Beds","House"
+"12112 Sylvester Dr, Oklahoma City, OK 73162","2026/03/02",1440,"1 Bed, 1 Bath, 716 sq ft","House"
+"2345 NW 31st St, Oklahoma City, OK 73112","2026/03/02",1145,"3 Beds","House"
+"6001 Gaelic Glen Dr, Oklahoma City, OK 73142","2026/03/02",1500,"3 Beds","House"
+"1208 N Barnes Ave, Oklahoma City, OK 73107","2026/03/02",745,"1 Bed","House"
+"2916 SE 97th St, Oklahoma City, OK 73160","2026/03/02",1530,"3 Beds","House"
+"11349 Paradise Out Ln, Oklahoma City, OK 73131","2026/03/02",1760,"3 Beds","House"
+"11349 Paradise Out Ln, Oklahoma City, OK 73131","2026/03/02",1055,"2 Beds, 1 Bath, 900 sq ft","House"
+"11340 Paradise Out Ln, Oklahoma City, OK 73131","2026/03/02",1785,"3 Beds","House"
+"2121 N Brookline Ave, Oklahoma City, OK 73107","2026/03/02",1275,"3 Beds","House"
+"7909 Maehs Terrace, Oklahoma City, OK 73162","2026/03/02",1785,"4 Beds","House"
+"8300 NW 10th St, Oklahoma City, OK 73127","2026/03/02",1145,"3 Beds","House"
+"2608 NW 37th St, Oklahoma City, OK 73112","2026/03/02",1800,"3 Beds","House"
+"6370 W Wilshire Blvd, Oklahoma City, OK 73132","2026/03/02",725,"2 Beds","House"
+"6370 W Wilshire Blvd, Oklahoma City, OK 73132","2026/03/02",2050,"2 Beds, 2 Baths, 1,463 sq ft","House"
+"6370 W Wilshire Blvd, Oklahoma City, OK 73132","2026/03/02",1049,"3 Beds","House"
+"5531 S Sunnylane Rd, Oklahoma City, OK 73135","2026/03/02",849,"2 Beds","House"
+"12913 Heron Ln, Oklahoma City, OK 73170","2026/03/02",1595,"3 Beds","House"
+"5531 S Sunnylane Rd, Oklahoma City, OK 73135","2026/03/02",749,"1 Bed","House"
+"13212 Windy Ridge Rd, Oklahoma City, OK 73120","2026/03/02",1975,"3 Beds","House"
+NA,NA,NA,NA,NA
+"3100 SW 45th St, Oklahoma City, OK 73119","2026/03/02",1295,"3 Beds","House"
+"1319 NE 15th St, Oklahoma City, OK 73117","2026/03/02",1250,"1319 NE 15th St","House"
+"1431 NE 27th St, Oklahoma City, OK 73111","2026/03/02",1100,"2 Beds","House"
+"13520 Vinita Dr, Oklahoma City, OK 73142","2026/03/02",1735,"3 Beds","House"
+"1207 N Ross Ave, Oklahoma City, OK 73107","2026/03/02",880,"2 Beds","House"
+NA,NA,NA,NA,NA
+"3424 Parker Dr, Oklahoma City, OK 73135","2026/03/02",600,"3 Beds","House"
+"6611 Lyrewood Ln, Oklahoma City, OK 73132","2026/03/02",1475,"2 Beds","House"
+"11105 Saint Charles Ave, Oklahoma City, OK 73162","2026/03/02",852,"1 Bed","House"
+"1129 NW 103rd St, Oklahoma City, OK 73114","2026/03/02",1299,"4 Beds","House"
+"313 NW 121st St, Oklahoma City, OK 73114","2026/03/02",1475,"4 Beds","House"
+"313 NW 121st St, Oklahoma City, OK 73114","2026/03/02",1100,"2 Beds, 2 Baths, 900 sq ft","House"
+"11240 Cimarron Dr, Oklahoma City, OK 73162","2026/03/02",1740,"3 Beds","House"
+NA,NA,NA,NA,NA
+"1212 SW 99th Terrace, Oklahoma City, OK 73139","2026/03/02",1540,"3 Beds","House"
+"2045 NE 17th St, Oklahoma City, OK 73111","2026/03/02",1200,"2 Beds","House"
+"2600 NW 12th St, Oklahoma City, OK 73107","2026/03/02",900,"1 Bed","House"
+"14409 Keri Cir, Oklahoma City, OK 73170","2026/03/02",1400,"3 Beds","House"
+"8709 SW 37th St, Oklahoma City, OK 73179","2026/03/02",1550,"3 Beds","House"
+"1621 NE 33rd St, Oklahoma City, OK 73111","2026/03/02",2500,"3 Beds","House"
+"3813 NW 17th St, Oklahoma City, OK 73107","2026/03/02",1750,"3 Beds","House"
+"6501 Westrock Dr, Oklahoma City, OK 73132","2026/03/02",2950,"5 Beds","House"
+"1156 SE 19th Terrace, Oklahoma City, OK 73129","2026/03/02",1550,"4 Beds","House"
+"6413 SE 84th St, Oklahoma City, OK 73135","2026/03/02",950,"1 Bed","House"
+"6413 SE 84th St, Oklahoma City, OK 73135","2026/03/02",850,"1 Bed","House"
+"1735 NW 12th St, Oklahoma City, OK 73106","2026/03/02",1275,"2 Beds","House"
+"2100 NE 26th St, Oklahoma City, OK 73111","2026/03/02",1050,"3 Beds","House"
+"2100 NE 26th St, Oklahoma City, OK 73111","2026/03/02",1267,"1 Bed, 1 Bath, 724 sq ft","House"
+"1451 SW 13th St, Oklahoma City, OK 73108","2026/03/02",775,"2 Beds","House"
+"1004 NE 28th St, Oklahoma City, OK 73111","2026/03/02",925,"1 Bed","House"
+"3416 Delta Pl, Del City, OK 73115","2026/03/02",1325,"3 Beds","House"
+"1111 E Willow Pl, Yukon, OK 73099","2026/03/02",1350,"3 Beds","House"
+"2604 Briarcliff Dr, Moore, OK 73170","2026/03/02",1970,"4 Beds","House"
+"12007 Ashford Dr, Yukon, OK 73099","2026/03/02",1700,"2 Beds","House"
+"1338 Selborne Pl, Yukon, OK 73099","2026/03/02",1810,"3 Beds","House"
+"508 NW 179th Cir, Edmond, OK 73012","2026/03/02",2175,"4 Beds","House"
+"909 N Donald Way, Mustang, OK 73064","2026/03/02",2080,"3 Beds","House"
+"532 W Shadow Ridge Way, Mustang, OK 73064","2026/03/02",1800,"4 Beds","House"
+"11840 SW 3rd Terrace, Yukon, OK 73099","2026/03/02",1855,"4 Beds","House"
+"204 NE 19th St, Moore, OK 73160","2026/03/02",1425,"3 Beds","House"
+"10005 Blue Wing Trl, Yukon, OK 73099","2026/03/02",1895,"4 Beds","House"
+"3005 Delmar Rd, Del City, OK 73115","2026/03/02",1245,"4 Beds","House"
+"3005 Delmar Rd, Del City, OK 73115","2026/03/02",904,"1 Bed, 1 Bath, 744 sq ft","House"
+"10633 NW 34th St, Yukon, OK 73099","2026/03/02",1465,"3 Beds","House"
+"9513 Laredo Ln, Yukon, OK 73099","2026/03/02",1940,"4 Beds","House"
+"10833 Ohara Ln, Midwest City, OK 73130","2026/03/02",1730,"3 Beds","House"
+"4116 NW 154th St, Edmond, OK 73013","2026/03/02",1955,"3 Beds","House"
+"2504 Tyler Ln, Moore, OK 73170","2026/03/02",1715,"4 Beds","House"
+"2504 Tyler Ln, Moore, OK 73170","2026/03/02",1334,"1 Bed, 1 Bath, 581 sq ft","House"
+"1153 Elmhurst St, Moore, OK 73160","2026/03/02",1305,"3 Beds","House"
+"3412 Prairie Ave, Edmond, OK 73013","2026/03/02",1970,"3 Beds","House"
+"11516 Southwest 24th Street, Yukon, OK 73099","2026/03/02",1845,"4 Beds","House"
+"14308 Peach Tree Dr, Yukon, OK 73099","2026/03/02",1675,"3 Beds","House"
+"2816 Sun Berry Way, Yukon, OK 73099","2026/03/02",1550,"3 Beds","House"
+"2816 Sun Berry Way, Yukon, OK 73099","2026/03/02",995,"1 Bed, 1 Bath, 651 sq ft","House"
+"2716 Demotte Dr, Yukon, OK 73099","2026/03/02",1695,"3 Beds","House"
+"3301 Eastwood Cir, Del City, OK 73115","2026/03/02",1575,"5 Beds","House"
+"1124 N Patterson Dr, Moore, OK 73160","2026/03/02",1505,"3 Beds","House"
+"3321 Pleasant Dr, Midwest City, OK 73110","2026/03/02",1375,"3 Beds","House"
+"17029 Woodvine Dr, Edmond, OK 73012","2026/03/02",2100,"3 Beds","House"
+"17029 Woodvine Dr, Edmond, OK 73012","2026/03/02",1098,"1 Bed, 1 Bath, 798 sq ft","House"
+"1621 NW 183rd St, Edmond, OK 73012","2026/03/02",2440,"4 Beds","House"
+"2605 NW 162nd St, Edmond, OK 73013","2026/03/02",1625,"3 Beds","House"
+"504 NW 183rd St, Edmond, OK 73012","2026/03/02",2400,"4 Beds","House"
+"1817 NW 173rd St, Edmond, OK 73012","2026/03/02",1925,"3 Beds","House"
+"2408 NW 161st St, Edmond, OK 73013","2026/03/02",1680,"3 Beds","House"
+"2408 NW 161st St, Edmond, OK 73013","2026/03/02",819,"1 Bed, 1 Bath, 603 sq ft","House"
+"916 NW 6th St, Newcastle, OK 73065","2026/03/02",1700,"4 Beds","House"
+"11709 NW 134th St, Piedmont, OK 73078","2026/03/02",1650,"4 Beds","House"
+"4601 Wagner Lake Dr, Yukon, OK 73099","2026/03/02",1885,"4 Beds","House"
+"309 S Dallas Ave, Moore, OK 73160","2026/03/02",1275,"3 Beds","House"
+"9049 NW 143rd St, Yukon, OK 73099","2026/03/02",1675,"3 Beds","House"
+"9049 NW 143rd St, Yukon, OK 73099","2026/03/02",941,"1 Bed, 1 Bath, 744 sq ft","House"
+"11637 SW 10th St, Yukon, OK 73099","2026/03/02",1795,"3 Beds","House"
+"4604 NW 162nd Ct, Edmond, OK 73013","2026/03/02",2365,"4 Beds","House"
+"4209 SE 43rd St, Del City, OK 73115","2026/03/02",1050,"3 Beds","House"
+"2713 Amber St, Moore, OK 73160","2026/03/02",1485,"3 Beds","House"
+"1845 NW 172nd St, Edmond, OK 73012","2026/03/02",1910,"4 Beds","House"
+"1845 NW 172nd St, Edmond, OK 73012","2026/03/02",1119,"2 Beds, 2 Baths, 966 sq ft","House"
+"4109 Windward Way, Yukon, OK 73099","2026/03/02",1675,"3 Beds","House"
+"601 NW 179th Cir, Edmond, OK 73012","2026/03/02",2655,"4 Beds","House"
+"3109 Canton Trail, Yukon, OK 73099","2026/03/02",1955,"3 Beds","House"
+"725 Lapwing Rd, Edmond, OK 73003","2026/03/02",1960,"3 Beds","House"
+"13909 Korbyn Dr, Yukon, OK 73099","2026/03/02",2330,"4 Beds","House"
+"13909 Korbyn Dr, Yukon, OK 73099","2026/03/02",1173,"1 Bed, 1 Bath, 668 sq ft","House"
+"2520 NW 194th St, Edmond, OK 73012","2026/03/02",1805,"3 Beds","House"
+"1612 Penn Ln, Moore, OK 73160","2026/03/02",1740,"3 Beds","House"
+"813 Hampton Rd, Del City, OK 73115","2026/03/02",1135,"3 Beds","House"
+"1516 Forrest Ridge Way, Yukon, OK 73099","2026/03/02",1325,"3 Beds","House"
+"631 Hunters Way, Mustang, OK 73064","2026/03/02",1825,"3 Beds","House"
+"631 Hunters Way, Mustang, OK 73064","2026/03/02",5500,"3 Beds, 3 Baths, 2,674 sq ft","House"
+"4804 Doe Run Dr, Yukon, OK 73099","2026/03/02",1795,"4 Beds","House"
+"501 Kelsi Dr, Moore, OK 73160","2026/03/02",1895,"4 Beds","House"
+"700 SW 12th St, Moore, OK 73160","2026/03/02",1590,"3 Beds","House"
+"1305 Aquarius Rd, Edmond, OK 73003","2026/03/02",1745,"4 Beds","House"
+"10616 SW 22nd St, Yukon, OK 73099","2026/03/02",1529,"3 Beds","House"
+"10616 SW 22nd St, Yukon, OK 73099","2026/03/02",1395,"1 Bed, 1 Bath, 771 sq ft","House"
+"4225 NW 155th St, Edmond, OK 73013","2026/03/02",2805,"4 Beds","House"
+"817 SW 8th St, Moore, OK 73160","2026/03/02",1760,"3 Beds","House"
+"2012 Tanglewood Dr, Edmond, OK 73013","2026/03/02",2025,"3 Beds","House"
+"305 W Grand Teton Ct, Yukon, OK 73099","2026/03/02",1685,"3 Beds","House"
+"11120 SW 42nd St, Mustang, OK 73064","2026/03/02",2115,"4 Beds","House"
+"11120 SW 42nd St, Mustang, OK 73064","2026/03/02",1299,"1 Bed, 1 Bath, 789 sq ft","House"
+"3713 Shannon Dr, Moore, OK 73160","2026/03/02",1855,"4 Beds","House"
+"901 NW 6th St, Newcastle, OK 73065","2026/03/02",1755,"4 Beds","House"
+"4813 Michael Dr, Del City, OK 73115","2026/03/02",1755,"4 Beds","House"
+"1704 Shannon Dr, Midwest City, OK 73130","2026/03/02",1715,"3 Beds","House"
+"1704 Shannon Dr, Midwest City, OK 73130","2026/03/02",1899,"3 Beds, 2 Baths, 1,250 sq ft","House"
+"4517 Katie Ridge Dr, Moore, OK 73160","2026/03/02",1985,"3 Beds","House"
+"15520 Boulder Dr, Edmond, OK 73013","2026/03/02",2250,"4 Beds","House"
+"1900 Lankestar Pl, Yukon, OK 73099","2026/03/02",1785,"4 Beds","House"
+"916 Clear Creek, Yukon, OK 73099","2026/03/02",1495,"3 Beds","House"
+"4400 N Shadybrook Dr, Midwest City, OK 73110","2026/03/02",1615,"4 Beds","House"
+"1101 S Avery Dr, Moore, OK 73160","2026/03/02",1660,"3 Beds","House"
+"2212 Felix Pl, Midwest City, OK 73110","2026/03/02",645,"1 Bed","House"
+"734 S Glen Ln, Mustang, OK 73064","2026/03/02",1200,"3 Beds","House"
+"2680 Clarke St, Choctaw, OK 73020","2026/03/02",1325,"3 Beds","House"
+"1801 West Antler Way, Mustang, OK 73064","2026/03/02",1700,"3 Beds","House"
+"937 SW 15th St, Moore, OK 73160","2026/03/02",1895,"4 Beds","House"
+"904 SW 13th St, Moore, OK 73160","2026/03/02",1695,"3 Beds","House"
+"516 NW 167th St, Edmond, OK 73012","2026/03/02",2310,"4 Beds","House"
+"1000 Cornwell Dr, Yukon, OK 73099","2026/03/02",799,"2 Beds","House"
+"1000 Cornwell Dr, Yukon, OK 73099","2026/03/02",855,"2 Beds, 2 Baths, 950 sq ft","House"
+"1110 Sherwood Ln, Nichols Hills, OK 73116","2026/03/02",2000,"2 Beds","House"
+"4709 Princess Ln, Del City, OK 73115","2026/03/02",1545,"4 Beds","House"
+"921 NE 12th St, Moore, OK 73160","2026/03/02",899,"2 Beds","House"
+"1000 Cornwell Dr, Yukon, OK 73099","2026/03/02",750,"1 Bed","House"
+"1000 Cornwell Dr, Yukon, OK 73099","2026/03/02",1049,"3 Beds","House"
+"1000 Cornwell Dr, Yukon, OK 73099","2026/03/02",775,"1 Bed, 1 Bath, 700 sq ft","House"
+"55 N Ranchwood Blvd, Yukon, OK 73099","2026/03/02",1075,"2 Beds","House"
+"55 N Ranchwood Blvd, Yukon, OK 73099","2026/03/02",825,"1 Bed","House"
+"55 N Ranchwood Blvd, Yukon, OK 73099","2026/03/02",785,"1 Bed","House"
+"604 NW 175th St, Edmond, OK 73012","2026/03/02",1900,"4 Beds","House"
+NA,NA,NA,NA,NA
+"7625 NW 26th St, Bethany, OK 73008","2026/03/02",2150,"4 Beds","House"
+"941 NE 30th St, Moore, OK 73160","2026/03/02",1675,"3 Beds","House"
+"3400 Overland Dr, Del City, OK 73115","2026/03/02",1295,"3 Beds","House"
+"900 N Redbud Dr, Midwest City, OK 73110","2026/03/02",1100,"2 Beds","House"
+"1242 N Shannon Way, Mustang, OK 73064","2026/03/02",1695,"3 Beds","House"
+"4112 NW 179th Terrace, Edmond, OK 73012","2026/03/02",2650,"4 Beds","House"
+"4104 NW 179th Terrace, Edmond, OK 73012","2026/03/02",2650,"4 Beds","House"
+"12025 Ashford Dr, Yukon, OK 73099","2026/03/02",1350,"2 Beds","House"
+"1612 Oxford Way, The Village, OK 73120","2026/03/02",1375,"3 Beds","House"
+"313 N Shannon Way, Mustang, OK 73064","2026/03/02",1850,"3 Beds","House"
+"2609 NW 12th St Unit 4, Oklahoma City, OK 73107","2026/03/02",746,"(572) 231-9623
+Apply","House"
+"3011 W Wilshire Blvd Unit Wilshire, Oklahoma City, OK 73116","2026/03/02",1450,"3 Beds, 3 Baths, 1,508 sq ft","House"
+"219 SE 21st St, Oklahoma City, OK 73129","2026/03/02",1150,"3 Beds, 1 Bath, 880 sq ft","House"
+"2840 NW 23rd St Unit 2840, Oklahoma City, OK 73107","2026/03/02",1000,"2 Beds",NA
+"1916 Graham Ave, Oklahoma City, OK 73127","2026/03/02",1500,"3 Beds, 1.5 Baths, 1,418 sq ft",NA
+"19501 N Pennsylvania Ave, Edmond, OK 73012","2026/03/02",1750,"Unit 4-407 at Pointe at North Penn",NA
+"1132 NW 34th St Unit 2, Oklahoma City, OK 73118","2026/03/02",1496,"2 Beds",NA
+"4401 Northwest 55th Street, Oklahoma City, OK 73112","2026/03/02",1400,"3 Beds, 2 Baths, 1,300 sq ft",NA
+"2056 NW 48th St, Oklahoma City, OK 73118","2026/03/02",2200,"3 Beds, 2 Baths, 1,901 sq ft",NA
+"324 SW 147th St, Oklahoma City, OK 73170","2026/03/02",1750,"3 Beds, 2 Baths, 1,431 sq ft",NA
+"1452 E Park Pl Unit A1, Oklahoma City, OK 73117","2026/03/02",2100,"1 Bed",NA
+"10805 Ohara Ln, Midwest City, OK 73130","2026/03/02",1800,"3 Beds, 2 Baths, 1,801 sq ft",NA
+"532 Showalter Dr, Midwest City, OK 73110","2026/03/02",1300,"3 Beds, 1 Bath, 900 sq ft",NA
+"628 E Frolich Dr, Midwest City, OK 73110","2026/03/02",1100,"3 Beds, 1 Bath, 864 sq ft",NA
+"936 SW 2nd St, Moore, OK 73160","2026/03/02",1250,"3 Beds, 2 Baths, 1,400 sq ft",NA
+"101 E Lockheed Dr, Midwest City, OK 73110","2026/03/02",1100,"3 Beds, 1 Bath, 900 sq ft",NA
+"2717 NW 178th St, Edmond, OK 73012","2026/03/02",1274,"Unit Building 2-0201 at The Lofts at Valencia",NA
+"1404 N Nail Pky, Moore, OK 73160","2026/03/02",1295,"2 Beds, 1 Bath, 1,200 sq ft",NA
+"11525 N Meridian Ave Unit NA, Oklahoma City, OK 73120","2026/03/02",1050,"2 Beds, 2 Baths, 975 sq ft",NA
+"9900 Rockwell Terrace, Oklahoma City, OK 73132","2026/03/02",2400,"4 Beds, 3 Baths, 3,175 sq ft",NA
+"4024 NW 32nd St, Oklahoma City, OK 73112","2026/03/02",1275,"3 Beds, 1 Bath, 1,125 sq ft",NA
+"3208 N Shartel Ave, Oklahoma City, OK 73118","2026/03/02",1175,"2 Beds, 1 Bath, 1,000 sq ft",NA
+"9023 N Rockwell Dr, Oklahoma City, OK 73132","2026/03/02",1500,"3 Beds, 2 Baths, 1,400 sq ft",NA
+"3000 Rosewood Ln Unit 3002, Oklahoma City, OK 73120","2026/03/02",1495,"2 Beds",NA
+"1138 N Brauer Ave, Oklahoma City, OK 73106","2026/03/02",799,"(572) 221-7102",NA
+"9021 N Rockwell Dr, Oklahoma City, OK 73132","2026/03/02",1500,"3 Beds, 2 Baths, 1,400 sq ft",NA
+"1221 NW 42nd St, Oklahoma City, OK 73118","2026/03/02",1150,"2 Beds, 1 Bath, 1,100 sq ft",NA
+"3916 NW 164th St, Edmond, OK 73013","2026/03/02",1570,"Unit 19-301 at The Encore Apartments",NA
+"2813 N Robinson Ave, Oklahoma City, OK 73103","2026/03/02",1025,"2 Beds, 1 Bath, 1,400 sq ft",NA
+"1408 SW 23rd St, Oklahoma City, OK 73108","2026/03/02",1395,"3 Beds, 2 Baths, 1,165 sq ft",NA
+"2709 SE 91st St, Oklahoma City, OK 73160","2026/03/02",1450,"3 Beds, 2 Baths, 1,500 sq ft",NA
+"9906 Mantle Dr, Oklahoma City, OK 73162","2026/03/02",1850,"3 Beds, 2 Baths, 2,016 sq ft",NA
+"9101 S Winston Way, Oklahoma City, OK 73139","2026/03/02",2200,"3 Beds, 2 Baths, 1,068 sq ft",NA
+"301-501 Pointe Parkway Blvd, Yukon, OK 73099","2026/03/02",1289,"Unit 4319 at Park at Westpointe",NA
+"212 N Indiana Ave, Oklahoma City, OK 73106","2026/03/02",699,"(572) 221-7753",NA
+"5900 Mosteller Dr, Oklahoma City, OK 73112","2026/03/02",2299,"1 Bed",NA
+"2629 N Sterling Ave, Oklahoma City, OK 73127","2026/03/02",1195,"2 Beds, 2 Baths, 1,145 sq ft",NA
+"2420 NW 36th Ter, Oklahoma City, OK 73112","2026/03/02",999,"(572) 221-3342",NA
+"1121 NW 28th St Unit 1, Oklahoma City, OK 73106","2026/03/02",799,"(572) 600-2576",NA
+"2901 Rosewood Ln Unit 2901, Oklahoma City, OK 73120","2026/03/02",1525,"2 Beds",NA
+"2205 S Central Ave Unit A, Oklahoma City, OK 73129","2026/03/02",699,"(572) 220-3618",NA
+"100 SE 32nd St, Oklahoma City, OK 73129","2026/03/02",999,"(405) 652-0236",NA
+"2538 NW 21st St Unit 2538, Oklahoma City, OK 73107","2026/03/02",1295,"2 Beds",NA
+"10305 Plymouth Ct, Oklahoma City, OK 73159","2026/03/02",1475,"3 Beds, 2 Baths, 1,375 sq ft",NA
+"2317 SW 48th St, Oklahoma City, OK 73119","2026/03/02",1000,"3 Beds, 1 Bath, 913 sq ft",NA
+"3605 NW 51st St, Oklahoma City, OK 73112","2026/03/02",1250,"3 Beds, 2 Baths, 1,275 sq ft",NA
+"401 NE 115th St, Oklahoma City, OK 73114","2026/03/02",1550,"(405) 679-2930",NA
+"2005 SE 7th Ct, Moore, OK 73160","2026/03/02",1550,"3 Beds, 2 Baths, 1,500 sq ft",NA
+"1936 Lariat Cir, Edmond, OK 73003","2026/03/02",1350,"3 Beds, 2 Baths, 1,300 sq ft",NA
+"600 Fire Light Dr, Moore, OK 73160","2026/03/02",1450,"3 Beds, 2 Baths, 1,400 sq ft",NA
+"5229 NW 47th St, Warr Acres, OK 73122","2026/03/02",1100,"3 Beds, 1.5 Baths, 1,000 sq ft",NA
+"6415 NW 19th St, Bethany, OK 73008","2026/03/02",1250,"3 Beds, 1.5 Baths, 1,075 sq ft",NA
+"702 NE 11th St, Moore, OK 73160","2026/03/02",1045,"2 Beds, 2 Baths, 874 sq ft",NA
+"1211 Parkwood Ct, Moore, OK 73160","2026/03/02",1045,"2 Beds, 2 Baths, 874 sq ft",NA
+"533 NW 176th St, Edmond, OK 73012","2026/03/02",2175,"3 Beds, 2 Baths, 1,820 sq ft",NA
+"10505 Turtle Back Dr, Midwest City, OK 73130","2026/03/02",1775,"3 Beds, 2 Baths, 1,543 sq ft",NA
+"764 Okie Ridge Rd, Yukon, OK 73099","2026/03/02",1375,"3 Beds, 2 Baths, 1,241 sq ft",NA
+"314 E Ercoupe Dr, Midwest City, OK 73110","2026/03/02",1175,"3 Beds, 1 Bath, 1,055 sq ft",NA
+"518 E Lockheed Dr, Midwest City, OK 73110","2026/03/02",1125,"3 Beds, 1 Bath, 1,084 sq ft",NA
+"2914 Vickie dr Unit A, Del city, OK 73115","2026/03/02",700,"2 Beds",NA
+"2914 Vickie Dr. Apt. D Unit D, Del City, OK 73115","2026/03/02",800,"2 Beds, 1 Bath, 700 sq ft",NA
+"332 Tullahoma Dr, Edmond, OK 73034","2026/03/02",1495,"4 Beds, 2 Baths, 1,530 sq ft",NA
+"17600 Durbin Park Rd, Edmond, OK 73012","2026/03/02",1725,"3 Beds, 2 Baths, 2,300 sq ft",NA
+"1932 Lariat Cir, Edmond, OK 73003","2026/03/02",1375,"3 Beds, 2 Baths, 1,300 sq ft",NA
+"2616 Nantucket Ave, Edmond, OK 73013","2026/03/02",1450,"3 Beds, 2 Baths, 1,600 sq ft",NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"3712 N Barnes Ave, Oklahoma City, OK 73112","2026/03/02",799,"(572) 212-4330",NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
