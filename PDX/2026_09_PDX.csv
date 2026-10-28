@@ -1,0 +1,1360 @@
+"Address","Date","Rent","Aprt_Type","Building_Type"
+"1985-1988 NW Savier St, Portland, OR 97209","2026/09/14",1364,"Studio","Apartment"
+"1985-1988 NW Savier St, Portland, OR 97209","2026/09/14",1653,"1 Bed","Apartment"
+"1985-1988 NW Savier St, Portland, OR 97209","2026/09/14",2540,"2 Beds","Apartment"
+"7900 SE Luther Rd, Portland, OR 97206","2026/09/14",1558,"1 Bed","Apartment"
+"7900 SE Luther Rd, Portland, OR 97206","2026/09/14",2182,"2 Beds","Apartment"
+"1630 SE Rural St, Portland, OR 97202","2026/09/14",1212,"Studio","Apartment"
+"1630 SE Rural St, Portland, OR 97202","2026/09/14",1496,"1 Bed","Apartment"
+"1640 SW Yamhill St, Portland, OR 97205","2026/09/14",1710,"Studio","Apartment"
+"1640 SW Yamhill St, Portland, OR 97205","2026/09/14",2095,"1 Bed","Apartment"
+"1640 SW Yamhill St, Portland, OR 97205","2026/09/14",3405,"2 Beds","Apartment"
+"2050 Northeast Pacific Street, Portland, OR 97232","2026/09/14",1576,"Studio","Apartment"
+"2050 Northeast Pacific Street, Portland, OR 97232","2026/09/14",1595,"1 Bed","Apartment"
+"2050 Northeast Pacific Street, Portland, OR 97232","2026/09/14",2895,"2 Beds","Apartment"
+"22 NE 2nd Ave, Portland, OR 97232","2026/09/14",1361,"Studio","Apartment"
+"22 NE 2nd Ave, Portland, OR 97232","2026/09/14",1516,"1 Bed","Apartment"
+"22 NE 2nd Ave, Portland, OR 97232","2026/09/14",2450,"2 Beds","Apartment"
+"110 N Tomahawk Island Dr, Portland, OR 97217","2026/09/14",1339,"1 Bed","Apartment"
+"110 N Tomahawk Island Dr, Portland, OR 97217","2026/09/14",1732,"2 Beds","Apartment"
+"2070 NW Quimby St, Portland, OR 97209","2026/09/14",1450,"Studio","Apartment"
+"2070 NW Quimby St, Portland, OR 97209","2026/09/14",1886,"1 Bed","Apartment"
+"2070 NW Quimby St, Portland, OR 97209","2026/09/14",2257,"2 Beds","Apartment"
+"3650 SE 29th Ave, Portland, OR 97202","2026/09/14",1400,"1 Bed","Apartment"
+"3650 SE 29th Ave, Portland, OR 97202","2026/09/14",1765,"2 Beds","Apartment"
+"3650 SE 29th Ave, Portland, OR 97202","2026/09/14",2419,"3 Beds","Apartment"
+"5620 N Interstate Ave, Portland, OR 97217","2026/09/14",1175,"3 Beds",NA
+"4225 SE Milwaukie Ave, Portland, OR 97202","2026/09/14",1199,"Studio","Apartment"
+"4225 SE Milwaukie Ave, Portland, OR 97202","2026/09/14",1664,"1 Bed","Apartment"
+"4225 SE Milwaukie Ave, Portland, OR 97202","2026/09/14",2141,"2 Beds+","Apartment"
+"1784 NW Northrup St, Portland, OR 97209","2026/09/14",1375,"Studio","Apartment"
+"1784 NW Northrup St, Portland, OR 97209","2026/09/14",3059,"2 Beds","Apartment"
+"900 NW Lovejoy St, Portland, OR 97209","2026/09/14",1600,"1 Bed","Apartment"
+"900 NW Lovejoy St, Portland, OR 97209","2026/09/14",2600,"2 Beds","Apartment"
+"224 SE 188th Ave, Portland, OR 97233","2026/09/14",1175,"1 Bed","Apartment"
+"224 SE 188th Ave, Portland, OR 97233","2026/09/14",1299,"2 Beds","Apartment"
+"224 SE 188th Ave, Portland, OR 97233","2026/09/14",1699,"3 Beds","Apartment"
+"1447 NW 12th Ave, Portland, OR 97209","2026/09/14",1572,"1 Bed","Apartment"
+"1447 NW 12th Ave, Portland, OR 97209","2026/09/14",2289,"2 Beds","Apartment"
+"3202 SE 92nd Ave, Portland, OR 97266","2026/09/14",1595,"2 Beds",NA
+"12345 SE Fuller Rd, Portland, OR 97222","2026/09/14",1395,"2 Beds",NA
+"750 SW 9th Ave, Portland, OR 97205","2026/09/14",1552,"Studio","Apartment"
+"750 SW 9th Ave, Portland, OR 97205","2026/09/14",1985,"1 Bed","Apartment"
+"750 SW 9th Ave, Portland, OR 97205","2026/09/14",2511,"2 Beds","Apartment"
+"6015 N Interstate Ave, Portland, OR 97217","2026/09/14",1185,"Studio","Apartment"
+"6015 N Interstate Ave, Portland, OR 97217","2026/09/14",1781,"1 Bed","Apartment"
+"6015 N Interstate Ave, Portland, OR 97217","2026/09/14",2597,"2 Beds","Apartment"
+"7007 SW Hampton St, Tigard, OR 97223","2026/09/14",1699,"1 Bed","Apartment"
+"7007 SW Hampton St, Tigard, OR 97223","2026/09/14",1999,"2 Beds","Apartment"
+"10999 SE 37th Ave, Milwaukie, OR 97222","2026/09/14",1460,"Studio","Apartment"
+"10999 SE 37th Ave, Milwaukie, OR 97222","2026/09/14",1734,"1 Bed","Apartment"
+"10999 SE 37th Ave, Milwaukie, OR 97222","2026/09/14",2164,"2 Beds+","Apartment"
+"2059 SW Park Ave, Portland, OR 97201","2026/09/14",1065,"2 Beds+",NA
+"140 SW Columbia St, Portland, OR 97201","2026/09/14",1657,"Studio","Apartment"
+"140 SW Columbia St, Portland, OR 97201","2026/09/14",1498,"1 Bed","Apartment"
+"140 SW Columbia St, Portland, OR 97201","2026/09/14",2869,"2 Beds","Apartment"
+"3956 N Vancouver Ave, Portland, OR 97227","2026/09/14",1365,"Studio","Apartment"
+"3956 N Vancouver Ave, Portland, OR 97227","2026/09/14",1399,"1 Bed","Apartment"
+"3956 N Vancouver Ave, Portland, OR 97227","2026/09/14",1849,"2 Beds","Apartment"
+"1510 SW Alder St, Portland, OR 97205","2026/09/14",1579,"1 Bed","Apartment"
+"1510 SW Alder St, Portland, OR 97205","2026/09/14",2947,"2 Beds","Apartment"
+"1725 SW Salmon St, Portland, OR 97205","2026/09/14",1420,"Studio","Apartment"
+"1725 SW Salmon St, Portland, OR 97205","2026/09/14",1622,"1 Bed","Apartment"
+"1725 SW Salmon St, Portland, OR 97205","2026/09/14",3384,"2 Beds","Apartment"
+"7128 NW 159th Ave, Portland, OR 97229","2026/09/14",1675,"1 Bed","Apartment"
+"7128 NW 159th Ave, Portland, OR 97229","2026/09/14",1999,"2 Beds","Apartment"
+"7128 NW 159th Ave, Portland, OR 97229","2026/09/14",2599,"3 Beds","Apartment"
+"3883 S Moody Ave, Portland, OR 97239","2026/09/14",1295,"Studio","Apartment"
+"3883 S Moody Ave, Portland, OR 97239","2026/09/14",1518,"1 Bed","Apartment"
+"3883 S Moody Ave, Portland, OR 97239","2026/09/14",2394,"2 Beds","Apartment"
+"1871 N Flint Ave, Portland, OR 97227","2026/09/14",1184,"Studio","Apartment"
+"1871 N Flint Ave, Portland, OR 97227","2026/09/14",1995,"1 Bed","Apartment"
+"1871 N Flint Ave, Portland, OR 97227","2026/09/14",2350,"2 Beds","Apartment"
+"3720 SW Bond Ave, Portland, OR 97239","2026/09/14",1538,"Studio","Apartment"
+"3720 SW Bond Ave, Portland, OR 97239","2026/09/14",1952,"1 Bed","Apartment"
+"3720 SW Bond Ave, Portland, OR 97239","2026/09/14",3194,"2 Beds","Apartment"
+"1155 NW Everett St, Portland, OR 97209","2026/09/14",1400,"Studio","Apartment"
+"1155 NW Everett St, Portland, OR 97209","2026/09/14",1650,"1 Bed","Apartment"
+"650 S Gaines St, Portland, OR 97239","2026/09/14",1456,"Studio","Apartment"
+"650 S Gaines St, Portland, OR 97239","2026/09/14",1670,"1 Bed","Apartment"
+"650 S Gaines St, Portland, OR 97239","2026/09/14",2796,"2 Beds","Apartment"
+"1261 NW Overton St, Portland, OR 97209","2026/09/14",1953,"1 Bed","Apartment"
+"1261 NW Overton St, Portland, OR 97209","2026/09/14",2495,"2 Beds","Apartment"
+"1450 N Prescott St, Portland, OR 97217","2026/09/14",1480,"Studio","Apartment"
+"1450 N Prescott St, Portland, OR 97217","2026/09/14",1200,"1 Bed","Apartment"
+"1450 N Prescott St, Portland, OR 97217","2026/09/14",1438,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"1811 SW River Dr, Portland, OR 97201","2026/09/14",1334,"Studio","Apartment"
+"1811 SW River Dr, Portland, OR 97201","2026/09/14",1609,"1 Bed","Apartment"
+"1811 SW River Dr, Portland, OR 97201","2026/09/14",1890,"2 Beds+","Apartment"
+"4940 S Landing Dr, Portland, OR 97239","2026/09/14",1355,"Studio","Apartment"
+"4940 S Landing Dr, Portland, OR 97239","2026/09/14",1444,"1 Bed","Apartment"
+"4940 S Landing Dr, Portland, OR 97239","2026/09/14",2060,"2 Beds","Apartment"
+"1818 SW 4th Ave, Portland, OR 97201","2026/09/14",1199,"Studio","Apartment"
+"1818 SW 4th Ave, Portland, OR 97201","2026/09/14",1699,"1 Bed","Apartment"
+"1818 SW 4th Ave, Portland, OR 97201","2026/09/14",1899,"2 Beds","Apartment"
+"514 SE Belmont St, Portland, OR 97214","2026/09/14",1252,"Studio","Apartment"
+"514 SE Belmont St, Portland, OR 97214","2026/09/14",1558,"1 Bed","Apartment"
+"514 SE Belmont St, Portland, OR 97214","2026/09/14",2365,"2 Beds","Apartment"
+"310 SE 12th Ave, Portland, OR 97214","2026/09/14",1549,"2 Beds",NA
+"8220 SE 6th Ave, Portland, OR 97202","2026/09/14",1450,"Studio","Apartment"
+"8220 SE 6th Ave, Portland, OR 97202","2026/09/14",1600,"1 Bed","Apartment"
+"2865 NE Sandy Blvd, Portland, OR 97232","2026/09/14",1332,"Studio","Apartment"
+"2865 NE Sandy Blvd, Portland, OR 97232","2026/09/14",1464,"1 Bed","Apartment"
+"2865 NE Sandy Blvd, Portland, OR 97232","2026/09/14",2365,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"255 NW 10th Ave, Portland, OR 97209","2026/09/14",1699,"Studio","Apartment"
+"255 NW 10th Ave, Portland, OR 97209","2026/09/14",1662,"1 Bed","Apartment"
+"255 NW 10th Ave, Portland, OR 97209","2026/09/14",2775,"2 Beds","Apartment"
+"4111 NE M L King Blvd, Portland, OR 97211","2026/09/14",1299,"Studio","Apartment"
+"4111 NE M L King Blvd, Portland, OR 97211","2026/09/14",1449,"1 Bed","Apartment"
+"3158 SW 12th Ave, Portland, OR 97239","2026/09/14",2140,"1 Bed","Apartment"
+"3158 SW 12th Ave, Portland, OR 97239","2026/09/14",2500,"2 Beds","Apartment"
+"3158 SW 12th Ave, Portland, OR 97239","2026/09/14",2675,"3 Beds","Apartment"
+"7373 N Philadelphia Ave, Portland, OR 97203","2026/09/14",1400,"3 Beds",NA
+"2065 S River Pky, Portland, OR 97201","2026/09/14",1246,"Studio","Apartment"
+"2065 S River Pky, Portland, OR 97201","2026/09/14",1308,"1 Bed","Apartment"
+"2065 S River Pky, Portland, OR 97201","2026/09/14",1562,"2 Beds+","Apartment"
+"10451 E Burnside St, Portland, OR 97216","2026/09/14",1222,"2 Beds+",NA
+"1311 SW Gibbs St, Portland, OR 97239","2026/09/14",1295,"Studio","Apartment"
+"1311 SW Gibbs St, Portland, OR 97239","2026/09/14",1350,"1 Bed","Apartment"
+"1311 SW Gibbs St, Portland, OR 97239","2026/09/14",2095,"2 Beds","Apartment"
+"1666 SE Lambert St, Portland, OR 97202","2026/09/14",2895,"2 Beds",NA
+"1375 N Killingsworth St, Portland, OR 97217","2026/09/14",1099,"2 Beds",NA
+"9224 SE Ramona St, Portland, OR 97266","2026/09/14",1375,"Studio","Apartment"
+"9224 SE Ramona St, Portland, OR 97266","2026/09/14",1600,"1 Bed","Apartment"
+"2510 NE Sandy Blvd, Portland, OR 97232","2026/09/14",1899,"1 Bed",NA
+"4300 NW Chanticleer Dr, Portland, OR 97229","2026/09/14",1775,"1 Bed","Apartment"
+"4300 NW Chanticleer Dr, Portland, OR 97229","2026/09/14",1965,"2 Beds","Apartment"
+"1912 NE Schuyler St, Portland, OR 97212","2026/09/14",1575,"1 Bed","Apartment"
+"1912 NE Schuyler St, Portland, OR 97212","2026/09/14",1750,"2 Beds","Apartment"
+"677 S Lowell St, Portland, OR 97239","2026/09/14",1285,"Studio","Apartment"
+"677 S Lowell St, Portland, OR 97239","2026/09/14",1485,"1 Bed","Apartment"
+"677 S Lowell St, Portland, OR 97239","2026/09/14",2095,"2 Beds","Apartment"
+"1717 SW Park Ave, Portland, OR 97201","2026/09/14",1090,"Studio","Apartment"
+"1717 SW Park Ave, Portland, OR 97201","2026/09/14",1271,"1 Bed","Apartment"
+"1717 SW Park Ave, Portland, OR 97201","2026/09/14",1609,"2 Beds+","Apartment"
+"2625 E Burnside St, Portland, OR 97214","2026/09/14",1341,"Studio","Apartment"
+"2625 E Burnside St, Portland, OR 97214","2026/09/14",1645,"1 Bed","Apartment"
+"2625 E Burnside St, Portland, OR 97214","2026/09/14",2728,"2 Beds","Apartment"
+"1250 NW Kearney St, Portland, OR 97209","2026/09/14",1629,"Studio","Apartment"
+"1250 NW Kearney St, Portland, OR 97209","2026/09/14",1611,"1 Bed","Apartment"
+"3124-3234 SE 136th Ave, Portland, OR 97236","2026/09/14",1397,"1 Bed",NA
+"931 NW 11th Ave, Portland, OR 97209","2026/09/14",1479,"Studio","Apartment"
+"931 NW 11th Ave, Portland, OR 97209","2026/09/14",1847,"1 Bed","Apartment"
+"931 NW 11th Ave, Portland, OR 97209","2026/09/14",2585,"2 Beds","Apartment"
+"1410 SW Broadway, Portland, OR 97201","2026/09/14",900,"2 Beds",NA
+"1417 SW 10th Ave, Portland, OR 97201","2026/09/14",995,"2 Beds",NA
+"6971 NE 27th Ave, Portland, OR 97211","2026/09/14",941,"1 Bed","Apartment"
+"6971 NE 27th Ave, Portland, OR 97211","2026/09/14",1428,"2 Beds","Apartment"
+"1976 NW Pettygrove St, Portland, OR 97209","2026/09/14",1475,"2 Beds",NA
+"123 NW 12th Ave, Portland, OR 97209","2026/09/14",1684,"1 Bed","Apartment"
+"123 NW 12th Ave, Portland, OR 97209","2026/09/14",2646,"2 Beds","Apartment"
+"3750 S River Pky, Portland, OR 97239","2026/09/14",1514,"1 Bed","Apartment"
+"3750 S River Pky, Portland, OR 97239","2026/09/14",2402,"2 Beds","Apartment"
+"1200 NW Marshall St, Portland, OR 97209","2026/09/14",1512,"Studio","Apartment"
+"1200 NW Marshall St, Portland, OR 97209","2026/09/14",1870,"1 Bed","Apartment"
+"1200 NW Marshall St, Portland, OR 97209","2026/09/14",2921,"2 Beds","Apartment"
+"910 N Harbour Dr, Portland, OR 97217","2026/09/14",1525,"1 Bed","Apartment"
+"910 N Harbour Dr, Portland, OR 97217","2026/09/14",1775,"2 Beds","Apartment"
+"5745 SW Oleson Rd, Portland, OR 97225","2026/09/14",1395,"1 Bed","Apartment"
+"5745 SW Oleson Rd, Portland, OR 97225","2026/09/14",1695,"2 Beds","Apartment"
+"2220 NW Front Ave, Portland, OR 97209","2026/09/14",1356,"Studio","Apartment"
+"2220 NW Front Ave, Portland, OR 97209","2026/09/14",1820,"1 Bed","Apartment"
+"2220 NW Front Ave, Portland, OR 97209","2026/09/14",3002,"2 Beds","Apartment"
+"434 SW College St, Portland, OR 97201","2026/09/14",1799,"1 Bed","Apartment"
+"434 SW College St, Portland, OR 97201","2026/09/14",1000,"2 Beds","Apartment"
+"434 SW College St, Portland, OR 97201","2026/09/14",899,"3 Beds+","Apartment"
+"7227 N Philadelphia Ave, Portland, OR 97203","2026/09/14",1501,"1 Bed","Apartment"
+"7227 N Philadelphia Ave, Portland, OR 97203","2026/09/14",1643,"2 Beds","Apartment"
+"1061 NE 9th Ave, Portland, OR 97232","2026/09/14",1343,"Studio","Apartment"
+"1061 NE 9th Ave, Portland, OR 97232","2026/09/14",1673,"1 Bed","Apartment"
+"1061 NE 9th Ave, Portland, OR 97232","2026/09/14",2305,"2 Beds","Apartment"
+"1115 SW Market St, Portland, OR 97201","2026/09/14",2199,"2 Beds",NA
+"1850 NW Front Ave, Portland, OR 97209","2026/09/14",1250,"Studio","Apartment"
+"1850 NW Front Ave, Portland, OR 97209","2026/09/14",1425,"1 Bed","Apartment"
+"1850 NW Front Ave, Portland, OR 97209","2026/09/14",2055,"2 Beds","Apartment"
+"878 N Fremont St, Portland, OR 97227","2026/09/14",1286,"Studio","Apartment"
+"878 N Fremont St, Portland, OR 97227","2026/09/14",1674,"1 Bed","Apartment"
+"878 N Fremont St, Portland, OR 97227","2026/09/14",3199,"2 Beds","Apartment"
+"2621 NE 7th Ave, Portland, OR 97212","2026/09/14",1431,"Studio","Apartment"
+"2621 NE 7th Ave, Portland, OR 97212","2026/09/14",1737,"1 Bed","Apartment"
+"10306 SE Main St, Milwaukie, OR 97222","2026/09/14",1400,"Studio","Apartment"
+"10306 SE Main St, Milwaukie, OR 97222","2026/09/14",1595,"1 Bed","Apartment"
+"10306 SE Main St, Milwaukie, OR 97222","2026/09/14",2349,"2 Beds","Apartment"
+"1110 W Columbia Way, Vancouver, WA 98660","2026/09/14",1586,"Studio","Apartment"
+"1110 W Columbia Way, Vancouver, WA 98660","2026/09/14",1807,"1 Bed","Apartment"
+"1110 W Columbia Way, Vancouver, WA 98660","2026/09/14",2581,"2 Beds","Apartment"
+"1 Jefferson Pky, Lake Oswego, OR 97035","2026/09/14",1545,"1 Bed","Apartment"
+"1 Jefferson Pky, Lake Oswego, OR 97035","2026/09/14",1805,"2 Beds","Apartment"
+"1 Jefferson Pky, Lake Oswego, OR 97035","2026/09/14",2744,"3 Beds+","Apartment"
+"636 W 6th St, Vancouver, WA 98660","2026/09/14",1884,"1 Bed","Apartment"
+"636 W 6th St, Vancouver, WA 98660","2026/09/14",2456,"2 Beds","Apartment"
+"11974 SW 72nd Ave, Tigard, OR 97223","2026/09/14",1334,"Studio","Apartment"
+"11974 SW 72nd Ave, Tigard, OR 97223","2026/09/14",1567,"1 Bed","Apartment"
+"11974 SW 72nd Ave, Tigard, OR 97223","2026/09/14",2043,"2 Beds+","Apartment"
+"1111 W Columbia Way, Vancouver, WA 98660","2026/09/14",1600,"Studio","Apartment"
+"1111 W Columbia Way, Vancouver, WA 98660","2026/09/14",1750,"1 Bed","Apartment"
+"440 W Columbia Way, Vancouver, WA 98660","2026/09/14",1524,"Studio","Apartment"
+"440 W Columbia Way, Vancouver, WA 98660","2026/09/14",1799,"1 Bed","Apartment"
+"440 W Columbia Way, Vancouver, WA 98660","2026/09/14",3198,"2 Beds","Apartment"
+"13155 SW 68th Pky, Tigard, OR 97223","2026/09/14",1890,"1 Bed","Apartment"
+"13155 SW 68th Pky, Tigard, OR 97223","2026/09/14",2095,"2 Beds","Apartment"
+"8376 SW Pfaffle St, Tigard, OR 97223","2026/09/14",1480,"1 Bed","Apartment"
+"8376 SW Pfaffle St, Tigard, OR 97223","2026/09/14",1799,"2 Beds","Apartment"
+"2 Jefferson Pky, Lake Oswego, OR 97035","2026/09/14",1695,"1 Bed","Apartment"
+"2 Jefferson Pky, Lake Oswego, OR 97035","2026/09/14",2242,"2 Beds","Apartment"
+"4850 SW 11th St, Gresham, OR 97080","2026/09/14",1575,"2 Beds",NA
+"700 Waterfront Way, Vancouver, WA 98660","2026/09/14",1600,"Studio","Apartment"
+"700 Waterfront Way, Vancouver, WA 98660","2026/09/14",2075,"1 Bed","Apartment"
+"700 Waterfront Way, Vancouver, WA 98660","2026/09/14",3350,"2 Beds","Apartment"
+"5 SE Martin Luther King Jr Blvd, Portland, OR 97214","2026/09/14",1667,"Studio","Apartment"
+"5 SE Martin Luther King Jr Blvd, Portland, OR 97214","2026/09/14",1758,"1 Bed","Apartment"
+"5 SE Martin Luther King Jr Blvd, Portland, OR 97214","2026/09/14",2799,"2 Beds","Apartment"
+"5132 SW Slavin Rd, Portland, OR 97239","2026/09/14",1560,"1 Bed","Apartment"
+"5132 SW Slavin Rd, Portland, OR 97239","2026/09/14",1675,"2 Beds","Apartment"
+"1250 E Burnside St, Portland, OR 97214","2026/09/14",1625,"1 Bed","Apartment"
+"1250 E Burnside St, Portland, OR 97214","2026/09/14",2321,"2 Beds","Apartment"
+"4242 NE Halsey St, Portland, OR 97213","2026/09/14",1345,"Studio","Apartment"
+"4242 NE Halsey St, Portland, OR 97213","2026/09/14",1695,"1 Bed","Apartment"
+"4242 NE Halsey St, Portland, OR 97213","2026/09/14",2150,"2 Beds","Apartment"
+"535 NW 11th Ave, Portland, OR 97209","2026/09/14",1581,"Studio","Apartment"
+"535 NW 11th Ave, Portland, OR 97209","2026/09/14",1542,"1 Bed","Apartment"
+"535 NW 11th Ave, Portland, OR 97209","2026/09/14",2603,"2 Beds","Apartment"
+"1430 NW Hoyt St, Portland, OR 97209","2026/09/14",1710,"Studio","Apartment"
+"1430 NW Hoyt St, Portland, OR 97209","2026/09/14",1592,"1 Bed","Apartment"
+"1430 NW Hoyt St, Portland, OR 97209","2026/09/14",3198,"2 Beds","Apartment"
+"1625 SW Alder St, Portland, OR 97205","2026/09/14",1270,"Studio","Apartment"
+"1625 SW Alder St, Portland, OR 97205","2026/09/14",1575,"1 Bed","Apartment"
+"1625 SW Alder St, Portland, OR 97205","2026/09/14",2650,"2 Beds","Apartment"
+"15 NW Park Ave, Portland, OR 97209","2026/09/14",1346,"Studio","Apartment"
+"15 NW Park Ave, Portland, OR 97209","2026/09/14",1324,"1 Bed","Apartment"
+"15 NW Park Ave, Portland, OR 97209","2026/09/14",2261,"2 Beds","Apartment"
+"4030 N Williams Ave, Portland, OR 97227","2026/09/14",1250,"Studio","Apartment"
+"4030 N Williams Ave, Portland, OR 97227","2026/09/14",1425,"1 Bed","Apartment"
+"4030 N Williams Ave, Portland, OR 97227","2026/09/14",1895,"2 Beds","Apartment"
+"735 SW Saint Clair Ave, Portland, OR 97205","2026/09/14",1385,"1 Bed","Apartment"
+"735 SW Saint Clair Ave, Portland, OR 97205","2026/09/14",2160,"2 Beds","Apartment"
+"2112 NW Quimby St, Portland, OR 97210","2026/09/14",1446,"1 Bed","Apartment"
+"2112 NW Quimby St, Portland, OR 97210","2026/09/14",2323,"2 Beds","Apartment"
+"1030-1030 SW Jefferson St, Portland, OR 97201","2026/09/14",1273,"Studio","Apartment"
+"1030-1030 SW Jefferson St, Portland, OR 97201","2026/09/14",1358,"1 Bed","Apartment"
+"1030-1030 SW Jefferson St, Portland, OR 97201","2026/09/14",2117,"2 Beds","Apartment"
+"1245 N Anchor Way, Portland, OR 97217","2026/09/14",1275,"1 Bed","Apartment"
+"1245 N Anchor Way, Portland, OR 97217","2026/09/14",2275,"2 Beds","Apartment"
+"550 SE Martin Luther King Jr Blvd, Portland, OR 97214","2026/09/14",1305,"Studio","Apartment"
+"550 SE Martin Luther King Jr Blvd, Portland, OR 97214","2026/09/14",1425,"1 Bed","Apartment"
+"3260 SE Milwaukie Ave, Portland, OR 97202","2026/09/14",1704,"Studio","Apartment"
+"3260 SE Milwaukie Ave, Portland, OR 97202","2026/09/14",1594,"1 Bed","Apartment"
+"3260 SE Milwaukie Ave, Portland, OR 97202","2026/09/14",1675,"2 Beds+","Apartment"
+"875 NE 27th Ave, Portland, OR 97232","2026/09/14",1700,"Studio","Apartment"
+"875 NE 27th Ave, Portland, OR 97232","2026/09/14",1565,"1 Bed","Apartment"
+"875 NE 27th Ave, Portland, OR 97232","2026/09/14",2880,"2 Beds+","Apartment"
+"3825 SE 80th Ave, Portland, OR 97206","2026/09/14",1285,"Studio","Apartment"
+"3825 SE 80th Ave, Portland, OR 97206","2026/09/14",1375,"1 Bed","Apartment"
+"3825 SE 80th Ave, Portland, OR 97206","2026/09/14",1880,"2 Beds","Apartment"
+"7360 SW Barbur Blvd, Portland, OR 97219","2026/09/14",1299,"2 Beds",NA
+"2915 NW Wilson St, Portland, OR 97210","2026/09/14",1475,"2 Beds",NA
+"8338 N Interstate Ave, Portland, OR 97217","2026/09/14",1575,"2 Beds",NA
+"3035 NE Martin Luther King Jr. Blvd, Portland, OR 97212","2026/09/14",1375,"1 Bed","Apartment"
+"3035 NE Martin Luther King Jr. Blvd, Portland, OR 97212","2026/09/14",1625,"2 Beds","Apartment"
+"2330 NW Raleigh St, Portland, OR 97210","2026/09/14",1690,"2 Beds",NA
+"1940 NW 25th Ave, Portland, OR 97210","2026/09/14",1750,"1 Bed","Apartment"
+"1940 NW 25th Ave, Portland, OR 97210","2026/09/14",2350,"2 Beds","Apartment"
+"7330 SE Foster Rd, Portland, OR 97206","2026/09/14",1246,"Studio","Apartment"
+"7330 SE Foster Rd, Portland, OR 97206","2026/09/14",1308,"1 Bed","Apartment"
+"7330 SE Foster Rd, Portland, OR 97206","2026/09/14",1562,"2 Beds+","Apartment"
+"5990 SE 92nd Ave, Portland, OR 97266","2026/09/14",1361,"1 Bed","Apartment"
+"5990 SE 92nd Ave, Portland, OR 97266","2026/09/14",1450,"2 Beds","Apartment"
+"6855 N Burlington Ave, Portland, OR 97203","2026/09/14",1285,"Studio","Apartment"
+"6855 N Burlington Ave, Portland, OR 97203","2026/09/14",1400,"1 Bed","Apartment"
+"6855 N Burlington Ave, Portland, OR 97203","2026/09/14",1925,"2 Beds","Apartment"
+"3601 NE 162nd Ave, Portland, OR 97230","2026/09/14",1395,"1 Bed","Apartment"
+"3601 NE 162nd Ave, Portland, OR 97230","2026/09/14",1750,"2 Beds","Apartment"
+"3601 NE 162nd Ave, Portland, OR 97230","2026/09/14",1925,"3 Beds","Apartment"
+"4835 SW Oleson Rd, Portland, OR 97225","2026/09/14",1384,"1 Bed","Apartment"
+"4835 SW Oleson Rd, Portland, OR 97225","2026/09/14",1574,"2 Beds","Apartment"
+"4835 SW Oleson Rd, Portland, OR 97225","2026/09/14",2150,"3 Beds","Apartment"
+NA,NA,NA,NA,NA
+"5510 N Denver Ave, Portland, OR 97217","2026/09/14",1490,"Studio","Apartment"
+"5510 N Denver Ave, Portland, OR 97217","2026/09/14",1300,"1 Bed","Apartment"
+"1575 N Willis Blvd, Portland, OR 97217","2026/09/14",1185,"Studio","Apartment"
+"1575 N Willis Blvd, Portland, OR 97217","2026/09/14",1269,"1 Bed","Apartment"
+"1575 N Willis Blvd, Portland, OR 97217","2026/09/14",1760,"3 Beds","Apartment"
+"14800 NW Cornell Rd, Portland, OR 97229","2026/09/14",1599,"1 Bed","Apartment"
+"14800 NW Cornell Rd, Portland, OR 97229","2026/09/14",1679,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"620 NE 20th Ave, Portland, OR 97232","2026/09/14",1095,"Studio","Apartment"
+"620 NE 20th Ave, Portland, OR 97232","2026/09/14",1395,"1 Bed","Apartment"
+"1820 NE 104th Ave, Portland, OR 97220","2026/09/14",1495,"1 Bed",NA
+"4301-4495 NE 133rd Ave, Portland, OR 97230","2026/09/14",1200,"1 Bed","Apartment"
+"4301-4495 NE 133rd Ave, Portland, OR 97230","2026/09/14",1450,"2 Beds","Apartment"
+"1650 NW 13th Ave, Portland, OR 97209","2026/09/14",1311,"Studio","Apartment"
+"1650 NW 13th Ave, Portland, OR 97209","2026/09/14",1668,"2 Beds","Apartment"
+"1650 NW 13th Ave, Portland, OR 97209","2026/09/14",1924,"3 Beds","Apartment"
+"1300 SW Park Ave, Portland, OR 97201","2026/09/14",1335,"Studio","Apartment"
+"1300 SW Park Ave, Portland, OR 97201","2026/09/14",1890,"1 Bed","Apartment"
+"1300 SW Park Ave, Portland, OR 97201","2026/09/14",2396,"2 Beds","Apartment"
+"1000 SW Vista Ave, Portland, OR 97205","2026/09/14",1142,"Studio","Apartment"
+"1000 SW Vista Ave, Portland, OR 97205","2026/09/14",1175,"1 Bed","Apartment"
+"1000 SW Vista Ave, Portland, OR 97205","2026/09/14",1739,"2 Beds","Apartment"
+"665 NE 178th Ave, Portland, OR 97230","2026/09/14",1201,"1 Bed","Apartment"
+"665 NE 178th Ave, Portland, OR 97230","2026/09/14",1366,"2 Beds","Apartment"
+"665 NE 178th Ave, Portland, OR 97230","2026/09/14",2165,"3 Beds","Apartment"
+"130 A Ave, Lake Oswego, OR 97034","2026/09/14",2230,"Studio","Apartment"
+"130 A Ave, Lake Oswego, OR 97034","2026/09/14",2300,"1 Bed","Apartment"
+"130 A Ave, Lake Oswego, OR 97034","2026/09/14",3830,"2 Beds","Apartment"
+"7915 SE King Rd, Milwaukie, OR 97222","2026/09/14",1795,"2 Beds",NA
+"2711 W Powell Blvd, Gresham, OR 97030","2026/09/14",1527,"2 Beds",NA
+"6823 SW Clinton St, Tigard, OR 97223","2026/09/14",1216,"1 Bed","Apartment"
+"6823 SW Clinton St, Tigard, OR 97223","2026/09/14",1457,"2 Beds","Apartment"
+"6823 SW Clinton St, Tigard, OR 97223","2026/09/14",1806,"3 Beds","Apartment"
+"2700 W Powell Blvd, Gresham, OR 97030","2026/09/14",1337,"1 Bed","Apartment"
+"2700 W Powell Blvd, Gresham, OR 97030","2026/09/14",1553,"2 Beds","Apartment"
+"2700 W Powell Blvd, Gresham, OR 97030","2026/09/14",1990,"3 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"2020 NE Multnomah St, Portland, OR 97232","2026/09/14",2129,"1 Bed","Apartment"
+"2020 NE Multnomah St, Portland, OR 97232","2026/09/14",2420,"2 Beds","Apartment"
+"1515 NW 21st Ave, Portland, OR 97210","2026/09/14",1654,"Studio","Apartment"
+"1515 NW 21st Ave, Portland, OR 97210","2026/09/14",1787,"1 Bed","Apartment"
+"1515 NW 21st Ave, Portland, OR 97210","2026/09/14",2731,"2 Beds","Apartment"
+"1313 E Burnside St, Portland, OR 97232","2026/09/14",1289,"Studio","Apartment"
+"1313 E Burnside St, Portland, OR 97232","2026/09/14",1594,"1 Bed","Apartment"
+"1313 E Burnside St, Portland, OR 97232","2026/09/14",2199,"2 Beds","Apartment"
+"1177 SW Market St, Portland, OR 97201","2026/09/14",1299,"Studio","Apartment"
+"1177 SW Market St, Portland, OR 97201","2026/09/14",1594,"1 Bed","Apartment"
+"1177 SW Market St, Portland, OR 97201","2026/09/14",2699,"2 Beds","Apartment"
+"3820 S River Pky, Portland, OR 97267","2026/09/14",2013,"1 Bed","Apartment"
+"3820 S River Pky, Portland, OR 97267","2026/09/14",3471,"2 Beds","Apartment"
+"3820 S River Pky, Portland, OR 97267","2026/09/14",6454,"3 Beds","Apartment"
+"2240-2250 NW Lovejoy St, Portland, OR 97210","2026/09/14",1918,"Studio","Apartment"
+"2240-2250 NW Lovejoy St, Portland, OR 97210","2026/09/14",1818,"1 Bed","Apartment"
+"2240-2250 NW Lovejoy St, Portland, OR 97210","2026/09/14",2274,"2 Beds","Apartment"
+"1500 SW 12th Ave, Portland, OR 97201","2026/09/14",1211,"Studio","Apartment"
+"1500 SW 12th Ave, Portland, OR 97201","2026/09/14",1260,"1 Bed","Apartment"
+"1500 SW 12th Ave, Portland, OR 97201","2026/09/14",2039,"2 Beds","Apartment"
+"2004 SW Jefferson St, Portland, OR 97201","2026/09/14",1310,"Studio","Apartment"
+"2004 SW Jefferson St, Portland, OR 97201","2026/09/14",1339,"1 Bed","Apartment"
+"2004 SW Jefferson St, Portland, OR 97201","2026/09/14",2317,"2 Beds","Apartment"
+"975 SE 11th Ave, Portland, OR 97214","2026/09/14",1299,"Studio","Apartment"
+"975 SE 11th Ave, Portland, OR 97214","2026/09/14",1612,"1 Bed","Apartment"
+"975 SE 11th Ave, Portland, OR 97214","2026/09/14",2839,"2 Beds+","Apartment"
+"230 SW Ash St, Portland, OR 97204","2026/09/14",1299,"Studio","Apartment"
+"230 SW Ash St, Portland, OR 97204","2026/09/14",1579,"1 Bed","Apartment"
+"2050 NE Hoyt St, Portland, OR 97232","2026/09/14",1584,"Studio","Apartment"
+"2050 NE Hoyt St, Portland, OR 97232","2026/09/14",1619,"1 Bed","Apartment"
+"2050 NE Hoyt St, Portland, OR 97232","2026/09/14",2574,"2 Beds","Apartment"
+"1580 NE 32nd Ave, Portland, OR 97232","2026/09/14",1572,"Studio","Apartment"
+"1580 NE 32nd Ave, Portland, OR 97232","2026/09/14",1641,"1 Bed","Apartment"
+"1580 NE 32nd Ave, Portland, OR 97232","2026/09/14",2280,"2 Beds","Apartment"
+"4981 SE Woodstock Blvd, Portland, OR 97206","2026/09/14",1325,"Studio","Apartment"
+"4981 SE Woodstock Blvd, Portland, OR 97206","2026/09/14",1415,"1 Bed","Apartment"
+"4981 SE Woodstock Blvd, Portland, OR 97206","2026/09/14",2499,"2 Beds","Apartment"
+"1221 SW 11th Ave, Portland, OR 97205","2026/09/14",1399,"Studio","Apartment"
+"1221 SW 11th Ave, Portland, OR 97205","2026/09/14",1625,"1 Bed","Apartment"
+"1221 SW 11th Ave, Portland, OR 97205","2026/09/14",2289,"2 Beds","Apartment"
+"1656 NE 32nd Ave, Portland, OR 97232","2026/09/14",1496,"Studio","Apartment"
+"1656 NE 32nd Ave, Portland, OR 97232","2026/09/14",1375,"1 Bed","Apartment"
+"1656 NE 32nd Ave, Portland, OR 97232","2026/09/14",2506,"2 Beds","Apartment"
+"1720 SW 4th Ave, Portland, OR 97201","2026/09/14",1399,"Studio","Apartment"
+"1720 SW 4th Ave, Portland, OR 97201","2026/09/14",1639,"1 Bed","Apartment"
+"1720 SW 4th Ave, Portland, OR 97201","2026/09/14",2199,"2 Beds+","Apartment"
+"1161 NW Overton St, Portland, OR 97209","2026/09/14",1638,"1 Bed","Apartment"
+"1161 NW Overton St, Portland, OR 97209","2026/09/14",2749,"2 Beds","Apartment"
+"1710 NE Multnomah St, Portland, OR 97232","2026/09/14",1045,"Studio","Apartment"
+"1710 NE Multnomah St, Portland, OR 97232","2026/09/14",1413,"1 Bed","Apartment"
+"1710 NE Multnomah St, Portland, OR 97232","2026/09/14",1499,"2 Beds","Apartment"
+"123 SE 13th Ave, Portland, OR 97214","2026/09/14",994,"Studio","Apartment"
+"123 SE 13th Ave, Portland, OR 97214","2026/09/14",1379,"1 Bed","Apartment"
+"1969 SW Park Ave, Portland, OR 97201","2026/09/14",1203,"Studio","Apartment"
+"1969 SW Park Ave, Portland, OR 97201","2026/09/14",1038,"1 Bed","Apartment"
+"1969 SW Park Ave, Portland, OR 97201","2026/09/14",1814,"2 Beds","Apartment"
+"1920 NW 26th Ave, Portland, OR 97210","2026/09/14",1099,"2 Beds",NA
+"1222 NW 18th Ave, Portland, OR 97209","2026/09/14",957,"Studio","Apartment"
+"1222 NW 18th Ave, Portland, OR 97209","2026/09/14",1386,"1 Bed","Apartment"
+"1222 NW 18th Ave, Portland, OR 97209","2026/09/14",2481,"2 Beds","Apartment"
+"1905 NW 29th Ave, Portland, OR 97210","2026/09/14",1500,"1 Bed","Apartment"
+"1905 NW 29th Ave, Portland, OR 97210","2026/09/14",1700,"2 Beds","Apartment"
+"2130 SW Camelot Ct, Portland, OR 97225","2026/09/14",1395,"1 Bed","Apartment"
+"2130 SW Camelot Ct, Portland, OR 97225","2026/09/14",1595,"2 Beds","Apartment"
+"2050 NW Raleigh St, Portland, OR 97209","2026/09/14",1553,"Studio","Apartment"
+"2050 NW Raleigh St, Portland, OR 97209","2026/09/14",1997,"1 Bed","Apartment"
+"2050 NW Raleigh St, Portland, OR 97209","2026/09/14",3144,"2 Beds+","Apartment"
+"385 NW Lost Springs Ter, Portland, OR 97229","2026/09/14",1650,"1 Bed","Apartment"
+"385 NW Lost Springs Ter, Portland, OR 97229","2026/09/14",1985,"2 Beds","Apartment"
+"385 NW Lost Springs Ter, Portland, OR 97229","2026/09/14",2550,"3 Beds","Apartment"
+"5325 N Interstate Ave, Portland, OR 97217","2026/09/14",1547,"Studio","Apartment"
+"5325 N Interstate Ave, Portland, OR 97217","2026/09/14",1824,"1 Bed","Apartment"
+"1010 NW 17th Ave, Portland, OR 97209","2026/09/14",1299,"1 Bed",NA
+"21187 NW Galice Ln, Portland, OR 97229","2026/09/14",1570,"1 Bed","Apartment"
+"21187 NW Galice Ln, Portland, OR 97229","2026/09/14",1650,"2 Beds","Apartment"
+"21187 NW Galice Ln, Portland, OR 97229","2026/09/14",2105,"3 Beds","Apartment"
+"6120 SW 18th Dr, Portland, OR 97239","2026/09/14",1800,"3 Beds",NA
+"2465 NE Alberta St, Portland, OR 97211","2026/09/14",1275,"Studio","Apartment"
+"2465 NE Alberta St, Portland, OR 97211","2026/09/14",1495,"1 Bed","Apartment"
+"2465 NE Alberta St, Portland, OR 97211","2026/09/14",1875,"2 Beds","Apartment"
+"77 NE Grand Ave, Portland, OR 97232","2026/09/14",1297,"Studio","Apartment"
+"77 NE Grand Ave, Portland, OR 97232","2026/09/14",1450,"1 Bed","Apartment"
+"77 NE Grand Ave, Portland, OR 97232","2026/09/14",2488,"2 Beds","Apartment"
+"708 NW 19th Ave, Portland, OR 97209","2026/09/14",1350,"2 Beds",NA
+"60 SE 10th Ave, Portland, OR 97214","2026/09/14",1397,"Studio","Apartment"
+"60 SE 10th Ave, Portland, OR 97214","2026/09/14",1435,"1 Bed","Apartment"
+"16107 NW Brugger Rd, Portland, OR 97229","2026/09/14",1715,"1 Bed","Apartment"
+"16107 NW Brugger Rd, Portland, OR 97229","2026/09/14",1999,"2 Beds","Apartment"
+"16107 NW Brugger Rd, Portland, OR 97229","2026/09/14",2495,"3 Beds","Apartment"
+"16533 NE Halsey St, Portland, OR 97230","2026/09/14",2050,"3 Beds",NA
+"5125 SW Scholls Ferry Rd, Portland, OR 97225","2026/09/14",1293,"3 Beds",NA
+NA,NA,NA,NA,NA
+"14682 NW Cornell Rd, Portland, OR 97229","2026/09/14",1350,"1 Bed","Apartment"
+"14682 NW Cornell Rd, Portland, OR 97229","2026/09/14",1485,"2 Beds","Apartment"
+"14682 NW Cornell Rd, Portland, OR 97229","2026/09/14",2015,"3 Beds","Apartment"
+"14615 NE Rose Pky, Portland, OR 97230","2026/09/14",2400,"3 Beds",NA
+"1705 SW 11th Ave, Portland, OR 97201","2026/09/14",1087,"3 Beds",NA
+"10600 SW Taylor St, Portland, OR 97225","2026/09/14",1689,"1 Bed","Apartment"
+"10600 SW Taylor St, Portland, OR 97225","2026/09/14",1755,"2 Beds","Apartment"
+"10600 SW Taylor St, Portland, OR 97225","2026/09/14",2476,"3 Beds+","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"1425 NE 7th Ave, Portland, OR 97232","2026/09/14",1490,"Studio","Apartment"
+"1425 NE 7th Ave, Portland, OR 97232","2026/09/14",1375,"1 Bed","Apartment"
+"304 NE Multnomah St, Portland, OR 97232","2026/09/14",1300,"1 Bed",NA
+"625 NW Everett St, Portland, OR 97209","2026/09/14",1972,"1 Bed",NA
+"901 SW King Ave, Portland, OR 97205","2026/09/14",1020,"Studio","Apartment"
+"901 SW King Ave, Portland, OR 97205","2026/09/14",1300,"1 Bed","Apartment"
+"473 SE 169th Ave, Portland, OR 97233","2026/09/14",1400,"1 Bed","Apartment"
+"473 SE 169th Ave, Portland, OR 97233","2026/09/14",1695,"2 Beds","Apartment"
+"473 SE 169th Ave, Portland, OR 97233","2026/09/14",1995,"3 Beds","Apartment"
+"1550 NW 14th Ave, Portland, OR 97209","2026/09/14",1449,"2 Beds","Apartment"
+"1550 NW 14th Ave, Portland, OR 97209","2026/09/14",1666,"3 Beds","Apartment"
+"1103-1117 SW Alder St, Portland, OR 97205","2026/09/14",1050,"Studio","Apartment"
+"1103-1117 SW Alder St, Portland, OR 97205","2026/09/14",1300,"1 Bed","Apartment"
+"4141 N Williams Ave, Portland, OR 97217","2026/09/14",1415,"1 Bed","Apartment"
+"4141 N Williams Ave, Portland, OR 97217","2026/09/14",2892,"2 Beds","Apartment"
+"1010 SE Ash St, Portland, OR 97232","2026/09/14",1348,"Studio","Apartment"
+"1010 SE Ash St, Portland, OR 97232","2026/09/14",3010,"2 Beds","Apartment"
+"10381 SW Eastridge St, Portland, OR 97225","2026/09/14",1875,"2 Beds",NA
+"11612-11622 SE Division St, Portland, OR 97266","2026/09/14",1125,"1 Bed","Apartment"
+"11612-11622 SE Division St, Portland, OR 97266","2026/09/14",1350,"2 Beds","Apartment"
+"8340 SW Apple Way, Portland, OR 97225","2026/09/14",1800,"2 Beds","Apartment"
+"8340 SW Apple Way, Portland, OR 97225","2026/09/14",2370,"3 Beds","Apartment"
+"301 SW Lincoln St, Portland, OR 97201","2026/09/14",1300,"1 Bed","Apartment"
+"301 SW Lincoln St, Portland, OR 97201","2026/09/14",1805,"2 Beds","Apartment"
+"1431 SW Park Ave, Portland, OR 97201","2026/09/14",1150,"Studio","Apartment"
+"1431 SW Park Ave, Portland, OR 97201","2026/09/14",1325,"1 Bed","Apartment"
+"1431 SW Park Ave, Portland, OR 97201","2026/09/14",1975,"2 Beds","Apartment"
+"1550 NW Naito Pky, Portland, OR 97209","2026/09/14",1289,"Studio","Apartment"
+"1550 NW Naito Pky, Portland, OR 97209","2026/09/14",1885,"1 Bed","Apartment"
+"1550 NW Naito Pky, Portland, OR 97209","2026/09/14",3246,"2 Beds","Apartment"
+"6239 SW Beaverton Hillsdale Hwy, Portland, OR 97221","2026/09/14",1280,"1 Bed","Apartment"
+"6239 SW Beaverton Hillsdale Hwy, Portland, OR 97221","2026/09/14",1595,"2 Beds","Apartment"
+"7600 SW Oleson Rd, Portland, OR 97223","2026/09/14",1230,"1 Bed","Apartment"
+"7600 SW Oleson Rd, Portland, OR 97223","2026/09/14",1300,"2 Beds","Apartment"
+"650 SE 162nd Ave, Portland, OR 97233","2026/09/14",1362,"1 Bed","Apartment"
+"650 SE 162nd Ave, Portland, OR 97233","2026/09/14",1349,"2 Beds","Apartment"
+"505-577 NE Dekum St, Portland, OR 97211","2026/09/14",1245,"Studio","Apartment"
+"505-577 NE Dekum St, Portland, OR 97211","2026/09/14",1499,"1 Bed","Apartment"
+"505-577 NE Dekum St, Portland, OR 97211","2026/09/14",2125,"2 Beds","Apartment"
+"9701 SE Johnson Creek Blvd, Portland, OR 97086","2026/09/14",1835,"1 Bed","Apartment"
+"9701 SE Johnson Creek Blvd, Portland, OR 97086","2026/09/14",2050,"2 Beds","Apartment"
+"12425 NW Barnes Rd, Portland, OR 97229","2026/09/14",1310,"1 Bed","Apartment"
+"12425 NW Barnes Rd, Portland, OR 97229","2026/09/14",1550,"2 Beds","Apartment"
+"18700 Rock Creek Cir, Portland, OR 97229","2026/09/14",1268,"Studio","Apartment"
+"18700 Rock Creek Cir, Portland, OR 97229","2026/09/14",1345,"1 Bed","Apartment"
+"18700 Rock Creek Cir, Portland, OR 97229","2026/09/14",1510,"2 Beds+","Apartment"
+"8150 SW Barnes Rd, Portland, OR 97225","2026/09/14",1411,"1 Bed","Apartment"
+"8150 SW Barnes Rd, Portland, OR 97225","2026/09/14",1657,"2 Beds","Apartment"
+"2837-2847 SE Colt Dr, Portland, OR 97202","2026/09/14",1064,"Studio","Apartment"
+"2837-2847 SE Colt Dr, Portland, OR 97202","2026/09/14",1297,"1 Bed","Apartment"
+"2837-2847 SE Colt Dr, Portland, OR 97202","2026/09/14",1411,"2 Beds","Apartment"
+"10411 SE Cook Ct, Portland, OR 97222","2026/09/14",1515,"1 Bed","Apartment"
+"10411 SE Cook Ct, Portland, OR 97222","2026/09/14",1590,"2 Beds","Apartment"
+"10411 SE Cook Ct, Portland, OR 97222","2026/09/14",2010,"3 Beds","Apartment"
+"1126 SW 12th Ave, Portland, OR 97205","2026/09/14",900,"3 Beds",NA
+"737 SW 17th Ave, Portland, OR 97205","2026/09/14",975,"Studio","Apartment"
+"737 SW 17th Ave, Portland, OR 97205","2026/09/14",1100,"1 Bed","Apartment"
+"737 SW 17th Ave, Portland, OR 97205","2026/09/14",1439,"2 Beds","Apartment"
+"10445 NE 6th St, Portland, OR 97211","2026/09/14",1567,"2 Beds",NA
+"17366 NE Halsey St, Portland, OR 97230","2026/09/14",1995,"2 Beds",NA
+"4255-4545 NE 125th Pl, Portland, OR 97230","2026/09/14",1226,"1 Bed","Apartment"
+"4255-4545 NE 125th Pl, Portland, OR 97230","2026/09/14",1376,"2 Beds","Apartment"
+"333 NE 146th Ave, Portland, OR 97230","2026/09/14",1032,"Studio","Apartment"
+"333 NE 146th Ave, Portland, OR 97230","2026/09/14",1437,"1 Bed","Apartment"
+"333 NE 146th Ave, Portland, OR 97230","2026/09/14",1649,"2 Beds","Apartment"
+"8435 SE Insley St, Portland, OR 97266","2026/09/14",1250,"Studio","Apartment"
+"8435 SE Insley St, Portland, OR 97266","2026/09/14",1495,"2 Beds","Apartment"
+"945 NW Naito Pky, Portland, OR 97209","2026/09/14",892,"2 Beds",NA
+"1670 SW Alder St, Portland, OR 97205","2026/09/14",950,"Studio","Apartment"
+"1670 SW Alder St, Portland, OR 97205","2026/09/14",1406,"1 Bed","Apartment"
+"1670 SW Alder St, Portland, OR 97205","2026/09/14",1685,"2 Beds","Apartment"
+"815 NW Naito Pky, Portland, OR 97209","2026/09/14",999,"Studio","Apartment"
+"815 NW Naito Pky, Portland, OR 97209","2026/09/14",1099,"1 Bed","Apartment"
+"815 NW Naito Pky, Portland, OR 97209","2026/09/14",1250,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"2045 SW River Pky, Portland, OR 97201","2026/09/14",470,"Studio","Apartment"
+"2045 SW River Pky, Portland, OR 97201","2026/09/14",1056,"1 Bed","Apartment"
+"2045 SW River Pky, Portland, OR 97201","2026/09/14",1264,"2 Beds+","Apartment"
+"215 Greenridge Dr, Lake Oswego, OR 97035","2026/09/14",1496,"Studio","Apartment"
+"215 Greenridge Dr, Lake Oswego, OR 97035","2026/09/14",1539,"1 Bed","Apartment"
+"215 Greenridge Dr, Lake Oswego, OR 97035","2026/09/14",1657,"2 Beds+","Apartment"
+"1000 W Columbia Way, Vancouver, WA 98660","2026/09/14",1407,"1 Bed","Apartment"
+"1000 W Columbia Way, Vancouver, WA 98660","2026/09/14",2403,"2 Beds","Apartment"
+"2948 W Powell Blvd, Gresham, OR 97030","2026/09/14",1750,"2 Beds","Apartment"
+"2948 W Powell Blvd, Gresham, OR 97030","2026/09/14",1895,"3 Beds","Apartment"
+"9735 SW Hall Blvd, Tigard, OR 97223","2026/09/14",1325,"1 Bed","Apartment"
+"9735 SW Hall Blvd, Tigard, OR 97223","2026/09/14",1550,"2 Beds","Apartment"
+"807 Jefferson St, Vancouver, WA 98660","2026/09/14",1475,"2 Beds",NA
+"7911 SE King Rd, Milwaukie, OR 97222","2026/09/14",1300,"1 Bed","Apartment"
+"7911 SE King Rd, Milwaukie, OR 97222","2026/09/14",1495,"2 Beds","Apartment"
+"7790 SW Hunziker Rd, Tigard, OR 97223","2026/09/14",1396,"1 Bed","Apartment"
+"7790 SW Hunziker Rd, Tigard, OR 97223","2026/09/14",1550,"2 Beds","Apartment"
+"7790 SW Hunziker Rd, Tigard, OR 97223","2026/09/14",1829,"3 Beds","Apartment"
+"3097 SE Meek St, Milwaukie, OR 97222","2026/09/14",1050,"Studio","Apartment"
+"3097 SE Meek St, Milwaukie, OR 97222","2026/09/14",1367,"1 Bed","Apartment"
+"3097 SE Meek St, Milwaukie, OR 97222","2026/09/14",1637,"2 Beds","Apartment"
+"3450 N Williams Ave, Portland, OR 97227","2026/09/14",1625,"Studio","Apartment"
+"3450 N Williams Ave, Portland, OR 97227","2026/09/14",1995,"1 Bed","Apartment"
+"3309 N Mississippi Ave, Portland, OR 97227","2026/09/14",1555,"Studio","Apartment"
+"3309 N Mississippi Ave, Portland, OR 97227","2026/09/14",1555,"1 Bed","Apartment"
+"3309 N Mississippi Ave, Portland, OR 97227","2026/09/14",2599,"2 Beds","Apartment"
+"5131 SW 38th Pl, Portland, OR 97221","2026/09/14",1605,"1 Bed","Apartment"
+"5131 SW 38th Pl, Portland, OR 97221","2026/09/14",1625,"2 Beds","Apartment"
+"5131 SW 38th Pl, Portland, OR 97221","2026/09/14",2305,"3 Beds","Apartment"
+NA,NA,NA,NA,NA
+"1470 NW Overton St, Portland, OR 97209","2026/09/14",1399,"Studio","Apartment"
+"1470 NW Overton St, Portland, OR 97209","2026/09/14",1549,"1 Bed","Apartment"
+"1470 NW Overton St, Portland, OR 97209","2026/09/14",2050,"2 Beds","Apartment"
+"80 NE 14th Ave, Portland, OR 97232","2026/09/14",1299,"Studio","Apartment"
+"80 NE 14th Ave, Portland, OR 97232","2026/09/14",1484,"1 Bed","Apartment"
+"80 NE 14th Ave, Portland, OR 97232","2026/09/14",2584,"2 Beds","Apartment"
+"8860 SW Cashmur Ln, Portland, OR 97225","2026/09/14",1395,"2 Beds","Apartment"
+"8860 SW Cashmur Ln, Portland, OR 97225","2026/09/14",2795,"3 Beds","Apartment"
+"2905 SE 89th Ave, Portland, OR 97266","2026/09/14",1444,"1 Bed","Apartment"
+"2905 SE 89th Ave, Portland, OR 97266","2026/09/14",1732,"2 Beds","Apartment"
+"2905 SE 89th Ave, Portland, OR 97266","2026/09/14",2001,"3 Beds","Apartment"
+"3833 SW Bond Ave, Portland, OR 97239","2026/09/14",1449,"Studio","Apartment"
+"3833 SW Bond Ave, Portland, OR 97239","2026/09/14",1554,"1 Bed","Apartment"
+"3833 SW Bond Ave, Portland, OR 97239","2026/09/14",2299,"2 Beds","Apartment"
+"5817-5845 SW Beaverton-hillsdale Hwy, Portland, OR 97221","2026/09/14",1445,"1 Bed","Apartment"
+"5817-5845 SW Beaverton-hillsdale Hwy, Portland, OR 97221","2026/09/14",1940,"2 Beds","Apartment"
+"15710-15714 SE Stark St, Portland, OR 97233","2026/09/14",1399,"2 Beds","Apartment"
+"15710-15714 SE Stark St, Portland, OR 97233","2026/09/14",1800,"3 Beds","Apartment"
+"2730 N Killingsworth St, Portland, OR 97217","2026/09/14",1625,"1 Bed","Apartment"
+"2730 N Killingsworth St, Portland, OR 97217","2026/09/14",2295,"2 Beds","Apartment"
+"17925 E Burnside St, Portland, OR 97233","2026/09/14",1300,"1 Bed","Apartment"
+"17925 E Burnside St, Portland, OR 97233","2026/09/14",1495,"2 Beds","Apartment"
+"1205 SE Morrison St, Portland, OR 97214","2026/09/14",1589,"2 Beds",NA
+"7550 N Lombard St, Portland, OR 97203","2026/09/14",1487,"(503) 546-0630
+Message",NA
+NA,NA,NA,NA,NA
+"2185 SW Yamhill St, Portland, OR 97205","2026/09/14",1100,"(503) 546-0630
+Message",NA
+"3211 SW 10th Ave, Portland, OR 97239","2026/09/14",1150,"(503) 546-0630
+Message",NA
+"5961-5999 SE 122nd Ave, Portland, OR 97236","2026/09/14",1495,"(503) 546-0630
+Message",NA
+"6615 SE 52nd Ave, Portland, OR 97206","2026/09/14",1299,"Studio","Apartment"
+"6615 SE 52nd Ave, Portland, OR 97206","2026/09/14",1849,"1 Bed","Apartment"
+"9008 NE Hassalo St, Portland, OR 97220","2026/09/14",1495,"1 Bed",NA
+"245 SW Lincoln St, Portland, OR 97201","2026/09/14",1655,"1 Bed","Apartment"
+"245 SW Lincoln St, Portland, OR 97201","2026/09/14",2060,"2 Beds","Apartment"
+"6035-6085 SW Beaverton-Hillsdale Hwy, Portland, OR 97221","2026/09/14",1750,"2 Beds",NA
+"4915 N Vancouver Ave, Portland, OR 97217","2026/09/14",1525,"2 Beds",NA
+"6816 N Trumbull Ave, Portland, OR 97203","2026/09/14",1106,"2 Beds",NA
+"1650 SE Tacoma St, Portland, OR 97202","2026/09/14",1334,"Studio","Apartment"
+"1650 SE Tacoma St, Portland, OR 97202","2026/09/14",1756,"1 Bed","Apartment"
+"1650 SE Tacoma St, Portland, OR 97202","2026/09/14",2500,"2 Beds","Apartment"
+"2020 SW Salmon St, Portland, OR 97205","2026/09/14",1425,"1 Bed","Apartment"
+"2020 SW Salmon St, Portland, OR 97205","2026/09/14",1775,"2 Beds","Apartment"
+"6006 SE 53rd Ave, Portland, OR 97206","2026/09/14",1250,"Studio","Apartment"
+"6006 SE 53rd Ave, Portland, OR 97206","2026/09/14",2195,"3 Beds","Apartment"
+"15800 NW West Union Rd, Portland, OR 97229","2026/09/14",1881,"1 Bed","Apartment"
+"15800 NW West Union Rd, Portland, OR 97229","2026/09/14",1774,"2 Beds","Apartment"
+"8770 N Willamette Blvd, Portland, OR 97203","2026/09/14",1295,"(971) 318-5837
+Message",NA
+"4707 SE Hawthorne Blvd, Portland, OR 97215","2026/09/14",1395,"(971) 270-5777
+Message",NA
+"827 NE 99th Ave, Portland, OR 97220","2026/09/14",1325,"1 Bed","Apartment"
+"827 NE 99th Ave, Portland, OR 97220","2026/09/14",1675,"2 Beds","Apartment"
+"670 NW Saltzman Rd, Portland, OR 97229","2026/09/14",1290,"1 Bed","Apartment"
+"670 NW Saltzman Rd, Portland, OR 97229","2026/09/14",1490,"2 Beds","Apartment"
+"17010 SE Stark St, Portland, OR 97233","2026/09/14",1399,"2 Beds",NA
+"3612 SE 28th Pl, Portland, OR 97202","2026/09/14",1395,"1 Bed","Apartment"
+"3612 SE 28th Pl, Portland, OR 97202","2026/09/14",1595,"2 Beds","Apartment"
+"9030-9118 SE Flavel St, Portland, OR 97266","2026/09/14",1495,"2 Beds",NA
+"5800 NE Center Commons Way, Portland, OR 97213","2026/09/14",1051,"1 Bed","Apartment"
+"5800 NE Center Commons Way, Portland, OR 97213","2026/09/14",1535,"2 Beds","Apartment"
+"7680 SW 74th Ave, Portland, OR 97223","2026/09/14",1400,"1 Bed","Apartment"
+"7680 SW 74th Ave, Portland, OR 97223","2026/09/14",1600,"2 Beds","Apartment"
+"7680 SW 74th Ave, Portland, OR 97223","2026/09/14",2100,"3 Beds","Apartment"
+"9550 SW Washington Dr, Portland, OR 97223","2026/09/14",1395,"(971) 366-2577
+Message",NA
+"1025 SW 11th Ave, Portland, OR 97205","2026/09/14",1050,"(971) 255-5705
+Message",NA
+"15839 E Burnside St, Portland, OR 97233","2026/09/14",1159,"1 Bed","Apartment"
+"15839 E Burnside St, Portland, OR 97233","2026/09/14",1399,"2 Beds","Apartment"
+"1825 NE 108th Ave, Portland, OR 97220","2026/09/14",1025,"Studio","Apartment"
+"1825 NE 108th Ave, Portland, OR 97220","2026/09/14",1170,"1 Bed","Apartment"
+"2256 NW Overton St, Portland, OR 97210","2026/09/14",850,"(844) 427-4587
+Message",NA
+"1617-1625 NE Alberta St, Portland, OR 97211","2026/09/14",995,"(844) 427-4587
+Message",NA
+"3675 N Interstate Ave, Portland, OR 97227","2026/09/14",875,"Studio","Apartment"
+"3675 N Interstate Ave, Portland, OR 97227","2026/09/14",911,"1 Bed","Apartment"
+"3323 SW Multnomah Blvd, Portland, OR 97219","2026/09/14",1350,"2 Beds","Apartment"
+"3323 SW Multnomah Blvd, Portland, OR 97219","2026/09/14",1650,"3 Beds","Apartment"
+"3000 SE Powell Blvd, Portland, OR 97202","2026/09/14",950,"Studio","Apartment"
+"3000 SE Powell Blvd, Portland, OR 97202","2026/09/14",1260,"1 Bed","Apartment"
+"3000 SE Powell Blvd, Portland, OR 97202","2026/09/14",1505,"2 Beds","Apartment"
+"515 NE Holladay St, Portland, OR 97232","2026/09/14",999,"Studio","Apartment"
+"515 NE Holladay St, Portland, OR 97232","2026/09/14",1099,"1 Bed","Apartment"
+"515 NE Holladay St, Portland, OR 97232","2026/09/14",1226,"2 Beds","Apartment"
+"783 SE 185th Ave, Portland, OR 97233","2026/09/14",995,"1 Bed","Apartment"
+"783 SE 185th Ave, Portland, OR 97233","2026/09/14",1295,"2 Beds","Apartment"
+"783 SE 185th Ave, Portland, OR 97233","2026/09/14",1595,"3 Beds+","Apartment"
+NA,NA,NA,NA,NA
+"97 Kingsgate Rd, Lake Oswego, OR 97035","2026/09/14",2275,"(503) 412-7066
+Message",NA
+"10735 SW 69th Ave, Tigard, OR 97223","2026/09/14",1495,"(503) 412-7066
+Message",NA
+"1221 NW Marshall St, Portland, OR 97209","2026/09/14",2096,"Studio","Apartment"
+"1221 NW Marshall St, Portland, OR 97209","2026/09/14",2334,"1 Bed","Apartment"
+"1221 NW Marshall St, Portland, OR 97209","2026/09/14",3549,"2 Beds","Apartment"
+"7661 SW Capitol Hwy, Portland, OR 97219","2026/09/14",1449,"Studio","Apartment"
+"7661 SW Capitol Hwy, Portland, OR 97219","2026/09/14",1619,"1 Bed","Apartment"
+"7661 SW Capitol Hwy, Portland, OR 97219","2026/09/14",2848,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"4265-4275 NE Halsey St, Portland, OR 97213","2026/09/14",1485,"1 Bed","Apartment"
+"4265-4275 NE Halsey St, Portland, OR 97213","2026/09/14",1650,"2 Beds","Apartment"
+"1885 NW Quimby St, Portland, OR 97209","2026/09/14",1860,"1 Bed","Apartment"
+"1885 NW Quimby St, Portland, OR 97209","2026/09/14",2719,"2 Beds","Apartment"
+"4525 SW California St, Portland, OR 97219","2026/09/14",1480,"Studio","Apartment"
+"4525 SW California St, Portland, OR 97219","2026/09/14",1710,"1 Bed","Apartment"
+"3270 N Vancouver Ave, Portland, OR 97227","2026/09/14",1395,"1 Bed","Apartment"
+"3270 N Vancouver Ave, Portland, OR 97227","2026/09/14",2300,"2 Beds","Apartment"
+"7711 SW Capitol Hwy, Portland, OR 97219","2026/09/14",1649,"Studio","Apartment"
+"7711 SW Capitol Hwy, Portland, OR 97219","2026/09/14",1894,"1 Bed","Apartment"
+"3636 SE Mall St, Portland, OR 97202","2026/09/14",1450,"1 Bed","Apartment"
+"3636 SE Mall St, Portland, OR 97202","2026/09/14",1699,"2 Beds","Apartment"
+"3636 SE Mall St, Portland, OR 97202","2026/09/14",1950,"3 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"1551 SW Taylor St, Portland, OR 97205","2026/09/14",1345,"Studio","Apartment"
+"1551 SW Taylor St, Portland, OR 97205","2026/09/14",1837,"1 Bed","Apartment"
+"1314 N Skidmore St, Portland, OR 97217","2026/09/14",1359,"Studio","Apartment"
+"1314 N Skidmore St, Portland, OR 97217","2026/09/14",1699,"1 Bed","Apartment"
+"1314 N Skidmore St, Portland, OR 97217","2026/09/14",2274,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"4312-4327 N Williams Ave, Portland, OR 97217","2026/09/14",1348,"Studio","Apartment"
+"4312-4327 N Williams Ave, Portland, OR 97217","2026/09/14",1829,"1 Bed","Apartment"
+"4312-4327 N Williams Ave, Portland, OR 97217","2026/09/14",2395,"2 Beds","Apartment"
+"38 NW Davis St, Portland, OR 97209","2026/09/14",1325,"Studio","Apartment"
+"38 NW Davis St, Portland, OR 97209","2026/09/14",1475,"1 Bed","Apartment"
+"1701 SW Columbia St, Portland, OR 97201","2026/09/14",1284,"Studio","Apartment"
+"1701 SW Columbia St, Portland, OR 97201","2026/09/14",1552,"1 Bed","Apartment"
+"1701 SW Columbia St, Portland, OR 97201","2026/09/14",2144,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"1378 NW 18th Ave, Portland, OR 97209","2026/09/14",1300,"Studio","Apartment"
+"1378 NW 18th Ave, Portland, OR 97209","2026/09/14",1559,"1 Bed","Apartment"
+"1378 NW 18th Ave, Portland, OR 97209","2026/09/14",2933,"2 Beds","Apartment"
+"11359 NE Halsey St, Portland, OR 97220","2026/09/14",1285,"1 Bed","Apartment"
+"11359 NE Halsey St, Portland, OR 97220","2026/09/14",1435,"2 Beds","Apartment"
+"2270 NW Savier St, Portland, OR 97210","2026/09/14",1433,"Studio","Apartment"
+"2270 NW Savier St, Portland, OR 97210","2026/09/14",1551,"1 Bed","Apartment"
+"2270 NW Savier St, Portland, OR 97210","2026/09/14",3180,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"2121 SW Multnomah Blvd, Portland, OR 97219","2026/09/14",1375,"1 Bed","Apartment"
+"2121 SW Multnomah Blvd, Portland, OR 97219","2026/09/14",1395,"2 Beds","Apartment"
+"1801-1899 N W 143rd Ave, Portland, OR 97229","2026/09/14",1316,"1 Bed","Apartment"
+"1801-1899 N W 143rd Ave, Portland, OR 97229","2026/09/14",1473,"2 Beds","Apartment"
+"1801-1899 N W 143rd Ave, Portland, OR 97229","2026/09/14",2415,"3 Beds","Apartment"
+"2209 NW Everett St, Portland, OR 97210","2026/09/14",1295,"Studio","Apartment"
+"2209 NW Everett St, Portland, OR 97210","2026/09/14",1225,"1 Bed","Apartment"
+"5605 SE Milwaukie Ave, Portland, OR 97202","2026/09/14",99512,"1 Bed",NA
+"1129 SW Washington St, Portland, OR 97205","2026/09/14",945,"Studio","Apartment"
+"1129 SW Washington St, Portland, OR 97205","2026/09/14",1145,"1 Bed","Apartment"
+"3010-3106 SW 10th Ave, Portland, OR 97239","2026/09/14",995,"Studio","Apartment"
+"3010-3106 SW 10th Ave, Portland, OR 97239","2026/09/14",1155,"1 Bed","Apartment"
+"3010-3106 SW 10th Ave, Portland, OR 97239","2026/09/14",1430,"2 Beds","Apartment"
+"2211 SW 4th Ave, Portland, OR 97201","2026/09/14",899,"Studio","Apartment"
+"2211 SW 4th Ave, Portland, OR 97201","2026/09/14",1200,"1 Bed","Apartment"
+"4501-4537 SW Luradel St, Portland, OR 97219","2026/09/14",1500,"1 Bed",NA
+"611 SE 190th Ave, Portland, OR 97233","2026/09/14",1399,"1 Bed",NA
+"12027-12069 SE Foster Rd, Portland, OR 97266","2026/09/14",2195,"1 Bed",NA
+"1930 NE Alberta St, Portland, OR 97211","2026/09/14",1599,"Studio","Apartment"
+"1930 NE Alberta St, Portland, OR 97211","2026/09/14",1800,"1 Bed","Apartment"
+NA,NA,NA,NA,NA
+"16520-16612 NE Glisan St, Portland, OR 97230","2026/09/14",1795,"1 Bed",NA
+"141 NE 147th Ave, Portland, OR 97230","2026/09/14",1425,"1 Bed",NA
+"1140 SW Washington St, Portland, OR 97205","2026/09/14",1997,"Studio","Apartment"
+"1140 SW Washington St, Portland, OR 97205","2026/09/14",2643,"1 Bed","Apartment"
+"1140 SW Washington St, Portland, OR 97205","2026/09/14",4302,"2 Beds","Apartment"
+"5416 SE 122nd Ave, Portland, OR 97236","2026/09/14",1317,"1 Bed","Apartment"
+"5416 SE 122nd Ave, Portland, OR 97236","2026/09/14",1572,"2 Beds","Apartment"
+"1550 SE 20th Ave, Portland, OR 97214","2026/09/14",1595,"1 Bed","Apartment"
+"1550 SE 20th Ave, Portland, OR 97214","2026/09/14",2295,"2 Beds","Apartment"
+"4150 N Williams Ave, Portland, OR 97217","2026/09/14",1500,"1 Bed","Apartment"
+"4150 N Williams Ave, Portland, OR 97217","2026/09/14",2150,"2 Beds","Apartment"
+"850 NE 81st Ave, Portland, OR 97213","2026/09/14",977,"Studio","Apartment"
+"850 NE 81st Ave, Portland, OR 97213","2026/09/14",1396,"1 Bed","Apartment"
+"18411 SE Burnside St, Portland, OR 97233","2026/09/14",1195,"1 Bed",NA
+"2222 NW Raleigh St, Portland, OR 97210","2026/09/14",1417,"Studio","Apartment"
+"2222 NW Raleigh St, Portland, OR 97210","2026/09/14",1997,"1 Bed","Apartment"
+"2222 NW Raleigh St, Portland, OR 97210","2026/09/14",2847,"2 Beds","Apartment"
+"957 NE 122nd Ave, Portland, OR 97230","2026/09/14",1425,"1 Bed","Apartment"
+"957 NE 122nd Ave, Portland, OR 97230","2026/09/14",1450,"2 Beds","Apartment"
+"1415 SE Pardee St, Portland, OR 97202","2026/09/14",1849,"(971) 999-3279
+Message",NA
+"235-255 SE 146th Ave, Portland, OR 97233","2026/09/14",1489,"(971) 999-3279
+Message",NA
+"117 NE 60th Ave, Portland, OR 97213","2026/09/14",1295,"(971) 999-3279
+Message",NA
+"235 SE 165th Ave, Portland, OR 97233","2026/09/14",1575,"(971) 314-5856
+Message",NA
+"1177 SE Stark St, Portland, OR 97214","2026/09/14",1246,"Studio","Apartment"
+"1177 SE Stark St, Portland, OR 97214","2026/09/14",1308,"1 Bed","Apartment"
+"222 SW Pine St, Portland, OR 97204","2026/09/14",1028,"Studio","Apartment"
+"222 SW Pine St, Portland, OR 97204","2026/09/14",1316,"1 Bed","Apartment"
+"0650 S Lowell St, Portland, OR 97239","2026/09/14",1246,"Studio","Apartment"
+"0650 S Lowell St, Portland, OR 97239","2026/09/14",1308,"1 Bed","Apartment"
+"0650 S Lowell St, Portland, OR 97239","2026/09/14",1562,"2 Beds","Apartment"
+"16055 SE Stark St, Portland, OR 97233","2026/09/14",1450,"2 Beds",NA
+"14998 SE Stark St, Portland, OR 97233","2026/09/14",1350,"2 Beds",NA
+"16145 NW Spartan Way, Portland, OR 97229","2026/09/14",1404,"1 Bed","Apartment"
+"16145 NW Spartan Way, Portland, OR 97229","2026/09/14",1682,"2 Beds","Apartment"
+"23 NE 162nd Ave, Portland, OR 97230","2026/09/14",1350,"2 Beds",NA
+"1315 NW 19th Ave, Portland, OR 97209","2026/09/14",2299,"2 Beds",NA
+"1459 SE Ankeny St, Portland, OR 97214","2026/09/14",1549,"1 Bed","Apartment"
+"1459 SE Ankeny St, Portland, OR 97214","2026/09/14",2500,"2 Beds","Apartment"
+"1470 NW Glisan St, Portland, OR 97209","2026/09/14",1342,"Studio","Apartment"
+"1470 NW Glisan St, Portland, OR 97209","2026/09/14",1639,"1 Bed","Apartment"
+"840-878 NE 90th Ave, Portland, OR 97220","2026/09/14",1550,"2 Beds","Apartment"
+"840-878 NE 90th Ave, Portland, OR 97220","2026/09/14",1950,"3 Beds","Apartment"
+"2955 NE Martin Luther King Jr Blvd, Portland, OR 97212","2026/09/14",1400,"3 Beds",NA
+"2503 NW Raleigh St, Portland, OR 97210","2026/09/14",1250,"3 Beds",NA
+"3225 NE Martin Luther King Jr Blvd, Portland, OR 97212","2026/09/14",1425,"1 Bed","Apartment"
+"3225 NE Martin Luther King Jr Blvd, Portland, OR 97212","2026/09/14",1475,"2 Beds","Apartment"
+"620-646 SE 174th Ave, Portland, OR 97233","2026/09/14",1045,"2 Beds",NA
+"14024-14124 NE Sandy Blvd, Portland, OR 97230","2026/09/14",1295,"1 Bed","Apartment"
+"14024-14124 NE Sandy Blvd, Portland, OR 97230","2026/09/14",1445,"2 Beds","Apartment"
+"14024-14124 NE Sandy Blvd, Portland, OR 97230","2026/09/14",1695,"3 Beds","Apartment"
+"1330 SW 3rd Ave, Portland, OR 97201","2026/09/14",1574,"1 Bed","Apartment"
+"1330 SW 3rd Ave, Portland, OR 97201","2026/09/14",2346,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"1532 NE 21st Ave, Portland, OR 97232","2026/09/14",1450,"(971) 351-1298
+Message",NA
+"2030 NW Raleigh St, Portland, OR 97209","2026/09/14",1446,"Studio","Apartment"
+"2030 NW Raleigh St, Portland, OR 97209","2026/09/14",2067,"1 Bed","Apartment"
+"2030 NW Raleigh St, Portland, OR 97209","2026/09/14",3572,"2 Beds","Apartment"
+"16124 SE Alder St, Portland, OR 97233","2026/09/14",1100,"Studio","Apartment"
+"16124 SE Alder St, Portland, OR 97233","2026/09/14",1100,"1 Bed","Apartment"
+"6061 N Fessenden, Portland, OR 97203","2026/09/14",1495,"1 Bed",NA
+"3236 SE Harvey St, Portland, OR 97222","2026/09/14",1750,"1 Bed",NA
+"2737 NW Upshur St, Portland, OR 97210","2026/09/14",1095,"1 Bed",NA
+"6920 SW 92ND Ave, Portland, OR 97223","2026/09/14",2250,"1 Bed",NA
+"2112 NW Irving St, Portland, OR 97210","2026/09/14",1425,"Studio","Apartment"
+"2112 NW Irving St, Portland, OR 97210","2026/09/14",1650,"1 Bed","Apartment"
+"2112 NW Irving St, Portland, OR 97210","2026/09/14",2500,"2 Beds","Apartment"
+"135 NW 9th Ave, Portland, OR 97209","2026/09/14",1375,"Studio","Apartment"
+"135 NW 9th Ave, Portland, OR 97209","2026/09/14",1595,"1 Bed","Apartment"
+"135 NW 9th Ave, Portland, OR 97209","2026/09/14",2504,"2 Beds+","Apartment"
+"1315 NW Johnson St, Portland, OR 97209","2026/09/14",1215,"Studio","Apartment"
+"1315 NW Johnson St, Portland, OR 97209","2026/09/14",1495,"1 Bed","Apartment"
+"1315 NW Johnson St, Portland, OR 97209","2026/09/14",2795,"2 Beds","Apartment"
+"2175 NW Davis St, Portland, OR 97210","2026/09/14",1675,"(971) 351-3252
+Message",NA
+"3600 N Williams Ave, Portland, OR 97227","2026/09/14",1350,"Studio","Apartment"
+"3600 N Williams Ave, Portland, OR 97227","2026/09/14",1425,"1 Bed","Apartment"
+"3600 N Williams Ave, Portland, OR 97227","2026/09/14",1650,"2 Beds","Apartment"
+"19511 NE Halsey St, Portland, OR 97230","2026/09/14",1395,"2 Beds",NA
+"19025 SE Yamhill St, Portland, OR 97233","2026/09/14",1400,"1 Bed","Apartment"
+"19025 SE Yamhill St, Portland, OR 97233","2026/09/14",1600,"2 Beds","Apartment"
+"1535 N Alberta St, Portland, OR 97217","2026/09/14",1125,"2 Beds",NA
+"10728 NE Halsey St, Portland, OR 97220","2026/09/14",1300,"1 Bed","Apartment"
+"10728 NE Halsey St, Portland, OR 97220","2026/09/14",1475,"2 Beds","Apartment"
+"10728 NE Halsey St, Portland, OR 97220","2026/09/14",2200,"3 Beds","Apartment"
+NA,NA,NA,NA,NA
+"2005 N Williams Ave, Portland, OR 97227","2026/09/14",1350,"Studio","Apartment"
+"2005 N Williams Ave, Portland, OR 97227","2026/09/14",1705,"1 Bed","Apartment"
+"2005 N Williams Ave, Portland, OR 97227","2026/09/14",2030,"2 Beds","Apartment"
+"3700-3703 N Williams Ave, Portland, OR 97227","2026/09/14",1475,"(503) 601-4604
+Message",NA
+"717 SE 187th Ave, Portland, OR 97233","2026/09/14",1375,"(971) 351-0579
+Message",NA
+"8780-8990 N Columbia Blvd, Portland, OR 97203","2026/09/14",1380,"1 Bed","Apartment"
+"8780-8990 N Columbia Blvd, Portland, OR 97203","2026/09/14",1485,"2 Beds","Apartment"
+"8780-8990 N Columbia Blvd, Portland, OR 97203","2026/09/14",1785,"3 Beds","Apartment"
+"312 NE Monroe St, Portland, OR 97212","2026/09/14",1100,"(503) 601-6160
+Message",NA
+"12450 NW Barnes Rd, Portland, OR 97229","2026/09/14",1449,"1 Bed","Apartment"
+"12450 NW Barnes Rd, Portland, OR 97229","2026/09/14",1645,"2 Beds","Apartment"
+"12450 NW Barnes Rd, Portland, OR 97229","2026/09/14",2099,"3 Beds","Apartment"
+"2139 W Burnside St, Portland, OR 97210","2026/09/14",950,"Studio","Apartment"
+"2139 W Burnside St, Portland, OR 97210","2026/09/14",1115,"1 Bed","Apartment"
+"20554 NW Lapine Way, Portland, OR 97229","2026/09/14",2199,"1 Bed",NA
+"1529 NE 21st Ave, Portland, OR 97232","2026/09/14",1114,"1 Bed",NA
+"6324 NE 42nd Ave, Portland, OR 97218","2026/09/14",1201,"Studio","Apartment"
+"6324 NE 42nd Ave, Portland, OR 97218","2026/09/14",1026,"1 Bed","Apartment"
+"6324 NE 42nd Ave, Portland, OR 97218","2026/09/14",1460,"2 Beds+","Apartment"
+"13409 NW Sherry St, Portland, OR 97229","2026/09/14",1795,"(503) 278-3203
+Message",NA
+"1111 NE 122nd Ave, Portland, OR 97230","2026/09/14",1200,"1 Bed","Apartment"
+"1111 NE 122nd Ave, Portland, OR 97230","2026/09/14",1350,"2 Beds","Apartment"
+"1111 NE 122nd Ave, Portland, OR 97230","2026/09/14",1575,"3 Beds","Apartment"
+"11505 NE Yacht Harbor Dr, Portland, OR 97217","2026/09/14",1580,"1 Bed","Apartment"
+"11505 NE Yacht Harbor Dr, Portland, OR 97217","2026/09/14",2405,"2 Beds","Apartment"
+"2040 SW Vermont St, Portland, OR 97219","2026/09/14",1450,"1 Bed","Apartment"
+"2040 SW Vermont St, Portland, OR 97219","2026/09/14",1715,"2 Beds","Apartment"
+"2040 SW Vermont St, Portland, OR 97219","2026/09/14",1995,"3 Beds","Apartment"
+"5680 N Montana Ave, Portland, OR 97217","2026/09/14",999,"Studio","Apartment"
+"5680 N Montana Ave, Portland, OR 97217","2026/09/14",1558,"1 Bed","Apartment"
+"5680 N Montana Ave, Portland, OR 97217","2026/09/14",1924,"2 Beds","Apartment"
+"4436 SW Alfred St, Portland, OR 97219","2026/09/14",2150,"2 Beds",NA
+"11345 SE 27th Ave, Portland, OR 97222","2026/09/14",1275,"2 Beds",NA
+"1953 NW Overton St, Portland, OR 97209","2026/09/14",1059,"2 Beds",NA
+"2306 SE 158th Ave, Portland, OR 97233","2026/09/14",1500,"(360) 334-3580
+Message",NA
+"8937-8961 N Westanna Ave, Portland, OR 97203","2026/09/14",1450,"1 Bed","Apartment"
+"8937-8961 N Westanna Ave, Portland, OR 97203","2026/09/14",1675,"2 Beds","Apartment"
+"8937-8961 N Westanna Ave, Portland, OR 97203","2026/09/14",1965,"3 Beds","Apartment"
+"2121 NW Savier St, Portland, OR 97210","2026/09/14",1394,"Studio","Apartment"
+"2121 NW Savier St, Portland, OR 97210","2026/09/14",1907,"1 Bed","Apartment"
+"2121 NW Savier St, Portland, OR 97210","2026/09/14",2650,"2 Beds","Apartment"
+"1425 SW Clay St, Portland, OR 97201","2026/09/14",1050,"Studio","Apartment"
+"1425 SW Clay St, Portland, OR 97201","2026/09/14",1500,"2 Beds","Apartment"
+"3410-3532 SE 33rd Ave, Portland, OR 97202","2026/09/14",1295,"1 Bed","Apartment"
+"3410-3532 SE 33rd Ave, Portland, OR 97202","2026/09/14",1665,"2 Beds","Apartment"
+"15851 E Burnside St, Portland, OR 97233","2026/09/14",1350,"(971) 270-5470
+Message",NA
+"16000 SE Alder St, Portland, OR 97233","2026/09/14",1150,"(971) 717-7938
+Message",NA
+"2926 SW 4th Ave, Portland, OR 97239","2026/09/14",1300,"(971) 297-3448
+Message",NA
+"4405 SE Belmont St, Portland, OR 97215","2026/09/14",1399,"Studio","Apartment"
+"4405 SE Belmont St, Portland, OR 97215","2026/09/14",1449,"1 Bed","Apartment"
+"4750 N Albina Ave, Portland, OR 97217","2026/09/14",1310,"Studio","Apartment"
+"4750 N Albina Ave, Portland, OR 97217","2026/09/14",1936,"1 Bed","Apartment"
+"4836-4970 SW Laurelwood Dr, Portland, OR 97225","2026/09/14",1395,"1 Bed",NA
+"1721 SE Tacoma St, Portland, OR 97202","2026/09/14",1250,"Studio","Apartment"
+"1721 SE Tacoma St, Portland, OR 97202","2026/09/14",1575,"2 Beds","Apartment"
+"12026 SE Ash St, Portland, OR 97216","2026/09/14",1275,"2 Beds",NA
+"6331 SW Canyon Ct, Portland, OR 97221","2026/09/14",1199,"Studio","Apartment"
+"6331 SW Canyon Ct, Portland, OR 97221","2026/09/14",1499,"1 Bed","Apartment"
+"15301-15353 SE Division St, Portland, OR 97236","2026/09/14",1200,"1 Bed","Apartment"
+"15301-15353 SE Division St, Portland, OR 97236","2026/09/14",1500,"2 Beds","Apartment"
+"10550 SW Butner Rd, Portland, OR 97225","2026/09/14",1400,"1 Bed","Apartment"
+"10550 SW Butner Rd, Portland, OR 97225","2026/09/14",1595,"2 Beds","Apartment"
+"10550 SW Butner Rd, Portland, OR 97225","2026/09/14",1895,"3 Beds","Apartment"
+"637 SE 182nd Ave, Portland, OR 97233","2026/09/14",1200,"1 Bed","Apartment"
+"637 SE 182nd Ave, Portland, OR 97233","2026/09/14",1300,"2 Beds","Apartment"
+"740 NE 53rd Ave, Portland, OR 97213","2026/09/14",1100,"Studio","Apartment"
+"740 NE 53rd Ave, Portland, OR 97213","2026/09/14",1150,"1 Bed","Apartment"
+"740 NE 53rd Ave, Portland, OR 97213","2026/09/14",1325,"2 Beds","Apartment"
+"1880 SW 5th Ave, Portland, OR 97201","2026/09/14",1095,"1 Bed","Apartment"
+"1880 SW 5th Ave, Portland, OR 97201","2026/09/14",1595,"2 Beds","Apartment"
+"1231 NE Martin Luther King Jr Blvd, Portland, OR 97232","2026/09/14",1255,"Studio","Apartment"
+"1231 NE Martin Luther King Jr Blvd, Portland, OR 97232","2026/09/14",1438,"1 Bed","Apartment"
+"1231 NE Martin Luther King Jr Blvd, Portland, OR 97232","2026/09/14",2018,"2 Beds","Apartment"
+"8660 N Columbia Blvd, Portland, OR 97203","2026/09/14",1249,"1 Bed","Apartment"
+"8660 N Columbia Blvd, Portland, OR 97203","2026/09/14",1449,"2 Beds","Apartment"
+"8660 N Columbia Blvd, Portland, OR 97203","2026/09/14",1799,"3 Beds","Apartment"
+"8320 NE Sandy Blvd, Portland, OR 97220","2026/09/14",1295,"1 Bed","Apartment"
+"8320 NE Sandy Blvd, Portland, OR 97220","2026/09/14",1550,"2 Beds","Apartment"
+"5460 N Interstate Ave, Portland, OR 97217","2026/09/14",950,"Studio","Apartment"
+"5460 N Interstate Ave, Portland, OR 97217","2026/09/14",1195,"1 Bed","Apartment"
+"5460 N Interstate Ave, Portland, OR 97217","2026/09/14",1450,"2 Beds","Apartment"
+"101 N Morris St, Portland, OR 97227","2026/09/14",925,"(971) 803-5301
+Message",NA
+"1207 SW Broadway, Portland, OR 97205","2026/09/14",1195,"(971) 351-3093
+Message",NA
+"1136 NE 181st Ave, Portland, OR 97230","2026/09/14",1200,"(971) 351-3093
+Message",NA
+"680 NW 18th Ave, Portland, OR 97209","2026/09/14",949,"(971) 351-3093
+Message",NA
+"17014-17062 NE Halsey St, Portland, OR 97230","2026/09/14",1215,"1 Bed","Apartment"
+"17014-17062 NE Halsey St, Portland, OR 97230","2026/09/14",1275,"2 Beds","Apartment"
+"17014-17062 NE Halsey St, Portland, OR 97230","2026/09/14",1550,"3 Beds","Apartment"
+"1801 NE 162nd Ave, Portland, OR 97230","2026/09/14",1175,"1 Bed","Apartment"
+"1801 NE 162nd Ave, Portland, OR 97230","2026/09/14",1325,"2 Beds","Apartment"
+"4611-4631 SW Luradel St, Portland, OR 97219","2026/09/14",1200,"1 Bed","Apartment"
+"4611-4631 SW Luradel St, Portland, OR 97219","2026/09/14",1395,"2 Beds","Apartment"
+"10638 SW Capitol Hwy, Portland, OR 97219","2026/09/14",1350,"1 Bed","Apartment"
+"10638 SW Capitol Hwy, Portland, OR 97219","2026/09/14",1500,"2 Beds","Apartment"
+"11850 SE 26th Ave, Portland, OR 97222","2026/09/14",1075,"Studio","Apartment"
+"11850 SE 26th Ave, Portland, OR 97222","2026/09/14",1200,"1 Bed","Apartment"
+"11850 SE 26th Ave, Portland, OR 97222","2026/09/14",1450,"2 Beds","Apartment"
+"2180 NE 47th Ave, Portland, OR 97213","2026/09/14",900,"2 Beds",NA
+"405 NE Mason St, Portland, OR 97211","2026/09/14",1225,"Studio","Apartment"
+"405 NE Mason St, Portland, OR 97211","2026/09/14",1425,"1 Bed","Apartment"
+"1040 NW 10th Ave, Portland, OR 97209","2026/09/14",1007,"Studio","Apartment"
+"1040 NW 10th Ave, Portland, OR 97209","2026/09/14",1825,"1 Bed","Apartment"
+"1040 NW 10th Ave, Portland, OR 97209","2026/09/14",1547,"2 Beds","Apartment"
+"950 SW 21st Ave, Portland, OR 97205","2026/09/14",1045,"Studio","Apartment"
+"950 SW 21st Ave, Portland, OR 97205","2026/09/14",1390,"1 Bed","Apartment"
+"950 SW 21st Ave, Portland, OR 97205","2026/09/14",1975,"2 Beds","Apartment"
+"12475 SE Powell Blvd, Portland, OR 97236","2026/09/14",1025,"1 Bed","Apartment"
+"12475 SE Powell Blvd, Portland, OR 97236","2026/09/14",1550,"3 Beds","Apartment"
+"2631 N Mississippi Ave, Portland, OR 97227","2026/09/14",901,"3 Beds",NA
+"14775 NE Couch St, Portland, OR 97230","2026/09/14",1500,"1 Bed","Apartment"
+"14775 NE Couch St, Portland, OR 97230","2026/09/14",1950,"2 Beds","Apartment"
+"2405 N Vancouver Ave, Portland, OR 97227","2026/09/14",1000,"Studio","Apartment"
+"2405 N Vancouver Ave, Portland, OR 97227","2026/09/14",1455,"2 Beds","Apartment"
+"803 SW Morrison St, Portland, OR 97205","2026/09/14",875,"(844) 435-2096
+Message",NA
+"1240 SW Columbia St, Portland, OR 97201","2026/09/14",904,"Studio","Apartment"
+"1240 SW Columbia St, Portland, OR 97201","2026/09/14",1210,"1 Bed","Apartment"
+"1110 SW Clay St, Portland, OR 97201","2026/09/14",949,"Studio","Apartment"
+"1110 SW Clay St, Portland, OR 97201","2026/09/14",1295,"1 Bed","Apartment"
+"1075 NW 16th St, Portland, OR 97209","2026/09/14",940,"Studio","Apartment"
+"1075 NW 16th St, Portland, OR 97209","2026/09/14",1685,"2 Beds","Apartment"
+"929 SW Salmon St, Portland, OR 97205","2026/09/14",860,"2 Beds",NA
+"1611 NW Marshall St, Portland, OR 97209","2026/09/14",975,"2 Beds",NA
+"920 NW Kearney St, Portland, OR 97209","2026/09/14",892,"2 Beds",NA
+"12450-12530 SE Powell Ct, Portland, OR 97236","2026/09/14",1050,"1 Bed","Apartment"
+"12450-12530 SE Powell Ct, Portland, OR 97236","2026/09/14",1195,"2 Beds","Apartment"
+"1610 NE 66th Ave, Portland, OR 97213","2026/09/14",1199,"2 Beds","Apartment"
+"1610 NE 66th Ave, Portland, OR 97213","2026/09/14",1732,"3 Beds","Apartment"
+"1212 SW Clay St, Portland, OR 97201","2026/09/14",789,"Studio","Apartment"
+"1212 SW Clay St, Portland, OR 97201","2026/09/14",1292,"1 Bed","Apartment"
+"16677 NE Russell St, Portland, OR 97230","2026/09/14",1195,"1 Bed","Apartment"
+"16677 NE Russell St, Portland, OR 97230","2026/09/14",1495,"2 Beds","Apartment"
+"205-217 NW Couch St, Portland, OR 97209","2026/09/14",649,"2 Beds",NA
+"12370 SE Ash St, Portland, OR 97233","2026/09/14",572,"Studio","Apartment"
+"12370 SE Ash St, Portland, OR 97233","2026/09/14",1308,"1 Bed","Apartment"
+"12370 SE Ash St, Portland, OR 97233","2026/09/14",1562,"2 Beds","Apartment"
+"9777 NE Glisan St, Portland, OR 97220","2026/09/14",799,"Studio","Apartment"
+"9777 NE Glisan St, Portland, OR 97220","2026/09/14",1066,"1 Bed","Apartment"
+"9777 NE Glisan St, Portland, OR 97220","2026/09/14",1218,"2 Beds","Apartment"
+"1500 SW Pleasant View Dr, Gresham, OR 97080","2026/09/14",1363,"1 Bed","Apartment"
+"1500 SW Pleasant View Dr, Gresham, OR 97080","2026/09/14",1492,"2 Beds","Apartment"
+"1500 SW Pleasant View Dr, Gresham, OR 97080","2026/09/14",2209,"3 Beds","Apartment"
+"500 W Columbia Way, Vancouver, WA 98660","2026/09/14",1602,"Studio","Apartment"
+"500 W Columbia Way, Vancouver, WA 98660","2026/09/14",1900,"1 Bed","Apartment"
+"500 W Columbia Way, Vancouver, WA 98660","2026/09/14",3799,"2 Beds+","Apartment"
+"608 Washington St, Vancouver, WA 98660","2026/09/14",1510,"Studio","Apartment"
+"608 Washington St, Vancouver, WA 98660","2026/09/14",1663,"1 Bed","Apartment"
+"608 Washington St, Vancouver, WA 98660","2026/09/14",2315,"2 Beds","Apartment"
+"411 Columbia St, Vancouver, WA 98660","2026/09/14",1491,"Studio","Apartment"
+"411 Columbia St, Vancouver, WA 98660","2026/09/14",1491,"1 Bed","Apartment"
+"411 Columbia St, Vancouver, WA 98660","2026/09/14",2470,"2 Beds","Apartment"
+"3511 SE Monroe St, Milwaukie, OR 97222","2026/09/14",1500,"2 Beds","Condo"
+"12375 Mt Jefferson Ter, Lake Oswego, OR 97035","2026/09/14",1525,"1 Bed","Apartment"
+"12375 Mt Jefferson Ter, Lake Oswego, OR 97035","2026/09/14",1899,"2 Beds","Apartment"
+"12320 SW 72nd Ave, Tigard, OR 97223","2026/09/14",1350,"1 Bed","Apartment"
+"12320 SW 72nd Ave, Tigard, OR 97223","2026/09/14",1750,"2 Beds","Apartment"
+"5300 Parkview Dr, Lake Oswego, OR 97035","2026/09/14",1655,"1 Bed","Apartment"
+"5300 Parkview Dr, Lake Oswego, OR 97035","2026/09/14",2200,"2 Beds","Apartment"
+"555 W 8th St, Vancouver, WA 98660","2026/09/14",1335,"1 Bed","Apartment"
+"555 W 8th St, Vancouver, WA 98660","2026/09/14",1630,"2 Beds","Apartment"
+"555 W 8th St, Vancouver, WA 98660","2026/09/14",1912,"3 Beds","Apartment"
+"1150 NW Quimby St Unit 222, Portland, OR 97209","2026/09/14",2400,"(971) 803-4131
+Message
+Apply","Condo"
+"7905 N Fessenden St Unit #5, Portland, OR 97203","2026/09/14",1450,"2 Beds, 1 Bath, 800 sq ft","Condo"
+"5418 NE 25th Ave, Portland, OR 97211","2026/09/14",655,"2 Beds, 1 Bath, 800 sq ft","Condo"
+"8912 NE Russell St, Portland, OR 97220","2026/09/14",670,"2 Beds, 1 Bath, 800 sq ft","Condo"
+"3013 NE 181st Ave, Portland, OR 97230","2026/09/14",2419,"2 Beds, 1 Bath, 800 sq ft","Condo"
+"1215 N Hayden Meadows Dr, Portland, OR 97217","2026/09/14",2550,"2 Beds, 1 Bath, 800 sq ft","Condo"
+"4833 NE 11th Ave, Portland, OR 97211","2026/09/14",1350,"2 Beds, 1 Bath, 800 sq ft","Condo"
+"639 1st St, Lake Oswego, OR 97034","2026/09/14",3000,"2 Beds, 2.5 Baths, 1,400 sq ft","Condo"
+"2731 SW Bucharest Ct, Portland, OR 97225","2026/09/14",4650,"4 Beds, 3 Baths, 3,276 sq ft","Condo"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"1905 NW 23rd Ave, Portland, OR 97210","2026/09/14",1650,"1 Bed","Apartment"
+"1905 NW 23rd Ave, Portland, OR 97210","2026/09/14",2263,"2 Beds","Apartment"
+"1607 NW Davis St, Portland, OR 97209","2026/09/14",1550,"1607 Apartments","Condo"
+"8737-8807 SE Flavel St, Portland, OR 97266","2026/09/14",2050,"Spring Creek Trail","Condo"
+"7900 SE Luther Rd, Portland, OR 97206","2026/09/14",1596,"Unit 09-103 at Heirloom","Condo"
+"3435 SW 87th Ave, Portland, OR 97225","2026/09/14",1450,"Sheri-Hill Apartments","Condo"
+"6630-6640 SW Capitol Hwy, Portland, OR 97219","2026/09/14",1350,"Lancaster Apartments","Condo"
+"7400 SE Milwaukie Ave, Portland, OR 97202","2026/09/14",1550,"Galaxie at Sellwood","Condo"
+"2641-2645 SW Spring Garden St, Portland, OR 97219","2026/09/14",1285,"Spring Terrace","Condo"
+"3030-3032 SW Fourth Ave, Portland, OR 97201","2026/09/14",1395,"Lair Hill","Condo"
+"1630 SE Rural St, Portland, OR 97202","2026/09/14",1262,"Unit 1-104 at Meetinghouse","Condo"
+"SW Corbett Ave, Portland, OR 97239","2026/09/14",1549,"Corbett Heights Apartments","Condo"
+"11710-11714 SE Powell Blvd, Portland, OR 97266","2026/09/14",1195,"Powell Terrace","Condo"
+"1021 SE 122nd Ave, Portland, OR 97233","2026/09/14",1395,"Seven Gables","Condo"
+"9730 SW 35th Dr, Portland, OR 97219","2026/09/14",1200,"1 Bed","Apartment"
+"9730 SW 35th Dr, Portland, OR 97219","2026/09/14",1425,"2 Beds","Apartment"
+"123-229 SE 97th Ave, Portland, OR 97216","2026/09/14",1295,"Eastgate Apartments","Condo"
+NA,NA,NA,NA,NA
+"2680 SE Division St, Portland, OR 97202","2026/09/14",1795,"Rothko Residences","Condo"
+"2034 NE 40th Ave, Portland, OR 97212","2026/09/14",1321,"1 Bed","Apartment"
+"2034 NE 40th Ave, Portland, OR 97212","2026/09/14",2100,"2 Beds","Apartment"
+"2065 NW Flanders St, Portland, OR 97209","2026/09/14",1100,"Twenty 65 Apartments","Condo"
+"9222 N Lombard St, Portland, OR 97203","2026/09/14",1295,"Metropolitan North Apartments","Condo"
+"4322 SE 122nd Ave, Portland, OR 97236","2026/09/14",1150,"Townhouse Villa","Condo"
+"2440-2468 SE 87th Ave, Portland, OR 97216","2026/09/14",999,"1 Bed","Apartment"
+"2440-2468 SE 87th Ave, Portland, OR 97216","2026/09/14",1400,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"8340 NE Broadway St, Portland, OR 97220","2026/09/14",997,"1 Bed","Apartment"
+"8340 NE Broadway St, Portland, OR 97220","2026/09/14",1216,"2 Beds","Apartment"
+"13400 NW Cornell Rd, Portland, OR 97229","2026/09/14",1069,"1 Bed","Apartment"
+"13400 NW Cornell Rd, Portland, OR 97229","2026/09/14",1557,"2 Beds","Apartment"
+"13400 NW Cornell Rd, Portland, OR 97229","2026/09/14",1837,"3 Beds","Apartment"
+"540 NE 99th Ave, Portland, OR 97220","2026/09/14",899,"Studio","Apartment"
+"540 NE 99th Ave, Portland, OR 97220","2026/09/14",1150,"1 Bed","Apartment"
+"540 NE 99th Ave, Portland, OR 97220","2026/09/14",1693,"2 Beds+","Apartment"
+"17101 SE Division St, Portland, OR 97233","2026/09/14",985,"1 Bed","Apartment"
+"17101 SE Division St, Portland, OR 97233","2026/09/14",1130,"2 Beds","Apartment"
+"2-16 NW Broadway, Portland, OR 97209","2026/09/14",500,"Helen Swindells Building",NA
+NA,NA,NA,NA,NA
+"9730 SE Fuller Rd, Happy Valley, OR 97086","2026/09/14",1408,"1 Bed","Apartment"
+"9730 SE Fuller Rd, Happy Valley, OR 97086","2026/09/14",1687,"2 Beds","Apartment"
+"9730 SE Fuller Rd, Happy Valley, OR 97086","2026/09/14",1947,"3 Beds","Apartment"
+"3180 NW Division St, Gresham, OR 97030","2026/09/14",1575,"Mountain Knolls",NA
+"209 W Evergreen Blvd, Vancouver, WA 98660","2026/09/14",2527,"Riverview Tower Apartments",NA
+NA,NA,NA,NA,NA
+"1430-1460 SW Bertha Blvd, Portland, OR 97219","2026/09/14",1825,"Pickett Park",NA
+"2070 NW Quimby St, Portland, OR 97209","2026/09/14",1450,"Unit 306 at Slabtown Square",NA
+"10332 NE Oregon St, Portland, OR 97220","2026/09/14",1450,"Gateway Crossing",NA
+"18476 NW Chemeketa Ln, Portland, OR 97229","2026/09/14",1404,"1 Bed","Apartment"
+"18476 NW Chemeketa Ln, Portland, OR 97229","2026/09/14",1682,"2 Beds","Apartment"
+"1755 NW Kearney St, Portland, OR 97209","2026/09/14",1402,"Studio","Apartment"
+"1755 NW Kearney St, Portland, OR 97209","2026/09/14",2466,"1 Bed","Apartment"
+"1755 NW Kearney St, Portland, OR 97209","2026/09/14",2995,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"10 NE 162nd Ave, Portland, OR 97230","2026/09/14",1175,"1 Bed","Apartment"
+"10 NE 162nd Ave, Portland, OR 97230","2026/09/14",1295,"2 Beds","Apartment"
+"3650 SE 29th Ave, Portland, OR 97202","2026/09/14",2439,"Unit 2109 at Sunshine Portland",NA
+"4820 SW Barbur Blvd, Portland, OR 97239","2026/09/14",1860,"Town and Country Apartments",NA
+"12430-12454 NE Glisan St, Portland, OR 97230","2026/09/14",1295,"Fairway Apartments",NA
+"5419 SE Woodstock Blvd, Portland, OR 97206","2026/09/14",1195,"54 Woodstock",NA
+"1020 SE 60th Ave, Portland, OR 97215","2026/09/14",1300,"Tabor Commons",NA
+"11785 NW Timberview Ln, Portland, OR 97229","2026/09/14",1801,"Sofi at Cedar Mill",NA
+"5620 N Interstate Ave, Portland, OR 97217","2026/09/14",1175,"Unit 610 at Nomad Apartments",NA
+"4008-4140 SE 174th Ave, Portland, OR 97236","2026/09/14",1520,"Foothills Apartments",NA
+"8778 N Columbia Blvd, Portland, OR 97203","2026/09/14",1299,"1 Bed","Apartment"
+"8778 N Columbia Blvd, Portland, OR 97203","2026/09/14",1450,"2 Beds","Apartment"
+"11700 SW Butner Rd, Portland, OR 97225","2026/09/14",1424,"Studio","Apartment"
+"11700 SW Butner Rd, Portland, OR 97225","2026/09/14",1374,"1 Bed","Apartment"
+"11700 SW Butner Rd, Portland, OR 97225","2026/09/14",1824,"2 Beds","Apartment"
+"1505 N Humboldt St, Portland, OR 97217","2026/09/14",1850,"MF 14 - N Humboldt",NA
+"6105 SE Cora St, Portland, OR 97206","2026/09/14",1495,"Kern Lofts",NA
+"4225 SE Milwaukie Ave, Portland, OR 97202","2026/09/14",1299,"Unit 210 at Brookland",NA
+"1514 N Emerson St, Portland, OR 97217","2026/09/14",1250,"MF 15 - N. Emerson",NA
+"1730 NW Couch St, Portland, OR 97209","2026/09/14",1315,"Casa Del Rey",NA
+"1009 NE 47th Ave, Portland, OR 97213","2026/09/14",1200,"Laurelwood Apartments",NA
+"4525 N Albina Ave, Portland, OR 97217","2026/09/14",1500,"Ellis Flats",NA
+"5560 NE 42nd Ave, Portland, OR 97218","2026/09/14",1733,"Chaku Kumtuks Haws",NA
+"1784 NW Northrup St, Portland, OR 97209","2026/09/14",1375,"Unit 408 at The Weidler",NA
+"3816 N Michigan Ave, Portland, OR 97227","2026/09/14",1050,"The Village Coliving Community",NA
+"4064 N Mississippi Ave, Portland, OR 97227","2026/09/14",1325,"Mila Rose Residences",NA
+"12247 NW Cornell Rd, Portland, OR 97229","2026/09/14",1544,"1 Bed","Apartment"
+"12247 NW Cornell Rd, Portland, OR 97229","2026/09/14",1468,"2 Beds","Apartment"
+"12247 NW Cornell Rd, Portland, OR 97229","2026/09/14",1946,"3 Beds","Apartment"
+"224 SE 188th Ave, Portland, OR 97233","2026/09/14",1299,"Unit 200-1 at The Nash","Apartment"
+"1620 SE 39th Ave, Portland, OR 97214","2026/09/14",1260,"MF 11 - Cedarhurst Village Apartments","Apartment"
+"2135 SE 122nd Ave, Portland, OR 97233","2026/09/14",1200,"Lincoln Court","Apartment"
+"1380 SW 66th Ave, Portland, OR 97225","2026/09/14",1055,"Studio","Apartment"
+"1380 SW 66th Ave, Portland, OR 97225","2026/09/14",1499,"1 Bed","Apartment"
+"131-149 SE 151st Ave, Portland, OR 97233","2026/09/14",995,"Ascot Firs","Apartment"
+"6101 SE 93rd Ave, Portland, OR 97266","2026/09/14",1150,"Studio","Apartment"
+"6101 SE 93rd Ave, Portland, OR 97266","2026/09/14",1300,"1 Bed","Apartment"
+"1447 NW 12th Ave, Portland, OR 97209","2026/09/14",1576,"Unit 427 at The Parker","Apartment"
+"600 NE 100th Ave, Portland, OR 97220","2026/09/14",1208,"1 Bed","Apartment"
+"600 NE 100th Ave, Portland, OR 97220","2026/09/14",1439,"2 Beds","Apartment"
+"600 NE 100th Ave, Portland, OR 97220","2026/09/14",1650,"3 Beds","Apartment"
+"8408-8428 N Brandon Ave, Portland, OR 97217","2026/09/14",950,"Studio","Apartment"
+"8408-8428 N Brandon Ave, Portland, OR 97217","2026/09/14",1350,"1 Bed","Apartment"
+"8408-8428 N Brandon Ave, Portland, OR 97217","2026/09/14",1450,"2 Beds","Apartment"
+"16916-16936 SE Powell Blvd, Portland, OR 97236","2026/09/14",1325,"1 Bed","Apartment"
+"16916-16936 SE Powell Blvd, Portland, OR 97236","2026/09/14",1325,"2 Beds","Apartment"
+"16916-16936 SE Powell Blvd, Portland, OR 97236","2026/09/14",2250,"3 Beds","Apartment"
+"2755 SE Belmont St, Portland, OR 97214","2026/09/14",1303,"Studio","Apartment"
+"2755 SE Belmont St, Portland, OR 97214","2026/09/14",1398,"1 Bed","Apartment"
+"2755 SE Belmont St, Portland, OR 97214","2026/09/14",1665,"2 Beds+","Apartment"
+"6723 NE Killingsworth St, Portland, OR 97218","2026/09/14",619,"Studio","Apartment"
+"6723 NE Killingsworth St, Portland, OR 97218","2026/09/14",698,"1 Bed","Apartment"
+"6723 NE Killingsworth St, Portland, OR 97218","2026/09/14",837,"2 Beds+","Apartment"
+"13301 SW 72nd Ave, Tigard, OR 97223","2026/09/14",1450,"1 Bed","Apartment"
+"13301 SW 72nd Ave, Tigard, OR 97223","2026/09/14",1725,"2 Beds","Apartment"
+"8810 SE Otty Rd, Happy Valley, OR 97086","2026/09/14",1278,"1 Bed","Apartment"
+"8810 SE Otty Rd, Happy Valley, OR 97086","2026/09/14",1506,"2 Beds","Apartment"
+"8810 SE Otty Rd, Happy Valley, OR 97086","2026/09/14",2120,"3 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"1378 NW 18th Ave Unit SI FL3-ID1280480P, Portland, OR 97209","2026/09/14",4329,"(971) 256-4889
+Message","Apartment"
+"15921 NW Brugger Rd Unit SI FL3-ID1280477P, Portland, OR 97229","2026/09/14",3932,"(503) 459-4912
+Message","Apartment"
+NA,NA,NA,NA,NA
+"5177 NE 14th Pl Unit SI FL2-ID1271929P, Portland, OR 97211","2026/09/14",9502,"(971) 339-6446
+Message","Apartment"
+NA,NA,NA,NA,NA
+"1378 NW 18th Ave Unit SI FL6-ID1280508P, Portland, OR 97209","2026/09/14",4677,"(971) 521-4445
+Message","Apartment"
+"5248 SE Stark St, Portland, OR 97215","2026/09/14",2499,"(971) 340-4577
+Message","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"15921 NW Brugger Rd, Portland, OR 97229","2026/09/14",1999,"2 Beds, 2 Baths, 938 sq ft","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"5255 NE 15th Ave Unit SI ID1550284P, Portland, OR 97211","2026/09/14",3525,"(971) 386-0444
+Message","Apartment"
+NA,NA,NA,NA,NA
+"8537-8537 N Saint Louis Ave, Portland, OR 97203","2026/09/14",1195,"(971) 501-3243
+Message","Apartment"
+"1415 NE 74th Ave, Portland, OR 97213","2026/09/14",2625,"(971) 277-7176
+Message","Apartment"
+"6233 SW Hamilton Way, Portland, OR 97221","2026/09/14",9500,"(971) 407-5895
+Message","Apartment"
+"5704 SW Beaverton Hillsdale Hwy, Portland, OR 97221","2026/09/14",1595,"(971) 277-9338
+Message","Apartment"
+"3719 S Hood Ave, Portland, OR 97239","2026/09/14",1245,"(971) 803-5541
+Message","Apartment"
+"1125 NW 9th Ave, Portland, OR 97209","2026/09/14",1650,"More Units at The Lexis on the Park","Apartment"
+NA,NA,NA,NA,NA
+"3628-3634 SE Milwaukie Ave, Portland, OR 97202","2026/09/14",1550,"(971) 302-4793
+Message","Apartment"
+"4626 NE 96th Ave, Portland, OR 97220","2026/09/14",1895,"(971) 385-6536
+Message","Apartment"
+"2147-2147 NW Glisan St, Portland, OR 97210","2026/09/14",2650,"(971) 366-5861
+Message","Apartment"
+"4419 N Albina Ave, Portland, OR 97217","2026/09/14",3845,"(971) 316-5237
+Message","Apartment"
+"7805 SE Flavel St, Portland, OR 97206","2026/09/14",2345,"(971) 495-3716
+Message","Apartment"
+"2919 SE Division St, Portland, OR 97202","2026/09/14",1395,"(503) 486-3965
+Message","Apartment"
+"9614 SW 54th Ave, Portland, OR 97219","2026/09/14",3095,"(971) 478-2601
+Message","Apartment"
+"2639-2639 SE 119th Ave, Portland, OR 97266","2026/09/14",1450,"(971) 351-0853
+Message","Apartment"
+"303 NE 45th Ave, Portland, OR 97213","2026/09/14",2795,"(971) 399-7496
+Message","Apartment"
+"9711 NW Miller Hill Dr, Portland, OR 97229","2026/09/14",2695,"(971) 260-4532
+Message","Apartment"
+NA,NA,NA,NA,NA
+"9341 SE Harney Ct, Portland, OR 97266","2026/09/14",3195,"(971) 754-2342
+Message","Apartment"
+"2424 N Vancouver Ave, Portland, OR 97227","2026/09/14",1350,"(971) 626-7413
+Message","Apartment"
+"5244-5308 NE Wistaria Dr, Portland, OR 97213","2026/09/14",1195,"(971) 376-8987
+Message","Apartment"
+"1529 SE Hawthorne Blvd, Portland, OR 97214","2026/09/14",2095,"(971) 463-8472
+Message","Apartment"
+"1209 SE Sherrett St, Portland, OR 97202","2026/09/14",2745,"(971) 518-6511
+Message","Apartment"
+NA,NA,NA,NA,NA
+"2834 NW Upshur St, Portland, OR 97210","2026/09/14",4645,"(971) 791-2287
+Message","Apartment"
+"7126 N Lombard St, Portland, OR 97203","2026/09/14",3250,"(971) 588-5391
+Message","Apartment"
+"5725 S Kelly Ave, Portland, OR 97239","2026/09/14",2525,"(971) 347-0684
+Message","Apartment"
+"8417 SW 24th Ave, Portland, OR 97219","2026/09/14",1365,"(971) 339-6684
+Message","Apartment"
+"2208-2208 NE 80th Ave, Portland, OR 97213","2026/09/14",1495,"(971) 256-8993
+Message","Apartment"
+NA,NA,NA,NA,NA
+"1826-1826 SW Main St, Portland, OR 97205","2026/09/14",1650,"(971) 351-1746
+Message","Apartment"
+"5729 NE 62nd Ave, Portland, OR 97218","2026/09/14",1595,"(971) 339-1953
+Message","Apartment"
+"19 SE 30th Ave, Portland, OR 97214","2026/09/14",1495,"(971) 256-6342
+Message","Apartment"
+"2354-2362-2362 SW Cactus Dr, Portland, OR 97205","2026/09/14",1050,"(971) 319-9782
+Message","Apartment"
+"1916 SE Harold St, Portland, OR 97202","2026/09/14",4995,"(503) 386-0468
+Message","Apartment"
+NA,NA,NA,NA,NA
+"5933 SE Franklin St, Portland, OR 97206","2026/09/14",2550,"(971) 612-9628
+Message","Apartment"
+"4232-4232 SE Cesar Estrada Chavez Blvd, Portland, OR 97202","2026/09/14",1425,"(503) 676-5510
+Message","Apartment"
+"1011 NE Tillamook St, Portland, OR 97212","2026/09/14",1295,"(971) 386-1628
+Message","Apartment"
+NA,NA,NA,NA,NA
+"3720 SW Bond Ave, Portland, OR 97239","2026/09/14",3376,"(503) 486-4907
+Message","Apartment"
+"3412 NE Rodney Ave, Portland, OR 97212","2026/09/14",2450,"(971) 402-2831
+Message","Apartment"
+NA,NA,NA,NA,NA
+"2536 SE 29th Ave, Portland, OR 97202","2026/09/14",2125,"(628) 600-3072
+Message","Apartment"
+"3100 SE 122nd Ave, Portland, OR 97236","2026/09/14",890,"(760) 546-9174
+Message","Apartment"
+"841 S Gaines St, Portland, OR 97239","2026/09/14",2900,"More Units at Atwater Place","Apartment"
+NA,NA,NA,NA,NA
+"231 NE Hancock St, Portland, OR 97212","2026/09/14",3300,"(520) 505-7805
+Message","Apartment"
+"5058 NW Crady Ln, Portland, OR 97229","2026/09/14",3195,"(971) 512-0820
+Message","Apartment"
+"4117-4123-4123 SE Long St, Portland, OR 97202","2026/09/14",1800,"(541) 255-1923
+Message","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"2429 NE Saratoga St, Portland, OR 97211","2026/09/14",2150,"(971) 459-2704
+Message","Apartment"
+NA,NA,NA,NA,NA
+"3814 NE 6th Ave, Portland, OR 97212","2026/09/14",1450,"(503) 594-4819
+Message","Apartment"
+NA,NA,NA,NA,NA
+"4620 N Maryland Ave, Portland, OR 97217","2026/09/14",1475,"(971) 232-4381
+Message","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"4412 NE Grand Ave, Portland, OR 97211","2026/09/14",3085,"(503) 479-4233
+Message","Apartment"
+"12231-12239 SE Bush St, Portland, OR 97236","2026/09/14",1450,"(360) 524-7429
+Message","Apartment"
+NA,NA,NA,NA,NA
+"1221 SW 10th Ave, Portland, OR 97205","2026/09/14",4600,"More Units at Eliot Tower","Apartment"
+"3108 SW Bennington Dr, Portland, OR 97205","2026/09/14",5300,"(971) 459-1888
+Message","Apartment"
+"12815 NE Fremont St, Portland, OR 97230","2026/09/14",2200,"(971) 328-3941
+Message","Apartment"
+"920 SW Stephenson Ct, Portland, OR 97219","2026/09/14",3300,"(970) 540-4038
+Message","Apartment"
+"3100 SE 122nd Ave, Portland, OR 97236","2026/09/14",1050,"(442) 777-6445
+Message","Apartment"
+"16457 NW Liberty St, Portland, OR 97229","2026/09/14",3295,"(541) 787-2589
+Message","Apartment"
+"12231-12239 SE Bush St, Portland, OR 97236","2026/09/14",1500,"(360) 397-7050
+Message","Apartment"
+"8145 SW 57th Ave, Portland, OR 97219","2026/09/14",6500,"(971) 298-8511
+Message","Apartment"
+"7870 SW West Slope Dr, Portland, OR 97225","2026/09/14",2600,"(971) 407-5134
+Message","Apartment"
+"7006 SE 66th Ave, Portland, OR 97206","2026/09/14",925,"(360) 803-1032
+Message","Apartment"
+"2478 NW Savier St, Portland, OR 97210","2026/09/14",2500,"(971) 521-7891
+Message","Apartment"
+"7006 SE 66th Ave, Portland, OR 97206","2026/09/14",1150,"(360) 524-7641
+Message","Apartment"
+"3057 SE 20th Ave, Portland, OR 97202","2026/09/14",2850,"(971) 521-8049
+Message","Apartment"
+"1410 NW Kearney St, Portland, OR 97209","2026/09/14",2595,"(971) 386-0854
+Message","Condo"
+"3801 NE 82nd Ave, Portland, OR 97220","2026/09/14",2450,"(360) 803-7451
+Message","Condo"
+"325 N Emerson St, Portland, OR 97217","2026/09/14",2600,"(971) 521-0472
+Message","Condo"
+"226 NE 157th Ave, Portland, OR 97230","2026/09/14",2475,"(971) 328-3783
+Message","Condo"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"514 SE Belmont St, Portland, OR 97214","2026/09/14",2402,"(503) 303-0536
+Message","Condo"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"6619 SE Woodstock Blvd Unit B, Portland, OR 97206","2026/09/14",11400,"(503) 732-0043
+Message","Condo"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"1542 NE 68th Ave, Portland, OR 97213","2026/09/14",1575,"(971) 339-0800
+Message","Condo"
+"1542 NE 68th Ave, Portland, OR 97213","2026/09/14",1549,"1 Bed, 1 Bath, 598 sq ft","Condo"
+"5333 SE 97th Ave, Portland, OR 97266","2026/09/14",2450,"(971) 803-5725
+Message","Condo"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"774 SE Fairwinds Loop, Vancouver, WA 98661","2026/09/14",2950,"(360) 360-6813
+Message","Condo"
+"12907 SE Ridgecrest Rd, Happy Valley, OR 97086","2026/09/14",4500,"(971) 754-2352
+Message","Condo"
+NA,NA,NA,NA,NA
+"10608 SW 49th Ave Unit 08, Portland, OR 97219","2026/09/14",1780,"Message
+Apply","Condo"
+"8852 SE Ellis St Unit 9, Portland, OR 97266","2026/09/14",1600,"(971) 754-2851
+Message
+Apply","Condo"
+"1534 N Blandena St, Portland, OR 97217","2026/09/14",4200,"(503) 461-1189
+Message
+Apply","Condo"
+"2865 NE Sandy Blvd, Portland, OR 97232","2026/09/14",1390,"Unit 425 at Sandy Lofts","Condo"
+"9512 Oswego N Ave Unit 6, Portland, OR 97203","2026/09/14",1370,"(971) 501-5732
+Message
+Apply","Condo"
+"16049 SE Caruthers St Unit 1, Portland, OR 97233","2026/09/14",1250,"(726) 600-7814
+Message
+Apply","Condo"
+"3601 sw river parkway Unit 1118, Portland, OR 97239","2026/09/14",2750,"(503) 563-2264
+Message
+Apply","Condo"
+"327 Northwest Park Avenue Unit Apartment 3-D, Portland, OR 97209","2026/09/14",1650,"Message
+Apply","Condo"
+"7222 East Burnside Unit Apt #3, Portland, OR 97215","2026/09/14",1750,"Message
+Apply","Condo"
+"443 NE GRAHAM ST Unit B, PORTLAND, OR 97212","2026/09/14",1795,"(424) 375-6599
+Message
+Apply","Condo"
+"8325 SW Terwilliger Blvd, Portland, OR 97219","2026/09/14",3995,"(971) 319-8287
+Message
+Apply","Condo"
+"6106 SE Boise St, Portland, OR 97206","2026/09/14",2045,"Message
+Apply",NA
+"4111 NE M L King Blvd, Portland, OR 97211","2026/09/14",1499,"Unit 516 at Forty One 11",NA
+"11825 SE Pine St Unit 11825, Portland, OR 97216","2026/09/14",1610,"(971) 265-0594
+Message
+Apply",NA
+"2221 SW 1st Ave Unit 1524, Portland, OR 97201","2026/09/14",3200,"More Units at Grant Tower",NA
+"18724 SE Yamhill St Unit 24, Portland, OR 97233","2026/09/14",1500,"Message
+Apply",NA
+"1500 SW Park Ave Unit 306, Portland, OR 97201","2026/09/14",1695,"More Units at University Park",NA
+"712 SE 42nd Ave, Portland, OR 97215","2026/09/14",2900,"Message
+Apply",NA
+"3158 SW 12th Ave, Portland, OR 97239","2026/09/14",2700,"Unit 01-309 at Marquam Heights",NA
+"1910 NW 108th Ave Unit Forest retreat, Portland, OR 97229","2026/09/14",2000,"(971) 571-6244
+Message
+Apply",NA
+"4116 SE 10th Ave, Portland, OR 97202","2026/09/14",4000,"Message
+Apply",NA
+"2909 SE 118th Ave Unit Powellhurst Terrace, Portland, OR 97266","2026/09/14",1850,"Message
+Apply",NA
+"3701 SW Condor Ave Unit K 1, Portland, OR 97239","2026/09/14",1750,"Message
+Apply",NA
+"1240 NW Summit Ave, Portland, OR 97210","2026/09/14",7200,"(971) 369-7829
+Message
+Apply",NA
+"7373 N Philadelphia Ave, Portland, OR 97203","2026/09/14",1400,"Unit 402 at Central Lofts Apartments",NA
+"7474 N Oswego Ave, Portland, OR 97203","2026/09/14",2699,"Message
+Apply",NA
+"752 NW 12th Ave, Portland, OR 97209","2026/09/14",4995,"Message
+Apply",NA
+"8502 N Central St, Portland, OR 97203","2026/09/14",2950,"Message
+Apply",NA
+"4606 NE Lombard St Unit 4612 NE Lombard 1, Portland, OR 97218","2026/09/14",1995,"Message
+Apply",NA
+"6790 SW Raleighview Ct, Portland, OR 97225","2026/09/14",3550,"Message
+Apply",NA
+"2065 S River Pky, Portland, OR 97201","2026/09/14",1308,"Unit 336 at Waterleaf",NA
+"12383 SW Walnut St, Portland, OR 97223","2026/09/14",1795,"Message
+Apply",NA
+"3417 SE Division St, Portland, OR 97202","2026/09/14",2400,"Message
+Apply",NA
+"5776 NW 181st Ave, Portland, OR 97229","2026/09/14",1000,"Message
+Apply",NA
+"2988 SE 122nd Ave, Portland, OR 97236","2026/09/14",1795,"Message
+Apply",NA
+"10451 E Burnside St, Portland, OR 97216","2026/09/14",1222,"Unit 141 at Traditions at Hazelwood",NA
+"1311 SW Gibbs St, Portland, OR 97239","2026/09/14",1295,"Unit 307 at The Woods on Marquam Hill",NA
+"1666 SE Lambert St, Portland, OR 97202","2026/09/14",2995,"Unit 7828 SE Milwaukie Avenue at Steeple Townhomes",NA
+"1375 N Killingsworth St, Portland, OR 97217","2026/09/14",1299,"Unit Unit 208 - Furnished at Paceline",NA
+"9224 SE Ramona St, Portland, OR 97266","2026/09/14",1600,"Unit 205 at The Buckley at Lents",NA
+"2510 NE Sandy Blvd, Portland, OR 97232","2026/09/14",1999,"Unit 313 at Sandy Rose Lofts",NA
+"4300 NW Chanticleer Dr, Portland, OR 97229","2026/09/14",2073,"Unit J01 at South Parc",NA
+"677 S Lowell St, Portland, OR 97239","2026/09/14",2145,"Unit S452 at The Matisse",NA
+"1717 SW Park Ave, Portland, OR 97201","2026/09/14",1175,"Unit 01-1001 at The Vue",NA
+"2625 E Burnside St, Portland, OR 97214","2026/09/14",2733,"Unit 201 at Burnside 26",NA
+"1250 NW Kearney St, Portland, OR 97209","2026/09/14",1629,"Unit 0715 at Heartline",NA
+"3124-3234 SE 136th Ave, Portland, OR 97236","2026/09/14",1397,"Unit 60 at Garden Park Estates",NA
+"931 NW 11th Ave, Portland, OR 97209","2026/09/14",2585,"Unit 0328 at Kearney Plaza",NA
+"1410 SW Broadway, Portland, OR 97201","2026/09/14",900,"Unit 0208 at Regency Apartments",NA
+"1417 SW 10th Ave, Portland, OR 97201","2026/09/14",995,"Unit 0212 at Ongford Apartments",NA
+"1976 NW Pettygrove St, Portland, OR 97209","2026/09/14",1475,"Unit 616 at 20 Pettygrove",NA
