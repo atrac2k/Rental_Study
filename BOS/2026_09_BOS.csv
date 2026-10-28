@@ -1,0 +1,1303 @@
+"Address","Date","Rent","Aprt_Type","Building_Type"
+"1575 Tremont St, Boston, MA 02120","2026/09/14",2893,"1 Bed","Apartment"
+"1575 Tremont St, Boston, MA 02120","2026/09/14",3190,"2 Beds","Apartment"
+"1575 Tremont St, Boston, MA 02120","2026/09/14",6381,"3 Beds","Apartment"
+"24 Oyster Bay Rd, Boston, MA 02125","2026/09/14",2155,"1 Bed","Apartment"
+"24 Oyster Bay Rd, Boston, MA 02125","2026/09/14",2926,"2 Beds","Apartment"
+"24 Oyster Bay Rd, Boston, MA 02125","2026/09/14",4203,"3 Beds","Apartment"
+"1440 Beacon St, Brookline, MA 02446","2026/09/14",2835,"Studio","Apartment"
+"1440 Beacon St, Brookline, MA 02446","2026/09/14",3046,"1 Bed","Apartment"
+"201 Sherman Rd, Brookline, MA 02467","2026/09/14",2950,"1 Bed","Apartment"
+"201 Sherman Rd, Brookline, MA 02467","2026/09/14",4095,"2 Beds","Apartment"
+"201 Sherman Rd, Brookline, MA 02467","2026/09/14",6995,"3 Beds","Apartment"
+"1200-1220 Adams St, Dorchester, MA 02124","2026/09/14",2681,"1 Bed","Apartment"
+"1200-1220 Adams St, Dorchester, MA 02124","2026/09/14",3410,"2 Beds","Apartment"
+"1 Hancock Village Dr, Chestnut Hill, MA 02467","2026/09/14",2950,"1 Bed","Apartment"
+"1 Hancock Village Dr, Chestnut Hill, MA 02467","2026/09/14",3430,"2 Beds","Apartment"
+"1 Hancock Village Dr, Chestnut Hill, MA 02467","2026/09/14",5995,"3 Beds","Apartment"
+"1260 Boylston St, Boston, MA 02215","2026/09/14",3281,"Studio","Apartment"
+"1260 Boylston St, Boston, MA 02215","2026/09/14",4500,"1 Bed","Apartment"
+"1260 Boylston St, Boston, MA 02215","2026/09/14",5593,"2 Beds","Apartment"
+"260 Huntington Ave, Boston, MA 02115","2026/09/14",3710,"Studio","Apartment"
+"260 Huntington Ave, Boston, MA 02115","2026/09/14",4520,"1 Bed","Apartment"
+"260 Huntington Ave, Boston, MA 02115","2026/09/14",7005,"2 Beds+","Apartment"
+"1335 Boylston St, Boston, MA 02215","2026/09/14",4219,"Studio","Apartment"
+"1335 Boylston St, Boston, MA 02215","2026/09/14",4586,"1 Bed","Apartment"
+"1335 Boylston St, Boston, MA 02215","2026/09/14",6341,"2 Beds","Apartment"
+"401 Mount Vernon St, Boston, MA 02125","2026/09/14",2447,"Studio","Apartment"
+"401 Mount Vernon St, Boston, MA 02125","2026/09/14",2554,"1 Bed","Apartment"
+"401 Mount Vernon St, Boston, MA 02125","2026/09/14",3264,"2 Beds+","Apartment"
+"1350 Boylston St, Boston, MA 02215","2026/09/14",3730,"Studio","Apartment"
+"1350 Boylston St, Boston, MA 02215","2026/09/14",4170,"1 Bed","Apartment"
+"1350 Boylston St, Boston, MA 02215","2026/09/14",6122,"2 Beds","Apartment"
+"3200 Washington St, Boston, MA 02130","2026/09/14",2550,"Studio","Apartment"
+"3200 Washington St, Boston, MA 02130","2026/09/14",3050,"1 Bed","Apartment"
+"3200 Washington St, Boston, MA 02130","2026/09/14",3850,"2 Beds+","Apartment"
+"744 Columbus Ave, Boston, MA 02120","2026/09/14",1954,"2 Beds","Apartment"
+"744 Columbus Ave, Boston, MA 02120","2026/09/14",1999,"3 Beds","Apartment"
+"744 Columbus Ave, Boston, MA 02120","2026/09/14",2304,"4 Beds","Apartment"
+"151 N First St, Cambridge, MA 02141","2026/09/14",2970,"Studio","Apartment"
+"151 N First St, Cambridge, MA 02141","2026/09/14",5743,"1 Bed","Apartment"
+"151 N First St, Cambridge, MA 02141","2026/09/14",5206,"2 Beds+","Apartment"
+NA,NA,NA,NA,NA
+"100 Heard St, Chelsea, MA 02150","2026/09/14",2308,"Studio","Apartment"
+"100 Heard St, Chelsea, MA 02150","2026/09/14",2392,"1 Bed","Apartment"
+"100 Heard St, Chelsea, MA 02150","2026/09/14",3172,"2 Beds+","Apartment"
+NA,NA,NA,NA,NA
+"1 Newport Ave, Quincy, MA 02171","2026/09/14",2641,"1 Bed","Apartment"
+"1 Newport Ave, Quincy, MA 02171","2026/09/14",3170,"2 Beds","Apartment"
+"95 St. Alphonsus St, Boston, MA 02120","2026/09/14",3430,"Studio","Apartment"
+"95 St. Alphonsus St, Boston, MA 02120","2026/09/14",4055,"1 Bed","Apartment"
+"95 St. Alphonsus St, Boston, MA 02120","2026/09/14",4975,"2 Beds","Apartment"
+"89 E Dedham St, Boston, MA 02118","2026/09/14",3636,"Studio","Apartment"
+"89 E Dedham St, Boston, MA 02118","2026/09/14",3315,"1 Bed","Apartment"
+"89 E Dedham St, Boston, MA 02118","2026/09/14",5932,"2 Beds+","Apartment"
+"431 Melnea Cass Blvd, Boston, MA 02119","2026/09/14",2699,"Studio","Apartment"
+"431 Melnea Cass Blvd, Boston, MA 02119","2026/09/14",3890,"2 Beds","Apartment"
+"3686 Washington St, Boston, MA 02130","2026/09/14",2645,"Studio","Apartment"
+"3686 Washington St, Boston, MA 02130","2026/09/14",2570,"1 Bed","Apartment"
+"3686 Washington St, Boston, MA 02130","2026/09/14",3830,"2 Beds+","Apartment"
+"771-775 Beacon St, Boston, MA 02215","2026/09/14",4480,"Studio","Apartment"
+"771-775 Beacon St, Boston, MA 02215","2026/09/14",4536,"1 Bed","Apartment"
+"771-775 Beacon St, Boston, MA 02215","2026/09/14",6630,"2 Beds","Apartment"
+"1555 Vfw Pky, Boston, MA 02132","2026/09/14",2623,"1 Bed","Apartment"
+"1555 Vfw Pky, Boston, MA 02132","2026/09/14",3507,"2 Beds","Apartment"
+"35-43 Braintree St, Boston, MA 02134","2026/09/14",2342,"Studio","Apartment"
+"35-43 Braintree St, Boston, MA 02134","2026/09/14",2899,"1 Bed","Apartment"
+"35-43 Braintree St, Boston, MA 02134","2026/09/14",3499,"2 Beds+","Apartment"
+"46 Soldiers Field Pl, Boston, MA 02135","2026/09/14",3699,"1 Bed","Apartment"
+"46 Soldiers Field Pl, Boston, MA 02135","2026/09/14",3999,"2 Beds","Apartment"
+"46 Soldiers Field Pl, Boston, MA 02135","2026/09/14",4699,"3 Beds","Apartment"
+"50 Western Ave, Boston, MA 02134","2026/09/14",2852,"Studio","Apartment"
+"50 Western Ave, Boston, MA 02134","2026/09/14",3804,"1 Bed","Apartment"
+"50 Western Ave, Boston, MA 02134","2026/09/14",4828,"2 Beds","Apartment"
+"131 Tremont St, Boston, MA 02111","2026/09/14",2750,"1 Bed","Apartment"
+"131 Tremont St, Boston, MA 02111","2026/09/14",3150,"2 Beds","Apartment"
+"1 Park Ln, Boston, MA 02210","2026/09/14",3472,"Studio","Apartment"
+"1 Park Ln, Boston, MA 02210","2026/09/14",3760,"1 Bed","Apartment"
+"1 Park Ln, Boston, MA 02210","2026/09/14",5502,"2 Beds","Apartment"
+"2 H St, Boston, MA 02127","2026/09/14",3550,"1 Bed","Apartment"
+"2 H St, Boston, MA 02127","2026/09/14",4600,"2 Beds","Apartment"
+"2 H St, Boston, MA 02127","2026/09/14",5600,"3 Beds","Apartment"
+"40-40 Queensberry St, Boston, MA 02215","2026/09/14",2275,"Studio","Apartment"
+"40-40 Queensberry St, Boston, MA 02215","2026/09/14",2650,"1 Bed","Apartment"
+"40-40 Queensberry St, Boston, MA 02215","2026/09/14",3500,"2 Beds","Apartment"
+"43 Smith St, Boston, MA 02120","2026/09/14",3545,"2 Beds","Apartment"
+"43 Smith St, Boston, MA 02120","2026/09/14",4465,"3 Beds","Apartment"
+"18 Haviland St, Boston, MA 02115","2026/09/14",2550,"Studio","Apartment"
+"18 Haviland St, Boston, MA 02115","2026/09/14",2675,"1 Bed","Apartment"
+"18 Haviland St, Boston, MA 02115","2026/09/14",4014,"2 Beds","Apartment"
+"899 Congress St, Boston, MA 02210","2026/09/14",3077,"Studio","Apartment"
+"899 Congress St, Boston, MA 02210","2026/09/14",3804,"1 Bed","Apartment"
+"899 Congress St, Boston, MA 02210","2026/09/14",5976,"2 Beds","Apartment"
+"320-326 D St, Boston, MA 02127","2026/09/14",3100,"Studio","Apartment"
+"320-326 D St, Boston, MA 02127","2026/09/14",3250,"1 Bed","Apartment"
+"320-326 D St, Boston, MA 02127","2026/09/14",4650,"2 Beds","Apartment"
+"45 E Newton St, Boston, MA 02118","2026/09/14",3360,"Studio","Apartment"
+"45 E Newton St, Boston, MA 02118","2026/09/14",3405,"1 Bed","Apartment"
+"45 E Newton St, Boston, MA 02118","2026/09/14",4300,"2 Beds","Apartment"
+"32-32 Garrison St, Boston, MA 02116","2026/09/14",3999,"1 Bed","Apartment"
+"32-32 Garrison St, Boston, MA 02116","2026/09/14",4980,"2 Beds","Apartment"
+"345 Harrison Ave, Boston, MA 02118","2026/09/14",3113,"Studio","Apartment"
+"345 Harrison Ave, Boston, MA 02118","2026/09/14",3858,"1 Bed","Apartment"
+"345 Harrison Ave, Boston, MA 02118","2026/09/14",6405,"2 Beds+","Apartment"
+"62 Boylston St, Boston, MA 02116","2026/09/14",2150,"Studio","Apartment"
+"62 Boylston St, Boston, MA 02116","2026/09/14",2700,"1 Bed","Apartment"
+"411 D St, Boston, MA 02210","2026/09/14",2674,"Studio","Apartment"
+"411 D St, Boston, MA 02210","2026/09/14",3335,"1 Bed","Apartment"
+"411 D St, Boston, MA 02210","2026/09/14",4981,"2 Beds+","Apartment"
+"11 Tetlow St, Boston, MA 02115","2026/09/14",2650,"1 Bed","Apartment"
+"11 Tetlow St, Boston, MA 02115","2026/09/14",2675,"2 Beds","Apartment"
+"11 Tetlow St, Boston, MA 02115","2026/09/14",3400,"3 Beds","Apartment"
+"170 Parker Hill Ave, Boston, MA 02120","2026/09/14",2300,"Studio","Apartment"
+"170 Parker Hill Ave, Boston, MA 02120","2026/09/14",2655,"1 Bed","Apartment"
+"170 Parker Hill Ave, Boston, MA 02120","2026/09/14",3595,"2 Beds","Apartment"
+"1 Canal St, Boston, MA 02114","2026/09/14",3402,"Studio","Apartment"
+"1 Canal St, Boston, MA 02114","2026/09/14",4279,"1 Bed","Apartment"
+"1 Canal St, Boston, MA 02114","2026/09/14",5338,"2 Beds+","Apartment"
+"180 Brookline Ave, Boston, MA 02215","2026/09/14",3973,"Studio","Apartment"
+"180 Brookline Ave, Boston, MA 02215","2026/09/14",3708,"1 Bed","Apartment"
+"180 Brookline Ave, Boston, MA 02215","2026/09/14",5840,"2 Beds+","Apartment"
+"100 Pier 4 Blvd, Boston, MA 02210","2026/09/14",3485,"Studio","Apartment"
+"100 Pier 4 Blvd, Boston, MA 02210","2026/09/14",3608,"1 Bed","Apartment"
+"100 Pier 4 Blvd, Boston, MA 02210","2026/09/14",4469,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"1480-1486 Tremont St, Boston, MA 02120","2026/09/14",3000,"Studio","Apartment"
+"1480-1486 Tremont St, Boston, MA 02120","2026/09/14",3389,"1 Bed","Apartment"
+"1480-1486 Tremont St, Boston, MA 02120","2026/09/14",4172,"2 Beds+","Apartment"
+"10 New St, Boston, MA 02128","2026/09/14",2742,"Studio","Apartment"
+"10 New St, Boston, MA 02128","2026/09/14",3183,"1 Bed","Apartment"
+"10 New St, Boston, MA 02128","2026/09/14",4054,"2 Beds","Apartment"
+"75 Saint Alphonsus St, Boston, MA 02120","2026/09/14",2511,"Studio","Apartment"
+"75 Saint Alphonsus St, Boston, MA 02120","2026/09/14",2600,"1 Bed","Apartment"
+"75 Saint Alphonsus St, Boston, MA 02120","2026/09/14",3292,"2 Beds","Apartment"
+"201 S Huntington Ave, Boston, MA 02130","2026/09/14",2973,"Studio","Apartment"
+"201 S Huntington Ave, Boston, MA 02130","2026/09/14",3752,"1 Bed","Apartment"
+"201 S Huntington Ave, Boston, MA 02130","2026/09/14",4884,"2 Beds","Apartment"
+"235 Old Colony Ave, Boston, MA 02127","2026/09/14",3500,"Studio","Apartment"
+"235 Old Colony Ave, Boston, MA 02127","2026/09/14",3385,"1 Bed","Apartment"
+"235 Old Colony Ave, Boston, MA 02127","2026/09/14",5630,"2 Beds+","Apartment"
+"1 India St, Boston, MA 02109","2026/09/14",3121,"Studio","Apartment"
+"1 India St, Boston, MA 02109","2026/09/14",3586,"1 Bed","Apartment"
+"1 India St, Boston, MA 02109","2026/09/14",5274,"2 Beds","Apartment"
+"399 Congress St, Boston, MA 02210","2026/09/14",3474,"Studio","Apartment"
+"399 Congress St, Boston, MA 02210","2026/09/14",3881,"1 Bed","Apartment"
+"399 Congress St, Boston, MA 02210","2026/09/14",5575,"2 Beds+","Apartment"
+"36-40 Sprague St, Hyde Park, MA 02136","2026/09/14",2441,"Studio","Apartment"
+"36-40 Sprague St, Hyde Park, MA 02136","2026/09/14",2460,"1 Bed","Apartment"
+"36-40 Sprague St, Hyde Park, MA 02136","2026/09/14",3163,"2 Beds+","Apartment"
+"346 Somerville Ave, Somerville, MA 02143","2026/09/14",2620,"Studio","Apartment"
+"346 Somerville Ave, Somerville, MA 02143","2026/09/14",3650,"1 Bed","Apartment"
+"93 Bennington St, Revere, MA 02151","2026/09/14",2825,"1 Bed","Apartment"
+"93 Bennington St, Revere, MA 02151","2026/09/14",3995,"2 Beds","Apartment"
+"199 Gardner St, West Roxbury, MA 02132","2026/09/14",2700,"1 Bed","Apartment"
+"199 Gardner St, West Roxbury, MA 02132","2026/09/14",3550,"2 Beds","Apartment"
+"5 Air Force rd, Everett, MA 02149","2026/09/14",2616,"Studio","Apartment"
+"5 Air Force rd, Everett, MA 02149","2026/09/14",2792,"1 Bed","Apartment"
+"5 Air Force rd, Everett, MA 02149","2026/09/14",3431,"2 Beds","Apartment"
+"211 Green St, Jamaica Plain, MA 02130","2026/09/14",2725,"1 Bed","Apartment"
+"211 Green St, Jamaica Plain, MA 02130","2026/09/14",3600,"2 Beds","Apartment"
+"75 Willow Ct, Dorchester, MA 02125","2026/09/14",2455,"1 Bed","Apartment"
+"75 Willow Ct, Dorchester, MA 02125","2026/09/14",3165,"2 Beds","Apartment"
+"75 Willow Ct, Dorchester, MA 02125","2026/09/14",4085,"3 Beds","Apartment"
+"180 Central Ave, Chelsea, MA 02150","2026/09/14",2206,"Studio","Apartment"
+"180 Central Ave, Chelsea, MA 02150","2026/09/14",2632,"1 Bed","Apartment"
+"180 Central Ave, Chelsea, MA 02150","2026/09/14",3196,"2 Beds","Apartment"
+"20 Medford St, Somerville, MA 02143","2026/09/14",3550,"1 Bed","Apartment"
+"20 Medford St, Somerville, MA 02143","2026/09/14",4450,"2 Beds","Apartment"
+"337 2nd St, Everett, MA 02149","2026/09/14",2533,"Studio","Apartment"
+"337 2nd St, Everett, MA 02149","2026/09/14",2385,"1 Bed","Apartment"
+"337 2nd St, Everett, MA 02149","2026/09/14",3522,"2 Beds+","Apartment"
+"7 Dana Ave, Hyde Park, MA 02136","2026/09/14",1945,"Studio","Apartment"
+"7 Dana Ave, Hyde Park, MA 02136","2026/09/14",2745,"1 Bed","Apartment"
+"7 Dana Ave, Hyde Park, MA 02136","2026/09/14",2945,"2 Beds","Apartment"
+"936 Brush Hill Rd, Milton, MA 02186","2026/09/14",2795,"1 Bed","Apartment"
+"936 Brush Hill Rd, Milton, MA 02186","2026/09/14",3350,"2 Beds","Apartment"
+"936 Brush Hill Rd, Milton, MA 02186","2026/09/14",4350,"3 Beds","Apartment"
+NA,NA,NA,NA,NA
+"101 S Huntington Ave, Jamaica Plain, MA 02130","2026/09/14",3277,"Studio","Apartment"
+"101 S Huntington Ave, Jamaica Plain, MA 02130","2026/09/14",3537,"1 Bed","Apartment"
+"101 S Huntington Ave, Jamaica Plain, MA 02130","2026/09/14",4478,"2 Beds+","Apartment"
+"175 Freeman St, Brookline, MA 02446","2026/09/14",3000,"1 Bed","Apartment"
+"175 Freeman St, Brookline, MA 02446","2026/09/14",3300,"2 Beds","Apartment"
+"175 Freeman St, Brookline, MA 02446","2026/09/14",4800,"3 Beds","Apartment"
+"50-55 Station Lndg, Medford, MA 02155","2026/09/14",2880,"Studio","Apartment"
+"50-55 Station Lndg, Medford, MA 02155","2026/09/14",3271,"1 Bed","Apartment"
+"50-55 Station Lndg, Medford, MA 02155","2026/09/14",3695,"2 Beds+","Apartment"
+"333 Great River Rd, Somerville, MA 02145","2026/09/14",3423,"1 Bed","Apartment"
+"333 Great River Rd, Somerville, MA 02145","2026/09/14",4277,"2 Beds","Apartment"
+"65 Brainerd Rd, Allston, MA 02134","2026/09/14",2514,"Studio","Apartment"
+"65 Brainerd Rd, Allston, MA 02134","2026/09/14",3394,"1 Bed","Apartment"
+"65 Brainerd Rd, Allston, MA 02134","2026/09/14",3650,"2 Beds","Apartment"
+"1410 Columbia Rd, South Boston, MA 02127","2026/09/14",2950,"1 Bed","Apartment"
+"1410 Columbia Rd, South Boston, MA 02127","2026/09/14",3350,"2 Beds","Apartment"
+"77 Village, Brookline, MA 02445","2026/09/14",3300,"1 Bed","Apartment"
+"77 Village, Brookline, MA 02445","2026/09/14",4150,"2 Beds","Apartment"
+"77 Village, Brookline, MA 02445","2026/09/14",5750,"3 Beds","Apartment"
+"219 Western Ave, Allston, MA 02134","2026/09/14",3533,"Studio","Apartment"
+"219 Western Ave, Allston, MA 02134","2026/09/14",3777,"1 Bed","Apartment"
+"219 Western Ave, Allston, MA 02134","2026/09/14",4938,"2 Beds","Apartment"
+"One Leighton St, Cambridge, MA 02141","2026/09/14",2871,"Studio","Apartment"
+"One Leighton St, Cambridge, MA 02141","2026/09/14",3453,"1 Bed","Apartment"
+"One Leighton St, Cambridge, MA 02141","2026/09/14",5069,"2 Beds+","Apartment"
+"445 Artisan Way, Somerville, MA 02145","2026/09/14",2937,"Studio","Apartment"
+"445 Artisan Way, Somerville, MA 02145","2026/09/14",3036,"1 Bed","Apartment"
+"445 Artisan Way, Somerville, MA 02145","2026/09/14",3685,"2 Beds","Apartment"
+"100 Stockton St, Chelsea, MA 02150","2026/09/14",2334,"Studio","Apartment"
+"100 Stockton St, Chelsea, MA 02150","2026/09/14",2429,"1 Bed","Apartment"
+"100 Stockton St, Chelsea, MA 02150","2026/09/14",4266,"3 Beds","Apartment"
+"25 Charlton St, Everett, MA 02149","2026/09/14",2202,"Studio","Apartment"
+"25 Charlton St, Everett, MA 02149","2026/09/14",2500,"1 Bed","Apartment"
+"25 Charlton St, Everett, MA 02149","2026/09/14",3202,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"250 Broadway, Revere, MA 02151","2026/09/14",2595,"1 Bed","Apartment"
+"250 Broadway, Revere, MA 02151","2026/09/14",2571,"2 Beds","Apartment"
+"2 Hancock St, Quincy, MA 02171","2026/09/14",2614,"1 Bed","Apartment"
+"2 Hancock St, Quincy, MA 02171","2026/09/14",3139,"2 Beds","Apartment"
+"1931 Commonwealth Ave, Brighton, MA 02135","2026/09/14",3125,"1 Bed","Apartment"
+"1931 Commonwealth Ave, Brighton, MA 02135","2026/09/14",3975,"2 Beds","Apartment"
+"1284 Beacon St, Brookline, MA 02446","2026/09/14",2470,"Studio","Apartment"
+"1284 Beacon St, Brookline, MA 02446","2026/09/14",3602,"1 Bed","Apartment"
+"1284 Beacon St, Brookline, MA 02446","2026/09/14",4765,"2 Beds","Apartment"
+"33 Rogers Street, Cambridge, MA 02142","2026/09/14",3472,"Studio","Apartment"
+"33 Rogers Street, Cambridge, MA 02142","2026/09/14",3492,"1 Bed","Apartment"
+"33 Rogers Street, Cambridge, MA 02142","2026/09/14",4842,"2 Beds","Apartment"
+"1443 Beacon St, Brookline, MA 02446","2026/09/14",3895,"1 Bed","Apartment"
+"1443 Beacon St, Brookline, MA 02446","2026/09/14",4995,"2 Beds","Apartment"
+"1443 Beacon St, Brookline, MA 02446","2026/09/14",7295,"3 Beds","Apartment"
+"240 Sidney St, Cambridge, MA 02139","2026/09/14",3345,"Studio","Apartment"
+"240 Sidney St, Cambridge, MA 02139","2026/09/14",3659,"1 Bed","Apartment"
+"240 Sidney St, Cambridge, MA 02139","2026/09/14",4651,"2 Beds","Apartment"
+"1 Langdon St, Cambridge, MA 02138","2026/09/14",2510,"Studio","Apartment"
+"1 Langdon St, Cambridge, MA 02138","2026/09/14",3415,"2 Beds","Apartment"
+"1 Langdon St, Cambridge, MA 02138","2026/09/14",4350,"3 Beds+","Apartment"
+"270 Third Street, Cambridge, MA 02142","2026/09/14",3178,"",NA
+"1505 Commonwealth Ave, Brighton, MA 02135","2026/09/14",2600,"Studio","Apartment"
+"1505 Commonwealth Ave, Brighton, MA 02135","2026/09/14",2650,"1 Bed","Apartment"
+"1505 Commonwealth Ave, Brighton, MA 02135","2026/09/14",3600,"2 Beds","Apartment"
+"126 Border St, East Boston, MA 02128","2026/09/14",2781,"1 Bed","Apartment"
+"126 Border St, East Boston, MA 02128","2026/09/14",3825,"2 Beds","Apartment"
+"200 Estate Dr, Chestnut Hill, MA 02467","2026/09/14",3785,"1 Bed","Apartment"
+"200 Estate Dr, Chestnut Hill, MA 02467","2026/09/14",5655,"2 Beds","Apartment"
+"21 Charles St, Cambridge, MA 02141","2026/09/14",3161,"Studio","Apartment"
+"21 Charles St, Cambridge, MA 02141","2026/09/14",3967,"1 Bed","Apartment"
+"21 Charles St, Cambridge, MA 02141","2026/09/14",4896,"2 Beds+","Apartment"
+"205 Revere Beach Pky, Revere, MA 02151","2026/09/14",2498,"Studio","Apartment"
+"205 Revere Beach Pky, Revere, MA 02151","2026/09/14",2528,"1 Bed","Apartment"
+"205 Revere Beach Pky, Revere, MA 02151","2026/09/14",3344,"2 Beds","Apartment"
+"80 Rugg Rd, Allston, MA 02134","2026/09/14",3066,"Studio","Apartment"
+"80 Rugg Rd, Allston, MA 02134","2026/09/14",3612,"1 Bed","Apartment"
+"80 Rugg Rd, Allston, MA 02134","2026/09/14",4766,"2 Beds","Apartment"
+"175 Washington St, Brighton, MA 02135","2026/09/14",2610,"Studio","Apartment"
+"175 Washington St, Brighton, MA 02135","2026/09/14",3291,"1 Bed","Apartment"
+"175 Washington St, Brighton, MA 02135","2026/09/14",3346,"2 Beds+","Apartment"
+NA,NA,NA,NA,NA
+"21 Revere Beach Blvd, Revere, MA 02151","2026/09/14",2293,"Studio","Apartment"
+"21 Revere Beach Blvd, Revere, MA 02151","2026/09/14",2349,"1 Bed","Apartment"
+"21 Revere Beach Blvd, Revere, MA 02151","2026/09/14",3031,"2 Beds","Apartment"
+"100 Hemenway St, Boston, MA 02115","2026/09/14",3000,"Studio","Apartment"
+"100 Hemenway St, Boston, MA 02115","2026/09/14",3700,"2 Beds","Apartment"
+"100 Hemenway St, Boston, MA 02115","2026/09/14",5200,"3 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"150 Huntington Ave, Boston, MA 02115","2026/09/14",3325,"1 Bed","Apartment"
+"150 Huntington Ave, Boston, MA 02115","2026/09/14",5100,"2 Beds","Apartment"
+"150 Huntington Ave, Boston, MA 02115","2026/09/14",5895,"3 Beds","Apartment"
+"217 Albany St, Boston, MA 02118","2026/09/14",2890,"Studio","Apartment"
+"217 Albany St, Boston, MA 02118","2026/09/14",4849,"2 Beds","Apartment"
+"217 Albany St, Boston, MA 02118","2026/09/14",1875,"3 Beds+","Apartment"
+"125 Warren St, Boston, MA 02119","2026/09/14",2000,"1 Bed","Apartment"
+"125 Warren St, Boston, MA 02119","2026/09/14",3750,"2 Beds","Apartment"
+"125 Warren St, Boston, MA 02119","2026/09/14",5400,"3 Beds","Apartment"
+"350 3rd St, Cambridge, MA 02142","2026/09/14",3583,"Studio","Apartment"
+"350 3rd St, Cambridge, MA 02142","2026/09/14",3693,"1 Bed","Apartment"
+"350 3rd St, Cambridge, MA 02142","2026/09/14",4889,"2 Beds","Apartment"
+"250 1st Ave, Charlestown, MA 02129","2026/09/14",3069,"Studio","Apartment"
+"250 1st Ave, Charlestown, MA 02129","2026/09/14",3872,"1 Bed","Apartment"
+"250 1st Ave, Charlestown, MA 02129","2026/09/14",5033,"2 Beds","Apartment"
+"165 Main St, Cambridge, MA 02142","2026/09/14",3484,"Studio","Apartment"
+"165 Main St, Cambridge, MA 02142","2026/09/14",3973,"1 Bed","Apartment"
+"165 Main St, Cambridge, MA 02142","2026/09/14",7463,"2 Beds+","Apartment"
+"808-812 Memorial Dr, Cambridge, MA 02139","2026/09/14",2895,"1 Bed","Apartment"
+"808-812 Memorial Dr, Cambridge, MA 02139","2026/09/14",3610,"2 Beds","Apartment"
+"154 Broadway, Somerville, MA 02145","2026/09/14",2750,"Studio","Apartment"
+"154 Broadway, Somerville, MA 02145","2026/09/14",3000,"1 Bed","Apartment"
+"280 Western Ave, Allston, MA 02134","2026/09/14",2500,"1 Bed",NA
+"1305 Hyde Park Ave, Hyde Park, MA 02136","2026/09/14",2290,"Studio","Apartment"
+"1305 Hyde Park Ave, Hyde Park, MA 02136","2026/09/14",2800,"1 Bed","Apartment"
+"1305 Hyde Park Ave, Hyde Park, MA 02136","2026/09/14",3800,"2 Beds","Apartment"
+"3593-3615 Washington St, Jamaica Plain, MA 02130","2026/09/14",2372,"Studio","Apartment"
+"3593-3615 Washington St, Jamaica Plain, MA 02130","2026/09/14",2928,"1 Bed","Apartment"
+"3593-3615 Washington St, Jamaica Plain, MA 02130","2026/09/14",3677,"2 Beds+","Apartment"
+"91 Veterans Rd, Winthrop, MA 02152","2026/09/14",1795,"Studio","Apartment"
+"91 Veterans Rd, Winthrop, MA 02152","2026/09/14",2295,"1 Bed","Apartment"
+"91 Veterans Rd, Winthrop, MA 02152","2026/09/14",2795,"2 Beds","Apartment"
+"1223 Beacon St, Brookline, MA 02446","2026/09/14",2195,"Studio","Apartment"
+"1223 Beacon St, Brookline, MA 02446","2026/09/14",2495,"1 Bed","Apartment"
+"1223 Beacon St, Brookline, MA 02446","2026/09/14",2795,"2 Beds+","Apartment"
+NA,NA,NA,NA,NA
+"50 Hood Park Dr, Boston, MA 02129","2026/09/14",2638,"Studio","Apartment"
+"50 Hood Park Dr, Boston, MA 02129","2026/09/14",3326,"1 Bed","Apartment"
+"300 Harrison Ave, Boston, MA 02118","2026/09/14",3021,"Studio","Apartment"
+"300 Harrison Ave, Boston, MA 02118","2026/09/14",3691,"1 Bed","Apartment"
+"85 Seaport Blvd, Boston, MA 02210","2026/09/14",3281,"Studio","Apartment"
+"85 Seaport Blvd, Boston, MA 02210","2026/09/14",3767,"1 Bed","Apartment"
+"85 Seaport Blvd, Boston, MA 02210","2026/09/14",7060,"2 Beds+","Apartment"
+"501 Congress St, Boston, MA 02210","2026/09/14",3609,"Studio","Apartment"
+"501 Congress St, Boston, MA 02210","2026/09/14",3483,"1 Bed","Apartment"
+"501 Congress St, Boston, MA 02210","2026/09/14",5619,"2 Beds","Apartment"
+"131 Seaport Blvd, Boston, MA 02210","2026/09/14",3434,"Studio","Apartment"
+"131 Seaport Blvd, Boston, MA 02210","2026/09/14",5296,"1 Bed","Apartment"
+"131 Seaport Blvd, Boston, MA 02210","2026/09/14",6815,"2 Beds+","Apartment"
+"36 Lomasney Way, Boston, MA 02114","2026/09/14",3520,"Studio","Apartment"
+"36 Lomasney Way, Boston, MA 02114","2026/09/14",3835,"1 Bed","Apartment"
+"36 Lomasney Way, Boston, MA 02114","2026/09/14",5650,"2 Beds","Apartment"
+"15 Bartlett Pl, Boston, MA 02113","2026/09/14",3650,"2 Beds","Apartment"
+"15 Bartlett Pl, Boston, MA 02113","2026/09/14",4995,"3 Beds","Apartment"
+"270 Babcock St, Boston, MA 02215","2026/09/14",2925,"Studio","Apartment"
+"270 Babcock St, Boston, MA 02215","2026/09/14",2850,"1 Bed","Apartment"
+"270 Babcock St, Boston, MA 02215","2026/09/14",3540,"2 Beds","Apartment"
+"12 Commonwealth Ave, Boston, MA 02116","2026/09/14",3400,"Studio","Apartment"
+"12 Commonwealth Ave, Boston, MA 02116","2026/09/14",4300,"1 Bed","Apartment"
+"200 Brookline Ave, Boston, MA 02215","2026/09/14",4262,"Studio","Apartment"
+"200 Brookline Ave, Boston, MA 02215","2026/09/14",7280,"2 Beds","Apartment"
+"77 Exeter St, Boston, MA 02116","2026/09/14",3660,"Studio","Apartment"
+"77 Exeter St, Boston, MA 02116","2026/09/14",4947,"1 Bed","Apartment"
+"77 Exeter St, Boston, MA 02116","2026/09/14",6920,"2 Beds+","Apartment"
+"145 Commercial St, Boston, MA 02109","2026/09/14",3245,"1 Bed","Apartment"
+"145 Commercial St, Boston, MA 02109","2026/09/14",4250,"2 Beds","Apartment"
+"660 Washington St, Boston, MA 02111","2026/09/14",3565,"Studio","Apartment"
+"660 Washington St, Boston, MA 02111","2026/09/14",4185,"1 Bed","Apartment"
+"660 Washington St, Boston, MA 02111","2026/09/14",5480,"2 Beds","Apartment"
+"144 Addison St, Boston, MA 02128","2026/09/14",2310,"Studio","Apartment"
+"144 Addison St, Boston, MA 02128","2026/09/14",2507,"1 Bed","Apartment"
+"144 Addison St, Boston, MA 02128","2026/09/14",3437,"2 Beds","Apartment"
+"1330 Boylston St, Boston, MA 02215","2026/09/14",4849,"1 Bed","Apartment"
+"1330 Boylston St, Boston, MA 02215","2026/09/14",5746,"2 Beds","Apartment"
+"120 Kingston St, Boston, MA 02111","2026/09/14",3398,"Studio","Apartment"
+"120 Kingston St, Boston, MA 02111","2026/09/14",3710,"1 Bed","Apartment"
+"120 Kingston St, Boston, MA 02111","2026/09/14",4989,"2 Beds","Apartment"
+"55 Traveler St, Boston, MA 02118","2026/09/14",2995,"Studio","Apartment"
+"55 Traveler St, Boston, MA 02118","2026/09/14",3365,"1 Bed","Apartment"
+"55 Traveler St, Boston, MA 02118","2026/09/14",4895,"2 Beds","Apartment"
+"98-106 Queensberry St, Boston, MA 02215","2026/09/14",2675,"1 Bed","Apartment"
+"98-106 Queensberry St, Boston, MA 02215","2026/09/14",3725,"2 Beds","Apartment"
+"161 S Huntington Ave, Boston, MA 02130","2026/09/14",3010,"Studio","Apartment"
+"161 S Huntington Ave, Boston, MA 02130","2026/09/14",3310,"1 Bed","Apartment"
+"161 S Huntington Ave, Boston, MA 02130","2026/09/14",4315,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"25 Morrissey Blvd, Boston, MA 02125","2026/09/14",2617,"Studio","Apartment"
+"25 Morrissey Blvd, Boston, MA 02125","2026/09/14",2616,"1 Bed","Apartment"
+"791 Tremont St, Boston, MA 02118","2026/09/14",3400,"1 Bed","Apartment"
+"791 Tremont St, Boston, MA 02118","2026/09/14",4300,"2 Beds","Apartment"
+"4 Emerson Pl, Boston, MA 02114","2026/09/14",3065,"Studio","Apartment"
+"4 Emerson Pl, Boston, MA 02114","2026/09/14",3325,"1 Bed","Apartment"
+"4 Emerson Pl, Boston, MA 02114","2026/09/14",4430,"2 Beds","Apartment"
+"1 Nashua St, Boston, MA 02114","2026/09/14",3025,"Studio","Apartment"
+"1 Nashua St, Boston, MA 02114","2026/09/14",3885,"1 Bed","Apartment"
+"1 Nashua St, Boston, MA 02114","2026/09/14",4765,"2 Beds+","Apartment"
+"5 Longfellow Pl, Boston, MA 02114","2026/09/14",2677,"Studio","Apartment"
+"5 Longfellow Pl, Boston, MA 02114","2026/09/14",3220,"1 Bed","Apartment"
+"5 Longfellow Pl, Boston, MA 02114","2026/09/14",3790,"2 Beds","Apartment"
+"4 Lucy St, Boston, MA 02125","2026/09/14",2368,"Studio","Apartment"
+"4 Lucy St, Boston, MA 02125","2026/09/14",2688,"1 Bed","Apartment"
+"4 Lucy St, Boston, MA 02125","2026/09/14",3445,"2 Beds+","Apartment"
+"1550 Soldiers Field Rd, Boston, MA 02135","2026/09/14",3106,"Studio","Apartment"
+"1550 Soldiers Field Rd, Boston, MA 02135","2026/09/14",2627,"1 Bed","Apartment"
+"1550 Soldiers Field Rd, Boston, MA 02135","2026/09/14",6075,"2 Beds","Apartment"
+"91 Westland Ave, Boston, MA 02115","2026/09/14",2075,"Studio","Apartment"
+"91 Westland Ave, Boston, MA 02115","2026/09/14",3050,"1 Bed","Apartment"
+"91 Westland Ave, Boston, MA 02115","2026/09/14",3590,"2 Beds+","Apartment"
+"1525 Commonwealth Ave, Boston, MA 02135","2026/09/14",1601,"Studio","Apartment"
+"1525 Commonwealth Ave, Boston, MA 02135","2026/09/14",4360,"1 Bed","Apartment"
+"1525 Commonwealth Ave, Boston, MA 02135","2026/09/14",4970,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"30 Caldwell St, Charlestown, MA 02129","2026/09/14",3185,"Studio","Apartment"
+"30 Caldwell St, Charlestown, MA 02129","2026/09/14",3352,"1 Bed","Apartment"
+"30 Caldwell St, Charlestown, MA 02129","2026/09/14",4100,"2 Beds+","Apartment"
+"204 Arsenal St, Watertown, MA 02472","2026/09/14",3130,"1 Bed","Apartment"
+"204 Arsenal St, Watertown, MA 02472","2026/09/14",3674,"2 Beds","Apartment"
+"7 Seaport Dr, Quincy, MA 02171","2026/09/14",2899,"1 Bed","Apartment"
+"7 Seaport Dr, Quincy, MA 02171","2026/09/14",3852,"2 Beds","Apartment"
+"101 Asheville Rd, Chestnut Hill, MA 02467","2026/09/14",3105,"1 Bed","Apartment"
+"101 Asheville Rd, Chestnut Hill, MA 02467","2026/09/14",4075,"2 Beds","Apartment"
+"101 Asheville Rd, Chestnut Hill, MA 02467","2026/09/14",5995,"3 Beds","Apartment"
+"139 Washington St, Brighton, MA 02135","2026/09/14",2785,"Studio","Apartment"
+"139 Washington St, Brighton, MA 02135","2026/09/14",4040,"1 Bed","Apartment"
+"139 Washington St, Brighton, MA 02135","2026/09/14",4760,"2 Beds+","Apartment"
+"10 Camelot Ct, Brighton, MA 02135","2026/09/14",2845,"1 Bed","Apartment"
+"10 Camelot Ct, Brighton, MA 02135","2026/09/14",3508,"2 Beds","Apartment"
+"10 Camelot Ct, Brighton, MA 02135","2026/09/14",4300,"3 Beds","Apartment"
+"42 North Beacon St, Allston, MA 02134","2026/09/14",3600,"2 Beds","Apartment"
+"42 North Beacon St, Allston, MA 02134","2026/09/14",4995,"4 Beds","Apartment"
+NA,NA,NA,NA,NA
+"485 Foley St, Somerville, MA 02145","2026/09/14",2850,"Studio","Apartment"
+"485 Foley St, Somerville, MA 02145","2026/09/14",3150,"1 Bed","Apartment"
+"485 Foley St, Somerville, MA 02145","2026/09/14",4925,"2 Beds+","Apartment"
+"90 Ocean Ave, Revere, MA 02151","2026/09/14",2395,"Studio","Apartment"
+"90 Ocean Ave, Revere, MA 02151","2026/09/14",2600,"1 Bed","Apartment"
+"90 Ocean Ave, Revere, MA 02151","2026/09/14",3325,"2 Beds","Apartment"
+"10 Magazine St, Cambridge, MA 02139","2026/09/14",3265,"2 Beds","Apartment"
+"10 Magazine St, Cambridge, MA 02139","2026/09/14",4705,"3 Beds","Apartment"
+"1 Everett St, Allston, MA 02134","2026/09/14",2700,"Studio","Apartment"
+"1 Everett St, Allston, MA 02134","2026/09/14",3200,"1 Bed","Apartment"
+"1 Everett St, Allston, MA 02134","2026/09/14",4750,"2 Beds","Apartment"
+"5 Washington St, Brighton, MA 02135","2026/09/14",4289,"2 Beds","Apartment"
+"5 Washington St, Brighton, MA 02135","2026/09/14",6459,"3 Beds","Apartment"
+"285 3rd St, Cambridge, MA 02142","2026/09/14",3413,"Studio","Apartment"
+"285 3rd St, Cambridge, MA 02142","2026/09/14",4195,"1 Bed","Apartment"
+"285 3rd St, Cambridge, MA 02142","2026/09/14",4845,"2 Beds","Apartment"
+"929 Massachusetts Ave, Cambridge, MA 02139","2026/09/14",2535,"Studio","Apartment"
+"929 Massachusetts Ave, Cambridge, MA 02139","2026/09/14",2655,"1 Bed","Apartment"
+"929 Massachusetts Ave, Cambridge, MA 02139","2026/09/14",3586,"2 Beds","Apartment"
+"50 Rogers St, Cambridge, MA 02142","2026/09/14",3170,"Studio","Apartment"
+"50 Rogers St, Cambridge, MA 02142","2026/09/14",3776,"1 Bed","Apartment"
+"50 Rogers St, Cambridge, MA 02142","2026/09/14",4806,"2 Beds","Apartment"
+"725 Adams St, Dorchester, MA 02122","2026/09/14",2065,"Studio","Apartment"
+"725 Adams St, Dorchester, MA 02122","2026/09/14",2420,"1 Bed","Apartment"
+"725 Adams St, Dorchester, MA 02122","2026/09/14",2800,"2 Beds","Apartment"
+"9 Bronsdon St, Brighton, MA 02135","2026/09/14",3170,"2 Beds","Apartment"
+"9 Bronsdon St, Brighton, MA 02135","2026/09/14",4000,"3 Beds","Apartment"
+"1530 Beacon St, Brookline, MA 02446","2026/09/14",2790,"1 Bed","Apartment"
+"1530 Beacon St, Brookline, MA 02446","2026/09/14",3300,"2 Beds","Apartment"
+"1530 Beacon St, Brookline, MA 02446","2026/09/14",4700,"3 Beds","Apartment"
+"290 Revolution Dr, Somerville, MA 02145","2026/09/14",2904,"Studio","Apartment"
+"290 Revolution Dr, Somerville, MA 02145","2026/09/14",3037,"1 Bed","Apartment"
+"290 Revolution Dr, Somerville, MA 02145","2026/09/14",4208,"2 Beds","Apartment"
+"10 Innerbelt Rd, Somerville, MA 02143","2026/09/14",2607,"Studio","Apartment"
+"10 Innerbelt Rd, Somerville, MA 02143","2026/09/14",3168,"1 Bed","Apartment"
+"10 Innerbelt Rd, Somerville, MA 02143","2026/09/14",3892,"2 Beds","Apartment"
+"1205-1211 Dorchester Ave, Dorchester, MA 02125","2026/09/14",2387,"Studio","Apartment"
+"1205-1211 Dorchester Ave, Dorchester, MA 02125","2026/09/14",2826,"1 Bed","Apartment"
+"1205-1211 Dorchester Ave, Dorchester, MA 02125","2026/09/14",3542,"2 Beds+","Apartment"
+"50 Prospect St, Somerville, MA 02143","2026/09/14",2895,"Studio","Apartment"
+"50 Prospect St, Somerville, MA 02143","2026/09/14",3157,"1 Bed","Apartment"
+"50 Prospect St, Somerville, MA 02143","2026/09/14",4957,"2 Beds","Apartment"
+"50 Salt St, Revere, MA 02151","2026/09/14",2468,"Studio","Apartment"
+"50 Salt St, Revere, MA 02151","2026/09/14",2536,"1 Bed","Apartment"
+"50 Salt St, Revere, MA 02151","2026/09/14",3644,"2 Beds","Apartment"
+"127-135 Washington St, Brighton, MA 02135","2026/09/14",2000,"Studio","Apartment"
+"127-135 Washington St, Brighton, MA 02135","2026/09/14",2400,"1 Bed","Apartment"
+"127-135 Washington St, Brighton, MA 02135","2026/09/14",2750,"2 Beds","Apartment"
+"449 Canal St, Somerville, MA 02145","2026/09/14",3260,"1 Bed","Apartment"
+"449 Canal St, Somerville, MA 02145","2026/09/14",4540,"2 Beds","Apartment"
+"449 Canal St, Somerville, MA 02145","2026/09/14",5386,"3 Beds","Apartment"
+"88 Brandywyne Dr, East Boston, MA 02128","2026/09/14",2647,"1 Bed","Apartment"
+"88 Brandywyne Dr, East Boston, MA 02128","2026/09/14",3171,"2 Beds","Apartment"
+"88 Brandywyne Dr, East Boston, MA 02128","2026/09/14",3778,"3 Beds","Apartment"
+"325 Commandants Way, Chelsea, MA 02150","2026/09/14",2416,"Studio","Apartment"
+"325 Commandants Way, Chelsea, MA 02150","2026/09/14",2449,"1 Bed","Apartment"
+"325 Commandants Way, Chelsea, MA 02150","2026/09/14",3004,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"1200 Massachusetts Ave, Cambridge, MA 02138","2026/09/14",2800,"Studio","Apartment"
+"1200 Massachusetts Ave, Cambridge, MA 02138","2026/09/14",2925,"1 Bed","Apartment"
+"1200 Massachusetts Ave, Cambridge, MA 02138","2026/09/14",3150,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"45 Marion St, Brookline, MA 02446","2026/09/14",3000,"Studio","Apartment"
+"45 Marion St, Brookline, MA 02446","2026/09/14",3850,"1 Bed","Apartment"
+"45 Marion St, Brookline, MA 02446","2026/09/14",4700,"2 Beds","Apartment"
+"530 Western Ave, Brighton, MA 02135","2026/09/14",2103,"Studio","Apartment"
+"530 Western Ave, Brighton, MA 02135","2026/09/14",2666,"1 Bed","Apartment"
+"530 Western Ave, Brighton, MA 02135","2026/09/14",3830,"2 Beds","Apartment"
+"101 Monmouth St, Brookline, MA 02446","2026/09/14",2450,"Studio","Apartment"
+"101 Monmouth St, Brookline, MA 02446","2026/09/14",2900,"1 Bed","Apartment"
+"101 Monmouth St, Brookline, MA 02446","2026/09/14",3900,"2 Beds+","Apartment"
+"95 W Squantum St, Quincy, MA 02171","2026/09/14",2200,"Studio","Apartment"
+"95 W Squantum St, Quincy, MA 02171","2026/09/14",2150,"1 Bed","Apartment"
+"95 W Squantum St, Quincy, MA 02171","2026/09/14",2650,"2 Beds","Apartment"
+"425 Massachusetts Ave, Cambridge, MA 02139","2026/09/14",2553,"Studio","Apartment"
+"425 Massachusetts Ave, Cambridge, MA 02139","2026/09/14",2980,"1 Bed","Apartment"
+"425 Massachusetts Ave, Cambridge, MA 02139","2026/09/14",4195,"2 Beds+","Apartment"
+"1144-1160 Commonwealth Ave, Allston, MA 02134","2026/09/14",1900,"Studio","Apartment"
+"1144-1160 Commonwealth Ave, Allston, MA 02134","2026/09/14",2500,"1 Bed","Apartment"
+"195 Binney St, Cambridge, MA 02142","2026/09/14",3560,"Studio","Apartment"
+"195 Binney St, Cambridge, MA 02142","2026/09/14",3508,"1 Bed","Apartment"
+"195 Binney St, Cambridge, MA 02142","2026/09/14",3717,"2 Beds","Apartment"
+"535 2nd St, Everett, MA 02149","2026/09/14",2235,"Studio","Apartment"
+"535 2nd St, Everett, MA 02149","2026/09/14",3050,"1 Bed","Apartment"
+"535 2nd St, Everett, MA 02149","2026/09/14",3130,"2 Beds","Apartment"
+"270 Harvard St, Cambridge, MA 02139","2026/09/14",2305,"1 Bed","Apartment"
+"270 Harvard St, Cambridge, MA 02139","2026/09/14",2630,"2 Beds","Apartment"
+"390 Blue Ledge Dr, Roslindale, MA 02131","2026/09/14",2037,"Studio","Apartment"
+"390 Blue Ledge Dr, Roslindale, MA 02131","2026/09/14",2413,"1 Bed","Apartment"
+"390 Blue Ledge Dr, Roslindale, MA 02131","2026/09/14",2927,"2 Beds+","Apartment"
+"1235 VFW Pky, West Roxbury, MA 02132","2026/09/14",3285,"1 Bed","Apartment"
+"1235 VFW Pky, West Roxbury, MA 02132","2026/09/14",3696,"2 Beds","Apartment"
+"1235 VFW Pky, West Roxbury, MA 02132","2026/09/14",4710,"3 Beds","Apartment"
+"100 Memorial Dr, Cambridge, MA 02142","2026/09/14",2452,"Studio","Apartment"
+"100 Memorial Dr, Cambridge, MA 02142","2026/09/14",2952,"1 Bed","Apartment"
+"100 Memorial Dr, Cambridge, MA 02142","2026/09/14",3124,"2 Beds+","Apartment"
+"289 Walk Hill St, Roslindale, MA 02131","2026/09/14",2473,"Studio","Apartment"
+"289 Walk Hill St, Roslindale, MA 02131","2026/09/14",2750,"1 Bed","Apartment"
+"289 Walk Hill St, Roslindale, MA 02131","2026/09/14",3300,"2 Beds+","Apartment"
+"130 Arsenal St, Watertown, MA 02472","2026/09/14",2705,"Studio","Apartment"
+"130 Arsenal St, Watertown, MA 02472","2026/09/14",2761,"1 Bed","Apartment"
+"130 Arsenal St, Watertown, MA 02472","2026/09/14",3118,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"5120 Washington St, West Roxbury, MA 02132","2026/09/14",1840,"Studio","Apartment"
+"5120 Washington St, West Roxbury, MA 02132","2026/09/14",2090,"1 Bed","Apartment"
+"5120 Washington St, West Roxbury, MA 02132","2026/09/14",2495,"2 Beds","Apartment"
+"1862-1870 Beacon St, Brookline, MA 02445","2026/09/14",2400,"1 Bed","Apartment"
+"1862-1870 Beacon St, Brookline, MA 02445","2026/09/14",2600,"2 Beds","Apartment"
+"1862-1870 Beacon St, Brookline, MA 02445","2026/09/14",3800,"3 Beds","Apartment"
+"69 Chiswick Rd, Brighton, MA 02135","2026/09/14",2475,"1 Bed","Apartment"
+"69 Chiswick Rd, Brighton, MA 02135","2026/09/14",2700,"2 Beds","Apartment"
+"69 Chiswick Rd, Brighton, MA 02135","2026/09/14",3600,"3 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"77 Exeter St, Boston, MA 02199","2026/09/14",4570,"","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"108-112 Jersey St, Boston, MA 02215","2026/09/14",2775,"1 Bed","Apartment"
+"108-112 Jersey St, Boston, MA 02215","2026/09/14",3450,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"2 Anderson St, Boston, MA 02114","2026/09/14",2970,"1 Bed","Apartment"
+"2 Anderson St, Boston, MA 02114","2026/09/14",3520,"2 Beds","Apartment"
+"282 Bremen St, Boston, MA 02128","2026/09/14",2595,"Studio","Apartment"
+"282 Bremen St, Boston, MA 02128","2026/09/14",2800,"1 Bed","Apartment"
+"282 Bremen St, Boston, MA 02128","2026/09/14",4200,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"107 Park Dr, Boston, MA 02215","2026/09/14",2300,"Studio","Apartment"
+"107 Park Dr, Boston, MA 02215","2026/09/14",2800,"1 Bed","Apartment"
+"107 Park Dr, Boston, MA 02215","2026/09/14",3150,"2 Beds+","Apartment"
+"100 Sudbury St, Boston, MA 02114","2026/09/14",3490,"Studio","Apartment"
+"100 Sudbury St, Boston, MA 02114","2026/09/14",4360,"1 Bed","Apartment"
+"100 Sudbury St, Boston, MA 02114","2026/09/14",6430,"2 Beds+","Apartment"
+"127 Saint Botolph St, Boston, MA 02115","2026/09/14",3350,"1 Bed","Apartment"
+"127 Saint Botolph St, Boston, MA 02115","2026/09/14",4100,"2 Beds","Apartment"
+"319 Chelsea St, Boston, MA 02128","2026/09/14",3095,"2 Beds","Apartment"
+"319 Chelsea St, Boston, MA 02128","2026/09/14",3995,"3 Beds","Apartment"
+"83 Westland Ave, Boston, MA 02115","2026/09/14",2125,"Studio","Apartment"
+"83 Westland Ave, Boston, MA 02115","2026/09/14",3100,"1 Bed","Apartment"
+"83 Westland Ave, Boston, MA 02115","2026/09/14",4150,"2 Beds+","Apartment"
+"51-55 Queensberry St, Boston, MA 02215","2026/09/14",2175,"Studio","Apartment"
+"51-55 Queensberry St, Boston, MA 02215","2026/09/14",2875,"1 Bed","Apartment"
+"51-55 Queensberry St, Boston, MA 02215","2026/09/14",3650,"2 Beds","Apartment"
+"15 Queensberry St, Boston, MA 02215","2026/09/14",2275,"Studio","Apartment"
+"15 Queensberry St, Boston, MA 02215","2026/09/14",2675,"1 Bed","Apartment"
+"103 Hemenway St, Boston, MA 02115","2026/09/14",2250,"Studio","Apartment"
+"103 Hemenway St, Boston, MA 02115","2026/09/14",3100,"2 Beds","Apartment"
+"103 Hemenway St, Boston, MA 02115","2026/09/14",5100,"3 Beds+","Apartment"
+"9 Grove St, Boston, MA 02114","2026/09/14",2100,"Studio","Apartment"
+"9 Grove St, Boston, MA 02114","2026/09/14",2500,"1 Bed","Apartment"
+"780 William T Morrissey Blvd, Boston, MA 02122","2026/09/14",2143,"Studio","Apartment"
+"780 William T Morrissey Blvd, Boston, MA 02122","2026/09/14",2591,"1 Bed","Apartment"
+"780 William T Morrissey Blvd, Boston, MA 02122","2026/09/14",3380,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"23-25 Aspinwall Ave, Brookline, MA 02446","2026/09/14",4495,"3 Beds","Apartment"
+"23-25 Aspinwall Ave, Brookline, MA 02446","2026/09/14",4895,"4 Beds","Apartment"
+"32-34 Cambridge St, Charlestown, MA 02129","2026/09/14",2805,"Studio","Apartment"
+"32-34 Cambridge St, Charlestown, MA 02129","2026/09/14",3175,"1 Bed","Apartment"
+"250 Kendall St, Cambridge, MA 02142","2026/09/14",4273,"1 Bed","Apartment"
+"250 Kendall St, Cambridge, MA 02142","2026/09/14",4658,"2 Beds","Apartment"
+"330 Saint Paul St, Brookline, MA 02446","2026/09/14",3250,"2 Beds","Apartment"
+"330 Saint Paul St, Brookline, MA 02446","2026/09/14",4000,"3 Beds","Apartment"
+"330 Saint Paul St, Brookline, MA 02446","2026/09/14",5100,"4 Beds+","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"500 Talbot Ave, Dorchester, MA 02124","2026/09/14",2448,"1 Bed","Apartment"
+"500 Talbot Ave, Dorchester, MA 02124","2026/09/14",3448,"2 Beds","Apartment"
+"500 Talbot Ave, Dorchester, MA 02124","2026/09/14",4668,"3 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"775 Morton St, Mattapan, MA 02126","2026/09/14",2271,"1 Bed","Apartment"
+"775 Morton St, Mattapan, MA 02126","2026/09/14",2657,"2 Beds","Apartment"
+"48-50 Harvard Ave, Brookline, MA 02446","2026/09/14",2200,"1 Bed","Apartment"
+"48-50 Harvard Ave, Brookline, MA 02446","2026/09/14",2700,"2 Beds","Apartment"
+"65-95 Morton Village Dr, Mattapan, MA 02126","2026/09/14",2413,"Studio","Apartment"
+"65-95 Morton Village Dr, Mattapan, MA 02126","2026/09/14",1975,"1 Bed","Apartment"
+"65-95 Morton Village Dr, Mattapan, MA 02126","2026/09/14",2475,"2 Beds","Apartment"
+"65 Saint Marys St, Brookline, MA 02446","2026/09/14",2200,"Studio","Apartment"
+"65 Saint Marys St, Brookline, MA 02446","2026/09/14",2600,"1 Bed","Apartment"
+"65 Saint Marys St, Brookline, MA 02446","2026/09/14",3600,"2 Beds+","Apartment"
+NA,NA,NA,NA,NA
+"Hudson & Kneeland, Boston, MA 02111","2026/09/14",3458,"Studio","Apartment"
+"Hudson & Kneeland, Boston, MA 02111","2026/09/14",3562,"1 Bed","Apartment"
+"Hudson & Kneeland, Boston, MA 02111","2026/09/14",4899,"2 Beds","Apartment"
+"50 Malden St, Boston, MA 02118","2026/09/14",3230,"1 Bed","Apartment"
+"50 Malden St, Boston, MA 02118","2026/09/14",3955,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"15 Jacobbe Rd, Boston, MA 02128","2026/09/14",3216,"Studio","Apartment"
+"15 Jacobbe Rd, Boston, MA 02128","2026/09/14",3608,"1 Bed","Apartment"
+"15 Jacobbe Rd, Boston, MA 02128","2026/09/14",4985,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"6 Clearway St, Boston, MA 02115","2026/09/14",3100,"1 Bed","Apartment"
+"6 Clearway St, Boston, MA 02115","2026/09/14",4100,"2 Beds","Apartment"
+"6 Clearway St, Boston, MA 02115","2026/09/14",5300,"3 Beds","Apartment"
+NA,NA,NA,NA,NA
+"1465 Commonwealth Ave, Boston, MA 02135","2026/09/14",3156,"1 Bed","Apartment"
+"1465 Commonwealth Ave, Boston, MA 02135","2026/09/14",3323,"2 Beds","Apartment"
+"1465 Commonwealth Ave, Boston, MA 02135","2026/09/14",4375,"3 Beds","Apartment"
+"6-12 Blackwood St, Boston, MA 02115","2026/09/14",3100,"(857) 365-6522
+Message",NA
+"125 Guest St, Boston, MA 02135","2026/09/14",2662,"Studio","Apartment"
+"125 Guest St, Boston, MA 02135","2026/09/14",3211,"1 Bed","Apartment"
+"125 Guest St, Boston, MA 02135","2026/09/14",4245,"2 Beds+","Apartment"
+NA,NA,NA,NA,NA
+"315 A St, Boston, MA 02210","2026/09/14",3380,"Studio","Apartment"
+"315 A St, Boston, MA 02210","2026/09/14",3700,"1 Bed","Apartment"
+"315 A St, Boston, MA 02210","2026/09/14",5010,"2 Beds","Apartment"
+"45 Stuart St, Boston, MA 02116","2026/09/14",3385,"Studio","Apartment"
+"45 Stuart St, Boston, MA 02116","2026/09/14",3675,"1 Bed","Apartment"
+"45 Stuart St, Boston, MA 02116","2026/09/14",5580,"2 Beds","Apartment"
+"111 Atlantic Ave, Boston, MA 02110","2026/09/14",3475,"1 Bed","Apartment"
+"111 Atlantic Ave, Boston, MA 02110","2026/09/14",3850,"2 Beds","Apartment"
+"111 Atlantic Ave, Boston, MA 02110","2026/09/14",4750,"3 Beds","Apartment"
+"655 Massachusetts Ave, Boston, MA 02118","2026/09/14",2890,"2 Beds","Apartment"
+"655 Massachusetts Ave, Boston, MA 02118","2026/09/14",4155,"3 Beds","Apartment"
+"250 Centre St, Boston, MA 02119","2026/09/14",2450,"Studio","Apartment"
+"250 Centre St, Boston, MA 02119","2026/09/14",2850,"1 Bed","Apartment"
+"250 Centre St, Boston, MA 02119","2026/09/14",3750,"2 Beds","Apartment"
+"365 Western Ave, Boston, MA 02135","2026/09/14",2600,"Studio","Apartment"
+"365 Western Ave, Boston, MA 02135","2026/09/14",3000,"1 Bed","Apartment"
+"365 Western Ave, Boston, MA 02135","2026/09/14",3600,"2 Beds+","Apartment"
+"101-119 Canal St, Boston, MA 02114","2026/09/14",3516,"1 Bed","Apartment"
+"101-119 Canal St, Boston, MA 02114","2026/09/14",4476,"2 Beds","Apartment"
+"101-119 Canal St, Boston, MA 02114","2026/09/14",5931,"3 Beds","Apartment"
+"75-90 Gardner St, Boston, MA 02134","2026/09/14",2300,"1 Bed","Apartment"
+"75-90 Gardner St, Boston, MA 02134","2026/09/14",2350,"2 Beds","Apartment"
+"44 Bromfield St, Boston, MA 02108","2026/09/14",3250,"Studio","Apartment"
+"44 Bromfield St, Boston, MA 02108","2026/09/14",3500,"1 Bed","Apartment"
+"75 Westland Ave, Boston, MA 02115","2026/09/14",2150,"Studio","Apartment"
+"75 Westland Ave, Boston, MA 02115","2026/09/14",2850,"1 Bed","Apartment"
+"75 Westland Ave, Boston, MA 02115","2026/09/14",3400,"2 Beds+","Apartment"
+"1 Nassau St, Boston, MA 02111","2026/09/14",2655,"1 Bed","Apartment"
+"1 Nassau St, Boston, MA 02111","2026/09/14",3795,"2 Beds","Apartment"
+"1 Nassau St, Boston, MA 02111","2026/09/14",5000,"3 Beds","Apartment"
+"85 Tennis Rd, Boston, MA 02126","2026/09/14",1999,"1 Bed","Apartment"
+"85 Tennis Rd, Boston, MA 02126","2026/09/14",2550,"2 Beds","Apartment"
+"100 Cabot St, Boston, MA 02120","2026/09/14",2790,"Studio","Apartment"
+"100 Cabot St, Boston, MA 02120","2026/09/14",3275,"1 Bed","Apartment"
+"100 Cabot St, Boston, MA 02120","2026/09/14",4300,"2 Beds","Apartment"
+"1 Emerson Pl, Boston, MA 02114","2026/09/14",2575,"Studio","Apartment"
+"1 Emerson Pl, Boston, MA 02114","2026/09/14",2855,"1 Bed","Apartment"
+"1 Emerson Pl, Boston, MA 02114","2026/09/14",3725,"2 Beds+","Apartment"
+"69 Park Dr, Boston, MA 02215","2026/09/14",2200,"Studio","Apartment"
+"69 Park Dr, Boston, MA 02215","2026/09/14",2800,"1 Bed","Apartment"
+"69 Park Dr, Boston, MA 02215","2026/09/14",3300,"2 Beds+","Apartment"
+"130 Dartmouth St, Boston, MA 02116","2026/09/14",3350,"1 Bed","Apartment"
+"130 Dartmouth St, Boston, MA 02116","2026/09/14",3800,"2 Beds","Apartment"
+"130 Dartmouth St, Boston, MA 02116","2026/09/14",5100,"3 Beds+","Apartment"
+"1078-1126 Boylston St, Boston, MA 02215","2026/09/14",2300,"Studio","Apartment"
+"1078-1126 Boylston St, Boston, MA 02215","2026/09/14",2700,"1 Bed","Apartment"
+"1078-1126 Boylston St, Boston, MA 02215","2026/09/14",3000,"2 Beds+","Apartment"
+"150 Clare Ave, Boston, MA 02136","2026/09/14",1825,"1 Bed","Apartment"
+"150 Clare Ave, Boston, MA 02136","2026/09/14",2175,"2 Beds","Apartment"
+"224-236 SEAVER St, Boston, MA 02121","2026/09/14",1609,"Studio","Apartment"
+"224-236 SEAVER St, Boston, MA 02121","2026/09/14",1721,"1 Bed","Apartment"
+"224-236 SEAVER St, Boston, MA 02121","2026/09/14",2062,"2 Beds+","Apartment"
+"123A Hutchings St, Boston, MA 02121","2026/09/14",1259,"1 Bed","Apartment"
+"123A Hutchings St, Boston, MA 02121","2026/09/14",2300,"2 Beds","Apartment"
+"123A Hutchings St, Boston, MA 02121","2026/09/14",1879,"4 Beds","Apartment"
+NA,NA,NA,NA,NA
+"72 Burbank St, Boston, MA 02115","2026/09/14",1728,"Studio","Apartment"
+"72 Burbank St, Boston, MA 02115","2026/09/14",1847,"1 Bed","Apartment"
+"72 Burbank St, Boston, MA 02115","2026/09/14",2202,"2 Beds","Apartment"
+"145-147 Endicott St, Boston, MA 02113","2026/09/14",3450,"2 Beds",NA
+"21 Sheafe St, Boston, MA 02113","2026/09/14",3350,"1 Bed","Apartment"
+"21 Sheafe St, Boston, MA 02113","2026/09/14",2475,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"1131 Commonwealth Ave, Allston, MA 02134","2026/09/14",3000,"2 Beds","Apartment"
+"1131 Commonwealth Ave, Allston, MA 02134","2026/09/14",3900,"3 Beds","Apartment"
+"222-230 Babcock St, Brookline, MA 02446","2026/09/14",2250,"Studio","Apartment"
+"222-230 Babcock St, Brookline, MA 02446","2026/09/14",2500,"1 Bed","Apartment"
+"222-230 Babcock St, Brookline, MA 02446","2026/09/14",3100,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"205 Walden St, Cambridge, MA 02140","2026/09/14",2812,"1 Bed","Apartment"
+"205 Walden St, Cambridge, MA 02140","2026/09/14",3432,"2 Beds","Apartment"
+"40 E Pier Dr, East Boston, MA 02128","2026/09/14",2820,"Studio","Apartment"
+"40 E Pier Dr, East Boston, MA 02128","2026/09/14",3260,"1 Bed","Apartment"
+"40 E Pier Dr, East Boston, MA 02128","2026/09/14",4485,"2 Beds","Apartment"
+"53-63 Parkman St, Brookline, MA 02446","2026/09/14",2300,"1 Bed","Apartment"
+"53-63 Parkman St, Brookline, MA 02446","2026/09/14",2950,"2 Beds","Apartment"
+"88 Arsenal Yards Blvd, Watertown, MA 02472","2026/09/14",2773,"Studio","Apartment"
+"88 Arsenal Yards Blvd, Watertown, MA 02472","2026/09/14",3444,"1 Bed","Apartment"
+"88 Arsenal Yards Blvd, Watertown, MA 02472","2026/09/14",3958,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"411 Franklin St G-6, Cambridge, MA 02139","2026/09/14",2340,"2 Beds","Condo"
+"20 Child St, Cambridge, MA 02141","2026/09/14",3178,"Studio","Apartment"
+"20 Child St, Cambridge, MA 02141","2026/09/14",3630,"1 Bed","Apartment"
+"20 Child St, Cambridge, MA 02141","2026/09/14",4775,"2 Beds+","Apartment"
+"30 Rockingham Ave, West Roxbury, MA 02132","2026/09/14",2320,"1 Bed","Apartment"
+"30 Rockingham Ave, West Roxbury, MA 02132","2026/09/14",2750,"2 Beds","Apartment"
+"75 Braintree St, Allston, MA 02134","2026/09/14",2567,"Studio","Apartment"
+"75 Braintree St, Allston, MA 02134","2026/09/14",2555,"1 Bed","Apartment"
+"75 Braintree St, Allston, MA 02134","2026/09/14",3221,"2 Beds+","Apartment"
+"249 Corey Rd, Brighton, MA 02135","2026/09/14",3300,"1 Bed","Apartment"
+"249 Corey Rd, Brighton, MA 02135","2026/09/14",3550,"2 Beds","Apartment"
+"4 University Rd, Cambridge, MA 02138","2026/09/14",2500,"Studio","Apartment"
+"4 University Rd, Cambridge, MA 02138","2026/09/14",2800,"1 Bed","Apartment"
+"4 University Rd, Cambridge, MA 02138","2026/09/14",2550,"2 Beds","Apartment"
+"40 River St, Dorchester, MA 02126","2026/09/14",2600,"1 Bed","Apartment"
+"40 River St, Dorchester, MA 02126","2026/09/14",2800,"2 Beds","Apartment"
+"9 Burney St, Roxbury Crossing, MA 02120","2026/09/14",2750,"Studio","Apartment"
+"9 Burney St, Roxbury Crossing, MA 02120","2026/09/14",3200,"1 Bed","Apartment"
+"103 Ninth St, Charlestown, MA 02129","2026/09/14",2400,"Studio","Apartment"
+"103 Ninth St, Charlestown, MA 02129","2026/09/14",2650,"1 Bed","Apartment"
+"484 2nd St, Everett, MA 02149","2026/09/14",2249,"Studio","Apartment"
+"484 2nd St, Everett, MA 02149","2026/09/14",2499,"1 Bed","Apartment"
+"484 2nd St, Everett, MA 02149","2026/09/14",3250,"2 Beds","Apartment"
+"545 Centre St, Jamaica Plain, MA 02130","2026/09/14",2500,"1 Bed","Apartment"
+"545 Centre St, Jamaica Plain, MA 02130","2026/09/14",2900,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"508-524 Cambridge St, Allston, MA 02134","2026/09/14",1900,"Studio","Apartment"
+"508-524 Cambridge St, Allston, MA 02134","2026/09/14",2150,"1 Bed","Apartment"
+"508-524 Cambridge St, Allston, MA 02134","2026/09/14",2400,"2 Beds+","Apartment"
+"One Brookline Pl, Cambridge, MA 02139","2026/09/14",3500,"1 Bed","Apartment"
+"One Brookline Pl, Cambridge, MA 02139","2026/09/14",3300,"2 Beds","Apartment"
+"One Brookline Pl, Cambridge, MA 02139","2026/09/14",4700,"3 Beds","Apartment"
+"33 Third Ave, Charlestown, MA 02129","2026/09/14",2975,"1 Bed","Apartment"
+"33 Third Ave, Charlestown, MA 02129","2026/09/14",3695,"2 Beds","Apartment"
+"1459-1461 VFW Pky, West Roxbury, MA 02132","2026/09/14",1725,"Studio","Apartment"
+"1459-1461 VFW Pky, West Roxbury, MA 02132","2026/09/14",2100,"1 Bed","Apartment"
+"1459-1461 VFW Pky, West Roxbury, MA 02132","2026/09/14",2350,"2 Beds","Apartment"
+"44 Orkney Rd, Brighton, MA 02135","2026/09/14",1850,"Studio","Apartment"
+"44 Orkney Rd, Brighton, MA 02135","2026/09/14",2425,"1 Bed","Apartment"
+"44 Orkney Rd, Brighton, MA 02135","2026/09/14",2800,"2 Beds+","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"1193 Commonwealth Ave, Allston, MA 02134","2026/09/14",2125,"Studio","Apartment"
+"1193 Commonwealth Ave, Allston, MA 02134","2026/09/14",2700,"2 Beds","Apartment"
+"1193 Commonwealth Ave, Allston, MA 02134","2026/09/14",4700,"4 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"38 Hichborn St, Boston, MA 02135","2026/09/14",3000,"4 Beds","Condo"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"4 Wakullah St, Boston, MA 02119","2026/09/14",3900,"5 Beds, 2 Baths, 2,200 sq ft","Apartment"
+"1350 Boylston St, Boston, MA 02215","2026/09/14",4480,"","Apartment"
+NA,NA,NA,NA,NA
+"44 E Springfield St Unit 1, Boston, MA 02118","2026/09/14",2500,"1 Bed, 1 Bath, 580 sq ft","Apartment"
+"345 Harrison Ave, Boston, MA 02118","2026/09/14",3860,"","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"45 Stuart St, Boston, MA 02116","2026/09/14",3990,"","Apartment"
+"770 Boylston St, Boston, MA 02199","2026/09/14",4280,"","Apartment"
+NA,NA,NA,NA,NA
+"77 Exeter St, Boston, MA 02199","2026/09/14",4990,"","Apartment"
+"74 Mora St Unit 1, Boston, MA 02124","2026/09/14",3800,"4 Beds, 1.5 Baths, 1,500 sq ft","Apartment"
+"17 Highgate St, Boston, MA 02134","2026/09/14",4350,"4 Beds, 1.5 Baths, 1,500 sq ft","Apartment"
+"17 Highgate St, Boston, MA 02134","2026/09/14",4500,"4 Beds, 1.5 Baths, 1,500 sq ft","Apartment"
+"85 Brainerd Rd, Boston, MA 02134","2026/09/14",4900,"4 Beds, 1.5 Baths, 1,500 sq ft","Apartment"
+"38 Hemenway St, Boston, MA 02115","2026/09/14",2450,"4 Beds, 1.5 Baths, 1,500 sq ft","Apartment"
+"1197 Commonwealth Ave, Boston, MA 02134","2026/09/14",2125,"4 Beds, 1.5 Baths, 1,500 sq ft","Apartment"
+"913 Boylston St, Boston, MA 02115","2026/09/14",2900,"4 Beds, 1.5 Baths, 1,500 sq ft","Apartment"
+"143 L St, Boston, MA 02127","2026/09/14",4000,"4 Beds, 1.5 Baths, 1,500 sq ft","Apartment"
+"2018 Commonwealth Ave, Boston, MA 02135","2026/09/14",2500,"4 Beds, 1.5 Baths, 1,500 sq ft","Apartment"
+"1197 Commonwealth Ave, Boston, MA 02134","2026/09/14",2140,"4 Beds, 1.5 Baths, 1,500 sq ft","Apartment"
+"2018 Commonwealth Ave, Boston, MA 02135","2026/09/14",2000,"4 Beds, 1.5 Baths, 1,500 sq ft","Apartment"
+"143 Hillside St, Boston, MA 02120","2026/09/14",4200,"4 Beds, 1.5 Baths, 1,500 sq ft","Apartment"
+"702 Massachusetts Ave, Boston, MA 02118","2026/09/14",2450,"4 Beds, 1.5 Baths, 1,500 sq ft","Apartment"
+"38 Hemenway St, Boston, MA 02115","2026/09/14",2400,"4 Beds, 1.5 Baths, 1,500 sq ft","Apartment"
+"38 Hemenway St, Boston, MA 02115","2026/09/14",2325,"4 Beds, 1.5 Baths, 1,500 sq ft","Apartment"
+"1193 Commonwealth Ave, Boston, MA 02134","2026/09/14",2280,"4 Beds, 1.5 Baths, 1,500 sq ft","Apartment"
+"1193 Commonwealth Ave, Boston, MA 02134","2026/09/14",2350,"4 Beds, 1.5 Baths, 1,500 sq ft","Apartment"
+"38 Hemenway St, Boston, MA 02115","2026/09/14",2500,"4 Beds, 1.5 Baths, 1,500 sq ft","Apartment"
+"62 Boylston St, Boston, MA 02116","2026/09/14",2500,"4 Beds, 1.5 Baths, 1,500 sq ft","Apartment"
+"62 Boylston St, Boston, MA 02116","2026/09/14",2475,"4 Beds, 1.5 Baths, 1,500 sq ft","Apartment"
+"62 Boylston St, Boston, MA 02116","2026/09/14",2550,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"62 Boylston St, Boston, MA 02116","2026/09/14",2400,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"62 Boylston St, Boston, MA 02116","2026/09/14",2500,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"31 Park Dr, Boston, MA 02215","2026/09/14",2600,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"375 Cummins Hwy, Boston, MA 02131","2026/09/14",2567,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"375 Cummins Hwy, Boston, MA 02131","2026/09/14",2934,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"11 Royal St, Boston, MA 02134","2026/09/14",3750,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"238 Hemenway St, Boston, MA 02115","2026/09/14",4495,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"1185 Commonwealth Ave, Boston, MA 02134","2026/09/14",2180,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"41 Bothwell Rd, Boston, MA 02135","2026/09/14",2900,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"15 Ruggles St, Boston, MA 02119","2026/09/14",3000,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"11 Camelot Ct, Boston, MA 02135","2026/09/14",3885,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"2017 Commonwealth Ave, Boston, MA 02135","2026/09/14",3895,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"1185 Commonwealth Ave, Boston, MA 02134","2026/09/14",2700,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"1193 Commonwealth Ave, Boston, MA 02134","2026/09/14",2900,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"2045 Commonwealth Ave, Boston, MA 02135","2026/09/14",2365,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"520 Cambridge St, Boston, MA 02134","2026/09/14",2500,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"51 S Huntington Ave, Boston, MA 02130","2026/09/14",1750,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"24 Mt Vernon St, Boston, MA 02108","2026/09/14",2475,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"1179 Boylston St, Boston, MA 02215","2026/09/14",2745,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"9 Noyes Pl, Boston, MA 02113","2026/09/14",6000,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"50 Englewood Ave, Boston, MA 02135","2026/09/14",5000,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"39 Strathmore Rd, Boston, MA 02135","2026/09/14",4900,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"11 Holton St, Boston, MA 02134","2026/09/14",4600,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"15 N Beacon St, Boston, MA 02134","2026/09/14",3550,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"1028 Commonwealth Ave, Boston, MA 02215","2026/09/14",3400,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"58 Kirkwood Rd, Boston, MA 02135","2026/09/14",3200,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"1615 Commonwealth Ave, Boston, MA 02135","2026/09/14",2400,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"557 Columbus Ave, Boston, MA 02118","2026/09/14",4300,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"143 Hillside St, Boston, MA 02120","2026/09/14",4500,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"365 Western Ave, Boston, MA 02135","2026/09/14",2600,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"1661-1663 Washington St, Boston, MA 02118","2026/09/14",2900,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"1079 Commonwealth Ave, Boston, MA 02215","2026/09/14",4600,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"19 Shannon St, Boston, MA 02135","2026/09/14",3100,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"19 Shannon St, Boston, MA 02135","2026/09/14",3000,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"77 Park Dr, Boston, MA 02215","2026/09/14",3400,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"231 Park Dr, Boston, MA 02215","2026/09/14",2275,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"173 St Botolph St, Boston, MA 02115","2026/09/14",3100,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"1024 Commonwealth Ave, Boston, MA 02215","2026/09/14",2550,"4 Beds, 1.5 Baths, 1,500 sq ft","Condo"
+"276 Chestnut Hill Ave, Boston, MA 02135","2026/09/14",3850,"(857) 280-1805
+Message","Condo"
+"15 Walbridge St, Boston, MA 02134","2026/09/14",2400,"(857) 280-1805
+Message","Condo"
+"66 Chiswick Rd, Boston, MA 02135","2026/09/14",2165,"(857) 280-1805
+Message","Condo"
+"48 Greycliff Rd, Boston, MA 02135","2026/09/14",6500,"(857) 280-1805
+Message","Condo"
+"1687 Commonwealth Ave, Boston, MA 02135","2026/09/14",2250,"(857) 280-1805
+Message","Condo"
+"49 S Huntington Ave, Boston, MA 02130","2026/09/14",1750,"(857) 280-1805
+Message","Condo"
+"41 Strathmore Rd, Boston, MA 02135","2026/09/14",2400,"(857) 280-1805
+Message","Condo"
+"49 S Huntington Ave, Boston, MA 02130","2026/09/14",1795,"(857) 280-1805
+Message","Condo"
+"1189 Commonwealth Ave, Boston, MA 02134","2026/09/14",2290,"(857) 280-1805
+Message","Condo"
+"62 Boylston St, Boston, MA 02116","2026/09/14",2400,"(857) 280-1805
+Message","Condo"
+"116 Washington St, Boston, MA 02135","2026/09/14",2150,"(857) 280-1805
+Message","Condo"
+"109 Brainerd Rd, Boston, MA 02134","2026/09/14",2295,"(857) 280-1805
+Message","Condo"
+"1185 Boylston St, Boston, MA 02215","2026/09/14",2275,"(857) 280-1805
+Message","Condo"
+"686 Parker St, Boston, MA 02120","2026/09/14",2750,"(857) 280-1805
+Message","Condo"
+"299 Dudley St, Boston, MA 02119","2026/09/14",3089,"(857) 280-1805
+Message","Condo"
+"114 Boston St, Boston, MA 02125","2026/09/14",1410,"(857) 380-9508
+Message","Condo"
+"38 Allston St, Boston, MA 02134","2026/09/14",3500,"(857) 380-9508
+Message","Condo"
+"11A Islington St, Boston, MA 02134","2026/09/14",1100,"(857) 877-3501
+Message","Condo"
+"12 Farrington Ave, Boston, MA 02134","2026/09/14",2450,"(857) 877-3501
+Message","Condo"
+"132 Chiswick Rd, Boston, MA 02135","2026/09/14",1300,"(857) 877-3501
+Message","Condo"
+"104 Academy Hill Rd, Boston, MA 02135","2026/09/14",1380,"(857) 574-4642
+Message","Condo"
+"105 Walnut St, Boston, MA 02145","2026/09/14",1125,"(857) 574-4918
+Message","Condo"
+"36 N Bennet St, Boston, MA 02113","2026/09/14",3180,"(857) 957-9029
+Message","Condo"
+"17 Sheafe St, Boston, MA 02113","2026/09/14",3230,"(857) 574-4592
+Message","Condo"
+"17 Highgate St, Boston, MA 02134","2026/09/14",4500,"(857) 574-4592
+Message","Condo"
+"4 Haskell St, Boston, MA 02134","2026/09/14",5400,"(857) 574-4592
+Message","Condo"
+"115 Franklin St, Boston, MA 02134","2026/09/14",4800,"(857) 574-4592
+Message","Condo"
+"55 Brighton Ave, Boston, MA 02134","2026/09/14",4800,"(857) 574-4592
+Message","Condo"
+"10 Walnut Park, Boston, MA 02119","2026/09/14",1360,"(857) 407-4191
+Message","Condo"
+"199 Gardner St, Boston, MA 02132","2026/09/14",3600,"(857) 407-4191
+Message","Condo"
+"199 Gardner St, Boston, MA 02132","2026/09/14",2800,"(857) 407-4191
+Message","Condo"
+"582 Cambridge St, Boston, MA 02134","2026/09/14",3000,"(857) 407-4191
+Message","Condo"
+"6 Haskell St, Boston, MA 02134","2026/09/14",5400,"(857) 407-4191
+Message","Condo"
+"21 Highgate St, Boston, MA 02134","2026/09/14",4600,"(857) 407-4191
+Message","Condo"
+"40 Hooker St, Boston, MA 02134","2026/09/14",5400,"(857) 407-4191
+Message","Condo"
+"17 Highgate St, Boston, MA 02134","2026/09/14",4500,"(857) 407-4191
+Message","Condo"
+"85 Brainerd Rd, Boston, MA 02134","2026/09/14",4800,"(857) 407-4191
+Message","Condo"
+"30 Dalrymple St, Boston, MA 02130","2026/09/14",840,"(857) 407-4191
+Message","Condo"
+"695 Bennington St, Boston, MA 02128","2026/09/14",1550,"(857) 407-4191
+Message","Condo"
+"621 E 8th St, Boston, MA 02127","2026/09/14",1850,"(857) 407-4191
+Message","Condo"
+"695 Bennington St, Boston, MA 02128","2026/09/14",1525,"(857) 407-4191
+Message","Condo"
+"621 E 8th St, Boston, MA 02127","2026/09/14",1600,"(857) 407-4191
+Message","Condo"
+"821 Saratoga St, Boston, MA 02128","2026/09/14",1325,"(857) 407-4191
+Message","Condo"
+"9 Hancock St, Boston, MA 02129","2026/09/14",1800,"(857) 407-4191
+Message","Condo"
+"162 Cottage St, Boston, MA 02128","2026/09/14",1375,"(857) 407-4191
+Message","Condo"
+"49 Walk Hill St, Boston, MA 02130","2026/09/14",1275,"(857) 407-4191
+Message","Condo"
+"19 Downer Ave, Boston, MA 02125","2026/09/14",1700,"(857) 407-4191
+Message","Condo"
+"60 Charlesgate E, Boston, MA 02215","2026/09/14",3500,"(508) 306-4825
+Message","Condo"
+"535 Newbury St, Boston, MA 02215","2026/09/14",3800,"(508) 306-4825
+Message","Condo"
+"587 Beacon St, Boston, MA 02215","2026/09/14",2900,"(508) 306-4825
+Message","Condo"
+"249 Commonwealth Ave, Boston, MA 02116","2026/09/14",2900,"(508) 306-4825
+Message","Condo"
+"587 Beacon St, Boston, MA 02215","2026/09/14",3400,"(508) 306-4825
+Message","Condo"
+"695 Bennington St, Boston, MA 02128","2026/09/14",1550,"(508) 306-4825
+Message","Condo"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"88 Ames St, Cambridge, MA 02142","2026/09/14",3130,"","Condo"
+NA,NA,NA,NA,NA
+"675 Washington St Unit 2C, Brookline, MA 02446","2026/09/14",1300,"4 Beds, 1 Bath, 1,600 sq ft","Condo"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"11 Governor Winthrop Rd Unit Assemby row, Somerville, MA 02145","2026/09/14",3600,"3 Beds, 1 Bath, 1,542 sq ft","Condo"
+"316 St Paul St, Brookline, MA 02446","2026/09/14",5250,"3-4 Beds, 2 Baths","Condo"
+"69 Babcock St, Brookline, MA 02446","2026/09/14",6200,"3-4 Beds, 2 Baths","Condo"
+"68 Egmont St, Brookline, MA 02446","2026/09/14",5400,"3-4 Beds, 2 Baths","Condo"
+"1616 Beacon St, Brookline, MA 02446","2026/09/14",6850,"3-4 Beds, 2 Baths","Condo"
+"1203 Beacon St, Brookline, MA 02446","2026/09/14",5800,"3-4 Beds, 2 Baths","Condo"
+"1616 Beacon St, Brookline, MA 02446","2026/09/14",7000,"3-4 Beds, 2 Baths","Condo"
+"330 St Paul St, Brookline, MA 02446","2026/09/14",5600,"3-4 Beds, 2 Baths","Condo"
+"1801 Beacon St, Brookline, MA 02445","2026/09/14",5500,"3-4 Beds, 2 Baths","Condo"
+"191 Winthrop Rd, Brookline, MA 02445","2026/09/14",4700,"3-4 Beds, 2 Baths","Condo"
+"20 Fairbanks St, Brookline, MA 02446","2026/09/14",3000,"3-4 Beds, 2 Baths","Condo"
+"1589 Beacon St, Brookline, MA 02446","2026/09/14",3250,"3-4 Beds, 2 Baths","Condo"
+"69 Babcock St, Brookline, MA 02446","2026/09/14",6600,"3-4 Beds, 2 Baths","Condo"
+"41-43 Jaques St, Somerville, MA 02145","2026/09/14",3600,"3-4 Beds, 2 Baths","Condo"
+"50 Egmont St, Brookline, MA 02446","2026/09/14",5300,"3-4 Beds, 2 Baths","Condo"
+"26 John F. Kennedy St, Cambridge, MA 02138","2026/09/14",2600,"3-4 Beds, 2 Baths","Condo"
+"20 John F. Kennedy St, Cambridge, MA 02138","2026/09/14",2600,"3-4 Beds, 2 Baths","Condo"
+"11 Park St, Brookline, MA 02446","2026/09/14",5100,"3-4 Beds, 2 Baths","Condo"
+"310 St Paul St, Brookline, MA 02446","2026/09/14",5200,"3-4 Beds, 2 Baths","Condo"
+"21 Regent Cir, Brookline, MA 02445","2026/09/14",2400,"3-4 Beds, 2 Baths","Condo"
+"168 Norfolk St, Cambridge, MA 02139","2026/09/14",2750,"3-4 Beds, 2 Baths","Condo"
+"24 Fairbanks St, Brookline, MA 02446","2026/09/14",2500,"3-4 Beds, 2 Baths","Condo"
+"332 St Paul St, Brookline, MA 02446","2026/09/14",4275,"3-4 Beds, 2 Baths","Condo"
+"2 Norfolk Terrace, Cambridge, MA 02139","2026/09/14",2100,"3-4 Beds, 2 Baths","Condo"
+"62 Egmont St, Brookline, MA 02446","2026/09/14",5500,"3-4 Beds, 2 Baths","Condo"
+"10 Strathmore Rd, Brookline, MA 02445","2026/09/14",1280,"(857) 425-2290
+Message","Condo"
+"102 Cross St, Somerville, MA 02145","2026/09/14",2560,"(857) 995-9641
+Message","Condo"
+"74 Egmont St, Brookline, MA 02446","2026/09/14",4500,"(857) 995-9641
+Message","Condo"
+"10 Strathmore Rd, Brookline, MA 02445","2026/09/14",5150,"(857) 995-9641
+Message","Condo"
+"10 Strathmore Rd, Brookline, MA 02445","2026/09/14",5200,"(857) 995-9641
+Message","Condo"
+"316 St Paul St, Brookline, MA 02446","2026/09/14",5250,"(857) 995-9641
+Message","Condo"
+"16 Harcourt St Unit 1F, Boston, MA 02116","2026/09/14",3950,"1 Bed, 1 Bath, 800 sq ft","Condo"
+"35 Danny Rd Unit 35 Danny Rd., Boston, MA 02136","2026/09/14",2400,"2 Beds, 2 Baths, 1,500 sq ft","Condo"
+"45 S Waverly St Unit 2, Boston, MA 02135","2026/09/14",3000,"2 Beds, 1 Bath, 1,100 sq ft","Condo"
+"15 Harvest St, Boston, MA 02125","2026/09/14",2999,"2 Beds, 2 Baths, 1,100 sq ft","Condo"
+"24 Sidlaw Rd Unit 8, Boston, MA 02135","2026/09/14",2200,"1 Bed, 1 Bath, 537 sq ft","Condo"
+"17 Fairbanks St, Boston, MA 02135","2026/09/14",1750,"1 Bed, 1 Bath, 400 sq ft","Condo"
+"153 Saratoga St Unit 3, Boston, MA 02128","2026/09/14",2900,"3 Beds, 1 Bath","Condo"
+"39 Danny Rd Unit 2Bedrm 2 Bath with studio IN-LAW, Boston, MA 02136","2026/09/14",3000,"2 Beds, 2 Baths, 1,500 sq ft","Condo"
+"12 Homer St Unit 1, Brookline, MA 02445","2026/09/14",1495,"3 Beds, 2 Baths, 1,500 sq ft","Condo"
+"240 Concord Ave Unit Apartment, Cambridge, MA 02138","2026/09/14",2500,"1 Bed, 1 Bath, 364 sq ft","Condo"
+"1589 Beacon St Unit 4, Brookline, MA 02446","2026/09/14",3050,"2 Beds, 1 Bath, 1,200 sq ft","Condo"
+"281 Brookline St Unit #1, Cambridge, MA 02139","2026/09/14",5795,"3 Beds, 2.5 Baths, 1,893 sq ft","Condo"
+NA,NA,NA,NA,NA
+"45 Myrtle St, Boston, MA 02114","2026/09/14",3250,"1 Bed","Apartment"
+"45 Myrtle St, Boston, MA 02114","2026/09/14",3340,"2 Beds","Apartment"
+"334 Harvard St, Cambridge, MA 02139","2026/09/14",3650,"1 Bed","Apartment"
+"334 Harvard St, Cambridge, MA 02139","2026/09/14",4600,"3 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"37-43 Temple Pl, Boston, MA 02111","2026/09/14",3600,"2 Beds","Apartment"
+"37-43 Temple Pl, Boston, MA 02111","2026/09/14",4500,"3 Beds","Apartment"
+"37-43 Temple Pl, Boston, MA 02111","2026/09/14",6000,"4 Beds","Apartment"
+"244 Hanover St, Boston, MA 02113","2026/09/14",3700,"1 Bed","Apartment"
+"244 Hanover St, Boston, MA 02113","2026/09/14",4500,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"90 Westland Ave, Boston, MA 02115","2026/09/14",2350,"Studio","Apartment"
+"90 Westland Ave, Boston, MA 02115","2026/09/14",3000,"1 Bed","Apartment"
+"90 Westland Ave, Boston, MA 02115","2026/09/14",4200,"2 Beds+","Apartment"
+"52 Clearway St, Boston, MA 02115","2026/09/14",3000,"1 Bed","Apartment"
+"52 Clearway St, Boston, MA 02115","2026/09/14",4050,"2 Beds","Apartment"
+"52 Clearway St, Boston, MA 02115","2026/09/14",5350,"3 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"44 Clearway St, Boston, MA 02115","2026/09/14",3100,"1 Bed","Apartment"
+"44 Clearway St, Boston, MA 02115","2026/09/14",4050,"2 Beds","Apartment"
+"44 Clearway St, Boston, MA 02115","2026/09/14",5250,"3 Beds","Apartment"
+"65 Hemenway St, Boston, MA 02115","2026/09/14",2425,"Studio","Apartment"
+"65 Hemenway St, Boston, MA 02115","2026/09/14",2775,"1 Bed","Apartment"
+"65 Hemenway St, Boston, MA 02115","2026/09/14",3300,"2 Beds+","Apartment"
+"97 St Stephen St, Boston, MA 02115","2026/09/14",2550,"Studio","Apartment"
+"97 St Stephen St, Boston, MA 02115","2026/09/14",2800,"1 Bed","Apartment"
+"97 St Stephen St, Boston, MA 02115","2026/09/14",3550,"2 Beds+","Apartment"
+"24 Westland Ave, Boston, MA 02115","2026/09/14",2800,"Studio","Apartment"
+"24 Westland Ave, Boston, MA 02115","2026/09/14",2700,"1 Bed","Apartment"
+"24 Westland Ave, Boston, MA 02115","2026/09/14",3700,"2 Beds+","Apartment"
+"49 Worthington St, Boston, MA 02120","2026/09/14",2100,"Studio","Apartment"
+"49 Worthington St, Boston, MA 02120","2026/09/14",2650,"1 Bed","Apartment"
+"28 Clearway St, Boston, MA 02115","2026/09/14",3100,"1 Bed","Apartment"
+"28 Clearway St, Boston, MA 02115","2026/09/14",4050,"2 Beds","Apartment"
+"28 Clearway St, Boston, MA 02115","2026/09/14",5250,"3 Beds","Apartment"
+"22 Fleet St, Boston, MA 02113","2026/09/14",2600,"22 Fleet St",NA
+"17 Burney St, Boston, MA 02120","2026/09/14",2300,"Studio","Apartment"
+"17 Burney St, Boston, MA 02120","2026/09/14",2600,"1 Bed","Apartment"
+"17 Burney St, Boston, MA 02120","2026/09/14",4200,"3 Beds+","Apartment"
+"55 Hemenway St, Boston, MA 02115","2026/09/14",2250,"Studio","Apartment"
+"55 Hemenway St, Boston, MA 02115","2026/09/14",2850,"1 Bed","Apartment"
+"55 Hemenway St, Boston, MA 02115","2026/09/14",3300,"2 Beds+","Apartment"
+"51 Park Dr, Boston, MA 02215","2026/09/14",2250,"Studio","Apartment"
+"51 Park Dr, Boston, MA 02215","2026/09/14",3000,"1 Bed","Apartment"
+"51 Park Dr, Boston, MA 02215","2026/09/14",3100,"2 Beds+","Apartment"
+NA,NA,NA,NA,NA
+"121 Park Dr, Boston, MA 02215","2026/09/14",2300,"Studio","Apartment"
+"121 Park Dr, Boston, MA 02215","2026/09/14",3100,"1 Bed","Apartment"
+"121 Park Dr, Boston, MA 02215","2026/09/14",3900,"2 Beds+","Apartment"
+NA,NA,NA,NA,NA
+"630 Washington St, Boston, MA 02111","2026/09/14",3250,"Studio","Apartment"
+"630 Washington St, Boston, MA 02111","2026/09/14",3550,"1 Bed","Apartment"
+"630 Washington St, Boston, MA 02111","2026/09/14",4000,"2 Beds+","Apartment"
+"95 Park Dr, Boston, MA 02215","2026/09/14",2300,"Studio","Apartment"
+"95 Park Dr, Boston, MA 02215","2026/09/14",3300,"1 Bed","Apartment"
+"95 Park Dr, Boston, MA 02215","2026/09/14",3500,"2 Beds+","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"46 Westland Ave, Boston, MA 02115","2026/09/14",2350,"Studio","Apartment"
+"46 Westland Ave, Boston, MA 02115","2026/09/14",2800,"1 Bed","Apartment"
+"46 Westland Ave, Boston, MA 02115","2026/09/14",3450,"2 Beds+","Apartment"
+"35 Orkney Rd, Boston, MA 02135","2026/09/14",1900,"Studio","Apartment"
+"35 Orkney Rd, Boston, MA 02135","2026/09/14",2500,"1 Bed","Apartment"
+"35 Orkney Rd, Boston, MA 02135","2026/09/14",2800,"2 Beds+","Apartment"
+"860 Harrison Ave, Boston, MA 02118","2026/09/14",1737,"35 @ EightSixty",NA
+"165-171 Hemenway St, Boston, MA 02115","2026/09/14",2300,"Studio","Apartment"
+"165-171 Hemenway St, Boston, MA 02115","2026/09/14",2750,"1 Bed","Apartment"
+"165-171 Hemenway St, Boston, MA 02115","2026/09/14",3300,"2 Beds+","Apartment"
+"18 Saint Lukes Rd, Boston, MA 02134","2026/09/14",1800,"Studio","Apartment"
+"18 Saint Lukes Rd, Boston, MA 02134","2026/09/14",2400,"2 Beds","Apartment"
+"18 Saint Lukes Rd, Boston, MA 02134","2026/09/14",3000,"3 Beds+","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"15 Bismarck St, Mattapan, MA 02126","2026/09/14",2303,"Studio","Apartment"
+"15 Bismarck St, Mattapan, MA 02126","2026/09/14",2462,"1 Bed","Apartment"
+"15 Bismarck St, Mattapan, MA 02126","2026/09/14",2940,"2 Beds","Apartment"
+"38 S Huntington Ave, Jamaica Plain, MA 02130","2026/09/14",2700,"2 Beds","Apartment"
+"38 S Huntington Ave, Jamaica Plain, MA 02130","2026/09/14",3050,"3 Beds","Apartment"
+"19 Garden St, Cambridge, MA 02138","2026/09/14",2400,"Studio","Apartment"
+"19 Garden St, Cambridge, MA 02138","2026/09/14",3000,"1 Bed","Apartment"
+"19 Garden St, Cambridge, MA 02138","2026/09/14",3600,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"10-12 Greenway Ct, Brookline, MA 02446","2026/09/14",4588,"3 Beds","Apartment"
+"10-12 Greenway Ct, Brookline, MA 02446","2026/09/14",4588,"4 Beds","Apartment"
+"286-288 Chestnut Hill Ave, Brighton, MA 02135","2026/09/14",2300,"Studio","Apartment"
+"286-288 Chestnut Hill Ave, Brighton, MA 02135","2026/09/14",2600,"1 Bed","Apartment"
+"286-288 Chestnut Hill Ave, Brighton, MA 02135","2026/09/14",2700,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"33 Newport Ave, Quincy, MA 02171","2026/09/14",2795,"1 Bed","Apartment"
+"33 Newport Ave, Quincy, MA 02171","2026/09/14",3155,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"3 Bartlett St, Charlestown, MA 02129","2026/09/14",2499,"1 Bed","Apartment"
+"3 Bartlett St, Charlestown, MA 02129","2026/09/14",4999,"3 Beds","Apartment"
+"5 Concord Ave, Cambridge, MA 02138","2026/09/14",2200,"Studio","Apartment"
+"5 Concord Ave, Cambridge, MA 02138","2026/09/14",2600,"1 Bed","Apartment"
+"5 Concord Ave, Cambridge, MA 02138","2026/09/14",3500,"2 Beds+","Apartment"
+"220-236 Kelton St, Allston, MA 02134","2026/09/14",2025,"Studio","Apartment"
+"220-236 Kelton St, Allston, MA 02134","2026/09/14",2325,"1 Bed","Apartment"
+"300 Commandants Way, Chelsea, MA 02150","2026/09/14",1975,"1 Bed","Apartment"
+"300 Commandants Way, Chelsea, MA 02150","2026/09/14",2600,"2 Beds","Apartment"
+"300 Commandants Way, Chelsea, MA 02150","2026/09/14",3575,"3 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"88 Gerrish Ave, Chelsea, MA 02150","2026/09/14",2000,"Studio","Apartment"
+"88 Gerrish Ave, Chelsea, MA 02150","2026/09/14",2200,"1 Bed","Apartment"
+"805 Mount Auburn St, Watertown, MA 02472","2026/09/14",1850,"Studio","Apartment"
+"805 Mount Auburn St, Watertown, MA 02472","2026/09/14",2600,"2 Beds","Apartment"
+"21 Euston, Brookline, MA 02446","2026/09/14",2000,"Studio","Apartment"
+"21 Euston, Brookline, MA 02446","2026/09/14",2250,"1 Bed","Apartment"
+"21 Euston, Brookline, MA 02446","2026/09/14",3000,"2 Beds+","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"55 Harvard Ave, Hyde Park, MA 02136","2026/09/14",1483,"Studio","Apartment"
+"55 Harvard Ave, Hyde Park, MA 02136","2026/09/14",1621,"1 Bed","Apartment"
+"55 Harvard Ave, Hyde Park, MA 02136","2026/09/14",1951,"2 Beds","Apartment"
+"27 Saint Lukes Rd, Allston, MA 02134","2026/09/14",1850,"Studio","Apartment"
+"27 Saint Lukes Rd, Allston, MA 02134","2026/09/14",1900,"1 Bed","Apartment"
+"27 Saint Lukes Rd, Allston, MA 02134","2026/09/14",2350,"2 Beds+","Apartment"
+"1208D Vfw Pky, West Roxbury, MA 02132","2026/09/14",1600,"1 Bed","Apartment"
+"1208D Vfw Pky, West Roxbury, MA 02132","2026/09/14",1910,"2 Beds","Apartment"
+"1542 Columbus Ave, Roxbury, MA 02119","2026/09/14",1093,"1 Bed","Apartment"
+"1542 Columbus Ave, Roxbury, MA 02119","2026/09/14",1301,"2 Beds","Apartment"
+"1542 Columbus Ave, Roxbury, MA 02119","2026/09/14",1495,"3 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"24 Miner St Unit SI FL1-ID1237981P, Boston, MA 02215","2026/09/14",6271,"(857) 971-6552
+Message","Condo"
+"899 Congress St Unit SI ID1029680P, Boston, MA 02210","2026/09/14",11227,"(857) 763-2206
+Message","Condo"
+"85 Glen Rd Unit SI ID1271285P, Boston, MA 02130","2026/09/14",8125,"(857) 763-3823
+Message","Condo"
+NA,NA,NA,NA,NA
+"1008 Tremont St Unit SI FL1-ID1335175P, Boston, MA 02120","2026/09/14",6940,"(857) 269-1468
+Message","Condo"
+"1 Newport Ave, Quincy, MA 02171","2026/09/14",2641,"(339) 229-9648
+Message","Condo"
+"141 Redlands Rd Unit SI ID1564677P, Boston, MA 02132","2026/09/14",5990,"(857) 254-9950
+Message","Condo"
+NA,NA,NA,NA,NA
+"332 Talbot Ave Unit 5, Boston, MA 02124","2026/09/14",3350,"Message","Apartment"
+"59 Lubec St Unit 1, Boston, MA 02128","2026/09/14",2850,"Message","Apartment"
+"2 Baird St Unit 2, Boston, MA 02124","2026/09/14",3300,"Message","Apartment"
+"525 Lincoln St, Allston, MA 02134","2026/09/14",2405,"(857) 419-6414
+Message","Apartment"
+"99 Chestnut Hill Ave Unit 105, Boston, MA 02135","2026/09/14",3200,"Message","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"530-532-532 Medford St, Boston, MA 02129","2026/09/14",3950,"14 Auburn St Unit A, Boston, MA 02129","Apartment"
+"530-532-532 Medford St, Boston, MA 02129","2026/09/14",2850,"530 VFW Parkway Unit 201, Boston, MA 02132","Apartment"
+"95 St. Alphonsus St, Boston, MA 02120","2026/09/14",4694,"(857) 577-8265
+Message","Apartment"
+"50-56-56 Broadlawn Park Unit 221, Boston, MA 02467","2026/09/14",3250,"Message","Apartment"
+"235 Savin Hill Ave Unit 1, Boston, MA 02125","2026/09/14",2500,"Message","Apartment"
+"49 Judson St Unit 3, Boston, MA 02125","2026/09/14",3300,"Message","Apartment"
+"8 Colonial Ave Unit 3, Boston, MA 02124","2026/09/14",2500,"Message","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"89 Waldeck St Unit 3, Boston, MA 02124","2026/09/14",2800,"Message","Apartment"
+"9 Bailey St Unit 3, Boston, MA 02124","2026/09/14",3350,"Message","Apartment"
+"5273 Washington St, Boston, MA 02132","2026/09/14",4200,"Message","Apartment"
+"106 13th St Unit 323, Boston, MA 02129","2026/09/14",3600,"Message","Apartment"
+"320-326 D St, Boston, MA 02127","2026/09/14",3250,"(857) 355-0205
+Message","Apartment"
+"29 Rosemont St Unit 1, Boston, MA 02122","2026/09/14",2900,"Message","Apartment"
+"567 Poplar St, Boston, MA 02131","2026/09/14",3900,"Message","Apartment"
+"43-47 Fremont St Unit 12, Boston, MA 02126","2026/09/14",3000,"Message","Apartment"
+"27 Fessenden St, Boston, MA 02126","2026/09/14",3550,"(857) 877-1169
+Message","Apartment"
+"81 Ballou Ave, Boston, MA 02124","2026/09/14",3600,"(857) 587-1135
+Message","Apartment"
+NA,NA,NA,NA,NA
+"224 Tremont St, Boston, MA 02116","2026/09/14",2775,"(857) 214-8638
+Message","Apartment"
+"7 Linden St, Boston, MA 02134","2026/09/14",1160,"(857) 675-1344
+Message","Apartment"
+"41 Dorr St, Boston, MA 02119","2026/09/14",1230,"(857) 437-7921
+Message","Apartment"
+"36 Newcastle Rd, Boston, MA 02135","2026/09/14",1000,"(857) 380-5239
+Message","Apartment"
+"23 Cedar St, Boston, MA 02126","2026/09/14",4200,"(857) 425-8178
+Message","Apartment"
+NA,NA,NA,NA,NA
+"46 Gerrish St, Boston, MA 02135","2026/09/14",5500,"(617) 693-5198
+Message","Apartment"
+"154 Stanwood St, Boston, MA 02121","2026/09/14",3800,"(857) 567-7340
+Message","Apartment"
+"96 Woodledge St, Boston, MA 02125","2026/09/14",2925,"(857) 877-3514
+Message","Apartment"
+"684 Parker St, Boston, MA 02120","2026/09/14",5500,"(857) 666-9971
+Message","Apartment"
+"100 New Sudbury St, Boston, MA 02114","2026/09/14",4206,"(857) 353-6884
+Message","Apartment"
+"1 Tobin Rd, Boston, MA 02132","2026/09/14",2150,"(857) 380-9460
+Message","Condo"
+"51 Leamington Rd, Boston, MA 02135","2026/09/14",6700,"(857) 877-2995
+Message","Condo"
+"800 Washington St, Boston, MA 02124","2026/09/14",3400,"(857) 567-4586
+Message","Condo"
+NA,NA,NA,NA,NA
+"55 Hollander St, Boston, MA 02121","2026/09/14",3295,"(857) 407-4484
+Message","Condo"
+"9 Nightingale St, Boston, MA 02124","2026/09/14",3000,"(857) 567-3969
+Message","Condo"
+"39 Foster St, Boston, MA 02135","2026/09/14",3300,"(857) 877-3282
+Message","Condo"
+"23 Crowell St, Boston, MA 02124","2026/09/14",3300,"(508) 504-1205
+Message","Condo"
+"2 Prescott St, Boston, MA 02136","2026/09/14",2250,"(617) 944-2896
+Message","Condo"
+NA,NA,NA,NA,NA
+"741 E 6th St, Boston, MA 02127","2026/09/14",3150,"(781) 303-9408
+Message","Condo"
+"116 Spring St, Boston, MA 02132","2026/09/14",2200,"(857) 203-8348
+Message","Condo"
+"197 Green St, Boston, MA 02130","2026/09/14",3750,"(617) 380-6968
+Message","Condo"
+"93 Zeigler St, Boston, MA 02119","2026/09/14",2600,"(857) 407-4419
+Message","Condo"
+"661 Bennington St, Boston, MA 02128","2026/09/14",2900,"(617) 675-4510
+Message","Condo"
+NA,NA,NA,NA,NA
+"301 Border St, Boston, MA 02128","2026/09/14",3350,"(857) 380-6305
+Message","Condo"
+"885 Massachusetts Ave, Boston, MA 02118","2026/09/14",3400,"(857) 877-3910
+Message","Condo"
+"40 Holborn St, Boston, MA 02121","2026/09/14",3500,"(857) 425-8738
+Message","Condo"
+"37 Coffey St, Boston, MA 02122","2026/09/14",3500,"(857) 858-3624
+Message","Condo"
+"529 Beacon St, Boston, MA 02115","2026/09/14",2500,"(857) 877-2775
+Message","Condo"
+"477 Meridian St, Boston, MA 02128","2026/09/14",2650,"(857) 256-3429
+Message","Condo"
+"66 Millet St, Boston, MA 02124","2026/09/14",3500,"(857) 567-7068
+Message","Condo"
+"33 Maverick Square, Boston, MA 02128","2026/09/14",3100,"(857) 256-3151
+Message","Condo"
+"58 Brookside Ave, Boston, MA 02130","2026/09/14",3200,"(857) 424-3138
+Message","Condo"
+"188 Highland St, Boston, MA 02119","2026/09/14",2800,"(857) 424-3318
+Message","Condo"
+NA,NA,NA,NA,NA
+"21 Orchard St, Boston, MA 02130","2026/09/14",3800,"(857) 477-8313
+Message","Condo"
+"253 Hyde Park Ave, Boston, MA 02130","2026/09/14",2450,"(857) 425-3340
+Message","Condo"
+"2 Blueview Rd, Boston, MA 02132","2026/09/14",3200,"(857) 877-6167
+Message","Condo"
+"36 Eastbourne St, Boston, MA 02131","2026/09/14",4500,"(857) 877-2544
+Message","Condo"
+"8 Bard Ave, Boston, MA 02119","2026/09/14",2200,"(857) 424-3335
+Message","Condo"
+NA,NA,NA,NA,NA
+"165 Grove St, Boston, MA 02132","2026/09/14",3000,"(857) 877-6898
+Message","Condo"
+"196 Reservation Rd, Boston, MA 02136","2026/09/14",2600,"(857) 703-2941
+Message","Condo"
+"2131 Dorchester Ave, Boston, MA 02124","2026/09/14",3500,"(781) 614-0855
+Message","Condo"
+"116 Milton Ave, Boston, MA 02124","2026/09/14",3600,"(781) 386-2650
+Message","Condo"
+"53 Woolson St, Boston, MA 02126","2026/09/14",3500,"(857) 877-0747
+Message","Condo"
+NA,NA,NA,NA,NA
+"62 Union St, Boston, MA 02135","2026/09/14",3300,"(857) 688-9011
+Message","Apartment"
+"145 Princeton St, Boston, MA 02128","2026/09/14",2400,"(857) 380-6910
+Message","Apartment"
+"71 Saxton St, Boston, MA 02125","2026/09/14",3200,"(857) 855-7441
+Message","Apartment"
+NA,NA,NA,NA,NA
+"2973 Washington St, Boston, MA 02119","2026/09/14",2595,"(857) 578-6194
+Message","Apartment"
+"96 Hancock St, Boston, MA 02125","2026/09/14",3300,"(857) 567-6142
+Message","Apartment"
+"17 Park View St, Boston, MA 02121","2026/09/14",3200,"(857) 663-0712
+Message","Apartment"
+"33 Pond Ave, Boston, MA 02134","2026/09/14",4800,"(617) 622-5552
+Message","Apartment"
+"3 Walley St, Boston, MA 02128","2026/09/14",3000,"(857) 847-3759
+Message","Apartment"
+NA,NA,NA,NA,NA
+"337 Central St, Boston, MA 02466","2026/09/14",1050,"(857) 380-7052
+Message","Apartment"
+"57 Pleasant St, Boston, MA 02125","2026/09/14",1360,"(857) 293-0060
+Message","Apartment"
+"4 Sparhawk St, Boston, MA 02135","2026/09/14",1180,"(857) 425-2535
+Message","Apartment"
+"24 Beaufort Rd, Boston, MA 02130","2026/09/14",6000,"(857) 773-1458
+Message","Apartment"
+"520 Cambridge St, Boston, MA 02134","2026/09/14",2500,"(857) 877-2358
+Message","Apartment"
+NA,NA,NA,NA,NA
+"83 Fairmount Ave, Boston, MA 02136","2026/09/14",2900,"(857) 342-4265
+Message","Apartment"
+"175 River St, Boston, MA 02126","2026/09/14",1430,"(857) 380-5061
+Message","Apartment"
+"136 Chelsea St, Boston, MA 02128","2026/09/14",2750,"(857) 380-6750
+Message","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"235 Old Colony Ave, Boston, MA 02127","2026/09/14",3660,"(781) 742-1579
+Message","Apartment"
+"8 Hastings St, Boston, MA 02132","2026/09/14",2900,"(628) 227-6572
+Message","Apartment"
+"27 W Tremlett St, Boston, MA 02124","2026/09/14",2900,"(857) 309-1997
+Message","Apartment"
+NA,NA,NA,NA,NA
