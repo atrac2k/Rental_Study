@@ -1,0 +1,1324 @@
+"Address","Date","Rent","Aprt_Type","Building_Type"
+"608 2nd Ave S, Minneapolis, MN 55402","2026/09/14",1391,"Studio","Apartment"
+"608 2nd Ave S, Minneapolis, MN 55402","2026/09/14",1564,"1 Bed","Apartment"
+"608 2nd Ave S, Minneapolis, MN 55402","2026/09/14",2251,"2 Beds","Apartment"
+"3130 Monterey Ave S, St Louis Park, MN 55416","2026/09/14",1570,"1 Bed","Apartment"
+"3130 Monterey Ave S, St Louis Park, MN 55416","2026/09/14",2254,"2 Beds","Apartment"
+"200 University Ave SE, Minneapolis, MN 55414","2026/09/14",1674,"Studio","Apartment"
+"200 University Ave SE, Minneapolis, MN 55414","2026/09/14",1974,"1 Bed","Apartment"
+"200 University Ave SE, Minneapolis, MN 55414","2026/09/14",3089,"2 Beds+","Apartment"
+"3250 W 66th St, Edina, MN 55435","2026/09/14",1648,"Studio","Apartment"
+"3250 W 66th St, Edina, MN 55435","2026/09/14",1878,"1 Bed","Apartment"
+"3250 W 66th St, Edina, MN 55435","2026/09/14",2558,"2 Beds+","Apartment"
+"1325 Utica Ave S, Saint Louis Park, MN 55416","2026/09/14",1655,"Studio","Apartment"
+"1325 Utica Ave S, Saint Louis Park, MN 55416","2026/09/14",2285,"1 Bed","Apartment"
+"1325 Utica Ave S, Saint Louis Park, MN 55416","2026/09/14",2710,"2 Beds+","Apartment"
+"2500 2nd St NE, Minneapolis, MN 55418","2026/09/14",1382,"Studio","Apartment"
+"2500 2nd St NE, Minneapolis, MN 55418","2026/09/14",1675,"1 Bed","Apartment"
+"2500 2nd St NE, Minneapolis, MN 55418","2026/09/14",1940,"2 Beds+","Apartment"
+"485 Malcolm Ave SE, Minneapolis, MN 55414","2026/09/14",1420,"Studio","Apartment"
+"485 Malcolm Ave SE, Minneapolis, MN 55414","2026/09/14",1637,"1 Bed","Apartment"
+"485 Malcolm Ave SE, Minneapolis, MN 55414","2026/09/14",2209,"2 Beds","Apartment"
+"402 2nd St NE, Minneapolis, MN 55413","2026/09/14",1222,"1 Bed","Apartment"
+"402 2nd St NE, Minneapolis, MN 55413","2026/09/14",1551,"2 Beds","Apartment"
+"402 2nd St NE, Minneapolis, MN 55413","2026/09/14",3071,"3 Beds","Apartment"
+"3060 Harbor Ln N, Minneapolis, MN 55447","2026/09/14",1699,"Studio","Apartment"
+"3060 Harbor Ln N, Minneapolis, MN 55447","2026/09/14",1699,"1 Bed","Apartment"
+"3060 Harbor Ln N, Minneapolis, MN 55447","2026/09/14",2568,"2 Beds+","Apartment"
+"2508 Delaware St SE, Minneapolis, MN 55414","2026/09/14",859,"2 Beds","Apartment"
+"2508 Delaware St SE, Minneapolis, MN 55414","2026/09/14",689,"3 Beds","Apartment"
+"2508 Delaware St SE, Minneapolis, MN 55414","2026/09/14",609,"4 Beds","Apartment"
+"2428 Delaware St, Minneapolis, MN 55414","2026/09/14",1317,"Studio","Apartment"
+"2428 Delaware St, Minneapolis, MN 55414","2026/09/14",917,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"2401 Chicago Ave, Minneapolis, MN 55404","2026/09/14",1195,"Studio","Apartment"
+"2401 Chicago Ave, Minneapolis, MN 55404","2026/09/14",1395,"1 Bed","Apartment"
+"2401 Chicago Ave, Minneapolis, MN 55404","2026/09/14",1670,"2 Beds","Apartment"
+"770 Xenia Ave S, Minneapolis, MN 55416","2026/09/14",1535,"Studio","Apartment"
+"770 Xenia Ave S, Minneapolis, MN 55416","2026/09/14",1695,"1 Bed","Apartment"
+"770 Xenia Ave S, Minneapolis, MN 55416","2026/09/14",2405,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"816 Portland Ave S, Minneapolis, MN 55404","2026/09/14",1315,"Studio","Apartment"
+"816 Portland Ave S, Minneapolis, MN 55404","2026/09/14",1575,"1 Bed","Apartment"
+"816 Portland Ave S, Minneapolis, MN 55404","2026/09/14",1950,"2 Beds+","Apartment"
+"410-510 W Lake St, Minneapolis, MN 55408","2026/09/14",1201,"1 Bed","Apartment"
+"410-510 W Lake St, Minneapolis, MN 55408","2026/09/14",1655,"2 Beds","Apartment"
+"240 Park Ave, Minneapolis, MN 55415","2026/09/14",1690,"1 Bed","Apartment"
+"240 Park Ave, Minneapolis, MN 55415","2026/09/14",2340,"2 Beds","Apartment"
+"240 Park Ave, Minneapolis, MN 55415","2026/09/14",2765,"3 Beds","Apartment"
+"657 22nd Ave NE, Minneapolis, MN 55418","2026/09/14",1299,"Studio","Apartment"
+"657 22nd Ave NE, Minneapolis, MN 55418","2026/09/14",1575,"1 Bed","Apartment"
+"657 22nd Ave NE, Minneapolis, MN 55418","2026/09/14",1900,"2 Beds","Apartment"
+"500 W Lake St, Minneapolis, MN 55408","2026/09/14",1203,"Studio","Apartment"
+"500 W Lake St, Minneapolis, MN 55408","2026/09/14",1303,"1 Bed","Apartment"
+"650 Portland Ave S, Minneapolis, MN 55415","2026/09/14",1379,"Studio","Apartment"
+"650 Portland Ave S, Minneapolis, MN 55415","2026/09/14",1420,"1 Bed","Apartment"
+"650 Portland Ave S, Minneapolis, MN 55415","2026/09/14",2101,"2 Beds","Apartment"
+"250 Portland Ave, Minneapolis, MN 55401","2026/09/14",1927,"1 Bed","Apartment"
+"250 Portland Ave, Minneapolis, MN 55401","2026/09/14",2540,"2 Beds","Apartment"
+"2808 Silver Ln NE, Saint Anthony, MN 55421","2026/09/14",1200,"1 Bed","Apartment"
+"2808 Silver Ln NE, Saint Anthony, MN 55421","2026/09/14",1470,"2 Beds","Apartment"
+"3121 69th St W, Edina, MN 55435","2026/09/14",1185,"Studio","Apartment"
+"3121 69th St W, Edina, MN 55435","2026/09/14",1500,"1 Bed","Apartment"
+"3121 69th St W, Edina, MN 55435","2026/09/14",2050,"2 Beds","Apartment"
+"3820 Grand Way, Saint Louis Park, MN 55416","2026/09/14",2313,"1 Bed","Apartment"
+"3820 Grand Way, Saint Louis Park, MN 55416","2026/09/14",2713,"2 Beds","Apartment"
+"3413-3433 53rd Ave N, Brooklyn Center, MN 55429","2026/09/14",1139,"1 Bed","Apartment"
+"3413-3433 53rd Ave N, Brooklyn Center, MN 55429","2026/09/14",1479,"2 Beds","Apartment"
+"9920 Wayzata Blvd, Minneapolis, MN 55426","2026/09/14",1630,"Studio","Apartment"
+"9920 Wayzata Blvd, Minneapolis, MN 55426","2026/09/14",1779,"1 Bed","Apartment"
+"9920 Wayzata Blvd, Minneapolis, MN 55426","2026/09/14",2566,"2 Beds+","Apartment"
+"4555 Minnehaha Ave, Minneapolis, MN 55406","2026/09/14",1394,"Studio","Apartment"
+"4555 Minnehaha Ave, Minneapolis, MN 55406","2026/09/14",1514,"1 Bed","Apartment"
+"4555 Minnehaha Ave, Minneapolis, MN 55406","2026/09/14",2150,"2 Beds","Apartment"
+"600 S 5th Ave, Minneapolis, MN 55415","2026/09/14",1440,"Studio","Apartment"
+"600 S 5th Ave, Minneapolis, MN 55415","2026/09/14",1460,"1 Bed","Apartment"
+"600 S 5th Ave, Minneapolis, MN 55415","2026/09/14",2465,"2 Beds","Apartment"
+"3100 W Lake St, Minneapolis, MN 55416","2026/09/14",1640,"1 Bed","Apartment"
+"3100 W Lake St, Minneapolis, MN 55416","2026/09/14",2855,"2 Beds","Apartment"
+"1410 Nicollet Ave, Minneapolis, MN 55403","2026/09/14",1074,"Studio","Apartment"
+"1410 Nicollet Ave, Minneapolis, MN 55403","2026/09/14",1542,"1 Bed","Apartment"
+"1410 Nicollet Ave, Minneapolis, MN 55403","2026/09/14",2199,"2 Beds","Apartment"
+"1725 Nicollet Ave, Minneapolis, MN 55403","2026/09/14",1057,"Studio","Apartment"
+"1725 Nicollet Ave, Minneapolis, MN 55403","2026/09/14",1196,"1 Bed","Apartment"
+"1725 Nicollet Ave, Minneapolis, MN 55403","2026/09/14",1888,"2 Beds","Apartment"
+"1125 Lagoon Ave, Minneapolis, MN 55408","2026/09/14",1317,"Studio","Apartment"
+"1125 Lagoon Ave, Minneapolis, MN 55408","2026/09/14",1279,"1 Bed","Apartment"
+"1125 Lagoon Ave, Minneapolis, MN 55408","2026/09/14",2270,"2 Beds","Apartment"
+"270 Hennepin Ave, Minneapolis, MN 55402","2026/09/14",1403,"Studio","Apartment"
+"270 Hennepin Ave, Minneapolis, MN 55402","2026/09/14",1531,"1 Bed","Apartment"
+"270 Hennepin Ave, Minneapolis, MN 55402","2026/09/14",2217,"2 Beds","Apartment"
+"2934 Bryant Ave S, Minneapolis, MN 55408","2026/09/14",1321,"1 Bed","Apartment"
+"2934 Bryant Ave S, Minneapolis, MN 55408","2026/09/14",1971,"2 Beds","Apartment"
+"607 W 28th St, Minneapolis, MN 55408","2026/09/14",1130,"Studio","Apartment"
+"607 W 28th St, Minneapolis, MN 55408","2026/09/14",1430,"1 Bed","Apartment"
+"607 W 28th St, Minneapolis, MN 55408","2026/09/14",2125,"2 Beds","Apartment"
+"2703 Girard Ave S, Minneapolis, MN 55408","2026/09/14",1137,"Studio","Apartment"
+"2703 Girard Ave S, Minneapolis, MN 55408","2026/09/14",1384,"1 Bed","Apartment"
+"2826 Girard Ave S, Minneapolis, MN 55408","2026/09/14",1222,"Studio","Apartment"
+"2826 Girard Ave S, Minneapolis, MN 55408","2026/09/14",1432,"1 Bed","Apartment"
+"2826 Girard Ave S, Minneapolis, MN 55408","2026/09/14",2226,"2 Beds","Apartment"
+"3027 22nd Ave S, Minneapolis, MN 55407","2026/09/14",1179,"Studio","Apartment"
+"3027 22nd Ave S, Minneapolis, MN 55407","2026/09/14",1351,"1 Bed","Apartment"
+"3027 22nd Ave S, Minneapolis, MN 55407","2026/09/14",1736,"2 Beds","Apartment"
+"455 Central Ave SE, Minneapolis, MN 55414","2026/09/14",1367,"Studio","Apartment"
+"455 Central Ave SE, Minneapolis, MN 55414","2026/09/14",1607,"1 Bed","Apartment"
+"455 Central Ave SE, Minneapolis, MN 55414","2026/09/14",1720,"2 Beds","Apartment"
+"2851 Hennepin Ave, Minneapolis, MN 55408","2026/09/14",1392,"Studio","Apartment"
+"2851 Hennepin Ave, Minneapolis, MN 55408","2026/09/14",1552,"1 Bed","Apartment"
+"2851 Hennepin Ave, Minneapolis, MN 55408","2026/09/14",2162,"2 Beds","Apartment"
+"1125 S 2nd St, Minneapolis, MN 55415","2026/09/14",1755,"1 Bed","Apartment"
+"1125 S 2nd St, Minneapolis, MN 55415","2026/09/14",2735,"2 Beds","Apartment"
+"608 N 3rd St, Minneapolis, MN 55403","2026/09/14",1315,"Studio","Apartment"
+"608 N 3rd St, Minneapolis, MN 55403","2026/09/14",1428,"1 Bed","Apartment"
+"608 N 3rd St, Minneapolis, MN 55403","2026/09/14",2273,"2 Beds","Apartment"
+"700 S 4th St, Minneapolis, MN 55415","2026/09/14",1563,"Studio","Apartment"
+"700 S 4th St, Minneapolis, MN 55415","2026/09/14",1918,"1 Bed","Apartment"
+"700 S 4th St, Minneapolis, MN 55415","2026/09/14",2708,"2 Beds","Apartment"
+"2650 University Ave, Minneapolis, MN 55414","2026/09/14",1240,"Studio","Apartment"
+"2650 University Ave, Minneapolis, MN 55414","2026/09/14",630,"2 Beds","Apartment"
+"2650 University Ave, Minneapolis, MN 55414","2026/09/14",885,"4 Beds","Apartment"
+NA,NA,NA,NA,NA
+"3535 S Bryant Ave, Minneapolis, MN 55408","2026/09/14",1377,"",NA
+"1314 Marquette Ave, Minneapolis, MN 55403","2026/09/14",1619,"1 Bed","Apartment"
+"1314 Marquette Ave, Minneapolis, MN 55403","2026/09/14",1834,"2 Beds","Apartment"
+"1314 Marquette Ave, Minneapolis, MN 55403","2026/09/14",5187,"3 Beds+","Apartment"
+"36 S 9th St, Minneapolis, MN 55402","2026/09/14",1014,"Studio","Apartment"
+"36 S 9th St, Minneapolis, MN 55402","2026/09/14",1295,"1 Bed","Apartment"
+"215 Oak Grove St, Minneapolis, MN 55403","2026/09/14",1050,"1 Bed","Apartment"
+"215 Oak Grove St, Minneapolis, MN 55403","2026/09/14",1450,"2 Beds","Apartment"
+"110 W Grant St, Minneapolis, MN 55403","2026/09/14",1331,"1 Bed","Apartment"
+"110 W Grant St, Minneapolis, MN 55403","2026/09/14",1950,"2 Beds","Apartment"
+"701 15th Ave SE, Minneapolis, MN 55414","2026/09/14",1541,"1 Bed","Apartment"
+"701 15th Ave SE, Minneapolis, MN 55414","2026/09/14",1220,"2 Beds","Apartment"
+"701 15th Ave SE, Minneapolis, MN 55414","2026/09/14",437,"3 Beds+","Apartment"
+"2006-2008 Park Ave, Minneapolis, MN 55404","2026/09/14",835,"Studio","Apartment"
+"2006-2008 Park Ave, Minneapolis, MN 55404","2026/09/14",925,"1 Bed","Apartment"
+"700 Douglas Ave, Minneapolis, MN 55403","2026/09/14",1380,"Studio","Apartment"
+"700 Douglas Ave, Minneapolis, MN 55403","2026/09/14",1570,"1 Bed","Apartment"
+"700 Douglas Ave, Minneapolis, MN 55403","2026/09/14",1880,"2 Beds","Apartment"
+"2220 E Franklin Ave, Minneapolis, MN 55404","2026/09/14",1049,"Studio","Apartment"
+"2220 E Franklin Ave, Minneapolis, MN 55404","2026/09/14",1088,"1 Bed","Apartment"
+"2220 E Franklin Ave, Minneapolis, MN 55404","2026/09/14",1788,"2 Beds","Apartment"
+"3611 Colfax Ave S, Minneapolis, MN 55409","2026/09/14",899,"Studio","Apartment"
+"3611 Colfax Ave S, Minneapolis, MN 55409","2026/09/14",949,"1 Bed","Apartment"
+"3611 Colfax Ave S, Minneapolis, MN 55409","2026/09/14",1250,"2 Beds","Apartment"
+"365 Nicollet Mall, Minneapolis, MN 55401","2026/09/14",1717,"Studio","Apartment"
+"365 Nicollet Mall, Minneapolis, MN 55401","2026/09/14",2072,"1 Bed","Apartment"
+"365 Nicollet Mall, Minneapolis, MN 55401","2026/09/14",2703,"2 Beds+","Apartment"
+"1101 University Ave SE, Minneapolis, MN 55414","2026/09/14",1000,"2 Beds","Apartment"
+"1101 University Ave SE, Minneapolis, MN 55414","2026/09/14",899,"4 Beds","Apartment"
+NA,NA,NA,NA,NA
+"930 University Ave SE, Minneapolis, MN 55414","2026/09/14",930,"2 Beds","Apartment"
+"930 University Ave SE, Minneapolis, MN 55414","2026/09/14",799,"4 Beds","Apartment"
+"1254 Hennepin Ave N, Minneapolis, MN 55403","2026/09/14",1100,"Studio","Apartment"
+"1254 Hennepin Ave N, Minneapolis, MN 55403","2026/09/14",1325,"1 Bed","Apartment"
+"1254 Hennepin Ave N, Minneapolis, MN 55403","2026/09/14",2000,"2 Beds","Apartment"
+"2015 Central Ave NE, Minneapolis, MN 55418","2026/09/14",1415,"1 Bed","Apartment"
+"2015 Central Ave NE, Minneapolis, MN 55418","2026/09/14",1600,"2 Beds","Apartment"
+"1369 Spruce Pl, Minneapolis, MN 55403","2026/09/14",1608,"Studio","Apartment"
+"1369 Spruce Pl, Minneapolis, MN 55403","2026/09/14",1698,"1 Bed","Apartment"
+"1369 Spruce Pl, Minneapolis, MN 55403","2026/09/14",2398,"2 Beds+","Apartment"
+NA,NA,NA,NA,NA
+"1800 W Lake St, Minneapolis, MN 55408","2026/09/14",1923,"1 Bed","Apartment"
+"1800 W Lake St, Minneapolis, MN 55408","2026/09/14",2292,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"225 Portland Ave, Minneapolis, MN 55401","2026/09/14",1445,"Studio","Apartment"
+"225 Portland Ave, Minneapolis, MN 55401","2026/09/14",1670,"1 Bed","Apartment"
+"225 Portland Ave, Minneapolis, MN 55401","2026/09/14",2750,"2 Beds","Apartment"
+"128 E 18th St, Minneapolis, MN 55403","2026/09/14",865,"Studio","Apartment"
+"128 E 18th St, Minneapolis, MN 55403","2026/09/14",895,"1 Bed","Apartment"
+"128 E 18th St, Minneapolis, MN 55403","2026/09/14",995,"2 Beds+","Apartment"
+"330 Oak Grove St, Minneapolis, MN 55403","2026/09/14",850,"Studio","Apartment"
+"330 Oak Grove St, Minneapolis, MN 55403","2026/09/14",950,"1 Bed","Apartment"
+"3118 West Lake St, Minneapolis, MN 55416","2026/09/14",1659,"Studio","Apartment"
+"3118 West Lake St, Minneapolis, MN 55416","2026/09/14",1829,"1 Bed","Apartment"
+"3118 West Lake St, Minneapolis, MN 55416","2026/09/14",2450,"2 Beds+","Apartment"
+NA,NA,NA,NA,NA
+"5245 Wayzata Blvd, Minneapolis, MN 55416","2026/09/14",1753,"Studio","Apartment"
+"5245 Wayzata Blvd, Minneapolis, MN 55416","2026/09/14",1773,"1 Bed","Apartment"
+"5245 Wayzata Blvd, Minneapolis, MN 55416","2026/09/14",2443,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"1367 Willow St, Minneapolis, MN 55403","2026/09/14",1242,"Studio","Apartment"
+"1367 Willow St, Minneapolis, MN 55403","2026/09/14",1500,"1 Bed","Apartment"
+"1367 Willow St, Minneapolis, MN 55403","2026/09/14",1653,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"412 12th Ave SE, Minneapolis, MN 55414","2026/09/14",1299,"Studio","Apartment"
+"412 12th Ave SE, Minneapolis, MN 55414","2026/09/14",609,"2 Beds","Apartment"
+"412 12th Ave SE, Minneapolis, MN 55414","2026/09/14",909,"3 Beds","Apartment"
+"711 4th St SE, Minneapolis, MN 55414","2026/09/14",1800,"2 Beds","Apartment"
+"711 4th St SE, Minneapolis, MN 55414","2026/09/14",2150,"3 Beds","Apartment"
+"711 4th St SE, Minneapolis, MN 55414","2026/09/14",2600,"4 Beds","Apartment"
+"360 N 1st St, Minneapolis, MN 55401","2026/09/14",1475,"Studio","Apartment"
+"360 N 1st St, Minneapolis, MN 55401","2026/09/14",1918,"1 Bed","Apartment"
+"360 N 1st St, Minneapolis, MN 55401","2026/09/14",2569,"2 Beds","Apartment"
+"309 Oak St SE, Minneapolis, MN 55414","2026/09/14",1534,"Studio","Apartment"
+"309 Oak St SE, Minneapolis, MN 55414","2026/09/14",1514,"1 Bed","Apartment"
+"309 Oak St SE, Minneapolis, MN 55414","2026/09/14",954,"2 Beds","Apartment"
+"400 Marquette Ave, Minneapolis, MN 55401","2026/09/14",1613,"Studio","Apartment"
+"400 Marquette Ave, Minneapolis, MN 55401","2026/09/14",1733,"1 Bed","Apartment"
+"400 Marquette Ave, Minneapolis, MN 55401","2026/09/14",2593,"2 Beds","Apartment"
+"1320 W Lake St, Minneapolis, MN 55408","2026/09/14",1259,"Studio","Apartment"
+"1320 W Lake St, Minneapolis, MN 55408","2026/09/14",1519,"1 Bed","Apartment"
+"1320 W Lake St, Minneapolis, MN 55408","2026/09/14",2013,"2 Beds+","Apartment"
+"701 University Ave SE, Minneapolis, MN 55414","2026/09/14",949,"Studio","Apartment"
+"701 University Ave SE, Minneapolis, MN 55414","2026/09/14",1099,"1 Bed","Apartment"
+"2900 Irving Ave S, Minneapolis, MN 55408","2026/09/14",1750,"1 Bed","Apartment"
+"2900 Irving Ave S, Minneapolis, MN 55408","2026/09/14",3995,"3 Beds","Apartment"
+"212 10th Ave S, Minneapolis, MN 55415","2026/09/14",1932,"Studio","Apartment"
+"212 10th Ave S, Minneapolis, MN 55415","2026/09/14",2096,"1 Bed","Apartment"
+"212 10th Ave S, Minneapolis, MN 55415","2026/09/14",2879,"2 Beds+","Apartment"
+"515 15th Ave S, Minneapolis, MN 55454","2026/09/14",1025,"Studio","Apartment"
+"515 15th Ave S, Minneapolis, MN 55454","2026/09/14",1384,"1 Bed","Apartment"
+"515 15th Ave S, Minneapolis, MN 55454","2026/09/14",1686,"2 Beds","Apartment"
+"2900 Thomas Ave S, Minneapolis, MN 55416","2026/09/14",1700,"Studio","Apartment"
+"2900 Thomas Ave S, Minneapolis, MN 55416","2026/09/14",1929,"1 Bed","Apartment"
+"2900 Thomas Ave S, Minneapolis, MN 55416","2026/09/14",2454,"2 Beds+","Apartment"
+"2922 Aldrich Ave S, Minneapolis, MN 55408","2026/09/14",1308,"Studio","Apartment"
+"2922 Aldrich Ave S, Minneapolis, MN 55408","2026/09/14",1508,"1 Bed","Apartment"
+"2922 Aldrich Ave S, Minneapolis, MN 55408","2026/09/14",1958,"2 Beds","Apartment"
+"2838 Fremont Ave S, Minneapolis, MN 55408","2026/09/14",1408,"Studio","Apartment"
+"2838 Fremont Ave S, Minneapolis, MN 55408","2026/09/14",1503,"1 Bed","Apartment"
+"2838 Fremont Ave S, Minneapolis, MN 55408","2026/09/14",1908,"2 Beds","Apartment"
+"2817 Girard Ave S, Minneapolis, MN 55408","2026/09/14",1350,"1 Bed","Apartment"
+"2817 Girard Ave S, Minneapolis, MN 55408","2026/09/14",1930,"2 Beds","Apartment"
+"22 27th Ave SE, Minneapolis, MN 55414","2026/09/14",850,"Studio","Apartment"
+"22 27th Ave SE, Minneapolis, MN 55414","2026/09/14",1183,"1 Bed","Apartment"
+"22 27th Ave SE, Minneapolis, MN 55414","2026/09/14",2066,"2 Beds","Apartment"
+"1300 W Lake St, Minneapolis, MN 55408","2026/09/14",1400,"Studio","Apartment"
+"1300 W Lake St, Minneapolis, MN 55408","2026/09/14",1380,"1 Bed","Apartment"
+"1300 W Lake St, Minneapolis, MN 55408","2026/09/14",2144,"2 Beds","Apartment"
+"240 Chicago Ave, Minneapolis, MN 55415","2026/09/14",1403,"Studio","Apartment"
+"240 Chicago Ave, Minneapolis, MN 55415","2026/09/14",1497,"1 Bed","Apartment"
+"240 Chicago Ave, Minneapolis, MN 55415","2026/09/14",2839,"2 Beds","Apartment"
+"2905 Harriet Ave S, Minneapolis, MN 55408","2026/09/14",1290,"Studio","Apartment"
+"2905 Harriet Ave S, Minneapolis, MN 55408","2026/09/14",1309,"1 Bed","Apartment"
+"2905 Harriet Ave S, Minneapolis, MN 55408","2026/09/14",2073,"2 Beds","Apartment"
+"500 E 14th St, Minneapolis, MN 55404","2026/09/14",11003,"2 Beds",NA
+"2015 Lyndale Ave, Minneapolis, MN 55405","2026/09/14",1279,"Studio","Apartment"
+"2015 Lyndale Ave, Minneapolis, MN 55405","2026/09/14",1405,"1 Bed","Apartment"
+"811 Washington Ave S, Minneapolis, MN 55415","2026/09/14",2215,"1 Bed","Apartment"
+"811 Washington Ave S, Minneapolis, MN 55415","2026/09/14",2850,"2 Beds","Apartment"
+"333 E Hennepin Ave, Minneapolis, MN 55414","2026/09/14",1362,"Studio","Apartment"
+"333 E Hennepin Ave, Minneapolis, MN 55414","2026/09/14",2244,"1 Bed","Apartment"
+"333 E Hennepin Ave, Minneapolis, MN 55414","2026/09/14",3538,"2 Beds","Apartment"
+"3029 22nd Ave, Minneapolis, MN 55407","2026/09/14",1144,"Studio","Apartment"
+"3029 22nd Ave, Minneapolis, MN 55407","2026/09/14",1210,"1 Bed","Apartment"
+"3029 22nd Ave, Minneapolis, MN 55407","2026/09/14",1938,"2 Beds","Apartment"
+"2621 Lyndale Ave S, Minneapolis, MN 55408","2026/09/14",1324,"1 Bed","Apartment"
+"2621 Lyndale Ave S, Minneapolis, MN 55408","2026/09/14",2149,"2 Beds","Apartment"
+"205 Park Ave, Minneapolis, MN 55415","2026/09/14",1688,"1 Bed","Apartment"
+"205 Park Ave, Minneapolis, MN 55415","2026/09/14",3314,"2 Beds","Apartment"
+"2000 Lyndale Ave, Minneapolis, MN 55405","2026/09/14",1150,"Studio","Apartment"
+"2000 Lyndale Ave, Minneapolis, MN 55405","2026/09/14",1425,"1 Bed","Apartment"
+"2000 Lyndale Ave, Minneapolis, MN 55405","2026/09/14",1955,"2 Beds","Apartment"
+"2837 Emerson Ave S, Minneapolis, MN 55408","2026/09/14",1397,"Studio","Apartment"
+"2837 Emerson Ave S, Minneapolis, MN 55408","2026/09/14",1502,"1 Bed","Apartment"
+"2837 Emerson Ave S, Minneapolis, MN 55408","2026/09/14",2272,"2 Beds","Apartment"
+"1455 W Lake St, Minneapolis, MN 55408","2026/09/14",1053,"Studio","Apartment"
+"1455 W Lake St, Minneapolis, MN 55408","2026/09/14",1828,"1 Bed","Apartment"
+"1455 W Lake St, Minneapolis, MN 55408","2026/09/14",2333,"2 Beds","Apartment"
+"2333 Jackson St NE, Minneapolis, MN 55418","2026/09/14",1175,"Studio","Apartment"
+"2333 Jackson St NE, Minneapolis, MN 55418","2026/09/14",1395,"1 Bed","Apartment"
+"2333 Jackson St NE, Minneapolis, MN 55418","2026/09/14",1905,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"3750 Silver Lake Rd NE, Saint Anthony, MN 55421","2026/09/14",1489,"1 Bed","Apartment"
+"3750 Silver Lake Rd NE, Saint Anthony, MN 55421","2026/09/14",2399,"2 Beds","Apartment"
+"3750 Silver Lake Rd NE, Saint Anthony, MN 55421","2026/09/14",3699,"3 Beds","Apartment"
+"2227 University Ave, Saint Paul, MN 55114","2026/09/14",1256,"Studio","Apartment"
+"2227 University Ave, Saint Paul, MN 55114","2026/09/14",1331,"1 Bed","Apartment"
+"6200 Penn Ave S, Richfield, MN 55423","2026/09/14",1494,"Studio","Apartment"
+"6200 Penn Ave S, Richfield, MN 55423","2026/09/14",1692,"1 Bed","Apartment"
+"6200 Penn Ave S, Richfield, MN 55423","2026/09/14",2471,"2 Beds+","Apartment"
+"6445 Lyndale Ave S, Richfield, MN 55423","2026/09/14",1295,"Studio","Apartment"
+"6445 Lyndale Ave S, Richfield, MN 55423","2026/09/14",1595,"1 Bed","Apartment"
+"6445 Lyndale Ave S, Richfield, MN 55423","2026/09/14",2295,"2 Beds+","Apartment"
+"808 Berry St, Saint Paul, MN 55114","2026/09/14",1699,"1 Bed","Apartment"
+"808 Berry St, Saint Paul, MN 55114","2026/09/14",2150,"2 Beds","Apartment"
+"808 Berry St, Saint Paul, MN 55114","2026/09/14",2866,"3 Beds","Apartment"
+"740 Mississippi River Blvd S, Saint Paul, MN 55116","2026/09/14",1435,"Studio","Apartment"
+"740 Mississippi River Blvd S, Saint Paul, MN 55116","2026/09/14",1480,"1 Bed","Apartment"
+"740 Mississippi River Blvd S, Saint Paul, MN 55116","2026/09/14",1999,"2 Beds+","Apartment"
+"4531 W 36 1/2 St, Saint Louis Park, MN 55416","2026/09/14",1099,"Studio","Apartment"
+"4531 W 36 1/2 St, Saint Louis Park, MN 55416","2026/09/14",1259,"1 Bed","Apartment"
+"4531 W 36 1/2 St, Saint Louis Park, MN 55416","2026/09/14",1419,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"3504 Minikahda Ct, Saint Louis Park, MN 55416","2026/09/14",1185,"Studio","Apartment"
+"3504 Minikahda Ct, Saint Louis Park, MN 55416","2026/09/14",1385,"1 Bed","Apartment"
+"3504 Minikahda Ct, Saint Louis Park, MN 55416","2026/09/14",1550,"2 Beds","Apartment"
+"1631 Carl St, Lauderdale, MN 55108","2026/09/14",1095,"1 Bed","Apartment"
+"1631 Carl St, Lauderdale, MN 55108","2026/09/14",1195,"2 Beds","Apartment"
+"3200 Inglewood Ave S, Saint Louis Park, MN 55416","2026/09/14",1789,"1 Bed","Apartment"
+"3200 Inglewood Ave S, Saint Louis Park, MN 55416","2026/09/14",2209,"2 Beds","Apartment"
+"6725 York Ave S, Edina, MN 55435","2026/09/14",1722,"1 Bed","Apartment"
+"6725 York Ave S, Edina, MN 55435","2026/09/14",2245,"2 Beds","Apartment"
+"6725 York Ave S, Edina, MN 55435","2026/09/14",3336,"3 Beds","Apartment"
+"3700 Huset Pky, Columbia Heights, MN 55421","2026/09/14",1439,"1 Bed","Apartment"
+"3700 Huset Pky, Columbia Heights, MN 55421","2026/09/14",1559,"2 Beds","Apartment"
+"3700 Huset Pky, Columbia Heights, MN 55421","2026/09/14",1788,"3 Beds","Apartment"
+"4015 Highway 25, Saint Louis Park, MN 55416","2026/09/14",1560,"1 Bed","Apartment"
+"4015 Highway 25, Saint Louis Park, MN 55416","2026/09/14",2790,"2 Beds","Apartment"
+"6630 Richfield Pky, Richfield, MN 55423","2026/09/14",1354,"Studio","Apartment"
+"6630 Richfield Pky, Richfield, MN 55423","2026/09/14",1439,"1 Bed","Apartment"
+"6630 Richfield Pky, Richfield, MN 55423","2026/09/14",2004,"2 Beds","Apartment"
+"747 Hampden Ave, Saint Paul, MN 55114","2026/09/14",1370,"Studio","Apartment"
+"747 Hampden Ave, Saint Paul, MN 55114","2026/09/14",2350,"2 Beds","Apartment"
+"2400 W 66th St, Richfield, MN 55423","2026/09/14",1325,"Studio","Apartment"
+"2400 W 66th St, Richfield, MN 55423","2026/09/14",1814,"1 Bed","Apartment"
+"2400 W 66th St, Richfield, MN 55423","2026/09/14",1836,"2 Beds","Apartment"
+"2841 Bryant Ave S, Minneapolis, MN 55408","2026/09/14",1290,"Studio","Apartment"
+"2841 Bryant Ave S, Minneapolis, MN 55408","2026/09/14",1475,"1 Bed","Apartment"
+"2841 Bryant Ave S, Minneapolis, MN 55408","2026/09/14",2245,"2 Beds","Apartment"
+"2813 4th St SE, Minneapolis, MN 55414","2026/09/14",1299,"Studio","Apartment"
+"2813 4th St SE, Minneapolis, MN 55414","2026/09/14",1449,"1 Bed","Apartment"
+"2813 4th St SE, Minneapolis, MN 55414","2026/09/14",1999,"2 Beds","Apartment"
+"4757 Hiawatha Ave, Minneapolis, MN 55406","2026/09/14",1350,"Studio","Apartment"
+"4757 Hiawatha Ave, Minneapolis, MN 55406","2026/09/14",1375,"1 Bed","Apartment"
+"115 N 2nd St, Minneapolis, MN 55401","2026/09/14",1413,"Studio","Apartment"
+"115 N 2nd St, Minneapolis, MN 55401","2026/09/14",1675,"1 Bed","Apartment"
+"115 N 2nd St, Minneapolis, MN 55401","2026/09/14",2590,"2 Beds","Apartment"
+"120 Hennepin Ave, Minneapolis, MN 55401","2026/09/14",1843,"1 Bed","Apartment"
+"120 Hennepin Ave, Minneapolis, MN 55401","2026/09/14",2983,"2 Beds","Apartment"
+"47 Spruce Pl, Minneapolis, MN 55403","2026/09/14",1325,"Studio","Apartment"
+"47 Spruce Pl, Minneapolis, MN 55403","2026/09/14",1408,"1 Bed","Apartment"
+"47 Spruce Pl, Minneapolis, MN 55403","2026/09/14",2275,"2 Beds","Apartment"
+"501 Main St SE, Minneapolis, MN 55414","2026/09/14",1750,"Studio","Apartment"
+"501 Main St SE, Minneapolis, MN 55414","2026/09/14",2015,"1 Bed","Apartment"
+"501 Main St SE, Minneapolis, MN 55414","2026/09/14",3010,"2 Beds","Apartment"
+"915 Washington Ave N, Minneapolis, MN 55401","2026/09/14",1599,"1 Bed","Apartment"
+"915 Washington Ave N, Minneapolis, MN 55401","2026/09/14",2199,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"107 13th Ave NE, Minneapolis, MN 55413","2026/09/14",1311,"Studio","Apartment"
+"107 13th Ave NE, Minneapolis, MN 55413","2026/09/14",1504,"1 Bed","Apartment"
+"4603 Minnehaha Ave, Minneapolis, MN 55406","2026/09/14",1390,"Studio","Apartment"
+"4603 Minnehaha Ave, Minneapolis, MN 55406","2026/09/14",1422,"1 Bed","Apartment"
+"310 N 2nd St, Minneapolis, MN 55401","2026/09/14",2959,"1 Bed","Apartment"
+"310 N 2nd St, Minneapolis, MN 55401","2026/09/14",4463,"2 Beds","Apartment"
+"4440 Beard Ave S, Minneapolis, MN 55410","2026/09/14",1200,"Studio","Apartment"
+"4440 Beard Ave S, Minneapolis, MN 55410","2026/09/14",1250,"1 Bed","Apartment"
+"4440 Beard Ave S, Minneapolis, MN 55410","2026/09/14",1500,"2 Beds","Apartment"
+"528 N Washington Ave, Minneapolis, MN 55401","2026/09/14",1299,"Studio","Apartment"
+"528 N Washington Ave, Minneapolis, MN 55401","2026/09/14",1433,"1 Bed","Apartment"
+"528 N Washington Ave, Minneapolis, MN 55401","2026/09/14",2600,"2 Beds","Apartment"
+"3140 Chowen Ave S, Minneapolis, MN 55416","2026/09/14",1221,"Studio","Apartment"
+"3140 Chowen Ave S, Minneapolis, MN 55416","2026/09/14",1335,"1 Bed","Apartment"
+"3140 Chowen Ave S, Minneapolis, MN 55416","2026/09/14",1696,"2 Beds","Apartment"
+"4901 France Ave S, Minneapolis, MN 55410","2026/09/14",3115,"1 Bed","Apartment"
+"4901 France Ave S, Minneapolis, MN 55410","2026/09/14",4850,"2 Beds","Apartment"
+"1101 Main St NE, Minneapolis, MN 55413","2026/09/14",1815,"1 Bed","Apartment"
+"1101 Main St NE, Minneapolis, MN 55413","2026/09/14",2285,"2 Beds","Apartment"
+"150 26th Ave SE, Minneapolis, MN 55414","2026/09/14",1423,"Studio","Apartment"
+"150 26th Ave SE, Minneapolis, MN 55414","2026/09/14",1513,"1 Bed","Apartment"
+"150 26th Ave SE, Minneapolis, MN 55414","2026/09/14",2108,"2 Beds+","Apartment"
+"1115-1125 W 28th St, Minneapolis, MN 55408","2026/09/14",1229,"1 Bed","Apartment"
+"1115-1125 W 28th St, Minneapolis, MN 55408","2026/09/14",1455,"2 Beds","Apartment"
+"1101-1105 W 28th St, Minneapolis, MN 55408","2026/09/14",1300,"1 Bed","Apartment"
+"1101-1105 W 28th St, Minneapolis, MN 55408","2026/09/14",1475,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"1000 Main St NE, Minneapolis, MN 55413","2026/09/14",1195,"Studio","Apartment"
+"1000 Main St NE, Minneapolis, MN 55413","2026/09/14",1523,"1 Bed","Apartment"
+"725 8th St SE, Minneapolis, MN 55414","2026/09/14",1190,"Studio","Apartment"
+"725 8th St SE, Minneapolis, MN 55414","2026/09/14",1250,"1 Bed","Apartment"
+"725 8th St SE, Minneapolis, MN 55414","2026/09/14",1380,"2 Beds","Apartment"
+"1500 Nicollet Ave S, Minneapolis, MN 55403","2026/09/14",1342,"1 Bed","Apartment"
+"1500 Nicollet Ave S, Minneapolis, MN 55403","2026/09/14",1700,"2 Beds","Apartment"
+"1500 Nicollet Ave S, Minneapolis, MN 55403","2026/09/14",2022,"3 Beds","Apartment"
+"1212 W Lake St, Minneapolis, MN 55408","2026/09/14",1193,"Studio","Apartment"
+"1212 W Lake St, Minneapolis, MN 55408","2026/09/14",1333,"1 Bed","Apartment"
+"1212 W Lake St, Minneapolis, MN 55408","2026/09/14",1773,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"115 2nd Ave S, Minneapolis, MN 55401","2026/09/14",1119,"Studio","Apartment"
+"115 2nd Ave S, Minneapolis, MN 55401","2026/09/14",1147,"1 Bed","Apartment"
+"115 2nd Ave S, Minneapolis, MN 55401","2026/09/14",1537,"2 Beds","Apartment"
+"3120 E 36th St, Minneapolis, MN 55406","2026/09/14",1510,"1 Bed","Apartment"
+"3120 E 36th St, Minneapolis, MN 55406","2026/09/14",1782,"2 Beds","Apartment"
+"2655 Essex St SE, Minneapolis, MN 55414","2026/09/14",789,"3 Beds","Apartment"
+"2655 Essex St SE, Minneapolis, MN 55414","2026/09/14",707,"4 Beds","Apartment"
+"815 9th Ave SE, Minneapolis, MN 55414","2026/09/14",1325,"1 Bed","Apartment"
+"815 9th Ave SE, Minneapolis, MN 55414","2026/09/14",1795,"2 Beds","Apartment"
+"815 9th Ave SE, Minneapolis, MN 55414","2026/09/14",2495,"4 Beds","Apartment"
+"1015 University Ave SE, Minneapolis, MN 55414","2026/09/14",550,"1 Bed","Apartment"
+"1015 University Ave SE, Minneapolis, MN 55414","2026/09/14",3300,"4 Beds","Apartment"
+"1015 University Ave SE, Minneapolis, MN 55414","2026/09/14",4000,"5 Beds","Apartment"
+"2716 Blaisdell Ave, Minneapolis, MN 55408","2026/09/14",850,"Studio","Apartment"
+"2716 Blaisdell Ave, Minneapolis, MN 55408","2026/09/14",1399,"2 Beds","Apartment"
+"5555 Zealand Ave N, Minneapolis, MN 55428","2026/09/14",1099,"1 Bed","Apartment"
+"5555 Zealand Ave N, Minneapolis, MN 55428","2026/09/14",1399,"2 Beds","Apartment"
+"8500-8516 63rd Ave N, Minneapolis, MN 55428","2026/09/14",1056,"1 Bed","Apartment"
+"8500-8516 63rd Ave N, Minneapolis, MN 55428","2026/09/14",1266,"2 Beds","Apartment"
+"16 E 15th St, Minneapolis, MN 55403","2026/09/14",788,"Studio","Apartment"
+"16 E 15th St, Minneapolis, MN 55403","2026/09/14",819,"1 Bed","Apartment"
+"16 E 15th St, Minneapolis, MN 55403","2026/09/14",1361,"2 Beds","Apartment"
+"2551 38th Ave NE, Saint Anthony, MN 55421","2026/09/14",1699,"Studio","Apartment"
+"2551 38th Ave NE, Saint Anthony, MN 55421","2026/09/14",1799,"1 Bed","Apartment"
+"2551 38th Ave NE, Saint Anthony, MN 55421","2026/09/14",2099,"2 Beds","Apartment"
+"3945 Market St, Edina, MN 55424","2026/09/14",2189,"1 Bed","Apartment"
+"3945 Market St, Edina, MN 55424","2026/09/14",6744,"2 Beds","Apartment"
+"3945 Market St, Edina, MN 55424","2026/09/14",8995,"3 Beds","Apartment"
+"1511 Utica Ave S, Saint Louis Park, MN 55416","2026/09/14",1864,"Studio","Apartment"
+"1511 Utica Ave S, Saint Louis Park, MN 55416","2026/09/14",2034,"1 Bed","Apartment"
+"1511 Utica Ave S, Saint Louis Park, MN 55416","2026/09/14",2874,"2 Beds","Apartment"
+"5310 W 16th St, Saint Louis Park, MN 55416","2026/09/14",1700,"1 Bed","Apartment"
+"5310 W 16th St, Saint Louis Park, MN 55416","2026/09/14",2595,"2 Beds","Apartment"
+"777 Berry St, Saint Paul, MN 55114","2026/09/14",1350,"1 Bed","Apartment"
+"777 Berry St, Saint Paul, MN 55114","2026/09/14",1569,"2 Beds","Apartment"
+"4301-4325 Minnetonka Blvd, Saint Louis Park, MN 55416","2026/09/14",1180,"1 Bed","Apartment"
+"4301-4325 Minnetonka Blvd, Saint Louis Park, MN 55416","2026/09/14",1325,"2 Beds","Apartment"
+"760 Raymond Ave, Saint Paul, MN 55114","2026/09/14",1109,"Studio","Apartment"
+"760 Raymond Ave, Saint Paul, MN 55114","2026/09/14",1293,"1 Bed","Apartment"
+"760 Raymond Ave, Saint Paul, MN 55114","2026/09/14",2113,"2 Beds","Apartment"
+"1622 Carl St, Lauderdale, MN 55108","2026/09/14",1085,"1 Bed","Apartment"
+"1622 Carl St, Lauderdale, MN 55108","2026/09/14",1270,"2 Beds","Apartment"
+"4900 Cedar Lake Rd S, Saint Louis Park, MN 55416","2026/09/14",1410,"1 Bed","Apartment"
+"4900 Cedar Lake Rd S, Saint Louis Park, MN 55416","2026/09/14",2475,"2 Beds","Apartment"
+"3612-3624 Lynn Ave, Saint Louis Park, MN 55416","2026/09/14",1175,"1 Bed","Apartment"
+"3612-3624 Lynn Ave, Saint Louis Park, MN 55416","2026/09/14",1275,"2 Beds","Apartment"
+"1570 Eustis St, Lauderdale, MN 55108","2026/09/14",1505,"1 Bed","Apartment"
+"1570 Eustis St, Lauderdale, MN 55108","2026/09/14",1799,"2 Beds","Apartment"
+"1570 Eustis St, Lauderdale, MN 55108","2026/09/14",2200,"3 Beds","Apartment"
+"5801 N Xerxes Ave, Brooklyn Center, MN 55430","2026/09/14",1412,"1 Bed","Apartment"
+"5801 N Xerxes Ave, Brooklyn Center, MN 55430","2026/09/14",1693,"2 Beds","Apartment"
+"5801 N Xerxes Ave, Brooklyn Center, MN 55430","2026/09/14",1951,"3 Beds","Apartment"
+NA,NA,NA,NA,NA
+"3430 List Pl, Minneapolis, MN 55416","2026/09/14",1488,"Studio","Apartment"
+"3430 List Pl, Minneapolis, MN 55416","2026/09/14",1703,"1 Bed","Apartment"
+"3430 List Pl, Minneapolis, MN 55416","2026/09/14",2603,"2 Beds","Apartment"
+"3510 Beltline Blvd, Minneapolis, MN 55416","2026/09/14",2071,"1 Bed","Apartment"
+"3510 Beltline Blvd, Minneapolis, MN 55416","2026/09/14",2950,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"625 2nd St, Minneapolis, MN 55401","2026/09/14",1455,"Studio","Apartment"
+"625 2nd St, Minneapolis, MN 55401","2026/09/14",1580,"1 Bed","Apartment"
+"432 1st St N, Minneapolis, MN 55401","2026/09/14",1395,"1 Bed","Apartment"
+"432 1st St N, Minneapolis, MN 55401","2026/09/14",1625,"2 Beds","Apartment"
+"1800 Washington Ave S, Minneapolis, MN 55454","2026/09/14",1468,"Studio","Apartment"
+"1800 Washington Ave S, Minneapolis, MN 55454","2026/09/14",1703,"1 Bed","Apartment"
+"1800 Washington Ave S, Minneapolis, MN 55454","2026/09/14",1988,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"90 S 9th St, Minneapolis, MN 55402","2026/09/14",1300,"Studio","Apartment"
+"90 S 9th St, Minneapolis, MN 55402","2026/09/14",1500,"1 Bed","Apartment"
+"90 S 9th St, Minneapolis, MN 55402","2026/09/14",2000,"2 Beds","Apartment"
+"3536 Nicollet Ave, Minneapolis, MN 55408","2026/09/14",1194,"Studio","Apartment"
+"3536 Nicollet Ave, Minneapolis, MN 55408","2026/09/14",1480,"1 Bed","Apartment"
+"3536 Nicollet Ave, Minneapolis, MN 55408","2026/09/14",2635,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"3036 W Lake St, Minneapolis, MN 55416","2026/09/14",1348,"Studio","Apartment"
+"3036 W Lake St, Minneapolis, MN 55416","2026/09/14",1683,"1 Bed","Apartment"
+"3036 W Lake St, Minneapolis, MN 55416","2026/09/14",2128,"2 Beds","Apartment"
+"730 1/2 N 1st St, Minneapolis, MN 55401","2026/09/14",1732,"Studio","Apartment"
+"730 1/2 N 1st St, Minneapolis, MN 55401","2026/09/14",2583,"1 Bed","Apartment"
+"1215 Marshall St NE, Minneapolis, MN 55413","2026/09/14",1781,"1 Bed","Apartment"
+"1215 Marshall St NE, Minneapolis, MN 55413","2026/09/14",2537,"2 Beds","Apartment"
+"1215 Marshall St NE, Minneapolis, MN 55413","2026/09/14",3423,"3 Beds","Apartment"
+"309-315 1st Ave NE, Minneapolis, MN 55413","2026/09/14",1679,"Studio","Apartment"
+"309-315 1st Ave NE, Minneapolis, MN 55413","2026/09/14",1919,"1 Bed","Apartment"
+"309-315 1st Ave NE, Minneapolis, MN 55413","2026/09/14",2789,"2 Beds+","Apartment"
+"3625 E 43rd St, Minneapolis, MN 55406","2026/09/14",1295,"Studio","Apartment"
+"3625 E 43rd St, Minneapolis, MN 55406","2026/09/14",1605,"1 Bed","Apartment"
+"3625 E 43rd St, Minneapolis, MN 55406","2026/09/14",2190,"2 Beds","Apartment"
+"415 Oak G..., Minneapolis, MN 55403","2026/09/14",1428,"Studio","Apartment"
+"415 Oak G..., Minneapolis, MN 55403","2026/09/14",1633,"1 Bed","Apartment"
+"415 Oak G..., Minneapolis, MN 55403","2026/09/14",2148,"2 Beds+","Apartment"
+"5235 Wayzata Blvd, Minneapolis, MN 55416","2026/09/14",1822,"Studio","Apartment"
+"5235 Wayzata Blvd, Minneapolis, MN 55416","2026/09/14",2107,"1 Bed","Apartment"
+"5235 Wayzata Blvd, Minneapolis, MN 55416","2026/09/14",2712,"2 Beds+","Apartment"
+"1401 6th St SE, Minneapolis, MN 55414","2026/09/14",695,"2 Beds","Apartment"
+"1401 6th St SE, Minneapolis, MN 55414","2026/09/14",525,"4 Beds","Apartment"
+"2520 8th St S, Minneapolis, MN 55454","2026/09/14",1645,"1 Bed","Apartment"
+"2520 8th St S, Minneapolis, MN 55454","2026/09/14",1915,"2 Beds","Apartment"
+"4020 Nawadaha Blvd, Minneapolis, MN 55406","2026/09/14",1399,"1 Bed","Apartment"
+"4020 Nawadaha Blvd, Minneapolis, MN 55406","2026/09/14",2196,"2 Beds","Apartment"
+"265 Girard Ave N, Minneapolis, MN 55405","2026/09/14",1155,"Studio","Apartment"
+"265 Girard Ave N, Minneapolis, MN 55405","2026/09/14",1350,"1 Bed","Apartment"
+"265 Girard Ave N, Minneapolis, MN 55405","2026/09/14",1895,"2 Beds","Apartment"
+"2622 W Lake St, Minneapolis, MN 55416","2026/09/14",2282,"1 Bed","Apartment"
+"2622 W Lake St, Minneapolis, MN 55416","2026/09/14",3500,"2 Beds","Apartment"
+"120 2nd St N, Minneapolis, MN 55401","2026/09/14",2106,"1 Bed","Apartment"
+"120 2nd St N, Minneapolis, MN 55401","2026/09/14",2504,"2 Beds","Apartment"
+"338 2nd St NE, Minneapolis, MN 55413","2026/09/14",1491,"Studio","Apartment"
+"338 2nd St NE, Minneapolis, MN 55413","2026/09/14",1428,"1 Bed","Apartment"
+"338 2nd St NE, Minneapolis, MN 55413","2026/09/14",2151,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"4621 Snelling Ave, Minneapolis, MN 55406","2026/09/14",1329,"1 Bed","Apartment"
+"4621 Snelling Ave, Minneapolis, MN 55406","2026/09/14",2016,"2 Beds","Apartment"
+"1300 Yale Pl, Minneapolis, MN 55403","2026/09/14",1269,"Studio","Apartment"
+"1300 Yale Pl, Minneapolis, MN 55403","2026/09/14",1517,"1 Bed","Apartment"
+"1300 Yale Pl, Minneapolis, MN 55403","2026/09/14",1951,"2 Beds+","Apartment"
+"2850 N Wayzata Blvd, Minneapolis, MN 55405","2026/09/14",1919,"1 Bed","Apartment"
+"2850 N Wayzata Blvd, Minneapolis, MN 55405","2026/09/14",2543,"2 Beds","Apartment"
+"1180 Tyler St NE, Minneapolis, MN 55413","2026/09/14",1508,"Studio","Apartment"
+"1180 Tyler St NE, Minneapolis, MN 55413","2026/09/14",1593,"1 Bed","Apartment"
+"1180 Tyler St NE, Minneapolis, MN 55413","2026/09/14",2658,"2 Beds","Apartment"
+"1500 LaSalle Ave, Minneapolis, MN 55403","2026/09/14",920,"Studio","Apartment"
+"1500 LaSalle Ave, Minneapolis, MN 55403","2026/09/14",1250,"1 Bed","Apartment"
+"465 Nicollet Mall, Minneapolis, MN 55401","2026/09/14",1675,"Studio","Apartment"
+"465 Nicollet Mall, Minneapolis, MN 55401","2026/09/14",1595,"1 Bed","Apartment"
+"465 Nicollet Mall, Minneapolis, MN 55401","2026/09/14",3145,"2 Beds","Apartment"
+"225 W 15th St, Minneapolis, MN 55403","2026/09/14",907,"",NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"101 S 5th St, Minneapolis, MN 55402","2026/09/14",1335,"Studio","Apartment"
+"101 S 5th St, Minneapolis, MN 55402","2026/09/14",1415,"1 Bed","Apartment"
+"101 S 5th St, Minneapolis, MN 55402","2026/09/14",1919,"2 Beds+","Apartment"
+"6045 Lyndale Ave, Minneapolis, MN 55419","2026/09/14",1139,"Studio","Apartment"
+"6045 Lyndale Ave, Minneapolis, MN 55419","2026/09/14",1099,"1 Bed","Apartment"
+"6045 Lyndale Ave, Minneapolis, MN 55419","2026/09/14",1719,"2 Beds","Apartment"
+"1006 W Lake St, Minneapolis, MN 55408","2026/09/14",1364,"1 Bed","Apartment"
+"1006 W Lake St, Minneapolis, MN 55408","2026/09/14",1709,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"1219 W 31st St, Minneapolis, MN 55408","2026/09/14",1000,"Studio","Apartment"
+"1219 W 31st St, Minneapolis, MN 55408","2026/09/14",1687,"1 Bed","Apartment"
+"311 Harvard St SE, Minneapolis, MN 55414","2026/09/14",1300,"Studio","Apartment"
+"311 Harvard St SE, Minneapolis, MN 55414","2026/09/14",620,"2 Beds","Apartment"
+"311 Harvard St SE, Minneapolis, MN 55414","2026/09/14",1100,"3 Beds+","Apartment"
+NA,NA,NA,NA,NA
+"117 27th Ave SE, Minneapolis, MN 55414","2026/09/14",752,"2 Beds","Apartment"
+"117 27th Ave SE, Minneapolis, MN 55414","2026/09/14",692,"3 Beds","Apartment"
+"117 27th Ave SE, Minneapolis, MN 55414","2026/09/14",612,"4 Beds","Apartment"
+"515 14th Ave SE, Minneapolis, MN 55414","2026/09/14",1575,"1 Bed","Apartment"
+"515 14th Ave SE, Minneapolis, MN 55414","2026/09/14",549,"2 Beds","Apartment"
+"515 14th Ave SE, Minneapolis, MN 55414","2026/09/14",829,"3 Beds+","Apartment"
+"233 Oak Grove St, Minneapolis, MN 55403","2026/09/14",860,"Studio","Apartment"
+"233 Oak Grove St, Minneapolis, MN 55403","2026/09/14",1115,"1 Bed","Apartment"
+"233 Oak Grove St, Minneapolis, MN 55403","2026/09/14",1314,"2 Beds","Apartment"
+"2524 Highway 100 S, Minneapolis, MN 55416","2026/09/14",1245,"1 Bed","Apartment"
+"2524 Highway 100 S, Minneapolis, MN 55416","2026/09/14",1500,"2 Beds","Apartment"
+"26 Oak Grove St, Minneapolis, MN 55403","2026/09/14",750,"Studio","Apartment"
+"26 Oak Grove St, Minneapolis, MN 55403","2026/09/14",850,"1 Bed","Apartment"
+"26 Oak Grove St, Minneapolis, MN 55403","2026/09/14",950,"2 Beds","Apartment"
+"706 9th St S, Minneapolis, MN 55404","2026/09/14",7506,"2 Beds",NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"3601 Park Center Blvd, Saint Louis Park, MN 55416","2026/09/14",1608,"1 Bed","Apartment"
+"3601 Park Center Blvd, Saint Louis Park, MN 55416","2026/09/14",1996,"2 Beds","Apartment"
+"3025 Ottawa Ave S, Saint Louis Park, MN 55416","2026/09/14",1180,"Studio","Apartment"
+"3025 Ottawa Ave S, Saint Louis Park, MN 55416","2026/09/14",1260,"1 Bed","Apartment"
+"3025 Ottawa Ave S, Saint Louis Park, MN 55416","2026/09/14",1500,"2 Beds","Apartment"
+"2323 Charles Ave, Saint Paul, MN 55114","2026/09/14",1295,"2 Beds",NA
+"2410 W University Ave W, Saint Paul, MN 55114","2026/09/14",1203,"Studio","Apartment"
+"2410 W University Ave W, Saint Paul, MN 55114","2026/09/14",1482,"1 Bed","Apartment"
+"2410 W University Ave W, Saint Paul, MN 55114","2026/09/14",2108,"2 Beds","Apartment"
+"3920 Excelsior Blvd, Saint Louis Park, MN 55416","2026/09/14",1782,"1 Bed","Apartment"
+"3920 Excelsior Blvd, Saint Louis Park, MN 55416","2026/09/14",2405,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"3200 Southdale Cir, Edina, MN 55435","2026/09/14",1398,"Studio","Apartment"
+"3200 Southdale Cir, Edina, MN 55435","2026/09/14",2100,"1 Bed","Apartment"
+"3200 Southdale Cir, Edina, MN 55435","2026/09/14",2724,"2 Beds+","Apartment"
+"6455 S York Ave, Edina, MN 55435","2026/09/14",1595,"1 Bed","Apartment"
+"6455 S York Ave, Edina, MN 55435","2026/09/14",1999,"2 Beds","Apartment"
+"765 N Hampden Ave, Saint Paul, MN 55114","2026/09/14",1366,"Studio","Apartment"
+"765 N Hampden Ave, Saint Paul, MN 55114","2026/09/14",1641,"1 Bed","Apartment"
+"765 N Hampden Ave, Saint Paul, MN 55114","2026/09/14",2283,"2 Beds","Apartment"
+"6400 Richfield Pky, Richfield, MN 55423","2026/09/14",1422,"Studio","Apartment"
+"6400 Richfield Pky, Richfield, MN 55423","2026/09/14",1546,"1 Bed","Apartment"
+"6400 Richfield Pky, Richfield, MN 55423","2026/09/14",2149,"2 Beds","Apartment"
+"2215 Hillcrest Drive, Saint Paul, MN 55116","2026/09/14",1757,"1 Bed","Apartment"
+"2215 Hillcrest Drive, Saint Paul, MN 55116","2026/09/14",2857,"2 Beds","Apartment"
+"4199 46th Ave N, Robbinsdale, MN 55422","2026/09/14",1329,"1 Bed","Apartment"
+"4199 46th Ave N, Robbinsdale, MN 55422","2026/09/14",1554,"2 Beds","Apartment"
+"4199 46th Ave N, Robbinsdale, MN 55422","2026/09/14",2724,"3 Beds+","Apartment"
+NA,NA,NA,NA,NA
+"4600 Lake Road Ave, Robbinsdale, MN 55422","2026/09/14",1567,"1 Bed","Apartment"
+"4600 Lake Road Ave, Robbinsdale, MN 55422","2026/09/14",2567,"2 Beds","Apartment"
+"845 Cleveland Ave S, Saint Paul, MN 55116","2026/09/14",1199,"1 Bed","Apartment"
+"845 Cleveland Ave S, Saint Paul, MN 55116","2026/09/14",1850,"2 Beds","Apartment"
+"3901 Sunnyside Rd S, Edina, MN 55424","2026/09/14",1111,"1 Bed","Apartment"
+"3901 Sunnyside Rd S, Edina, MN 55424","2026/09/14",3255,"2 Beds","Apartment"
+"6401 Lyndale Ave S, Richfield, MN 55423","2026/09/14",1575,"1 Bed","Apartment"
+"6401 Lyndale Ave S, Richfield, MN 55423","2026/09/14",2400,"3 Beds","Apartment"
+NA,NA,NA,NA,NA
+"950 Jefferson Commons Cir, Saint Paul, MN 55114","2026/09/14",875,"2 Beds","Apartment"
+"950 Jefferson Commons Cir, Saint Paul, MN 55114","2026/09/14",549,"4 Beds","Apartment"
+NA,NA,NA,NA,NA
+"2009 Bryant Ave S, Minneapolis, MN 55405","2026/09/14",1030,"Studio","Apartment"
+"2009 Bryant Ave S, Minneapolis, MN 55405","2026/09/14",1170,"1 Bed","Apartment"
+"810 SE Thornton St, Minneapolis, MN 55414","2026/09/14",1341,"1 Bed","Apartment"
+"810 SE Thornton St, Minneapolis, MN 55414","2026/09/14",1566,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"3508 Colfax Ave S, Minneapolis, MN 55408","2026/09/14",1095,"(952) 206-6884
+Message",NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"2001 Bryant Ave S, Minneapolis, MN 55405","2026/09/14",1030,"(651) 370-9379
+Message",NA
+"2121 Hennepin Ave, Minneapolis, MN 55405","2026/09/14",1070,"Studio","Apartment"
+"2121 Hennepin Ave, Minneapolis, MN 55405","2026/09/14",1160,"1 Bed","Apartment"
+"901 Xenia Ave S, Minneapolis, MN 55416","2026/09/14",1863,"1 Bed","Apartment"
+"901 Xenia Ave S, Minneapolis, MN 55416","2026/09/14",2488,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"829 NE Marshall St, Minneapolis, MN 55413","2026/09/14",1363,"Studio","Apartment"
+"829 NE Marshall St, Minneapolis, MN 55413","2026/09/14",1403,"1 Bed","Apartment"
+"829 NE Marshall St, Minneapolis, MN 55413","2026/09/14",2303,"2 Beds","Apartment"
+"3433-3435 Colfax Ave S, Minneapolis, MN 55408","2026/09/14",952,"(763) 363-5448
+Message",NA
+"7920 Minnetonka blvd, Minneapolis, MN 55426","2026/09/14",1795,"1 Bed","Apartment"
+"7920 Minnetonka blvd, Minneapolis, MN 55426","2026/09/14",2360,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"242 W Franklin Ave, Minneapolis, MN 55404","2026/09/14",1080,"Studio","Apartment"
+"242 W Franklin Ave, Minneapolis, MN 55404","2026/09/14",1150,"1 Bed","Apartment"
+"2626 Fremont Ave S, Minneapolis, MN 55408","2026/09/14",1055,"Studio","Apartment"
+"2626 Fremont Ave S, Minneapolis, MN 55408","2026/09/14",1150,"1 Bed","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"5100 Wayzata Blvd, Minneapolis, MN 55416","2026/09/14",1472,"Studio","Apartment"
+"5100 Wayzata Blvd, Minneapolis, MN 55416","2026/09/14",1815,"1 Bed","Apartment"
+"5100 Wayzata Blvd, Minneapolis, MN 55416","2026/09/14",2429,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"2800 N Wayzata Blvd, Minneapolis, MN 55405","2026/09/14",1775,"Studio","Apartment"
+"2800 N Wayzata Blvd, Minneapolis, MN 55405","2026/09/14",2055,"1 Bed","Apartment"
+"2800 N Wayzata Blvd, Minneapolis, MN 55405","2026/09/14",3495,"3 Beds+","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"2426 Blaisdell Ave, Minneapolis, MN 55404","2026/09/14",85012,"3 Beds+",NA
+"2120 Aldrich Ave S, Minneapolis, MN 55405","2026/09/14",925,"3 Beds+",NA
+"3725 Stinson Blvd, Minneapolis, MN 55421","2026/09/14",1395,"1 Bed","Apartment"
+"3725 Stinson Blvd, Minneapolis, MN 55421","2026/09/14",1955,"2 Beds","Apartment"
+"1400 Park Ave, Minneapolis, MN 55404","2026/09/14",1408,"Studio","Apartment"
+"1400 Park Ave, Minneapolis, MN 55404","2026/09/14",1593,"1 Bed","Apartment"
+"1400 Park Ave, Minneapolis, MN 55404","2026/09/14",2153,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"2709 Park Ave, Minneapolis, MN 55407","2026/09/14",801,"2 Beds",NA
+NA,NA,NA,NA,NA
+"2201 Blaisdell Ave, Minneapolis, MN 55404","2026/09/14",1195,"Studio","Apartment"
+"2201 Blaisdell Ave, Minneapolis, MN 55404","2026/09/14",1310,"1 Bed","Apartment"
+"2201 Blaisdell Ave, Minneapolis, MN 55404","2026/09/14",1865,"2 Beds","Apartment"
+"1400 E Franklin Ave, Minneapolis, MN 55404","2026/09/14",1203,"1 Bed","Apartment"
+"1400 E Franklin Ave, Minneapolis, MN 55404","2026/09/14",1463,"2 Beds","Apartment"
+"1400 E Franklin Ave, Minneapolis, MN 55404","2026/09/14",1890,"3 Beds","Apartment"
+NA,NA,NA,NA,NA
+"1111 S 7th St, Minneapolis, MN 55415","2026/09/14",90012,"3 Beds",NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"730 Hennepin Ave, Minneapolis, MN 55403","2026/09/14",1045,"Studio","Apartment"
+"730 Hennepin Ave, Minneapolis, MN 55403","2026/09/14",1250,"1 Bed","Apartment"
+NA,NA,NA,NA,NA
+"5544 Chicago Ave, Minneapolis, MN 55417","2026/09/14",1110,"1 Bed","Apartment"
+"5544 Chicago Ave, Minneapolis, MN 55417","2026/09/14",1450,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"125 Oak Grove St, Minneapolis, MN 55403","2026/09/14",855,"Studio","Apartment"
+"125 Oak Grove St, Minneapolis, MN 55403","2026/09/14",1025,"1 Bed","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"116 Oak Grove St, Minneapolis, MN 55403","2026/09/14",86012,"(651) 384-4299
+Message",NA
+"3419 Nicollet Ave, Minneapolis, MN 55408","2026/09/14",80012,"(651) 362-4241
+Message",NA
+"2101 Garfield Ave S, Minneapolis, MN 55405","2026/09/14",1043,"1 Bed","Apartment"
+"2101 Garfield Ave S, Minneapolis, MN 55405","2026/09/14",1313,"2 Beds","Apartment"
+"18 W 15th St, Minneapolis, MN 55403","2026/09/14",1239,"1 Bed","Apartment"
+"18 W 15th St, Minneapolis, MN 55403","2026/09/14",1669,"2 Beds","Apartment"
+"600 N 5th St, Minneapolis, MN 55401","2026/09/14",1410,"1 Bed","Apartment"
+"600 N 5th St, Minneapolis, MN 55401","2026/09/14",2765,"2 Beds","Apartment"
+"20 Lowry Ave NE, Minneapolis, MN 55418","2026/09/14",1050,"Studio","Apartment"
+"20 Lowry Ave NE, Minneapolis, MN 55418","2026/09/14",1344,"1 Bed","Apartment"
+"20 Lowry Ave NE, Minneapolis, MN 55418","2026/09/14",1825,"2 Beds","Apartment"
+"2515 University Ave SE, Minneapolis, MN 55414","2026/09/14",575,"2 Beds","Apartment"
+"2515 University Ave SE, Minneapolis, MN 55414","2026/09/14",700,"4 Beds","Apartment"
+"505 SE Malcolm Ave, Minneapolis, MN 55414","2026/09/14",1206,"1 Bed","Apartment"
+"505 SE Malcolm Ave, Minneapolis, MN 55414","2026/09/14",1325,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"4820 Highway 7, Saint Louis Park, MN 55416","2026/09/14",1414,"1 Bed","Apartment"
+"4820 Highway 7, Saint Louis Park, MN 55416","2026/09/14",1639,"2 Beds","Apartment"
+"800 Cretin Ave S, Saint Paul, MN 55116","2026/09/14",1313,"Studio","Apartment"
+"800 Cretin Ave S, Saint Paul, MN 55116","2026/09/14",1703,"1 Bed","Apartment"
+"800 Cretin Ave S, Saint Paul, MN 55116","2026/09/14",2788,"2 Beds","Apartment"
+"6400 Barrie Rd, Edina, MN 55435","2026/09/14",1789,"2 Beds","Apartment"
+"6400 Barrie Rd, Edina, MN 55435","2026/09/14",2809,"3 Beds","Apartment"
+"4800 Excelsior Blvd, Saint Louis Park, MN 55416","2026/09/14",1508,"Studio","Apartment"
+"4800 Excelsior Blvd, Saint Louis Park, MN 55416","2026/09/14",1838,"1 Bed","Apartment"
+"4800 Excelsior Blvd, Saint Louis Park, MN 55416","2026/09/14",2768,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"600 W 64th St W, Richfield, MN 55423","2026/09/14",1131,"Studio","Apartment"
+"600 W 64th St W, Richfield, MN 55423","2026/09/14",1576,"1 Bed","Apartment"
+"1080 Raymond Ave, Saint Paul, MN 55108","2026/09/14",950,"Studio","Apartment"
+"1080 Raymond Ave, Saint Paul, MN 55108","2026/09/14",1100,"1 Bed","Apartment"
+"2700 University Ave W, Saint Paul, MN 55114","2026/09/14",1461,"Studio","Apartment"
+"2700 University Ave W, Saint Paul, MN 55114","2026/09/14",1666,"1 Bed","Apartment"
+"2700 University Ave W, Saint Paul, MN 55114","2026/09/14",2159,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"4320 36 1/2 St, Saint Louis Park, MN 55416","2026/09/14",1125,"1 Bed","Apartment"
+"4320 36 1/2 St, Saint Louis Park, MN 55416","2026/09/14",1250,"2 Beds","Apartment"
+"3755 Hubbard Ave N, Robbinsdale, MN 55422","2026/09/14",1299,"1 Bed","Apartment"
+"3755 Hubbard Ave N, Robbinsdale, MN 55422","2026/09/14",1499,"2 Beds","Apartment"
+"4501 Park Glen Rd, Saint Louis Park, MN 55416","2026/09/14",1485,"Studio","Apartment"
+"4501 Park Glen Rd, Saint Louis Park, MN 55416","2026/09/14",1665,"1 Bed","Apartment"
+"4501 Park Glen Rd, Saint Louis Park, MN 55416","2026/09/14",2017,"2 Beds","Apartment"
+"2063 Marshall Ave, Saint Paul, MN 55104","2026/09/14",1160,"1 Bed","Apartment"
+"2063 Marshall Ave, Saint Paul, MN 55104","2026/09/14",1670,"2 Beds","Apartment"
+"2127 Marshall Ave, Saint Paul, MN 55104","2026/09/14",750,"3 Beds","Apartment"
+"2127 Marshall Ave, Saint Paul, MN 55104","2026/09/14",900,"4 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"3605 37th Ave NE, Saint Anthony, MN 55421","2026/09/14",1025,"1 Bed","Apartment"
+"3605 37th Ave NE, Saint Anthony, MN 55421","2026/09/14",1125,"2 Beds","Apartment"
+"3605 37th Ave NE, Saint Anthony, MN 55421","2026/09/14",1600,"3 Beds","Apartment"
+NA,NA,NA,NA,NA
+"2333 Long Ave, Saint Paul, MN 55114","2026/09/14",1100,"1 Bed","Apartment"
+"2333 Long Ave, Saint Paul, MN 55114","2026/09/14",1469,"2 Beds","Apartment"
+"2333 Long Ave, Saint Paul, MN 55114","2026/09/14",1879,"3 Beds","Apartment"
+"525 10th Ave SE, Minneapolis, MN 55414","2026/09/14",2600,"4 Beds","Apartment"
+"525 10th Ave SE, Minneapolis, MN 55414","2026/09/14",3000,"5 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"3144 Chowen Ave S, Minneapolis, MN 55416","2026/09/14",1389,"Studio","Apartment"
+"3144 Chowen Ave S, Minneapolis, MN 55416","2026/09/14",1669,"1 Bed","Apartment"
+"3144 Chowen Ave S, Minneapolis, MN 55416","2026/09/14",2279,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"1509 10th Ave S, Minneapolis, MN 55404","2026/09/14",1300,"1 Bed","Apartment"
+"1509 10th Ave S, Minneapolis, MN 55404","2026/09/14",1500,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"730-750 N Washington Ave, Minneapolis, MN 55401","2026/09/14",2195,"1 Bed","Apartment"
+"730-750 N Washington Ave, Minneapolis, MN 55401","2026/09/14",2750,"2 Beds","Apartment"
+"730-750 N Washington Ave, Minneapolis, MN 55401","2026/09/14",4595,"3 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"721 N 1st St, Minneapolis, MN 55401","2026/09/14",1849,"1 Bed","Apartment"
+"721 N 1st St, Minneapolis, MN 55401","2026/09/14",2283,"2 Beds","Apartment"
+"800 N 3rd St, Minneapolis, MN 55401","2026/09/14",1308,"Studio","Apartment"
+"800 N 3rd St, Minneapolis, MN 55401","2026/09/14",1465,"1 Bed","Apartment"
+"800 N 3rd St, Minneapolis, MN 55401","2026/09/14",2481,"2 Beds","Apartment"
+"3550 E 46th St, Minneapolis, MN 55406","2026/09/14",1207,"Studio","Apartment"
+"3550 E 46th St, Minneapolis, MN 55406","2026/09/14",1414,"1 Bed","Apartment"
+"3550 E 46th St, Minneapolis, MN 55406","2026/09/14",1799,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"2949 SE 4th St, Minneapolis, MN 55414","2026/09/14",1511,"Studio","Apartment"
+"2949 SE 4th St, Minneapolis, MN 55414","2026/09/14",1724,"1 Bed","Apartment"
+"2949 SE 4th St, Minneapolis, MN 55414","2026/09/14",2330,"2 Beds","Apartment"
+"721 N Third St, Minneapolis, MN 55401","2026/09/14",1421,"Studio","Apartment"
+"721 N Third St, Minneapolis, MN 55401","2026/09/14",1963,"1 Bed","Apartment"
+"721 N Third St, Minneapolis, MN 55401","2026/09/14",2758,"2 Beds","Apartment"
+"1901 Minnehaha Ave, Minneapolis, MN 55404","2026/09/14",1500,"2 Beds","Apartment"
+"1901 Minnehaha Ave, Minneapolis, MN 55404","2026/09/14",2089,"3 Beds","Apartment"
+"1706 Stevens Ave, Minneapolis, MN 55403","2026/09/14",775,"Studio","Apartment"
+"1706 Stevens Ave, Minneapolis, MN 55403","2026/09/14",900,"1 Bed","Apartment"
+"430 Oak Grove St, Minneapolis, MN 55403","2026/09/14",1303,"Studio","Apartment"
+"430 Oak Grove St, Minneapolis, MN 55403","2026/09/14",1351,"1 Bed","Apartment"
+"430 Oak Grove St, Minneapolis, MN 55403","2026/09/14",1885,"2 Beds","Apartment"
+"1400-1420 Portland Ave, Minneapolis, MN 55404","2026/09/14",1056,"Studio","Apartment"
+"1400-1420 Portland Ave, Minneapolis, MN 55404","2026/09/14",1187,"1 Bed","Apartment"
+NA,NA,NA,NA,NA
+"315 N 7th Ave, Minneapolis, MN 55401","2026/09/14",1552,"Studio","Apartment"
+"315 N 7th Ave, Minneapolis, MN 55401","2026/09/14",2129,"1 Bed","Apartment"
+"315 N 7th Ave, Minneapolis, MN 55401","2026/09/14",3111,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"2932-2936 Dean Pky, Minneapolis, MN 55416","2026/09/14",1215,"1 Bed","Apartment"
+"2932-2936 Dean Pky, Minneapolis, MN 55416","2026/09/14",1525,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"254 9th Ave N, Minneapolis, MN 55401","2026/09/14",1505,"Studio","Apartment"
+"254 9th Ave N, Minneapolis, MN 55401","2026/09/14",1945,"1 Bed","Apartment"
+"254 9th Ave N, Minneapolis, MN 55401","2026/09/14",2442,"2 Beds","Apartment"
+"3028 Ewing Ave S, Minneapolis, MN 55416","2026/09/14",1190,"1 Bed","Apartment"
+"3028 Ewing Ave S, Minneapolis, MN 55416","2026/09/14",1510,"2 Beds","Apartment"
+"1030 NE Main St, Minneapolis, MN 55413","2026/09/14",1584,"Studio","Apartment"
+"1030 NE Main St, Minneapolis, MN 55413","2026/09/14",1587,"1 Bed","Apartment"
+"1030 NE Main St, Minneapolis, MN 55413","2026/09/14",2064,"2 Beds+","Apartment"
+"3725 29th Ave S, Minneapolis, MN 55406","2026/09/14",1195,"Studio","Apartment"
+"3725 29th Ave S, Minneapolis, MN 55406","2026/09/14",1455,"1 Bed","Apartment"
+"3725 29th Ave S, Minneapolis, MN 55406","2026/09/14",1650,"2 Beds","Apartment"
+"643 N 5th St, Minneapolis, MN 55401","2026/09/14",1377,"Studio","Apartment"
+"643 N 5th St, Minneapolis, MN 55401","2026/09/14",1624,"1 Bed","Apartment"
+"643 N 5th St, Minneapolis, MN 55401","2026/09/14",2357,"2 Beds","Apartment"
+"95 S 10th St, Minneapolis, MN 55403","2026/09/14",1199,"Studio","Apartment"
+"95 S 10th St, Minneapolis, MN 55403","2026/09/14",1541,"1 Bed","Apartment"
+"95 S 10th St, Minneapolis, MN 55403","2026/09/14",1993,"2 Beds","Apartment"
+"2121 Garfield Ave S, Minneapolis, MN 55405","2026/09/14",1136,"1 Bed","Apartment"
+"2121 Garfield Ave S, Minneapolis, MN 55405","2026/09/14",1386,"2 Beds","Apartment"
+"2323 26th Ave N, Minneapolis, MN 55411","2026/09/14",1116,"Studio","Apartment"
+"2323 26th Ave N, Minneapolis, MN 55411","2026/09/14",1436,"1 Bed","Apartment"
+"2323 26th Ave N, Minneapolis, MN 55411","2026/09/14",1717,"2 Beds","Apartment"
+"22 University Ave, Minneapolis, MN 55413","2026/09/14",1575,"1 Bed","Apartment"
+"22 University Ave, Minneapolis, MN 55413","2026/09/14",2375,"3 Beds","Apartment"
+"4540 Snelling Ave, Minneapolis, MN 55406","2026/09/14",1039,"Studio","Apartment"
+"4540 Snelling Ave, Minneapolis, MN 55406","2026/09/14",1192,"1 Bed","Apartment"
+"4540 Snelling Ave, Minneapolis, MN 55406","2026/09/14",1742,"2 Beds","Apartment"
+"607 N Washington Ave, Minneapolis, MN 55401","2026/09/14",1820,"1 Bed","Apartment"
+"607 N Washington Ave, Minneapolis, MN 55401","2026/09/14",2270,"2 Beds","Apartment"
+"815 N 2nd St, Minneapolis, MN 55401","2026/09/14",1268,"Studio","Apartment"
+"815 N 2nd St, Minneapolis, MN 55401","2026/09/14",1549,"1 Bed","Apartment"
+"815 N 2nd St, Minneapolis, MN 55401","2026/09/14",2320,"2 Beds","Apartment"
+"3401 Colfax Ave S, Minneapolis, MN 55408","2026/09/14",960,"Studio","Apartment"
+"3401 Colfax Ave S, Minneapolis, MN 55408","2026/09/14",1060,"1 Bed","Apartment"
+"2220 Snelling Ave, Minneapolis, MN 55404","2026/09/14",1173,"Studio","Apartment"
+"2220 Snelling Ave, Minneapolis, MN 55404","2026/09/14",1431,"1 Bed","Apartment"
+"2220 Snelling Ave, Minneapolis, MN 55404","2026/09/14",1912,"2 Beds","Apartment"
+"515 E Grant St, Minneapolis, MN 55404","2026/09/14",1430,"1 Bed","Apartment"
+"515 E Grant St, Minneapolis, MN 55404","2026/09/14",1595,"2 Beds","Apartment"
+"1417 LaSalle Ave, Minneapolis, MN 55403","2026/09/14",845,"Studio","Apartment"
+"1417 LaSalle Ave, Minneapolis, MN 55403","2026/09/14",1200,"1 Bed","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"3225 E Minnehaha Pky, Minneapolis, MN 55417","2026/09/14",1230,"Studio","Apartment"
+"3225 E Minnehaha Pky, Minneapolis, MN 55417","2026/09/14",1575,"1 Bed","Apartment"
+NA,NA,NA,NA,NA
+"1501 Lasalle Ave, Minneapolis, MN 55403","2026/09/14",1020,"1 Bed","Apartment"
+"1501 Lasalle Ave, Minneapolis, MN 55403","2026/09/14",1400,"2 Beds","Apartment"
+"3532 Bryant Ave S, Minneapolis, MN 55408","2026/09/14",907,"Studio","Apartment"
+"3532 Bryant Ave S, Minneapolis, MN 55408","2026/09/14",1157,"1 Bed","Apartment"
+"127 E 59th St, Minneapolis, MN 55419","2026/09/14",1325,"1 Bed","Apartment"
+"127 E 59th St, Minneapolis, MN 55419","2026/09/14",1450,"2 Beds","Apartment"
+"4400 45th Ave N, Minneapolis, MN 55422","2026/09/14",1415,"2 Beds","Apartment"
+"4400 45th Ave N, Minneapolis, MN 55422","2026/09/14",1755,"3 Beds","Apartment"
+"3441 Emerson Ave S, Minneapolis, MN 55408","2026/09/14",92512,"3 Beds",NA
+"2015 Riverside Ave, Minneapolis, MN 55454","2026/09/14",1300,"1 Bed","Apartment"
+"2015 Riverside Ave, Minneapolis, MN 55454","2026/09/14",1350,"2 Beds","Apartment"
+"5329 48th Ave S, Minneapolis, MN 55417","2026/09/14",1217,"Studio","Apartment"
+"5329 48th Ave S, Minneapolis, MN 55417","2026/09/14",1324,"1 Bed","Apartment"
+"5329 48th Ave S, Minneapolis, MN 55417","2026/09/14",1665,"2 Beds","Apartment"
+"2100 Aldrich Ave S, Minneapolis, MN 55405","2026/09/14",950,"Studio","Apartment"
+"2100 Aldrich Ave S, Minneapolis, MN 55405","2026/09/14",1125,"1 Bed","Apartment"
+"2100 Aldrich Ave S, Minneapolis, MN 55405","2026/09/14",1425,"2 Beds","Apartment"
+"2637 Lyndale Ave S, Minneapolis, MN 55408","2026/09/14",70012,"(651) 395-4167
+Message",NA
+"633 Ontario St SE, Minneapolis, MN 55414","2026/09/14",1800,"2 Beds","Apartment"
+"633 Ontario St SE, Minneapolis, MN 55414","2026/09/14",2100,"3 Beds","Apartment"
+"633 Ontario St SE, Minneapolis, MN 55414","2026/09/14",2400,"4 Beds","Apartment"
+"333 Oak Grove St, Minneapolis, MN 55403","2026/09/14",950,"1 Bed","Apartment"
+"333 Oak Grove St, Minneapolis, MN 55403","2026/09/14",1500,"2 Beds","Apartment"
+"815 13th Ave SE, Minneapolis, MN 55414","2026/09/14",1195,"1 Bed","Apartment"
+"815 13th Ave SE, Minneapolis, MN 55414","2026/09/14",1400,"2 Beds","Apartment"
+"815 13th Ave SE, Minneapolis, MN 55414","2026/09/14",1800,"3 Beds+","Apartment"
+"4220 Winnetka Ave N, Minneapolis, MN 55428","2026/09/14",1150,"1 Bed","Apartment"
+"4220 Winnetka Ave N, Minneapolis, MN 55428","2026/09/14",1650,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"6200 78th Ave N, Minneapolis, MN 55443","2026/09/14",1082,"1 Bed","Apartment"
+"6200 78th Ave N, Minneapolis, MN 55443","2026/09/14",1462,"2 Beds","Apartment"
+"1423 S 11th Ave, Minneapolis, MN 55404","2026/09/14",1300,"1 Bed","Apartment"
+"1423 S 11th Ave, Minneapolis, MN 55404","2026/09/14",1600,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"601-701 Main St SE, Minneapolis, MN 55414","2026/09/14",1392,"Studio","Apartment"
+"601-701 Main St SE, Minneapolis, MN 55414","2026/09/14",1303,"1 Bed","Apartment"
+"601-701 Main St SE, Minneapolis, MN 55414","2026/09/14",1399,"2 Beds","Apartment"
+"1740 1/2 W 76th St, Minneapolis, MN 55423","2026/09/14",1175,"1 Bed","Apartment"
+"1740 1/2 W 76th St, Minneapolis, MN 55423","2026/09/14",1650,"2 Beds","Apartment"
+"4150 Regent Ave N, Minneapolis, MN 55422","2026/09/14",995,"Studio","Apartment"
+"4150 Regent Ave N, Minneapolis, MN 55422","2026/09/14",1250,"1 Bed","Apartment"
+"4150 Regent Ave N, Minneapolis, MN 55422","2026/09/14",1250,"2 Beds","Apartment"
+"560 Humboldt Ave N, Minneapolis, MN 55405","2026/09/14",1260,"1 Bed","Apartment"
+"560 Humboldt Ave N, Minneapolis, MN 55405","2026/09/14",1436,"2 Beds","Apartment"
+"560 Humboldt Ave N, Minneapolis, MN 55405","2026/09/14",1940,"3 Beds","Apartment"
+"1430 Spruce Pl, Minneapolis, MN 55403","2026/09/14",820,"Studio","Apartment"
+"1430 Spruce Pl, Minneapolis, MN 55403","2026/09/14",895,"1 Bed","Apartment"
+"2920 Dean Pky, Minneapolis, MN 55416","2026/09/14",1210,"Studio","Apartment"
+"2920 Dean Pky, Minneapolis, MN 55416","2026/09/14",1400,"1 Bed","Apartment"
+"2920 Dean Pky, Minneapolis, MN 55416","2026/09/14",1565,"2 Beds","Apartment"
+"720 Washington Ave S, Minneapolis, MN 55415","2026/09/14",1020,"Studio","Apartment"
+"720 Washington Ave S, Minneapolis, MN 55415","2026/09/14",1280,"1 Bed","Apartment"
+"720 Washington Ave S, Minneapolis, MN 55415","2026/09/14",1475,"2 Beds","Apartment"
+"300 S 2nd St, Minneapolis, MN 55401","2026/09/14",1450,"1 Bed","Apartment"
+"300 S 2nd St, Minneapolis, MN 55401","2026/09/14",1732,"2 Beds","Apartment"
+"2400 Harriet Ave S, Minneapolis, MN 55405","2026/09/14",1047,"Studio","Apartment"
+"2400 Harriet Ave S, Minneapolis, MN 55405","2026/09/14",917,"1 Bed","Apartment"
+"260 Portland Ave, Minneapolis, MN 55415","2026/09/14",1062,"Studio","Apartment"
+"260 Portland Ave, Minneapolis, MN 55415","2026/09/14",1418,"1 Bed","Apartment"
+"1205 Hawthorne Ave, Minneapolis, MN 55403","2026/09/14",850,"Studio","Apartment"
+"1205 Hawthorne Ave, Minneapolis, MN 55403","2026/09/14",1085,"1 Bed","Apartment"
+"137 E 17th St, Minneapolis, MN 55403","2026/09/14",949,"1 Bed",NA
+"2835 11th Ave S, Minneapolis, MN 55407","2026/09/14",1175,"1 Bed","Apartment"
+"2835 11th Ave S, Minneapolis, MN 55407","2026/09/14",1700,"3 Beds","Apartment"
+"1770 Hennepin Ave, Minneapolis, MN 55403","2026/09/14",800,"Studio","Apartment"
+"1770 Hennepin Ave, Minneapolis, MN 55403","2026/09/14",1135,"1 Bed","Apartment"
+"814-816 Hennepin Ave, Minneapolis, MN 55403","2026/09/14",820,"1 Bed",NA
+"615 15th Ave SE, Minneapolis, MN 55414","2026/09/14",930,"Studio","Apartment"
+"615 15th Ave SE, Minneapolis, MN 55414","2026/09/14",899,"1 Bed","Apartment"
+"110 18th St E, Minneapolis, MN 55403","2026/09/14",895,"Studio","Apartment"
+"110 18th St E, Minneapolis, MN 55403","2026/09/14",1030,"1 Bed","Apartment"
+"110 18th St E, Minneapolis, MN 55403","2026/09/14",1375,"2 Beds","Apartment"
+"409 University Ave SE, Minneapolis, MN 55414","2026/09/14",850,"Studio","Apartment"
+"409 University Ave SE, Minneapolis, MN 55414","2026/09/14",975,"1 Bed","Apartment"
+"409 University Ave SE, Minneapolis, MN 55414","2026/09/14",1075,"2 Beds","Apartment"
+"910 Portland Ave S, Minneapolis, MN 55404","2026/09/14",800,"Studio","Apartment"
+"910 Portland Ave S, Minneapolis, MN 55404","2026/09/14",893,"1 Bed","Apartment"
+"5717 31st Ave S, Minneapolis, MN 55417","2026/09/14",850,"1 Bed","Apartment"
+"5717 31st Ave S, Minneapolis, MN 55417","2026/09/14",1615,"3 Beds","Apartment"
+"320 7th St SE, Minneapolis, MN 55414","2026/09/14",825,"Studio","Apartment"
+"320 7th St SE, Minneapolis, MN 55414","2026/09/14",940,"1 Bed","Apartment"
+"320 7th St SE, Minneapolis, MN 55414","2026/09/14",1150,"2 Beds","Apartment"
+"2101-2020 21st Ave S, Minneapolis, MN 55404","2026/09/14",750,"Studio","Apartment"
+"2101-2020 21st Ave S, Minneapolis, MN 55404","2026/09/14",945,"1 Bed","Apartment"
+"1365 Spruce Pl, Minneapolis, MN 55403","2026/09/14",695,"Studio","Apartment"
+"1365 Spruce Pl, Minneapolis, MN 55403","2026/09/14",800,"1 Bed","Apartment"
+"1928 Portland Ave, Minneapolis, MN 55404","2026/09/14",725,"Studio","Apartment"
+"1928 Portland Ave, Minneapolis, MN 55404","2026/09/14",1433,"1 Bed","Apartment"
+"1928 Portland Ave, Minneapolis, MN 55404","2026/09/14",907,"2 Beds+","Apartment"
+"708 5th St SE, Minneapolis, MN 55414","2026/09/14",745,"Studio","Apartment"
+"708 5th St SE, Minneapolis, MN 55414","2026/09/14",885,"1 Bed","Apartment"
+"708 5th St SE, Minneapolis, MN 55414","2026/09/14",1200,"2 Beds","Apartment"
+"1800-1808 University Ave NE, Minneapolis, MN 55418","2026/09/14",1272,"Studio","Apartment"
+"1800-1808 University Ave NE, Minneapolis, MN 55418","2026/09/14",1308,"1 Bed","Apartment"
+"1800-1808 University Ave NE, Minneapolis, MN 55418","2026/09/14",280,"2 Beds+","Apartment"
+"1820 W Broadway Ave, Minneapolis, MN 55411","2026/09/14",1191,"1 Bed","Apartment"
+"1820 W Broadway Ave, Minneapolis, MN 55411","2026/09/14",1429,"2 Beds","Apartment"
+"1820 W Broadway Ave, Minneapolis, MN 55411","2026/09/14",1645,"3 Beds","Apartment"
+"15 E Grant St, Minneapolis, MN 55403","2026/09/14",653,"Studio","Apartment"
+"15 E Grant St, Minneapolis, MN 55403","2026/09/14",792,"1 Bed","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"725 Cleveland Ave S, Saint Paul, MN 55116","2026/09/14",1758,"Studio","Apartment"
+"725 Cleveland Ave S, Saint Paul, MN 55116","2026/09/14",2103,"1 Bed","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"3030 France Ave S, Saint Louis Park, MN 55416","2026/09/14",1479,"Studio","Apartment"
+"3030 France Ave S, Saint Louis Park, MN 55416","2026/09/14",1829,"1 Bed","Apartment"
+"3030 France Ave S, Saint Louis Park, MN 55416","2026/09/14",2699,"2 Beds","Apartment"
+"3730 W Broadway Ave, Robbinsdale, MN 55422","2026/09/14",1435,"Studio","Apartment"
+"3730 W Broadway Ave, Robbinsdale, MN 55422","2026/09/14",1670,"1 Bed","Apartment"
+NA,NA,NA,NA,NA
+"4415 Valley View Rd, Edina, MN 55424","2026/09/14",1823,"1 Bed","Apartment"
+"4415 Valley View Rd, Edina, MN 55424","2026/09/14",2423,"2 Beds","Apartment"
+"2034 Yorkshire Ave, Saint Paul, MN 55116","2026/09/14",1100,"Studio","Apartment"
+"2034 Yorkshire Ave, Saint Paul, MN 55116","2026/09/14",1400,"1 Bed","Apartment"
+"2034 Yorkshire Ave, Saint Paul, MN 55116","2026/09/14",1676,"2 Beds","Apartment"
+"4400-4450 Minnetonka Blvd, Saint Louis Park, MN 55416","2026/09/14",1295,"1 Bed","Apartment"
+"4400-4450 Minnetonka Blvd, Saint Louis Park, MN 55416","2026/09/14",1595,"2 Beds","Apartment"
+"2500 38th Ave NE, Saint Anthony, MN 55421","2026/09/14",1343,"1 Bed","Apartment"
+"2500 38th Ave NE, Saint Anthony, MN 55421","2026/09/14",1627,"2 Beds","Apartment"
+"3105-3117 Heritage Dr, Edina, MN 55435","2026/09/14",1285,"1 Bed","Apartment"
+"3105-3117 Heritage Dr, Edina, MN 55435","2026/09/14",1510,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"3000 S Highway 100, Saint Louis Park, MN 55416","2026/09/14",1175,"1 Bed","Apartment"
+"3000 S Highway 100, Saint Louis Park, MN 55416","2026/09/14",1475,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"3200 Diamond Eight Ter, Saint Anthony, MN 55421","2026/09/14",1241,"1 Bed","Apartment"
+"3200 Diamond Eight Ter, Saint Anthony, MN 55421","2026/09/14",1436,"2 Beds","Apartment"
+"3127 S Highway 100, Saint Louis Park, MN 55416","2026/09/14",925,"Studio","Apartment"
+"3127 S Highway 100, Saint Louis Park, MN 55416","2026/09/14",1250,"1 Bed","Apartment"
+"3127 S Highway 100, Saint Louis Park, MN 55416","2026/09/14",1650,"2 Beds","Apartment"
+"1365 Eustis St, Saint Paul, MN 55108","2026/09/14",1050,"1 Bed","Apartment"
+"1365 Eustis St, Saint Paul, MN 55108","2026/09/14",1369,"2 Beds","Apartment"
+"6304 Dupont Ave S, Richfield, MN 55423","2026/09/14",1180,"1 Bed","Apartment"
+"6304 Dupont Ave S, Richfield, MN 55423","2026/09/14",1565,"2 Beds","Apartment"
+"909 Gould Ave NE, Columbia Heights, MN 55421","2026/09/14",964,"Studio","Apartment"
+"909 Gould Ave NE, Columbia Heights, MN 55421","2026/09/14",1504,"1 Bed","Apartment"
+"909 Gould Ave NE, Columbia Heights, MN 55421","2026/09/14",2483,"2 Beds+","Apartment"
+"3150 Raleigh Ave, Saint Louis Park, MN 55416","2026/09/14",953,"Studio","Apartment"
+"3150 Raleigh Ave, Saint Louis Park, MN 55416","2026/09/14",1073,"1 Bed","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"3032 3rd Ave S, Minneapolis, MN 55408","2026/09/14",2200,"4 Beds, 1 Bath, 1,800 sq ft","Room"
+"250 Park Ave Unit 215, Minneapolis, MN 55415","2026/09/14",2450,"(612) 712-6815
+Message
+Apply","Room"
+"1115 26th Ave SE, Minneapolis, MN 55414","2026/09/14",4200,"6 Beds, 3.5 Baths, 2,515 sq ft","Room"
+"2200 Nevada Ave S Unit Apt 106, St Louis Park, MN 55426","2026/09/14",2200,"Message
+Apply","Room"
+"6107 Bryant Ave N, Minneapolis, MN 55430","2026/09/14",2850,"4 Beds, 2 Baths, 1,337 sq ft","Room"
+"3617 Edward St NE, Minneapolis, MN 55418","2026/09/14",3380,"4 Beds, 3 Baths, 2,166 sq ft","Room"
+"2226 N Dupont Ave N Unit 2, Minneapolis, MN 55411","2026/09/14",1500,"2 Beds, 1 Bath, 1,100 sq ft","Room"
+"2529 Pleasant Ave Unit 2 - 5 Bed 2 Bath, Minneapolis, MN 55404","2026/09/14",2600,"4 Beds, 2 Baths, 2,800 sq ft","Room"
+"317 Groveland Ave Unit 404, Minneapolis, MN 55403","2026/09/14",1995,"(952) 206-6436
+Message","Room"
+"135 16th Ave NE Unit 1, Minneapolis, MN 55413","2026/09/14",1695,"2 Beds, 1 Bath, 800 sq ft","Room"
+"1926 SUMMIT AVENUE Unit FLR 1, ST PAUL, MN 55105","2026/09/14",2700,"3 Beds, 1 Bath, 1,600 sq ft","Room"
+NA,NA,NA,NA,NA
+"3402 University Ave SE, Minneapolis, MN 55414","2026/09/14",1975,"2 Beds","Apartment"
+"3402 University Ave SE, Minneapolis, MN 55414","2026/09/14",2150,"3 Beds","Apartment"
+"4201 Nicollet Ave, Minneapolis, MN 55409","2026/09/14",1318,"Studio","Apartment"
+"4201 Nicollet Ave, Minneapolis, MN 55409","2026/09/14",1518,"1 Bed","Apartment"
+"4201 Nicollet Ave, Minneapolis, MN 55409","2026/09/14",2223,"2 Beds+","Apartment"
+"25 N 4th St, Minneapolis, MN 55401","2026/09/14",1395,"Robitshek Lofts","Room"
+NA,NA,NA,NA,NA
+"3125 Holmes Ave, Minneapolis, MN 55408","2026/09/14",90012,"Yorkshire Apartments","Room"
+NA,NA,NA,NA,NA
+"6910 Humboldt Ave N, Minneapolis, MN 55430","2026/09/14",1150,"1 Bed","Apartment"
+"6910 Humboldt Ave N, Minneapolis, MN 55430","2026/09/14",1365,"2 Beds","Apartment"
+"2209 Pleasant Ave, Minneapolis, MN 55404","2026/09/14",1545,"2 Beds","Apartment"
+"2209 Pleasant Ave, Minneapolis, MN 55404","2026/09/14",2045,"3 Beds","Apartment"
+"32-34 Spruce Pl, Minneapolis, MN 55403","2026/09/14",767,"Studio","Apartment"
+"32-34 Spruce Pl, Minneapolis, MN 55403","2026/09/14",782,"1 Bed","Apartment"
+NA,NA,NA,NA,NA
+"4301 Park Glen Rd, Saint Louis Park, MN 55416","2026/09/14",1469,"1 Bed","Apartment"
+"4301 Park Glen Rd, Saint Louis Park, MN 55416","2026/09/14",1889,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"2100 Grand Ave, Saint Paul, MN 55105","2026/09/14",1260,"1 Bed","Apartment"
+"2100 Grand Ave, Saint Paul, MN 55105","2026/09/14",1675,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"3219 Douglas Dr N, Minneapolis, MN 55422","2026/09/14",1200,"1 Bed","Apartment"
+"3219 Douglas Dr N, Minneapolis, MN 55422","2026/09/14",1325,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"617 19th Ave, Minneapolis, MN 55454","2026/09/14",1170,"1 Bed","Apartment"
+"617 19th Ave, Minneapolis, MN 55454","2026/09/14",1390,"2 Beds","Apartment"
+"617 19th Ave, Minneapolis, MN 55454","2026/09/14",1800,"3 Beds","Apartment"
+"2800 Girard Ave S, Minneapolis, MN 55408","2026/09/14",1233,"1 Bed","Apartment"
+"2800 Girard Ave S, Minneapolis, MN 55408","2026/09/14",1593,"2 Beds","Apartment"
+"1315 Olson Memorial Hwy, Minneapolis, MN 55405","2026/09/14",1020,"1 Bed","Apartment"
+"1315 Olson Memorial Hwy, Minneapolis, MN 55405","2026/09/14",1275,"2 Beds","Apartment"
+"1315 Olson Memorial Hwy, Minneapolis, MN 55405","2026/09/14",1734,"3 Beds","Apartment"
+NA,NA,NA,NA,NA
+"1512-1518 Spruce Pl, Minneapolis, MN 55403","2026/09/14",77512,"Loring Manor Apartments",NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"6017 Bass Lake Rd, Minneapolis, MN 55429","2026/09/14",1025,"Studio","Apartment"
+"6017 Bass Lake Rd, Minneapolis, MN 55429","2026/09/14",1150,"1 Bed","Apartment"
+"4200 45th Ave N, Minneapolis, MN 55422","2026/09/14",1295,"1 Bed","Apartment"
+"4200 45th Ave N, Minneapolis, MN 55422","2026/09/14",1505,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"4425 Chowen Ave S, Minneapolis, MN 55410","2026/09/14",1105,"1 Bed","Apartment"
+"4425 Chowen Ave S, Minneapolis, MN 55410","2026/09/14",1395,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"2101 E River Ter, Minneapolis, MN 55414","2026/09/14",1036,"Studio","Apartment"
+"2101 E River Ter, Minneapolis, MN 55414","2026/09/14",1296,"1 Bed","Apartment"
+"301 Saint Anthony Ave, Minneapolis, MN 55414","2026/09/14",1210,"1 Bed","Apartment"
+"301 Saint Anthony Ave, Minneapolis, MN 55414","2026/09/14",1300,"2 Beds","Apartment"
+"230 Oak Grove St, Minneapolis, MN 55403","2026/09/14",905,"Studio","Apartment"
+"230 Oak Grove St, Minneapolis, MN 55403","2026/09/14",1060,"1 Bed","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"1207 Glenwood Ave, Minneapolis, MN 55405","2026/09/14",1233,"Studio","Apartment"
+"1207 Glenwood Ave, Minneapolis, MN 55405","2026/09/14",1450,"1 Bed","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"1819 5th St S, Minneapolis, MN 55454","2026/09/14",900,"Studio","Apartment"
+"1819 5th St S, Minneapolis, MN 55454","2026/09/14",1150,"1 Bed","Apartment"
+"2300 Pleasant Ave, Minneapolis, MN 55404","2026/09/14",1000,"1 Bed","Apartment"
+"2300 Pleasant Ave, Minneapolis, MN 55404","2026/09/14",1300,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"3815 Hiawatha Ave, Minneapolis, MN 55406","2026/09/14",1118,"Studio","Apartment"
+"3815 Hiawatha Ave, Minneapolis, MN 55406","2026/09/14",1305,"1 Bed","Apartment"
+"5315 Minnehaha Ave S, Minneapolis, MN 55417","2026/09/14",1238,"1 Bed","Apartment"
+"5315 Minnehaha Ave S, Minneapolis, MN 55417","2026/09/14",1433,"2 Beds","Apartment"
+"2871 Humboldt Ave S, Minneapolis, MN 55408","2026/09/14",860,"Studio","Apartment"
+"2871 Humboldt Ave S, Minneapolis, MN 55408","2026/09/14",1040,"1 Bed","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"1800 Fremont Ave N, Minneapolis, MN 55411","2026/09/14",84012,"Aster Apartments",NA
+NA,NA,NA,NA,NA
+"2110 S Park Ave, Minneapolis, MN 55404","2026/09/14",899,"Studio","Apartment"
+"2110 S Park Ave, Minneapolis, MN 55404","2026/09/14",1049,"1 Bed","Apartment"
+NA,NA,NA,NA,NA
+"3440 Dupont Ave S, Minneapolis, MN 55408","2026/09/14",900,"Studio","Apartment"
+"3440 Dupont Ave S, Minneapolis, MN 55408","2026/09/14",1075,"1 Bed","Apartment"
+"3440 Dupont Ave S, Minneapolis, MN 55408","2026/09/14",1195,"2 Beds","Apartment"
+"100-102 W Diamond Lake Rd, Minneapolis, MN 55419","2026/09/14",850,"Studio","Apartment"
+"100-102 W Diamond Lake Rd, Minneapolis, MN 55419","2026/09/14",1025,"1 Bed","Apartment"
+NA,NA,NA,NA,NA
+"117-127 W Grant St, Minneapolis, MN 55403","2026/09/14",732,"Studio","Apartment"
+"117-127 W Grant St, Minneapolis, MN 55403","2026/09/14",837,"1 Bed","Apartment"
+"1421 44th Ave N, Minneapolis, MN 55412","2026/09/14",1685,"1421 44th Ave N","House"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"2424 Territorial Rd, Saint Paul, MN 55114","2026/09/14",1283,"Studio","Apartment"
+"2424 Territorial Rd, Saint Paul, MN 55114","2026/09/14",1603,"1 Bed","Apartment"
+"2424 Territorial Rd, Saint Paul, MN 55114","2026/09/14",3303,"2 Beds+","Apartment"
+"2176 Dayton Ave, Saint Paul, MN 55104","2026/09/14",1799,"2 Beds","Apartment"
+"2176 Dayton Ave, Saint Paul, MN 55104","2026/09/14",2099,"3 Beds","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"2310 Silver Ln, New Brighton, MN 55112","2026/09/14",1099,"Studio","Apartment"
+"2310 Silver Ln, New Brighton, MN 55112","2026/09/14",1154,"1 Bed","Apartment"
+"2310 Silver Ln, New Brighton, MN 55112","2026/09/14",1379,"2 Beds","Apartment"
+"3839 Hart Blvd NE, Columbia Heights, MN 55421","2026/09/14",1195,"1 Bed","Apartment"
+"3839 Hart Blvd NE, Columbia Heights, MN 55421","2026/09/14",1360,"2 Beds","Apartment"
+"88 Cleveland Ave N, Saint Paul, MN 55104","2026/09/14",945,"2 Beds","Apartment"
+"88 Cleveland Ave N, Saint Paul, MN 55104","2026/09/14",695,"3 Beds","Apartment"
+"6345 Lyndale Ave S, Richfield, MN 55423","2026/09/14",913,"Richlyn","House"
+"2062 Marshall Ave, Saint Paul, MN 55104","2026/09/14",975,"Studio","Apartment"
+"2062 Marshall Ave, Saint Paul, MN 55104","2026/09/14",1295,"1 Bed","Apartment"
+"2062 Marshall Ave, Saint Paul, MN 55104","2026/09/14",1575,"2 Beds","Apartment"
+"1330-1344 Saint Paul Ave, Saint Paul, MN 55116","2026/09/14",1095,"1 Bed","Apartment"
+"1330-1344 Saint Paul Ave, Saint Paul, MN 55116","2026/09/14",1275,"2 Beds","Apartment"
+NA,NA,NA,NA,NA
+"50 Cretin Ave S, Saint Paul, MN 55105","2026/09/14",635,"Studio","Apartment"
+"50 Cretin Ave S, Saint Paul, MN 55105","2026/09/14",830,"1 Bed","Apartment"
+"50 Cretin Ave S, Saint Paul, MN 55105","2026/09/14",950,"2 Beds+","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"3024 Humboldt Ave S Unit SI ID1272807P, Minneapolis, MN 55408","2026/09/14",3920,"(612) 712-3096
+Message","House"
+NA,NA,NA,NA,NA
+"607 N Washington Ave Unit SI ID1468094P, Minneapolis, MN 55401","2026/09/14",5871,"(651) 666-4150
+Message","House"
+"607 N Washington Ave Unit SI ID1468093P, Minneapolis, MN 55401","2026/09/14",6557,"(763) 600-7936
+Message","House"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"3024 Humboldt Ave S Unit SI ID1272806P, Minneapolis, MN 55408","2026/09/14",4005,"(612) 416-6852
+Message","Apartment"
+NA,NA,NA,NA,NA
+"2424 Lyndale Ave S, Minneapolis, MN 55405","2026/09/14",2450,"3507 N Newton Ave, Minneapolis, MN 55412","Apartment"
+NA,NA,NA,NA,NA
+"4224 Drew Ave S Unit SI ID1520896P, Minneapolis, MN 55410","2026/09/14",6345,"(651) 998-7382
+Message","Apartment"
+"250 Portland Ave, Minneapolis, MN 55401","2026/09/14",3237,"(763) 265-6029
+Message","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"504 W Franklin Ave, Minneapolis, MN 55405","2026/09/14",1295,"Message","Apartment"
+"3705 Colorado Ave S, Minneapolis, MN 55416","2026/09/14",2800,"Message","Apartment"
+"2808 Silver Ln NE, Saint Anthony, MN 55421","2026/09/14",1700,"(612) 260-5371
+Message","Apartment"
+"700 N Washington Ave, Minneapolis, MN 55401","2026/09/14",2995,"Message","Apartment"
+NA,NA,NA,NA,NA
+"7520 4th Ave S, Minneapolis, MN 55423","2026/09/14",4200,"5300 Logan Ave S, Minneapolis, MN 55419","Apartment"
+NA,NA,NA,NA,NA
+"3104 W Lake St, Minneapolis, MN 55416","2026/09/14",1995,"Message","Apartment"
+"3121 69th St W, Edina, MN 55435","2026/09/14",2100,"(651) 381-5198
+Message","Apartment"
+NA,NA,NA,NA,NA
+"201 S 11th St, Minneapolis, MN 55403","2026/09/14",3895,"Message","Apartment"
+"700 N Washington Ave, Minneapolis, MN 55401","2026/09/14",2195,"Message","Apartment"
+"700 N Washington Ave, Minneapolis, MN 55401","2026/09/14",1700,"2630 Pleasant Ave, Minneapolis, MN 55408","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"929 Portland Ave S, Minneapolis, MN 55404","2026/09/14",2350,"Message","Apartment"
+"100 3rd Ave S, Minneapolis, MN 55401","2026/09/14",1850,"Message","Apartment"
+"3142 W Bde Maka Ska Blvd, Minneapolis, MN 55416","2026/09/14",1195,"Message","Apartment"
+"317 Groveland Ave, Minneapolis, MN 55403","2026/09/14",1895,"Message","Apartment"
+"618 N Washington Ave, Minneapolis, MN 55401","2026/09/14",2195,"Message","Apartment"
+"3413-3433 53rd Ave N, Brooklyn Center, MN 55429","2026/09/14",1479,"(763) 230-0568
+Message","Apartment"
+"645 N 1st St, Minneapolis, MN 55401","2026/09/14",2650,"Message","Apartment"
+NA,NA,NA,NA,NA
+"929 Portland Ave S, Minneapolis, MN 55404","2026/09/14",1595,"Message","Apartment"
+"3547 Main St NE, Minneapolis, MN 55418","2026/09/14",1495,"Message","Apartment"
+"210 W Grant St, Minneapolis, MN 55403","2026/09/14",1395,"Message","Apartment"
+"9920 Wayzata Blvd, Minneapolis, MN 55426","2026/09/14",1829,"(763) 363-4816
+Message","Apartment"
+"660 N 2nd St, Minneapolis, MN 55401","2026/09/14",2150,"Message","Apartment"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"11835 28th Ave N, Minneapolis, MN 55441","2026/09/14",2495,"(763) 400-8462
+Message","House"
+"901 4th St NE, Minneapolis, MN 55413","2026/09/14",1400,"(612) 260-4303
+Message","House"
+"4030 Pillsbury Ave, Minneapolis, MN 55409","2026/09/14",2200,"(612) 808-5326
+Message","House"
+"2643 12th Ave S, Minneapolis, MN 55407","2026/09/14",1785,"(612) 887-9308
+Message","House"
+"715 10th Ave SE, Minneapolis, MN 55414","2026/09/14",660,"(651) 376-4834
+Message","House"
+NA,NA,NA,NA,NA
+"3237 Grand Ave S, Minneapolis, MN 55408","2026/09/14",1275,"(651) 240-6452
+Message","House"
+"5752 Russell Ave S, Minneapolis, MN 55410","2026/09/14",2150,"(651) 395-7191
+Message","House"
+"3606 N Bryant Ave, Minneapolis, MN 55412","2026/09/14",1500,"(763) 225-2918
+Message","House"
+"715 10th Ave SE, Minneapolis, MN 55414","2026/09/14",800,"(651) 371-9705
+Message","House"
+"3833 11th Ave S, Minneapolis, MN 55407","2026/09/14",2295,"(651) 705-4073
+Message","House"
+NA,NA,NA,NA,NA
+"2529 Pleasant Ave, Minneapolis, MN 55404","2026/09/14",600,"(651) 316-4198
+Message","House"
+"2529 Pleasant Ave, Minneapolis, MN 55404","2026/09/14",700,"(651) 504-1521
+Message","House"
+"2529 Pleasant Ave, Minneapolis, MN 55404","2026/09/14",800,"(651) 243-9965
+Message","House"
+"2529 Pleasant Ave, Minneapolis, MN 55404","2026/09/14",650,"(612) 445-2254
+Message","House"
+"5347 4th St NE, Minneapolis, MN 55421","2026/09/14",1250,"(612) 235-4092
+Message","House"
+"5347 4th St NE, Minneapolis, MN 55421","2026/09/14",1250,"(612) 429-5470
+Message","House"
+NA,NA,NA,NA,NA
+"1920 Stevens Ave, Minneapolis, MN 55403","2026/09/14",960,"(651) 370-8892
+Message","House"
+"3412 Chicago Ave, Minneapolis, MN 55407","2026/09/14",1545,"(763) 270-9695
+Message","House"
+"1304 W Medicine Lake Dr, Minneapolis, MN 55441","2026/09/14",1100,"More Units at Sunrise Bay Condominiums","House"
+NA,NA,NA,NA,NA
+"3046 Bryant Ave S, Minneapolis, MN 55408","2026/09/14",2150,"(612) 439-4294
+Message","House"
+"7027 Morgan Ave S, Minneapolis, MN 55423","2026/09/14",975,"(651) 412-1459
+Message","House"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"2550 Jefferson St NE, Minneapolis, MN 55418","2026/09/14",1495,"(574) 821-5823
+Message","House"
+NA,NA,NA,NA,NA
+"2939 California St NE, Minneapolis, MN 55418","2026/09/14",1900,"(507) 209-3254
+Message","House"
+"1802 11th Ave S, Minneapolis, MN 55404","2026/09/14",2200,"(725) 223-9467
+Message","House"
+"19 S 1st St, Minneapolis, MN 55401","2026/09/14",2000,"(651) 666-4786
+Message","House"
+"6120 Washburn Ave S, Minneapolis, MN 55410","2026/09/14",4000,"(651) 318-4355
+Message","House"
+"3046 Buchanan St NE, Minneapolis, MN 55418","2026/09/14",2395,"(612) 662-7271
+Message","House"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"4740 N 6th St, Minneapolis, MN 55430","2026/09/14",2500,"(763) 270-1668
+Message","House"
+"2902 Texas Ave S, Minneapolis, MN 55426","2026/09/14",1850,"(612) 441-5620
+Message","House"
+"214 W 24th St, Minneapolis, MN 55404","2026/09/14",2195,"(651) 677-3595
+Message","House"
+NA,NA,NA,NA,NA
+"2827 N Bryant Ave, Minneapolis, MN 55411","2026/09/14",1900,"(612) 314-0264
+Message","Condo"
+"5838 Lyndale Ave S, Minneapolis, MN 55419","2026/09/14",2900,"(531) 530-3917
+Message","Condo"
+"2529 Pleasant Ave, Minneapolis, MN 55404","2026/09/14",2500,"(651) 650-4539
+Message","Condo"
+"911 W 31st St, Minneapolis, MN 55408","2026/09/14",3495,"(612) 446-0314
+Message","Condo"
+"2929 21st Ave S, Minneapolis, MN 55407","2026/09/14",1500,"More Units at Corridor Flats","Condo"
+NA,NA,NA,NA,NA
+"2417 Como Ave SE, Minneapolis, MN 55414","2026/09/14",750,"(574) 821-5926
+Message","Condo"
+"2417 Como Ave SE, Minneapolis, MN 55414","2026/09/14",695,"(574) 821-5246
+Message","Condo"
+"508 Ridgewood Ave, Minneapolis, MN 55403","2026/09/14",1250,"(651) 515-2668
+Message","Condo"
+"2726 Bloomington Ave, Minneapolis, MN 55407","2026/09/14",1250,"(904) 490-7988
+Message","Condo"
+"4819 Azelia Ave N, Minneapolis, MN 55429","2026/09/14",1250,"(651) 360-1522
+Message","Condo"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"4244 45th Ave S, Minneapolis, MN 55406","2026/09/14",2200,"(651) 413-3121
+Message","Condo"
+"6205 32nd Ave N, Minneapolis, MN 55422","2026/09/14",2395,"(651) 661-1653
+Message","Condo"
+"2354 Benjamin St NE, Minneapolis, MN 55418","2026/09/14",1350,"(651) 424-0389
+Message","Condo"
+"3140 Utah Ave S, Minneapolis, MN 55426","2026/09/14",1500,"(651) 927-4370
+Message","Condo"
+"2330 N Irving Ave, Minneapolis, MN 55411","2026/09/14",1375,"(763) 951-1290
+Message","Condo"
+"12334 Drake St NW, Minneapolis, MN 55448","2026/09/14",2250,"(651) 349-4316
+Message","Condo"
+NA,NA,NA,NA,NA
+"17505 48th Pl N, Minneapolis, MN 55446","2026/09/14",2650,"(651) 360-1943
+Message","Condo"
+"10840 Rockford Rd, Minneapolis, MN 55442","2026/09/14",1575,"(651) 560-7398
+Message","Condo"
+"5749 33rd Ave S, Minneapolis, MN 55417","2026/09/14",1375,"(651) 615-0778
+Message","Condo"
+"3224 Nicollet Ave, Minneapolis, MN 55408","2026/09/14",1995,"(651) 677-3153
+Message","Condo"
+"6233 3rd Ave S, Minneapolis, MN 55423","2026/09/14",2800,"(651) 677-5869
+Message","Condo"
+NA,NA,NA,NA,NA
+"6615 Lake Shore Dr S, Minneapolis, MN 55423","2026/09/14",1200,"(651) 349-5946
+Message","Condo"
+"925 30th Ave S, Minneapolis, MN 55406","2026/09/14",1900,"(651) 677-4063
+Message","Condo"
+"4201 Lakeside Ave N, Minneapolis, MN 55429","2026/09/14",1890,"(651) 240-5931
+Message","Condo"
+"520 Ridgewood Ave, Minneapolis, MN 55403","2026/09/14",1699,"(651) 301-7500
+Message","Condo"
+"1611 Glenwood Ave, Minneapolis, MN 55405","2026/09/14",1995,"(218) 297-8168
+Message","Condo"
+NA,NA,NA,NA,NA
+"2925 2nd Ave S, Minneapolis, MN 55408","2026/09/14",1400,"(651) 448-7930
+Message","Condo"
+"2925 2nd Ave S, Minneapolis, MN 55408","2026/09/14",1300,"(651) 371-1343
+Message","Condo"
+"1155 Ford Rd, Minneapolis, MN 55426","2026/09/14",1900,"(651) 301-7514
+Message","Condo"
+"1304 W Medicine Lake Dr, Minneapolis, MN 55441","2026/09/14",1250,"More Units at Sunrise Bay Condominiums","Condo"
+"10805 46th Pl N, Minneapolis, MN 55442","2026/09/14",3295,"(651) 448-8256
+Message","House"
+"10732 Abbott Ave S, Minneapolis, MN 55431","2026/09/14",2799,"(651) 382-1884
+Message","House"
+"3116 Mondamin St, Minneapolis, MN 55417","2026/09/14",2250,"(651) 371-8872
+Message","House"
+"5408 Creek View Ln, Minneapolis, MN 55439","2026/09/14",3800,"(651) 424-1762
+Message","House"
+NA,NA,NA,NA,NA
+"2650 University Ave, Minneapolis, MN 55414","2026/09/14",630,"(763) 270-1002
+Message","House"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"3310 Nicollet Ave, Minneapolis, MN 55408","2026/09/14",1800,"(651) 564-9815
+Message","House"
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA
+"4525 Park Commons Dr, St. Louis Park, MN 55416","2026/09/14",1695,"Message","House"
+"1984 Marshall Ave, St Paul, MN 55105","2026/09/14",750,"(651) 204-8771
+Message","House"
+"2016 Dayton Ave, St Paul, MN 55401","2026/09/14",800,"(651) 395-3615
+Message","House"
+NA,NA,NA,NA,NA
